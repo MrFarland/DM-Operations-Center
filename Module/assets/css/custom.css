@@ -1,0 +1,68 @@
+/*
+ Encounter+ iOS
+ version 1.0
+ ----------------
+ custom styles & theme
+ */
+
+h3 {
+    font-size: 20px;
+    border-bottom: 1px solid #58180d;
+    line-height: 28px;
+}
+
+h4 {
+    font-size: 20px;
+    border-bottom: 1px solid #58180d;
+    line-height: 28px;
+}
+
+h5 {
+    font-size: 20px;
+    border-bottom: 1px solid #58180d;
+    line-height: 28px;
+}
+
+h6 {
+    font-size: 18px;
+    ]line-height: 23px;
+}
+
+#detail-box {
+	background: #edebe8;
+	float: right;
+	margin-left:4px;
+	padding: 2px;
+	width: 40%;
+}
+
+#detail-img-container {
+	background:#dfdfdf;
+}
+
+.detail-table {
+	display: table;
+	width: 100%;
+}
+
+.detail-table-row {
+		background: #edebe8;
+		display: table-row;
+}
+
+.detail-table-row-label {
+	border-top: 1px solid #dfdfdf;
+	border-bottom: 1px solid #dfdfdf;
+	color: #58180d;
+	display: table-cell;
+	font-size: 9px;
+	font-weight: bold;
+	padding: 4px 8px;
+}
+
+.detail-table-row-cell {
+	border-top: 1px solid #dfdfdf;
+	border-bottom: 1px solid #dfdfdf;
+	display: table-cell;
+	padding: 4px 8px;
+}
