@@ -14,6 +14,8 @@ The **Dungeon Master Operations Center** is a comprehensive collection of rules,
     - Wisdom
     - Charisma
 - **Advancement**
+    - Character Advancement
+    - Multiclassing
 - **Combat**
 - **Conditions**
     - Blinded
@@ -51,7 +53,6 @@ The **Dungeon Master Operations Center** is a comprehensive collection of rules,
 - **Life & Death**
     - Death Saving Throws
 - **NPCs**
-
 - **Settlements**
 - **Shopping**
     - Availability
