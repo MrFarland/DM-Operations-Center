@@ -1,0 +1,71 @@
+# DM Operations Center
+The **Dungeon Master Operations Center** is a comprehensive collection of rules, tools and resources designed to help 5th edition Dungeons & Dragons dungeon masters quickly and efficiently manage their games entirely within the confines of Encounter+. The framework is open and extensible, allowing DM's to customize the module to their needs.
+
+
+- **Abilities**
+    - Strength
+        - Carry Capacity
+        - Encumbrance
+        - Jumping
+    - Dexterity
+    - Constitution
+        - Hit Points
+    - Intelligence
+    - Wisdom
+    - Charisma
+- **Advancement**
+- **Combat**
+- **Conditions**
+    - Blinded
+    - Charmed
+    - Deafened
+    - Exhausted
+    - Frightened
+    - Grappled
+    - Incapacitated
+    - Invisible
+    - Paralyzed
+    - Petrified
+    - Poisoned
+    - Prone
+    - Restrained
+    - Stunned
+    - Unconcious
+- **Downtime**
+    - Brewing Potions
+    - Carousing
+    - Crafting Items
+    - Researching
+    - Scribing Scrolls
+- **Encounters**
+- **Environment**
+    - Extreme Cold
+    - Extreme Heat
+    - High Altitude
+    - High Winds
+    - Quicksand
+    - Razorvine
+- **Expenses**
+    - Lifestyle Expenses
+    - Upkeep
+- **Life & Death**
+    - Death Saving Throws
+- **NPCs**
+
+- **Settlements**
+- **Shopping**
+    - Availability
+    - Alchemist
+    - Armorsmith
+    - Blacksmith
+    - Bowyer & Fletcher
+    - Magical Items
+    - Magical Supply
+    - Stable
+    - Weaponsmith
+- **Spellcasting**
+- **Survival**
+    - Foraging
+    - Tracking
+- **Travel**
+- **Treasure**
