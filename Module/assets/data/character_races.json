@@ -1,0 +1,19 @@
+{
+    "character_race":[
+        {"name":"Dragonborn"},
+        {"name":"Dwarf"},
+        {"name":"Elf"},
+        {"name":"Gnome"},
+        {"name":"Half Elf"},
+        {"name":"Half Orc"},
+        {"name":"Halfling"},
+        {"name":"Human"},
+        {"name":"Tiefling"}
+    ],
+    "character_gender":[
+        {"name":"Androgynous","abbreviation":"A"},
+        {"name":"Female","abbreviation":"F"},
+        {"name":"Male","abbreviation":"M"},
+        {"name":"Both","abbreviation":"NB"}
+    ]
+}
