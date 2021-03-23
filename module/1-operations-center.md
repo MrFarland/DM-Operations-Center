@@ -3,6 +3,7 @@ name: Index
 slug: index
 order: 99
 ---
+<<<<<<< HEAD
 # Index
 - None
 {.square}
@@ -55,3 +56,24 @@ The following pages still need to be created.
 
 #### Spellcasting
 - [Identifying a Spell](identifying-a-spell) - XGE 85
+=======
+## DM Operations Center
+The vision for this page is a simple, responsive menu that works in the various windows E+ supports. A comprehensive index with collapsible headers would be outstanding, but I have no idea how that would be done.
+
+#### Condition
+- Blinded
+- Charmed
+- Deafened
+- Exhaustion
+- Frightened
+- Grappled
+- Incapacitated
+- Invisible
+- Paralyzed
+- Petrified
+- Poisoned
+- Prone
+- Restrained
+- Stunned
+- Unconcious
+>>>>>>> 2f862b986c2f741bab8d016fc214e48c7334f4ca
