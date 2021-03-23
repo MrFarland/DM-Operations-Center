@@ -1,5 +1,10 @@
 # Setup
 
+- Apple iMac Retina 5K 27" (Late 2015)
+    - 3.3 GHz Quad-Core Intel Core i5
+    - 8 GB 1867 Mhz DDR3
+    - AMD Radeon R9 M395 2 GB
+
 
 
 ### Technology
