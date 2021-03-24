@@ -4,9 +4,25 @@ slug: index
 order: 99
 ---
 # Index
-- None
-{.square}
 
+
+#### Conditions
+- [Blinded](blinded)
+- [Charmed](charmed)
+- [Deafened](deafened)
+- [Exhaustion](exhaustion)
+- [Frightened](frightened)
+- [Grappled](grappled)
+- [Incapacitated](incapacitated)
+- [Invisible](invisible)
+- [Paralyzed](paralyzed)
+- [Petrified](petrified)
+- [Poisoned](poisoned)
+- [Prone](prone)
+- [Restrained](restrained)
+- [Stunned](stunned)
+- [Unconcious](unconcious)
+.{square}
 
 ### In Progress
 The following pages are still being worked on.
@@ -33,6 +49,7 @@ The following pages still need to be created.
 #### Combat
 - [Donning and Doffing Armor](donning-and-doffing) - PHB 147
 #### Conditions
+
 - [Falling](falling) - XGE 77
 - [Sleeping](sleeping) - XGE 77
 #### Equipment
@@ -55,22 +72,3 @@ The following pages still need to be created.
 
 #### Spellcasting
 - [Identifying a Spell](identifying-a-spell) - XGE 85
-## DM Operations Center
-The vision for this page is a simple, responsive menu that works in the various windows E+ supports. A comprehensive index with collapsible headers would be outstanding, but I have no idea how that would be done.
-
-#### Condition
-- Blinded
-- Charmed
-- Deafened
-- Exhaustion
-- Frightened
-- Grappled
-- Incapacitated
-- Invisible
-- Paralyzed
-- Petrified
-- Poisoned
-- Prone
-- Restrained
-- Stunned
-- Unconcious
