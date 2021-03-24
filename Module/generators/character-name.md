@@ -5,34 +5,44 @@ slug: character-name-generator
 ### Character Name Generator
 Use the following generator to quickly generate a few names.
 
-<input type="button" id="btnGenerate" value="Populate DropDownList" onclick="PopulateDropDownList()" />
-    <hr />
-    <select id="ddlCustomers">
-    </select>
-    <script type="text/javascript">
-        function PopulateDropDownList() {
-           //Build an array containing Customer records.
-            var customers = [
-                { CustomerId: 1, Name: "John Hammond", Country: "United States" },
-                { CustomerId: 2, Name: "Mudassar Khan", Country: "India" },
-                { CustomerId: 3, Name: "Suzanne Mathews", Country: "France" },
-                { CustomerId: 4, Name: "Robert Schidner", Country: "Russia" }
-            ];
-           
-            var ddlCustomers = document.getElementById("ddlCustomers");
-           
-            //Add the Options to the DropDownList.
-            for (var i = 0; i < customers.length; i++) {
-                var option = document.createElement("OPTION");
- 
-                //Set Customer Name in Text part.
-                option.innerHTML = customers[i].Name;
- 
-                //Set CustomerId in Value part.
-                option.value = customers[i].CustomerId;
- 
-                //Add the Option element to DropDownList.
-                ddlCustomers.options.add(option);
-            }
+<select name="character_options-race" id="character_options-race"></select>
+<button type="button" id="js-new-names" class="new-names button">
+  Generate Names
+</button>
+
+<script>
+    let dropdown = document.getElementById('character_options-race');
+    dropdown.length = 0;
+
+    let defaultOption = document.createElement('option');
+    defaultOption.text = 'Select Race';
+
+    dropdown.add(defaultOption);
+    dropdown.selectedIndex = 0;
+
+    const url = '../assets/data/character_options.json';
+
+    const request = new XMLHttpRequest();
+    request.open('GET', url, true);
+
+    request.onload = function() {
+    if (request.status === 200) {
+        const data = JSON.parse(request.responseText);
+        let option;
+        for (let i = 0; i < data.length; i++) {
+        option = document.createElement('option');
+        option.text = character_race[i].name;
+        option.value = character_race[i].name;
+        dropdown.add(name);
         }
-    </script>
+    } else {
+        // Reached the server, but it returned an error
+    }   
+    }
+
+    request.onerror = function() {
+    console.error('An error occurred fetching the JSON from ' + url);
+    };
+
+    request.send();
+</script>

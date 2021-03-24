@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<module id="d362c527-25c8-4aaa-a325-e209ff79f980">
+  <name>DM Operations Center</name>
+  <slug>dm-operations-center</slug>
+  <description>A suite of rules, tools, &amp; tables to help DM's run their game from within E+.</description>
+  <author>Mr Farland (donfarland.com)</author>
+  <code>dm-operations-center</code>
+  <category>adventure</category>
+  <image>assets/img/bg.png</image>
+  <group id="32408078-babe-55bb-ba88-d52782af450f">
+    <name>assets</name>
+    <slug>group-assets</slug>
+  </group>
+  <group id="7e61eb7d-ef1e-5fca-bf37-34d4447f1ee6" parent="32408078-babe-55bb-ba88-d52782af450f">
+    <name>css</name>
+    <slug>group-css</slug>
+  </group>
+  <group id="cd458c95-b90e-523d-8151-a309ed2f71d9" parent="32408078-babe-55bb-ba88-d52782af450f">
+    <name>data</name>
+    <slug>group-data</slug>
+  </group>
+  <group id="d57f6d83-e6f5-5f0a-9f80-fb4a572d7715" parent="32408078-babe-55bb-ba88-d52782af450f">
+    <name>font</name>
+    <slug>group-font</slug>
+  </group>
+  <group id="1d172819-23bf-56fc-b6ad-a9cce2bf67cc" parent="32408078-babe-55bb-ba88-d52782af450f">
+    <name>img</name>
+    <slug>group-img</slug>
+  </group>
+  <group id="ca7bb29f-053f-53f9-83e1-6bda8b0d4426" parent="32408078-babe-55bb-ba88-d52782af450f">
+    <name>js</name>
+    <slug>group-js</slug>
+  </group>
+  <group id="1a87a0a0-ed2d-5c9c-9e66-1dd368f72a91">
+    <name>generators</name>
+    <slug>group-generators</slug>
+  </group>
+  <page id="eed1df1d-4928-54fa-8303-638edb154d70" parent="1a87a0a0-ed2d-5c9c-9e66-1dd368f72a91">
+    <name>Character Name Generator</name>
+    <slug>character-name-generator</slug>
+    <content>&lt;h3 id="character-name-generator"&gt;&lt;a id="character-name-generator-character-name-generator"&gt;&lt;/a&gt;&lt;a id="character-name-generator"&gt;&lt;/a&gt;Character Name Generator&lt;/h3&gt;
+&lt;p&gt;Use the following generator to quickly generate a few names.&lt;/p&gt;
+&lt;h1 style="color:green;"&gt;&lt;a id="character-name-generator-geeksforgeeks"&gt;&lt;/a&gt;&lt;a id="geeksforgeeks"&gt;&lt;/a&gt;GeeksforGeeks&lt;/h1&gt;
+&lt;p id="geeks" style="font-size:20px; font-weight:bold"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;select id="arr"&gt;&lt;/select&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;button onclick="GFG_Fun();"&gt;click here&lt;/button&gt;&lt;/p&gt;
+&lt;p id="gfg" style="font-size: 26px;font-weight: bold;color: green;"&gt;&lt;/p&gt;
+&lt;script&gt;
+    var up = document.getElementById('geeks');
+    var down = document.getElementById('gfg');
+    var select = document.getElementById("arr");
+    var elmts = ["HTML", "CSS", "JS", "PHP", "jQuery"];
+    up.innerHTML = "Click on the button to "
+                + "perform the operation"+
+                ".&lt;br&gt;Array - [" + elmts + "]";
+
+    // Main function
+    function GFG_Fun() {
+        for (var i = 0; i &lt; elmts.length; i++) {
+            var optn = elmts[i];
+            var el = document.createElement("option");
+            el.textContent = optn;
+            el.value = optn;
+            select.appendChild(el);
+        }
+        down.innerHTML = "Elements Added";
+    }
+&lt;/script&gt;</content>
+  </page>
+</module>
