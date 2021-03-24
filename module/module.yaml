@@ -1,9 +1,0 @@
-name: DM Operations Center
-slug: dm-operations-center
-description: A suite of rules, tools, & tables to help DM's run their game from within E+.
-category: adventure
-author: Mr Farland (donfarland.com)
-code: dm-operations-center
-cover: assets/img/bg.png
-version: 1
-autoIncrementVersion: false
