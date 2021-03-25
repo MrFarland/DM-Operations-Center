@@ -17,6 +17,6 @@ slug: blinded
 >
 > *A condition lasts either until it is countered or for a duration specified by the effect that imposed the condition.*
 > 
-> *If multiple effects impose a condition, each instancehas its own duration, but the effects don't get worse.*
+> *If multiple effects impose a condition, each instance has its own duration, but the effects don't get worse.*
 {.read}
 
