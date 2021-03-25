@@ -1,0 +1,245 @@
+## Roadmap
+
+### Rules Reference
+- Abilities & Skills
+    - Strength
+    - Dexterity
+    - Constitution
+    - Intelligence
+    - Wisdom
+    - Charisma
+    - Advantage & Disadvantage
+    - Checks
+    - Contests
+    - Inspiration
+    - Proficiency Bonus
+    - Scores and Modifiers
+- Actions
+    - Action
+    - Bonus Action
+    - Reaction
+- Alignment
+    - Lawful Good
+    - Neutral Good
+    - Chaotic Good
+    - Lawful Neutral
+    - Neutral
+    - Chaotic Neutral
+    - Lawful Evil
+    - Neutral Evil
+    - Chaotic Evil
+- Character Options
+    - Background
+    - Characteristics
+    - Classes
+    - Feats
+    - Languages
+        - Standard Languages
+        - Exotic Languages
+        - Cultural Languages
+    - Leveling Up
+    - Multiclassing
+        - Hit Points & Hit Dice
+        - Class Features
+        - Prerequisites
+        - Proficiencies
+        - Spellcasting
+    - Proficiencies
+    - Races
+    - Starting Equipment
+- Combat
+    - Actions
+        - Attack
+        - Cast
+        - Dash
+        - Disengage
+        - Dodge
+        - Help
+        - Hide
+        - Ready
+        - Search
+        - Use Object
+    - Attacking
+        - Rolls
+        - Critical Hits
+        - Critical Misses
+    - Bonus Actions
+    - Cover
+        - Half Cover
+        - 3/4 Cover
+        - Full Cover
+    - Damage
+        - Damage Resistance
+        - Damage Rolls
+        - Damage Types
+    - Extra Attack
+    - Flanking 
+    - Free Actions
+    - Grappling
+    - Initiative
+    - Mounted Combat
+    - Nonlethal Damage
+    - Range Attacks
+        - Range
+        - Close Combat
+    - Reactions
+        - Opportunity Attacks
+    - Shoving
+    - Surprise
+    - Two Weapon Fighting
+    - Unarmed Combat
+    - Unarmored Defense
+    - Underwater Combat
+    - Unseen Attackers
+- Conditions
+    - Blinded
+    - Charmed
+    - Deafened
+    - Exhaustion
+    - Frightened
+    - Grappled
+    - Incapacitated
+    - Invisible
+    - Paralyzed
+    - Petrified
+    - Poisoned    
+    - Prone
+    - Restrained
+    - Stunned
+    - Unconscious
+    - Condition-Like
+        - Curse
+        - Disease
+        - Falling
+        - Madness
+            - Short Term
+            - Long Term
+            - Indefinite Madness
+            - Curing
+        - Suffocating
+- Downtime
+    - Crafting
+    - Lifestyle Expenses
+    - Profession
+    - Researching
+    - Training
+- Equipment
+    - Adventuring Gear
+    - Armor
+        - Armor Properties
+    - Coins
+        - Exchange Rate
+        - Weight
+    - Equipment Packs
+    - Magic Items
+        - Attunement
+        - Charges
+        - Command Words
+        - Consumables
+        - Paired Items
+        - Sentient Items    
+        - Spells
+        - Wearing & Wielding
+    - Mounts & Tack
+    - Objects
+        - Object AC
+        - Object HP
+    - Poisons
+    - Tools
+    - Trade Goods
+    - Traps
+        - Detecting & Disabling
+        - Triggering
+
+    - Vehicles (Air)    
+    - Vehicles (Land)
+    - Vehicles (Water)
+    - Weapons
+        - Weapon Properties
+- Expenses
+    - Food & Drink
+    - Lodging
+    - Services
+    - Services (Spellcasting)
+- Life & Death
+    - Death Saving Throws
+    - Healing
+    - Hit Dice
+    - Hit Points
+    - Instant Death
+    - Falling Unconcious
+    - Recuperating
+    - Rest
+    - Resurrection
+    - Stabliizing
+    - Temporary Hit Points
+- Movement
+    - Climbing
+    - Crawling
+    - Difficult Terrain
+    - Flying
+    - Jumping
+    - Space
+        - Controlling
+        - Moving Through
+        - Size
+        - Squeezing
+    - Speed 
+    - Swimming
+- Pantheons
+    - D&D
+        - Faerun
+        - Exandria
+        - Eberron
+    - Real World
+        - Celtic
+        - Greek
+        - Egyptian
+        - Norse
+- Rules
+    - Advantage & Disadvantage
+    - Inspiration
+- Spellcasting
+    - Casting
+        - Area of Effects
+            - Cone
+            - Cube
+            - Cylinder
+            - Line
+            - Sphere
+        - Armor
+        - Attacks
+        - Combining Effects
+        - Components
+        - Concentration
+        - Duration
+        - Level
+        - Range
+        - Rituals
+        - Saving Throws
+        - Schools
+        - Targets
+        - Time
+    - Counterspell
+    - Detection & Identification
+    - Dispel
+    - Known & Prepared
+    - Innate
+    - Slots
+- Survival
+    - Food
+    - Sleep
+    - Water
+- Travel
+    - Forced March
+    - Travel Speed
+- Vision
+    - Blindsight
+    - Darkvision
+    - Truesight
+    - Obscurity
+    - Light Sources 
+
+### Random Generators
+- Sentient Item
+- Traps
