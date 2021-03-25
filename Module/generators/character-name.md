@@ -2,8 +2,8 @@
 name: Character Name Generator
 slug: character-name-generator
 ---
-### Character Name Generator
-Use the following generator to quickly generate a few names based on the character's race (or culture) and gender identity.
+<h3>Character Name Generator</h3>
+<p>Use the following generator to quickly generate a few names based on the character's race (or culture) and gender identity.</p>
 
 <div style="margin-bottom:15px; text-align:center;">
     <select id="selectRace">
@@ -22,43 +22,28 @@ Use the following generator to quickly generate a few names based on the charact
 </div>
 
 <hr/>
-<p>The following should change on button click.</p>
-<div style="margin-left:40px">
-    <strong>Race: </strong><span id="race">Undefined</span><br/>
-    <strong>Gender: </strong><span id="gender">Undefined</span><br/>
-    <strong>Given Name List: </strong><span id="firstNameList">Undefined</span><br/>
-    <strong>Family Name List: </strong><span id="familyNameList">Undefined</span><br/>
-</div>
-<br/>
-<p>The generated name should appear below.</p>
+
 <h4 style="text-align:center;"><span id="givenName"></span> <span id="familyName"></span></h4>
 
 <script>
-
     // Generate a random named based on the selected name lists.
     function generateName() {
 
         // Populate race variable based on the selection in the dropdown menus.
         let selectRace = document.getElementById('selectRace');
         let race = selectRace.options[selectRace.selectedIndex].text;
-        document.getElementById("race").innerHTML = race;
 
         // Populate gender variable based on the selection in the dropdown menus.
         let selectGender= document.getElementById('selectGender');
         let gender = selectGender.options[selectGender.selectedIndex].text;
-        document.getElementById("gender").innerHTML = gender;
 
         // Combine the race and gender variables to identify desired arrays.
-        let firstNameList = race + gender;
-        //let firstNameList = race.concat(gender);
-
-        let familyNameList = race + "Family";
-
-        let givenName = "";
-        let familyName = "";        
-
+        let givenNameList = eval(race + gender);
+        let familyNameList = eval(race + "Family");
+     
+        // Select the given and family names at random from the appropriate list.
         givenName.innerHTML = 
-            firstNameList[Math.floor(Math.random() * firstNameList.length)];
+            givenNameList[Math.floor(Math.random() * givenNameList.length)];
         familyName.innerHTML = 
             familyNameList[Math.floor(Math.random() * familyNameList.length)];
     }
