@@ -22,41 +22,35 @@ Use the following generator to quickly generate a few names based on the charact
 </div>
 
 <hr/>
-<p>The following should change on button click.</p>
-<div style="margin-left:40px">
-    <strong>Race: </strong><span id="race">Undefined</span><br/>
-    <strong>Gender: </strong><span id="gender">Undefined</span><br/>
-    <strong>Given Name List: </strong><span id="firstNameList">Undefined</span><br/>
-    <strong>Family Name List: </strong><span id="familyNameList">Undefined</span><br/>
-</div>
-<br/>
-<p>The generated name should appear below.</p>
+
 <h4 style="text-align:center;"><span id="givenName"></span> <span id="familyName"></span></h4>
 
 <script>
+    // Populate selectRace and selectGender from the dropdownlists above. (Hardcoded for now.)
+    let selectRace = "Dragonborn";
+    let selectGender = "Female";
+
+    // Set variables to control which lists are selected based on the dropdown menus.
+    let firstNameList = selectRace + selectGender;
+    let familyNameList = selectRace + "Family";
+
+    // prints the value of the variable for testing.
+    document.write (firstNameList); 
+    document.write (familyNameList);
 
     // Generate a random named based on the selected name lists.
     function generateName() {
+        // Populate selectRace and selectGender from the dropdownlists above. (Hardcoded for now.)
+        let selectRace = "Dragonborn";
+        let selectGender = "Female";
 
-        // Populate race variable based on the selection in the dropdown menus.
-        let selectRace = document.getElementById('selectRace');
-        let race = selectRace.options[selectRace.selectedIndex].text;
-        document.getElementById("race").innerHTML = race;
+        // Set variables to control which lists are selected based on the dropdown menus.
+        let firstNameList = selectRace + selectGender;
+        let familyNameList = selectRace + "Family";
 
-        // Populate gender variable based on the selection in the dropdown menus.
-        let selectGender= document.getElementById('selectGender');
-        let gender = selectGender.options[selectGender.selectedIndex].text;
-        document.getElementById("gender").innerHTML = gender;
-
-        // Combine the race and gender variables to identify desired arrays.
-        let firstNameList = race + gender;
-        //let firstNameList = race.concat(gender);
-
-        let familyNameList = race + "Family";
-
-        let givenName = "";
-        let familyName = "";        
-
+        // prints the value of the variable for testing.
+        document.write (firstNameList); 
+        document.write (familyNameList);
         givenName.innerHTML = 
             firstNameList[Math.floor(Math.random() * firstNameList.length)];
         familyName.innerHTML = 
