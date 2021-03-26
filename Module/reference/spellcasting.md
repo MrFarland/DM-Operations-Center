@@ -15,10 +15,10 @@ module-pagebreaks: h1, h2, h3
 #### Material
 
 ### Concentration
-A spellcaster loses **concentration** on a spell when the caster:
-- casts another spell that requires concentration.
-- becomes incapacitated or killed.
-- takes damage from an attack, effect, or the environment.
+A caster loses **concentration** when they:
+- cast another concentration spell,
+- become incapacitated or killed,
+- takes damage from an attack or effect.
 {.square}
 
  **CON DC = Higher of (10 or ^1^/~2~ DMG)** {.text-center}
