@@ -1,7 +1,11 @@
 ---
-name: Adventuring Gear
-slug: adventuring-gear
+name: Equipment
+slug: equipment
+order: 1
+module-pagebreaks: h1, h2, h3
 ---
+
+
 ### Adventuring Gear
 | ~Item~ | ~Cost~ | ~Weight~ |
 |:----------------------------------------------|-------:|--------:|
@@ -55,7 +59,33 @@ slug: adventuring-gear
 >  Adjust the size and price of regular items to make them bigger, smaller, or more ornate. Adjust the price and weight accordingly and a [barrel](/item/barrel) worth 1 gp and 35 lbs, is now an empty cask.
 {.flavortext}
 
+### Armor 
+|||||||
+|:--------|-------:|:----------|:---|:-:|------:|
+| Light Armor                            |||||{.shopH2}
+| Padded  |   5 gp | 11+Dex    | -- | D |  8 lb |
+| Leather |  10 gp | 11+Dex    | -- | -- | 10 lb |
+| Studded |  45 gp | 12+Dex    | -- | -- | 10 lb |
+| Medium Armor                            |||||{.shopH2}
+| Hide    |  10 gp | 12+Dex(2) | -- | -- | 12 lb |
+| Chain S. |  10 gp | 11+Dex    | -- | -- | 10 lb |
+| Studded |  45 gp | 12+Dex    | -- | -- | 10 lb |
+| Light Armor                            |||||{.shopH2}
+| Padded  |   5 gp | 11+Dex    | -- | -- |  8 lb |
+| Leather |  10 gp | 11+Dex    | -- | -- | 10 lb |
+| Studded |  45 gp | 12+Dex    | -- | -- | 10 lb |
+{.shop}
 
 
-> *Source: Player's Handbook, p. 150*
+### Coinage
+|||||||
+|:---------|------:|------:|------:|------:|------:|
+| Copper   |     1 |   0.1 |  0.02 |  0.01 | 0.001 |
+| Silver   |    10 |   1   |  0.2  |  0.1  | 0.01  |
+| Electrum |    50 |   5   |  1    |  0.5  | 0.05  |
+| Gold     |   100 |  10   |  2    |  1    | 0.1   |
+| Platinum | 1,000 | 100   | 20    | 10    | 1     |  
+{.gray}
+
+> *Source: Player's Handbook, p. 143*
 {.read}

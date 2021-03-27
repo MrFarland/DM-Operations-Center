@@ -18,190 +18,100 @@
   <page id="2e5061d8-871b-53bb-b7c7-80ed942b1a30" sort="1" parent="fd3058f8-d0db-5365-8050-770bccedf200">
     <name>Conditions</name>
     <slug>conditions</slug>
-    <content>&lt;h2 id="conditions"&gt;&lt;a id="conditions-conditions"&gt;&lt;/a&gt;&lt;a id="conditions"&gt;&lt;/a&gt;Conditions&lt;/h2&gt;&lt;p&gt;A creature affected by a &lt;strong&gt;condition&lt;/strong&gt;&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;A condition lasts until it is countered or&lt;/li&gt;
-&lt;li&gt;when the duration of the effect causing the condition has expired.&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
+    <content/>
   </page>
-  <page id="4107493b-239a-58f0-80ed-c27deb8df4f5" sort="0" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Blinded</name>
-    <slug>blinded</slug>
-    <content>&lt;h3 id="blinded"&gt;&lt;a id="blinded-blinded"&gt;&lt;/a&gt;&lt;a id="blinded"&gt;&lt;/a&gt;Blinded&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;blinded&lt;/strong&gt; creature cannot see and:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;checks based on sight fail,&lt;/li&gt;
-&lt;li&gt;attacks against it have advantage,&lt;/li&gt;
-&lt;li&gt;its attacks have disadvantage,&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="c364e703-2c18-5f67-b0e3-b0b3325f2d67" sort="1" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Deafened</name>
-    <slug>deafened</slug>
-    <content>&lt;h3 id="deafened"&gt;&lt;a id="deafened-deafened"&gt;&lt;/a&gt;&lt;a id="deafened"&gt;&lt;/a&gt;Deafened&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;deafened&lt;/strong&gt; creature cannot hear and:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;checks based on hearing fail.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="5cfdce3c-e819-57d1-a2d2-c7acb3f35775" sort="2" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Exhaustion</name>
-    <slug>exhaustion</slug>
-    <content>&lt;h3 id="exhaustion"&gt;&lt;a id="exhaustion-exhaustion"&gt;&lt;/a&gt;&lt;a id="exhaustion"&gt;&lt;/a&gt;Exhaustion&lt;/h3&gt;&lt;p&gt;An &lt;strong&gt;exhausted&lt;/strong&gt; creature has:&lt;/p&gt;&lt;table class="gray"&gt;
+  <page id="f200a128-0ce1-558b-9cc7-6217aa9fafeb" parent="fd3058f8-d0db-5365-8050-770bccedf200">
+    <name>Ability Modifiers</name>
+    <slug>ability-modifiers</slug>
+    <content>&lt;h3 id="ability-modifiers"&gt;&lt;a id="ability-modifiers-ability-modifiers"&gt;&lt;/a&gt;&lt;a id="ability-modifiers"&gt;&lt;/a&gt;Ability Modifiers&lt;/h3&gt;
+&lt;table class="gray"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style="text-align:center"&gt;Level&lt;/th&gt;
-&lt;th style="text-align:left"&gt;Effect&lt;/th&gt;
+&lt;th style="text-align:center"&gt;Score&lt;/th&gt;
+&lt;th style="text-align:center"&gt;+/-&lt;/th&gt;
+&lt;th style="text-align:center"&gt;Score&lt;/th&gt;
+&lt;th style="text-align:center"&gt;+/-&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center"&gt;1&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Disadvantage on ability checks&lt;/td&gt;
+&lt;td style="text-align:center"&gt;-5&lt;/td&gt;
+&lt;td style="text-align:center"&gt;16-17&lt;/td&gt;
+&lt;td style="text-align:center"&gt;+3&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align:center"&gt;2&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Speed halved&lt;/td&gt;
+&lt;td style="text-align:center"&gt;2-3&lt;/td&gt;
+&lt;td style="text-align:center"&gt;-4&lt;/td&gt;
+&lt;td style="text-align:center"&gt;18-19&lt;/td&gt;
+&lt;td style="text-align:center"&gt;+4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align:center"&gt;3&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Disadvantage on attacks &amp;amp; saves&lt;/td&gt;
+&lt;td style="text-align:center"&gt;4-5&lt;/td&gt;
+&lt;td style="text-align:center"&gt;-3&lt;/td&gt;
+&lt;td style="text-align:center"&gt;20-21&lt;/td&gt;
+&lt;td style="text-align:center"&gt;+5&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align:center"&gt;4&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Hit point maximum halved&lt;/td&gt;
+&lt;td style="text-align:center"&gt;6-7&lt;/td&gt;
+&lt;td style="text-align:center"&gt;-2&lt;/td&gt;
+&lt;td style="text-align:center"&gt;22-23&lt;/td&gt;
+&lt;td style="text-align:center"&gt;+6&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align:center"&gt;5&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Speed reduced to 0&lt;/td&gt;
+&lt;td style="text-align:center"&gt;8-9&lt;/td&gt;
+&lt;td style="text-align:center"&gt;-1&lt;/td&gt;
+&lt;td style="text-align:center"&gt;24-25&lt;/td&gt;
+&lt;td style="text-align:center"&gt;+7&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align:center"&gt;6&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Death&lt;/td&gt;
+&lt;td style="text-align:center"&gt;10-11&lt;/td&gt;
+&lt;td style="text-align:center"&gt;0&lt;/td&gt;
+&lt;td style="text-align:center"&gt;26-27&lt;/td&gt;
+&lt;td style="text-align:center"&gt;+8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;12-13&lt;/td&gt;
+&lt;td style="text-align:center"&gt;+1&lt;/td&gt;
+&lt;td style="text-align:center"&gt;28-29&lt;/td&gt;
+&lt;td style="text-align:center"&gt;+9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;14-15&lt;/td&gt;
+&lt;td style="text-align:center"&gt;+2&lt;/td&gt;
+&lt;td style="text-align:center"&gt;30&lt;/td&gt;
+&lt;td style="text-align:center"&gt;+10&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;ul class="square"&gt;
-&lt;li&gt;Additional points increase the level.&lt;/li&gt;
-&lt;li&gt;Suffer effects of current &amp;amp; lower levels.&lt;/li&gt;
-&lt;li&gt;Ends if level is reduced below level 1.&lt;/li&gt;
-&lt;li&gt;Long rest lowers level w/ food &amp;amp; drink.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 13, 173&lt;/em&gt;&lt;/p&gt;
+</content>
   </page>
-  <page id="52935a28-640c-5caf-aba9-10418b4e3255" sort="3" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Frightened</name>
-    <slug>frightened</slug>
-    <content>&lt;h3 id="frightened"&gt;&lt;a id="frightened-frightened"&gt;&lt;/a&gt;&lt;a id="frightened"&gt;&lt;/a&gt;Frightened&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;frightened&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;has disadvantage on checks &amp;amp; attacks while source of fear is in sight.&lt;/li&gt;
-&lt;li&gt;Can&amp;#x2019;t move closer to source of fear.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="afbf382f-2e21-5a25-9e66-b7d9b06745fa" sort="4" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Grappled</name>
-    <slug>grappled</slug>
-    <content>&lt;h3 id="grappled"&gt;&lt;a id="grappled-grappled"&gt;&lt;/a&gt;&lt;a id="grappled"&gt;&lt;/a&gt;Grappled&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;grappled&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;has a speed of 0,&lt;/li&gt;
-&lt;li&gt;cannot benefit from bonus to speed,&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The condition is removed if the:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;grappler releases the creature,&lt;/li&gt;
-&lt;li&gt;creature is forced out of reach.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="8431b253-f233-5dd1-a33f-42f938d24a4e" sort="5" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Incapacitated</name>
-    <slug>incapacitated</slug>
-    <content>&lt;h3 id="incapacitated"&gt;&lt;a id="incapacitated-incapacitated"&gt;&lt;/a&gt;&lt;a id="incapacitated"&gt;&lt;/a&gt;Incapacitated&lt;/h3&gt;&lt;p&gt;An &lt;strong&gt;incapacitated&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;cannot take actions or reactions.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="dc823821-f256-5f47-b782-626c37300c72" sort="6" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Invisible</name>
-    <slug>invisible</slug>
-    <content>&lt;h3 id="invisible"&gt;&lt;a id="invisible-invisible"&gt;&lt;/a&gt;&lt;a id="invisible"&gt;&lt;/a&gt;Invisible&lt;/h3&gt;&lt;p&gt;An &lt;strong&gt;invisible&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;is impossible to see without magic,&lt;/li&gt;
-&lt;li&gt;is heavily obscured when hiding,&lt;/li&gt;
-&lt;li&gt;can be detected by noise &amp;amp; tracks,&lt;/li&gt;
-&lt;li&gt;has advantage on attacks,&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attacks against have disadvantage.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="fc112b05-8388-5447-92c2-129cfda65987" sort="7" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Paralyzed</name>
-    <slug>paralyzed</slug>
-    <content>&lt;h3 id="paralyzed"&gt;&lt;a id="paralyzed-paralyzed"&gt;&lt;/a&gt;&lt;a id="paralyzed"&gt;&lt;/a&gt;Paralyzed&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;paralyzed&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;is incapacitated &amp;amp; can&amp;#x2019;t move or speak,&lt;/li&gt;
-&lt;li&gt;fails strength &amp;amp; dexterity saving throws.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attacks against have advantage and hits within 5&amp;#x2019; are critical hits.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="89f1b94b-a710-5e69-86bc-f22be8a33ac1" sort="8" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Petrified</name>
-    <slug>petrified</slug>
-    <content>&lt;h3 id="petrified"&gt;&lt;a id="petrified-petrified"&gt;&lt;/a&gt;&lt;a id="petrified"&gt;&lt;/a&gt;Petrified&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;petrified&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;is transformed into a solid substance,&lt;/li&gt;
-&lt;li&gt;its mundane items are transformed too,&lt;/li&gt;
-&lt;li&gt;has it its weight increase by ten,&lt;/li&gt;
-&lt;li&gt;stops aging,&lt;/li&gt;
-&lt;li&gt;is incapacitated &amp;amp; can&amp;#x2019;t move or speak,&lt;/li&gt;
-&lt;li&gt;fails strength &amp;amp; dexterity saving throws,&lt;/li&gt;
-&lt;li&gt;has resistance to all damage,&lt;/li&gt;
-&lt;li&gt;is immune to poison and disease, but current poison or disease is suspended&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attacks against have advantage.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="7a8c2337-2906-5744-acf8-fdefd03aeac1" sort="9" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Poisoned</name>
-    <slug>poisoned</slug>
-    <content>&lt;h3 id="poisoned"&gt;&lt;a id="poisoned-poisoned"&gt;&lt;/a&gt;&lt;a id="poisoned"&gt;&lt;/a&gt;Poisoned&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;poisoned&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;has disadvantage on attacks &amp;amp; checks.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="c2897676-7460-5fba-866e-1aa143ecfa2c" sort="10" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Prone</name>
-    <slug>prone</slug>
-    <content>&lt;h3 id="prone"&gt;&lt;a id="prone-prone"&gt;&lt;/a&gt;&lt;a id="prone"&gt;&lt;/a&gt;Prone&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;prone&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;can only crawl, unless it stands up,&lt;/li&gt;
-&lt;li&gt;has disadvantage on attacks,&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attacks against have advantage and hits within 5&amp;#x2019; are critical hits.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="2ebe19f0-8565-5da9-81de-2284c755afad" sort="11" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Restrained</name>
-    <slug>restrained</slug>
-    <content>&lt;h3 id="restrained"&gt;&lt;a id="restrained-restrained"&gt;&lt;/a&gt;&lt;a id="restrained"&gt;&lt;/a&gt;Restrained&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;restrained&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;has a speed of 0,&lt;/li&gt;
-&lt;li&gt;cannot benefit from bonus to speed,&lt;/li&gt;
-&lt;li&gt;has disadvantage on attacks,&lt;/li&gt;
-&lt;li&gt;has disadvantage on dex saves.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attack against have advantage.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="383219e4-4b51-5b3a-ba3d-004618f09f9c" sort="12" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Stunned</name>
-    <slug>stunned</slug>
-    <content>&lt;h3 id="stunned"&gt;&lt;a id="stunned-stunned"&gt;&lt;/a&gt;&lt;a id="stunned"&gt;&lt;/a&gt;Stunned&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;stunned&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;is incapacitated &amp;amp; can&amp;#x2019;t move or speak,&lt;/li&gt;
-&lt;li&gt;can only speak falteringly,&lt;/li&gt;
-&lt;li&gt;fails strength &amp;amp; dexterity saving throws,&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attack against have advantage.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="ac65fd4c-d2a5-56f8-80a3-ba3acfe66a8a" sort="13" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Unconcious</name>
-    <slug>unconcious</slug>
-    <content>&lt;h3 id="unconcious"&gt;&lt;a id="unconcious-unconcious"&gt;&lt;/a&gt;&lt;a id="unconcious"&gt;&lt;/a&gt;Unconcious&lt;/h3&gt;&lt;p&gt;An &lt;strong&gt;unconcious&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;is incapacitated &amp;amp; can&amp;#x2019;t move or speak,&lt;/li&gt;
-&lt;li&gt;drops what it is holding and falls prone,&lt;/li&gt;
-&lt;li&gt;fails strength &amp;amp; dexterity saving throws,&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attacks against have advantage and hits within 5&amp;#x2019; are critical hits.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3" sort="1" parent="fd3058f8-d0db-5365-8050-770bccedf200">
-    <name>Spellcasting</name>
-    <slug>spellcasting</slug>
-    <content>&lt;h2 id="spellcasting"&gt;&lt;a id="spellcasting-spellcasting"&gt;&lt;/a&gt;&lt;a id="spellcasting"&gt;&lt;/a&gt;Spellcasting&lt;/h2&gt;</content>
-  </page>
-  <page id="273d0f98-4afc-5330-a105-f7db0ac2323f" sort="0" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
-    <name>Components</name>
-    <slug>components</slug>
-    <content>&lt;h3 id="components"&gt;&lt;a id="components-components"&gt;&lt;/a&gt;&lt;a id="components"&gt;&lt;/a&gt;Components&lt;/h3&gt;&lt;h4 id="verbal"&gt;&lt;a id="components-verbal"&gt;&lt;/a&gt;&lt;a id="verbal"&gt;&lt;/a&gt;Verbal&lt;/h4&gt;&lt;h4 id="somatic"&gt;&lt;a id="components-somatic"&gt;&lt;/a&gt;&lt;a id="somatic"&gt;&lt;/a&gt;Somatic&lt;/h4&gt;&lt;h4 id="material"&gt;&lt;a id="components-material"&gt;&lt;/a&gt;&lt;a id="material"&gt;&lt;/a&gt;Material&lt;/h4&gt;</content>
-  </page>
-  <page id="4055af74-48b8-5f43-88c4-c97520898c2b" sort="1" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
-    <name>Concentration</name>
-    <slug>concentration</slug>
-    <content>&lt;h3 id="concentration"&gt;&lt;a id="concentration-concentration"&gt;&lt;/a&gt;&lt;a id="concentration"&gt;&lt;/a&gt;Concentration&lt;/h3&gt;&lt;p&gt;A caster loses &lt;strong&gt;concentration&lt;/strong&gt; when they:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;cast another concentration spell,&lt;/li&gt;
-&lt;li&gt;become incapacitated or killed,&lt;/li&gt;
-&lt;li&gt;takes damage from an attack or effect.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="text-center"&gt;&lt;strong&gt;CON DC = Higher of (10 or &lt;sup&gt;1&lt;/sup&gt;/&lt;sub&gt;2&lt;/sub&gt; DMG)&lt;/strong&gt;&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 203&lt;/em&gt;&lt;/p&gt;</content>
+  <page id="1c42db90-1835-5757-9c53-9adf3396d96e" parent="fd3058f8-d0db-5365-8050-770bccedf200">
+    <name>Advantage &amp; Disadvantage</name>
+    <slug>advantage-disadvantage</slug>
+    <content>&lt;h3 id="advantage-%26-disadvantage"&gt;&lt;a id="advantage-disadvantage-advantage-and-disadvantage"&gt;&lt;/a&gt;&lt;a id="advantage-and-disadvantage"&gt;&lt;/a&gt;Advantage &amp;amp; Disadvantage&lt;/h3&gt;
+&lt;table class="gray"&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Advantage&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Roll &lt;a href="/roll/2d20"&gt;2d20&lt;/a&gt;, take the highest roll&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Disdvantage&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Roll &lt;a href="/roll/2d20"&gt;2d20&lt;/a&gt;, take the lowest roll&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul class="square"&gt;
+&lt;li&gt;Advantage &amp;amp; Disadvantage do not stack. You cannot have double advantage, etc.&lt;/li&gt;
+&lt;li&gt;Advantage &amp;amp; Disadvantage cancel each other out, even if you h&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 173&lt;/em&gt;&lt;/p&gt;
+</content>
   </page>
   <page id="dfe7500f-c81f-59be-8dc6-a543cadd70c9" parent="e782313d-2a6c-5c6d-99b7-2e1d922112b2">
     <name>Character Name Generator</name>
