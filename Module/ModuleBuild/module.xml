@@ -7,24 +7,19 @@
   <code>dm-operations-center</code>
   <category/>
   <image>assets/img/placeholder_1920x1080.jpg</image>
-  <group id="fd3058f8-d0db-5365-8050-770bccedf200" sort="1">
-    <name>Reference</name>
-    <slug>reference</slug>
-  </group>
   <group id="e782313d-2a6c-5c6d-99b7-2e1d922112b2" sort="1">
     <name>Tools</name>
     <slug>tools</slug>
   </group>
-  <page id="2e5061d8-871b-53bb-b7c7-80ed942b1a30" sort="1" parent="fd3058f8-d0db-5365-8050-770bccedf200">
-    <name>Conditions</name>
-    <slug>conditions</slug>
-    <content/>
+  <page id="a84b2c6f-9817-5ea4-8b08-9695f36eea57" sort="1">
+    <name>Abilities &amp; Skills</name>
+    <slug>abilities-and-skills</slug>
+    <content>&lt;h2 id="abilities-%26-skills"&gt;&lt;a id="abilities-and-skills-abilities-and-skills"&gt;&lt;/a&gt;&lt;a id="abilities-and-skills"&gt;&lt;/a&gt;Abilities &amp;amp; Skills&lt;/h2&gt;</content>
   </page>
-  <page id="f200a128-0ce1-558b-9cc7-6217aa9fafeb" parent="fd3058f8-d0db-5365-8050-770bccedf200">
+  <page id="f200a128-0ce1-558b-9cc7-6217aa9fafeb" sort="0" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Ability Modifiers</name>
     <slug>ability-modifiers</slug>
-    <content>&lt;h3 id="ability-modifiers"&gt;&lt;a id="ability-modifiers-ability-modifiers"&gt;&lt;/a&gt;&lt;a id="ability-modifiers"&gt;&lt;/a&gt;Ability Modifiers&lt;/h3&gt;
-&lt;table class="gray"&gt;
+    <content>&lt;h3 id="ability-modifiers"&gt;&lt;a id="ability-modifiers-ability-modifiers"&gt;&lt;/a&gt;&lt;a id="ability-modifiers"&gt;&lt;/a&gt;Ability Modifiers&lt;/h3&gt;&lt;table class="gray"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style="text-align:center"&gt;Score&lt;/th&gt;
@@ -83,35 +78,793 @@
 &lt;td style="text-align:center"&gt;+10&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 13, 173&lt;/em&gt;&lt;/p&gt;
-</content>
+&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Rules&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;The average for commoners is &lt;strong&gt;10&lt;/strong&gt;-&lt;strong&gt;11&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;The character ability maximum is &lt;strong&gt;20&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;The monster ability maximum is &lt;strong&gt;30&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 13, 173&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="1c42db90-1835-5757-9c53-9adf3396d96e" parent="fd3058f8-d0db-5365-8050-770bccedf200">
+  <page id="79108df6-ace4-5dda-9b00-6ce45b075d08" sort="1" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Advantage &amp; Disadvantage</name>
-    <slug>advantage-disadvantage</slug>
-    <content>&lt;h3 id="advantage-%26-disadvantage"&gt;&lt;a id="advantage-disadvantage-advantage-and-disadvantage"&gt;&lt;/a&gt;&lt;a id="advantage-and-disadvantage"&gt;&lt;/a&gt;Advantage &amp;amp; Disadvantage&lt;/h3&gt;
-&lt;table class="gray"&gt;
+    <slug>advantage-and-disadvantage</slug>
+    <content>&lt;h3 id="advantage-%26-disadvantage"&gt;&lt;a id="advantage-and-disadvantage-advantage-and-disadvantage"&gt;&lt;/a&gt;&lt;a id="advantage-and-disadvantage"&gt;&lt;/a&gt;Advantage &amp;amp; Disadvantage&lt;/h3&gt;&lt;table class="gray"&gt;
 &lt;thead&gt;
 &lt;tr&gt;&lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style="text-align:left"&gt;&lt;strong&gt;Advantage&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Roll &lt;a href="/roll/2d20"&gt;2d20&lt;/a&gt;, take the highest roll&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Roll &lt;a href="/roll/2d20"&gt;2d20&lt;/a&gt; and take the higher of the two rolls.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:left"&gt;&lt;strong&gt;Disdvantage&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Roll &lt;a href="/roll/2d20"&gt;2d20&lt;/a&gt;, take the lowest roll&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Roll &lt;a href="/roll/2d20"&gt;2d20&lt;/a&gt; and take the lower of the two rolls.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;ul class="square"&gt;
-&lt;li&gt;Advantage &amp;amp; Disadvantage do not stack. You cannot have double advantage, etc.&lt;/li&gt;
-&lt;li&gt;Advantage &amp;amp; Disadvantage cancel each other out, even if you h&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 173&lt;/em&gt;&lt;/p&gt;
-</content>
+&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Rules&lt;/strong&gt;&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;A player cannot have double advantage or disadvantage. They do not stack.&lt;/li&gt;
+&lt;li&gt;A player with advantage &amp;amp; disadvantage gets neither. It is straight roll.&lt;/li&gt;
+&lt;li&gt;A feat or feature that allows a player to roll again, they choose which die.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 173&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="18ebed56-161c-55e3-8854-436d0d3632c1" sort="2" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+    <name>Charisma</name>
+    <slug>charisma</slug>
+    <content>&lt;h3 id="charisma"&gt;&lt;a id="charisma-charisma"&gt;&lt;/a&gt;&lt;a id="charisma"&gt;&lt;/a&gt;Charisma&lt;/h3&gt;</content>
+  </page>
+  <page id="5e49c775-4bfc-501d-8df1-8be4d217fe40" sort="3" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+    <name>Constitution</name>
+    <slug>constitution</slug>
+    <content>&lt;h3 id="constitution"&gt;&lt;a id="constitution-constitution"&gt;&lt;/a&gt;&lt;a id="constitution"&gt;&lt;/a&gt;Constitution&lt;/h3&gt;</content>
+  </page>
+  <page id="f04929d0-844b-50ed-830a-33083250c0db" sort="4" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+    <name>Contests</name>
+    <slug>contests</slug>
+    <content>&lt;h3 id="contests"&gt;&lt;a id="contests-contests"&gt;&lt;/a&gt;&lt;a id="contests"&gt;&lt;/a&gt;Contests&lt;/h3&gt;&lt;table class="gray"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align:left"&gt;Contest&lt;/th&gt;
+&lt;th style="text-align:left"&gt;Attacker&lt;/th&gt;
+&lt;th style="text-align:left"&gt;Defender&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Hide&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Stealth&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Perception&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Grapple&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Athletics&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Athletics / Acrobatics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Shove&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Athletics&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Athletics / Acrobatics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Untie Knot&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Sleight of Hand&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Sleight of Hand&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Disarm&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Attack&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Athletics / Acrobatics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Rules&lt;/strong&gt;&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;Both PCs roll a &lt;a href="/roll/1d20"&gt;d20&lt;/a&gt; and add modifiers.&lt;/li&gt;
+&lt;li&gt;The higher check wins the contest.&lt;/li&gt;
+&lt;li&gt;In the event of a tie, the initiator loses.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 174&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe" sort="5" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+    <name>Dexterity</name>
+    <slug>dexterity</slug>
+    <content>&lt;h3 id="dexterity"&gt;&lt;a id="dexterity-dexterity"&gt;&lt;/a&gt;&lt;a id="dexterity"&gt;&lt;/a&gt;Dexterity&lt;/h3&gt;&lt;p&gt;Dexterity measures agility, reflexes, and balance.&lt;/p&gt;</content>
+  </page>
+  <page id="ff6d2839-1d32-5f95-8d18-1b377c2223df" sort="6" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+    <name>Difficulty Class</name>
+    <slug>difficulty-class</slug>
+    <content>&lt;h3 id="difficulty-class"&gt;&lt;a id="difficulty-class-difficulty-class"&gt;&lt;/a&gt;&lt;a id="difficulty-class"&gt;&lt;/a&gt;Difficulty Class&lt;/h3&gt;&lt;table class="gray"&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Very Easy&lt;/td&gt;
+&lt;td style="text-align:center"&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Easy&lt;/td&gt;
+&lt;td style="text-align:center"&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Medium&lt;/td&gt;
+&lt;td style="text-align:center"&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Hard&lt;/td&gt;
+&lt;td style="text-align:center"&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Very Hard&lt;/td&gt;
+&lt;td style="text-align:center"&gt;25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Near Impossible&lt;/td&gt;
+&lt;td style="text-align:center"&gt;30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;div class="blockquote-flavortext-wrap"&gt;&lt;blockquote class="flavortext text-right"&gt;
+&lt;p class="text-left"&gt;Don&amp;#x2019;t make all your DCs multiples of five. A DC jump of 5 is huge.&lt;/p&gt;
+&lt;p&gt;- MrFarland&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 174&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85" sort="7" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+    <name>Intelligence</name>
+    <slug>intelligence</slug>
+    <content>&lt;h3 id="intelligence"&gt;&lt;a id="intelligence-intelligence"&gt;&lt;/a&gt;&lt;a id="intelligence"&gt;&lt;/a&gt;Intelligence&lt;/h3&gt;</content>
+  </page>
+  <page id="711900e8-2f18-538c-bbe3-45404e2eadb5" sort="8" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+    <name>Group Checks</name>
+    <slug>group-checks</slug>
+    <content>&lt;h3 id="group-checks"&gt;&lt;a id="group-checks-group-checks"&gt;&lt;/a&gt;&lt;a id="group-checks"&gt;&lt;/a&gt;Group Checks&lt;/h3&gt;</content>
+  </page>
+  <page id="a98da57e-f8c2-5917-a4c4-f681183b59bf" sort="9" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+    <name>Passive Checks</name>
+    <slug>passive-checks</slug>
+    <content>&lt;h3 id="passive-checks"&gt;&lt;a id="passive-checks-passive-checks"&gt;&lt;/a&gt;&lt;a id="passive-checks"&gt;&lt;/a&gt;Passive Checks&lt;/h3&gt;</content>
+  </page>
+  <page id="94301409-f989-5a7c-a627-b49f7d782594" sort="10" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+    <name>Strength</name>
+    <slug>strength</slug>
+    <content>&lt;h3 id="strength"&gt;&lt;a id="strength-strength"&gt;&lt;/a&gt;&lt;a id="strength"&gt;&lt;/a&gt;Strength&lt;/h3&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;</content>
+  </page>
+  <page id="f800cb96-530e-5bb1-a444-9360b3907b64" sort="11" parent="94301409-f989-5a7c-a627-b49f7d782594">
+    <name>Carry Capacity</name>
+    <slug>carry-capacity</slug>
+    <content>&lt;h4 id="carry-capacity"&gt;&lt;a id="carry-capacity-carry-capacity"&gt;&lt;/a&gt;&lt;a id="carry-capacity"&gt;&lt;/a&gt;Carry Capacity&lt;/h4&gt;&lt;table class="gray"&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Tiny&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;(Strength x 15) / 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Small&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Medium&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Large&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Huge&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 60&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 176&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="0f20554f-2fd8-5fdf-97d6-b976ef5ae042" sort="12" parent="94301409-f989-5a7c-a627-b49f7d782594">
+    <name>Push, Drag, or Lift</name>
+    <slug>push-drag-or-lift</slug>
+    <content>&lt;h4 id="push%2C-drag%2C-or-lift"&gt;&lt;a id="push-drag-or-lift-push-drag-or-lift"&gt;&lt;/a&gt;&lt;a id="push-drag-or-lift"&gt;&lt;/a&gt;Push, Drag, or Lift&lt;/h4&gt;&lt;table class="gray"&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Tiny&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;(Strength x 30) / 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Small&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Medium&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Large&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 60&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Huge&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 120&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 176&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="0d52bec9-cf7d-5205-8d3e-0eb89c14328b" sort="13" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+    <name>Wisdom</name>
+    <slug>wisdom</slug>
+    <content>&lt;h3 id="wisdom"&gt;&lt;a id="wisdom-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;</content>
+  </page>
+  <page id="2e5061d8-871b-53bb-b7c7-80ed942b1a30" sort="1">
+    <name>Conditions</name>
+    <slug>conditions</slug>
+    <content>&lt;h2 id="conditions"&gt;&lt;a id="conditions-conditions"&gt;&lt;/a&gt;&lt;a id="conditions"&gt;&lt;/a&gt;Conditions&lt;/h2&gt;&lt;p&gt;A creature affected by a &lt;strong&gt;condition&lt;/strong&gt;&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;A condition lasts until it is countered or&lt;/li&gt;
+&lt;li&gt;when the duration of the effect causing the condition has expired.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="4107493b-239a-58f0-80ed-c27deb8df4f5" sort="0" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Blinded</name>
+    <slug>blinded</slug>
+    <content>&lt;h3 id="blinded"&gt;&lt;a id="blinded-blinded"&gt;&lt;/a&gt;&lt;a id="blinded"&gt;&lt;/a&gt;Blinded&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;blinded&lt;/strong&gt; creature cannot see and:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;checks based on sight fail,&lt;/li&gt;
+&lt;li&gt;attacks against it have advantage,&lt;/li&gt;
+&lt;li&gt;its attacks have disadvantage,&lt;/li&gt;
+&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="c364e703-2c18-5f67-b0e3-b0b3325f2d67" sort="1" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Deafened</name>
+    <slug>deafened</slug>
+    <content>&lt;h3 id="deafened"&gt;&lt;a id="deafened-deafened"&gt;&lt;/a&gt;&lt;a id="deafened"&gt;&lt;/a&gt;Deafened&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;deafened&lt;/strong&gt; creature cannot hear and:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;checks based on hearing fail.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="5cfdce3c-e819-57d1-a2d2-c7acb3f35775" sort="2" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Exhaustion</name>
+    <slug>exhaustion</slug>
+    <content>&lt;h3 id="exhaustion"&gt;&lt;a id="exhaustion-exhaustion"&gt;&lt;/a&gt;&lt;a id="exhaustion"&gt;&lt;/a&gt;Exhaustion&lt;/h3&gt;&lt;p&gt;An &lt;strong&gt;exhausted&lt;/strong&gt; creature has:&lt;/p&gt;&lt;table class="gray"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align:center"&gt;Level&lt;/th&gt;
+&lt;th style="text-align:left"&gt;Effect&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;1&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Disadvantage on ability checks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;2&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Speed halved&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;3&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Disadvantage on attacks &amp;amp; saves&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;4&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Hit point maximum halved&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;5&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Speed reduced to 0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;6&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Death&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;ul class="square"&gt;
+&lt;li&gt;Additional points increase the level.&lt;/li&gt;
+&lt;li&gt;Suffer effects of current &amp;amp; lower levels.&lt;/li&gt;
+&lt;li&gt;Ends if level is reduced below level 1.&lt;/li&gt;
+&lt;li&gt;Long rest lowers level w/ food &amp;amp; drink.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="52935a28-640c-5caf-aba9-10418b4e3255" sort="3" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Frightened</name>
+    <slug>frightened</slug>
+    <content>&lt;h3 id="frightened"&gt;&lt;a id="frightened-frightened"&gt;&lt;/a&gt;&lt;a id="frightened"&gt;&lt;/a&gt;Frightened&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;frightened&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;has disadvantage on checks &amp;amp; attacks while source of fear is in sight.&lt;/li&gt;
+&lt;li&gt;Can&amp;#x2019;t move closer to source of fear.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="afbf382f-2e21-5a25-9e66-b7d9b06745fa" sort="4" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Grappled</name>
+    <slug>grappled</slug>
+    <content>&lt;h3 id="grappled"&gt;&lt;a id="grappled-grappled"&gt;&lt;/a&gt;&lt;a id="grappled"&gt;&lt;/a&gt;Grappled&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;grappled&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;has a speed of 0,&lt;/li&gt;
+&lt;li&gt;cannot benefit from bonus to speed,&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The condition is removed if the:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;grappler releases the creature,&lt;/li&gt;
+&lt;li&gt;creature is forced out of reach.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="8431b253-f233-5dd1-a33f-42f938d24a4e" sort="5" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Incapacitated</name>
+    <slug>incapacitated</slug>
+    <content>&lt;h3 id="incapacitated"&gt;&lt;a id="incapacitated-incapacitated"&gt;&lt;/a&gt;&lt;a id="incapacitated"&gt;&lt;/a&gt;Incapacitated&lt;/h3&gt;&lt;p&gt;An &lt;strong&gt;incapacitated&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;cannot take actions or reactions.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="dc823821-f256-5f47-b782-626c37300c72" sort="6" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Invisible</name>
+    <slug>invisible</slug>
+    <content>&lt;h3 id="invisible"&gt;&lt;a id="invisible-invisible"&gt;&lt;/a&gt;&lt;a id="invisible"&gt;&lt;/a&gt;Invisible&lt;/h3&gt;&lt;p&gt;An &lt;strong&gt;invisible&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;is impossible to see without magic,&lt;/li&gt;
+&lt;li&gt;is heavily obscured when hiding,&lt;/li&gt;
+&lt;li&gt;can be detected by noise &amp;amp; tracks,&lt;/li&gt;
+&lt;li&gt;has advantage on attacks,&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Attacks against have disadvantage.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="fc112b05-8388-5447-92c2-129cfda65987" sort="7" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Paralyzed</name>
+    <slug>paralyzed</slug>
+    <content>&lt;h3 id="paralyzed"&gt;&lt;a id="paralyzed-paralyzed"&gt;&lt;/a&gt;&lt;a id="paralyzed"&gt;&lt;/a&gt;Paralyzed&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;paralyzed&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;is incapacitated &amp;amp; can&amp;#x2019;t move or speak,&lt;/li&gt;
+&lt;li&gt;fails strength &amp;amp; dexterity saving throws.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Attacks against have advantage and hits within 5&amp;#x2019; are critical hits.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="89f1b94b-a710-5e69-86bc-f22be8a33ac1" sort="8" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Petrified</name>
+    <slug>petrified</slug>
+    <content>&lt;h3 id="petrified"&gt;&lt;a id="petrified-petrified"&gt;&lt;/a&gt;&lt;a id="petrified"&gt;&lt;/a&gt;Petrified&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;petrified&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;is transformed into a solid substance,&lt;/li&gt;
+&lt;li&gt;its mundane items are transformed too,&lt;/li&gt;
+&lt;li&gt;has it its weight increase by ten,&lt;/li&gt;
+&lt;li&gt;stops aging,&lt;/li&gt;
+&lt;li&gt;is incapacitated &amp;amp; can&amp;#x2019;t move or speak,&lt;/li&gt;
+&lt;li&gt;fails strength &amp;amp; dexterity saving throws,&lt;/li&gt;
+&lt;li&gt;has resistance to all damage,&lt;/li&gt;
+&lt;li&gt;is immune to poison and disease, but current poison or disease is suspended&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Attacks against have advantage.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="7a8c2337-2906-5744-acf8-fdefd03aeac1" sort="9" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Poisoned</name>
+    <slug>poisoned</slug>
+    <content>&lt;h3 id="poisoned"&gt;&lt;a id="poisoned-poisoned"&gt;&lt;/a&gt;&lt;a id="poisoned"&gt;&lt;/a&gt;Poisoned&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;poisoned&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;has disadvantage on attacks &amp;amp; checks.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="c2897676-7460-5fba-866e-1aa143ecfa2c" sort="10" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Prone</name>
+    <slug>prone</slug>
+    <content>&lt;h3 id="prone"&gt;&lt;a id="prone-prone"&gt;&lt;/a&gt;&lt;a id="prone"&gt;&lt;/a&gt;Prone&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;prone&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;can only crawl, unless it stands up,&lt;/li&gt;
+&lt;li&gt;has disadvantage on attacks,&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Attacks against have advantage and hits within 5&amp;#x2019; are critical hits.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="2ebe19f0-8565-5da9-81de-2284c755afad" sort="11" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Restrained</name>
+    <slug>restrained</slug>
+    <content>&lt;h3 id="restrained"&gt;&lt;a id="restrained-restrained"&gt;&lt;/a&gt;&lt;a id="restrained"&gt;&lt;/a&gt;Restrained&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;restrained&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;has a speed of 0,&lt;/li&gt;
+&lt;li&gt;cannot benefit from bonus to speed,&lt;/li&gt;
+&lt;li&gt;has disadvantage on attacks,&lt;/li&gt;
+&lt;li&gt;has disadvantage on dex saves.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Attack against have advantage.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="383219e4-4b51-5b3a-ba3d-004618f09f9c" sort="12" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Stunned</name>
+    <slug>stunned</slug>
+    <content>&lt;h3 id="stunned"&gt;&lt;a id="stunned-stunned"&gt;&lt;/a&gt;&lt;a id="stunned"&gt;&lt;/a&gt;Stunned&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;stunned&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;is incapacitated &amp;amp; can&amp;#x2019;t move or speak,&lt;/li&gt;
+&lt;li&gt;can only speak falteringly,&lt;/li&gt;
+&lt;li&gt;fails strength &amp;amp; dexterity saving throws,&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Attack against have advantage.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="ac65fd4c-d2a5-56f8-80a3-ba3acfe66a8a" sort="13" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+    <name>Unconcious</name>
+    <slug>unconcious</slug>
+    <content>&lt;h3 id="unconcious"&gt;&lt;a id="unconcious-unconcious"&gt;&lt;/a&gt;&lt;a id="unconcious"&gt;&lt;/a&gt;Unconcious&lt;/h3&gt;&lt;p&gt;An &lt;strong&gt;unconcious&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;is incapacitated &amp;amp; can&amp;#x2019;t move or speak,&lt;/li&gt;
+&lt;li&gt;drops what it is holding and falls prone,&lt;/li&gt;
+&lt;li&gt;fails strength &amp;amp; dexterity saving throws,&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Attacks against have advantage and hits within 5&amp;#x2019; are critical hits.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="2f3eeadd-50db-5a1c-8b23-ab3c6c1e22ed" sort="1">
+    <name>Adventuring Gear</name>
+    <slug>adventuring-gear</slug>
+    <content>&lt;h3 id="adventuring-gear"&gt;&lt;a id="adventuring-gear-adventuring-gear"&gt;&lt;/a&gt;&lt;a id="adventuring-gear"&gt;&lt;/a&gt;Adventuring Gear&lt;/h3&gt;&lt;table class="shop"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align:left"&gt;&lt;sub&gt;Item&lt;/sub&gt;&lt;/th&gt;
+&lt;th style="text-align:right"&gt;&lt;sub&gt;Cost&lt;/sub&gt;&lt;/th&gt;
+&lt;th style="text-align:right"&gt;&lt;sub&gt;Weight&lt;/sub&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/abacus"&gt;Abacus&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/acid-vial"&gt;Acid (Vial)&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;25 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/alchemists-fire"&gt;Alchemist&amp;#x2019;s Fire&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="shopH2"&gt;
+&lt;td style="text-align:left" colspan="3"&gt;Ammunition&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/arrow"&gt;&amp;#x2013; Arrow&lt;/a&gt; (20)&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/blowgun-needle"&gt;&amp;#x2013; Blowgun Needles&lt;/a&gt; (50)&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/crossbow-bolt"&gt;&amp;#x2013; Crossbow Bolts&lt;/a&gt; (10)&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1.5 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/sling-bullet"&gt;&amp;#x2013; Sling Bullets&lt;/a&gt; (20)&lt;/td&gt;
+&lt;td style="text-align:right"&gt;4 cp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1.5 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/antitoxin-vial"&gt;Antitoxin (Vial)&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;50 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;0 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="shopH2"&gt;
+&lt;td style="text-align:left" colspan="3"&gt;Arcane Focus&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/crystal"&gt;&amp;#x2013; Crystal&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/orb"&gt;&amp;#x2013; Orb&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;20 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;3 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/rod"&gt;&amp;#x2013; Rod&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/staff"&gt;&amp;#x2013; Staff&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;5 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;4 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/wand"&gt;&amp;#x2013; Wand&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/backpack"&gt;Backpack&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;5 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/ball-bearings"&gt;Ball Bearings&lt;/a&gt; (1000)&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/barrel"&gt;Barrel&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;70 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/basket"&gt;Basket&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;4 sp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/bedroll"&gt;Bedroll&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;7 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/bell"&gt;Bell&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;0.1 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/blanket"&gt;Blanket&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;5 sp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;3 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/block-and-tackle"&gt;Block and Tackle&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;5 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/book"&gt;Book&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;25 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;5 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/bottle-glass"&gt;Bottle, Glass&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/bucket"&gt;Bucket&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;5 cp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/caltrops"&gt;Caltrops&lt;/a&gt; (20)&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;20 lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
+&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;div class="blockquote-flavortext-wrap"&gt;&lt;blockquote class="flavortext"&gt;
+&lt;h4 id="dm%E2%80%99s-tip"&gt;&lt;a id="adventuring-gear-dms-tip"&gt;&lt;/a&gt;&lt;a id="dms-tip"&gt;&lt;/a&gt;DM&amp;#x2019;s Tip&lt;/h4&gt;
+&lt;p&gt;Adjust the size and price of regular items to make them bigger, smaller, or more ornate. Adjust the price and weight accordingly and a &lt;a href="/item/barrel"&gt;barrel&lt;/a&gt; worth 1 gp and 35 lbs, is now an empty cask.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="25b906b8-8ab5-57b4-a54b-f92e830cdfb5" sort="1">
+    <name>Armor</name>
+    <slug>armor</slug>
+    <content>&lt;h3 id="armor"&gt;&lt;a id="armor-armor"&gt;&lt;/a&gt;&lt;a id="armor"&gt;&lt;/a&gt;Armor&lt;/h3&gt;&lt;table class="shop"&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class="shopH2"&gt;
+&lt;td style="text-align:left" colspan="5"&gt;Light Armor&lt;/td&gt;
+&lt;td style="text-align:right"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Padded&lt;/td&gt;
+&lt;td style="text-align:right"&gt;5 gp&lt;/td&gt;
+&lt;td style="text-align:left"&gt;11+Dex&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;D&lt;/td&gt;
+&lt;td style="text-align:right"&gt;8 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Leather&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
+&lt;td style="text-align:left"&gt;11+Dex&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Studded&lt;/td&gt;
+&lt;td style="text-align:right"&gt;45 gp&lt;/td&gt;
+&lt;td style="text-align:left"&gt;12+Dex&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="shopH2"&gt;
+&lt;td style="text-align:left" colspan="5"&gt;Medium Armor&lt;/td&gt;
+&lt;td style="text-align:right"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Hide&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
+&lt;td style="text-align:left"&gt;12+Dex(2)&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;12 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Chain S.&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
+&lt;td style="text-align:left"&gt;11+Dex&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Studded&lt;/td&gt;
+&lt;td style="text-align:right"&gt;45 gp&lt;/td&gt;
+&lt;td style="text-align:left"&gt;12+Dex&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="shopH2"&gt;
+&lt;td style="text-align:left" colspan="5"&gt;Light Armor&lt;/td&gt;
+&lt;td style="text-align:right"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Padded&lt;/td&gt;
+&lt;td style="text-align:right"&gt;5 gp&lt;/td&gt;
+&lt;td style="text-align:left"&gt;11+Dex&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;8 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Leather&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
+&lt;td style="text-align:left"&gt;11+Dex&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Studded&lt;/td&gt;
+&lt;td style="text-align:right"&gt;45 gp&lt;/td&gt;
+&lt;td style="text-align:left"&gt;12+Dex&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+  </page>
+  <page id="7e00ee26-c4b0-5580-9d11-8296caf5dbc8" sort="1">
+    <name>Coinage</name>
+    <slug>coinage</slug>
+    <content>&lt;h3 id="coinage"&gt;&lt;a id="coinage-coinage"&gt;&lt;/a&gt;&lt;a id="coinage"&gt;&lt;/a&gt;Coinage&lt;/h3&gt;&lt;table class="gray"&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Copper&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1&lt;/td&gt;
+&lt;td style="text-align:right"&gt;0.1&lt;/td&gt;
+&lt;td style="text-align:right"&gt;0.02&lt;/td&gt;
+&lt;td style="text-align:right"&gt;0.01&lt;/td&gt;
+&lt;td style="text-align:right"&gt;0.001&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Silver&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1&lt;/td&gt;
+&lt;td style="text-align:right"&gt;0.2&lt;/td&gt;
+&lt;td style="text-align:right"&gt;0.1&lt;/td&gt;
+&lt;td style="text-align:right"&gt;0.01&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Electrum&lt;/td&gt;
+&lt;td style="text-align:right"&gt;50&lt;/td&gt;
+&lt;td style="text-align:right"&gt;5&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1&lt;/td&gt;
+&lt;td style="text-align:right"&gt;0.5&lt;/td&gt;
+&lt;td style="text-align:right"&gt;0.05&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Gold&lt;/td&gt;
+&lt;td style="text-align:right"&gt;100&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10&lt;/td&gt;
+&lt;td style="text-align:right"&gt;2&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1&lt;/td&gt;
+&lt;td style="text-align:right"&gt;0.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Platinum&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1,000&lt;/td&gt;
+&lt;td style="text-align:right"&gt;100&lt;/td&gt;
+&lt;td style="text-align:right"&gt;20&lt;/td&gt;
+&lt;td style="text-align:right"&gt;10&lt;/td&gt;
+&lt;td style="text-align:right"&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read"&gt;
+&lt;p&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 143&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3" sort="1">
+    <name>Spellcasting</name>
+    <slug>spellcasting</slug>
+    <content>&lt;h2 id="spellcasting"&gt;&lt;a id="spellcasting-spellcasting"&gt;&lt;/a&gt;&lt;a id="spellcasting"&gt;&lt;/a&gt;Spellcasting&lt;/h2&gt;</content>
+  </page>
+  <page id="273d0f98-4afc-5330-a105-f7db0ac2323f" sort="0" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
+    <name>Components</name>
+    <slug>components</slug>
+    <content>&lt;h3 id="components"&gt;&lt;a id="components-components"&gt;&lt;/a&gt;&lt;a id="components"&gt;&lt;/a&gt;Components&lt;/h3&gt;&lt;h4 id="verbal"&gt;&lt;a id="components-verbal"&gt;&lt;/a&gt;&lt;a id="verbal"&gt;&lt;/a&gt;Verbal&lt;/h4&gt;&lt;h4 id="somatic"&gt;&lt;a id="components-somatic"&gt;&lt;/a&gt;&lt;a id="somatic"&gt;&lt;/a&gt;Somatic&lt;/h4&gt;&lt;h4 id="material"&gt;&lt;a id="components-material"&gt;&lt;/a&gt;&lt;a id="material"&gt;&lt;/a&gt;Material&lt;/h4&gt;</content>
+  </page>
+  <page id="4055af74-48b8-5f43-88c4-c97520898c2b" sort="1" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
+    <name>Concentration</name>
+    <slug>concentration</slug>
+    <content>&lt;h3 id="concentration"&gt;&lt;a id="concentration-concentration"&gt;&lt;/a&gt;&lt;a id="concentration"&gt;&lt;/a&gt;Concentration&lt;/h3&gt;&lt;p&gt;A caster loses &lt;strong&gt;concentration&lt;/strong&gt; when they:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;cast another concentration spell,&lt;/li&gt;
+&lt;li&gt;become incapacitated or killed,&lt;/li&gt;
+&lt;li&gt;takes damage from an attack or effect.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class="text-center"&gt;&lt;strong&gt;CON DC = Higher of (10 or &lt;sup&gt;1&lt;/sup&gt;/&lt;sub&gt;2&lt;/sub&gt; DMG)&lt;/strong&gt;&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 203&lt;/em&gt;&lt;/p&gt;</content>
   </page>
   <page id="dfe7500f-c81f-59be-8dc6-a543cadd70c9" parent="e782313d-2a6c-5c6d-99b7-2e1d922112b2">
     <name>Character Name Generator</name>

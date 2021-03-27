@@ -1,6 +1,5 @@
 # Specify filepatterns you want git to ignore.
-*.module
-*.pdf
 *.zip
 .DS_Store
-module/ModuleBuild/
+Module/ModuleBuild/
+Module/ModuleBuild/module.xml
