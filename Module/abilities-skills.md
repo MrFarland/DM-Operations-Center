@@ -28,7 +28,7 @@ module-pagebreaks: h1, h2, h3, h4
 
 
 
-### Advantage & Disadvantage
+### Advantage
 |||
 |:-----------------|:-----------------------------------------------|
 | **Advantage**    | Roll [2d20](/roll/2d20) and take the higher of the two rolls. |
