@@ -11,12 +11,143 @@
     <name>Tools</name>
     <slug>tools</slug>
   </group>
-  <page id="a84b2c6f-9817-5ea4-8b08-9695f36eea57" sort="1">
-    <name>Abilities &amp; Skills</name>
-    <slug>abilities-and-skills</slug>
-    <content>&lt;h2 id="abilities-%26-skills"&gt;&lt;a id="abilities-and-skills-abilities-and-skills"&gt;&lt;/a&gt;&lt;a id="abilities-and-skills"&gt;&lt;/a&gt;Abilities &amp;amp; Skills&lt;/h2&gt;</content>
+  <page id="d5ba4333-a186-53e6-b389-543d9f21f561" sort="1">
+    <name>Abilities</name>
+    <slug>abilities</slug>
+    <content>&lt;h2 id="abilities"&gt;&lt;a id="abilities-abilities"&gt;&lt;/a&gt;&lt;a id="abilities"&gt;&lt;/a&gt;Abilities&lt;/h2&gt;&lt;table class="gray"&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="strength"&gt;&lt;strong&gt;Strength&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="athletics"&gt;Athletics&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="carry-capacity"&gt;Carry Capacity&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="jumping"&gt;Jumping&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="push-drag-lift"&gt;Push, Drag, Lift&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="intelligence"&gt;&lt;strong&gt;Intelligence&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="arcana"&gt;Arcana&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="history"&gt;History&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="investigation"&gt;Investigation&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="nature"&gt;Nature&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="religion"&gt;Religion&lt;/a&gt;&lt;br&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="dexterity"&gt;&lt;strong&gt;Dexterity&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="acrobatics"&gt;Acrobatics&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="hiding"&gt;Hiding&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="sleight-of-hand"&gt;Sleight of Hand&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="stealth"&gt;Stealth&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="wisdom"&gt;&lt;strong&gt;Wisdom&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="animal-handling"&gt;Animal Handling&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="insight"&gt;Insight&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="medicine"&gt;Medicine&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="perception"&gt;Perception&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="survival"&gt;Survival&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="constitution"&gt;&lt;strong&gt;Constitution&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="hit-dice"&gt;Hit Dice&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="hit-points"&gt;Hit Points&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="temporary-hp"&gt;Temporary HP&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="charisma"&gt;&lt;strong&gt;Charisma&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="deception"&gt;Deception&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="intimidation"&gt;Intimidation&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="performance"&gt;Performance&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="persuasion"&gt;Persuasion&lt;/a&gt;&lt;br&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Other Topics&lt;/strong&gt;: &lt;a href="ability-modifiers"&gt;Ability Modifiers&lt;/a&gt;, &lt;a href="advantage"&gt;Advantage&lt;/a&gt;, &lt;a href="contests"&gt;Contests&lt;/a&gt;, &lt;a href="difficulty-class"&gt;Difficulty Class&lt;/a&gt;, &lt;a href="group-checks"&gt;Group Checks&lt;/a&gt;, &lt;a href="passive-checks"&gt;Passive Checks&lt;/a&gt;, &lt;a href="proficiency-bonus"&gt;Proficiency Bonus&lt;/a&gt;&lt;/p&gt;</content>
   </page>
-  <page id="f200a128-0ce1-558b-9cc7-6217aa9fafeb" sort="0" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+  <page id="94301409-f989-5a7c-a627-b49f7d782594" sort="0" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+    <name>Strength</name>
+    <slug>strength</slug>
+    <content>&lt;h3 id="strength"&gt;&lt;a id="strength-strength"&gt;&lt;/a&gt;&lt;a id="strength"&gt;&lt;/a&gt;Strength&lt;/h3&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;
+Use general ability checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;An attempt to lift a very heavy object.&lt;/li&gt;
+&lt;li&gt;Trying to force open a stuck door.&lt;/li&gt;
+&lt;li&gt;Attempting to break free from bonds.&lt;/li&gt;
+&lt;li&gt;Carrying something a long way.&lt;/li&gt;
+&lt;li&gt;Trying to hold on to a ledge or rope.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Skills&lt;/strong&gt;&lt;br&gt;
+Skills that can be paired with this ability are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;&lt;a href="animal-handling"&gt;Animal Handling&lt;/a&gt;. Attempting to use brute force to subdue an animal.&lt;/li&gt;
+&lt;li&gt;&lt;a href="intimidation"&gt;Intimidation&lt;/a&gt;. Trying to look scary versus trying to threaten someone with words.&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="4b32f0e2-ba4b-5dd2-8150-302cf602a7a4" sort="1" parent="94301409-f989-5a7c-a627-b49f7d782594">
+    <name>Athletics</name>
+    <slug>athletics</slug>
+    <content>&lt;h4 id="athletics"&gt;&lt;a id="athletics-athletics"&gt;&lt;/a&gt;&lt;a id="athletics"&gt;&lt;/a&gt;Athletics&lt;/h4&gt;</content>
+  </page>
+  <page id="f800cb96-530e-5bb1-a444-9360b3907b64" sort="2" parent="94301409-f989-5a7c-a627-b49f7d782594">
+    <name>Carry Capacity</name>
+    <slug>carry-capacity</slug>
+    <content>&lt;h4 id="carry-capacity"&gt;&lt;a id="carry-capacity-carry-capacity"&gt;&lt;/a&gt;&lt;a id="carry-capacity"&gt;&lt;/a&gt;Carry Capacity&lt;/h4&gt;&lt;table class="gray"&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Tiny&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;(Strength x 15) / 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Small&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Medium&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Large&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Huge&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 60&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 176&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="a8510322-0ee0-564b-8f7a-f04b91094e14" sort="3" parent="94301409-f989-5a7c-a627-b49f7d782594">
+    <name>Jumping</name>
+    <slug>jumping</slug>
+    <content>&lt;h4 id="jumping"&gt;&lt;a id="jumping-jumping"&gt;&lt;/a&gt;&lt;a id="jumping"&gt;&lt;/a&gt;Jumping&lt;/h4&gt;</content>
+  </page>
+  <page id="cf3ec5ca-fc62-581f-90fc-dc893de1e448" sort="4" parent="94301409-f989-5a7c-a627-b49f7d782594">
+    <name>Push, Drag, Lift</name>
+    <slug>push-drag-lift</slug>
+    <content>&lt;h4 id="push%2C-drag%2C-lift"&gt;&lt;a id="push-drag-lift-push-drag-lift"&gt;&lt;/a&gt;&lt;a id="push-drag-lift"&gt;&lt;/a&gt;Push, Drag, Lift&lt;/h4&gt;&lt;table class="gray"&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Tiny&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;(Strength x 30) / 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Small&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Medium&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Large&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 60&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;&lt;strong&gt;Huge&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align:left"&gt;Strength x 120&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 176&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe" sort="5" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+    <name>Dexterity</name>
+    <slug>dexterity</slug>
+    <content>&lt;h3 id="dexterity"&gt;&lt;a id="dexterity-dexterity"&gt;&lt;/a&gt;&lt;a id="dexterity"&gt;&lt;/a&gt;Dexterity&lt;/h3&gt;</content>
+  </page>
+  <page id="5e49c775-4bfc-501d-8df1-8be4d217fe40" sort="6" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+    <name>Constitution</name>
+    <slug>constitution</slug>
+    <content>&lt;h3 id="constitution"&gt;&lt;a id="constitution-constitution"&gt;&lt;/a&gt;&lt;a id="constitution"&gt;&lt;/a&gt;Constitution&lt;/h3&gt;</content>
+  </page>
+  <page id="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85" sort="7" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+    <name>Intelligence</name>
+    <slug>intelligence</slug>
+    <content>&lt;h3 id="intelligence"&gt;&lt;a id="intelligence-intelligence"&gt;&lt;/a&gt;&lt;a id="intelligence"&gt;&lt;/a&gt;Intelligence&lt;/h3&gt;</content>
+  </page>
+  <page id="0d52bec9-cf7d-5205-8d3e-0eb89c14328b" sort="8" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+    <name>Wisdom</name>
+    <slug>wisdom</slug>
+    <content>&lt;h3 id="wisdom"&gt;&lt;a id="wisdom-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;</content>
+  </page>
+  <page id="18ebed56-161c-55e3-8854-436d0d3632c1" sort="9" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+    <name>Charisma</name>
+    <slug>charisma</slug>
+    <content>&lt;h3 id="charisma"&gt;&lt;a id="charisma-charisma"&gt;&lt;/a&gt;&lt;a id="charisma"&gt;&lt;/a&gt;Charisma&lt;/h3&gt;</content>
+  </page>
+  <page id="f200a128-0ce1-558b-9cc7-6217aa9fafeb" sort="10" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Ability Modifiers</name>
     <slug>ability-modifiers</slug>
     <content>&lt;h3 id="ability-modifiers"&gt;&lt;a id="ability-modifiers-ability-modifiers"&gt;&lt;/a&gt;&lt;a id="ability-modifiers"&gt;&lt;/a&gt;Ability Modifiers&lt;/h3&gt;&lt;table class="gray"&gt;
@@ -84,7 +215,7 @@
 &lt;li&gt;The monster ability maximum is &lt;strong&gt;30&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 13, 173&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="dcf58eb6-0621-5566-8aa4-a47236899c3f" sort="1" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+  <page id="dcf58eb6-0621-5566-8aa4-a47236899c3f" sort="11" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Advantage</name>
     <slug>advantage</slug>
     <content>&lt;h3 id="advantage"&gt;&lt;a id="advantage-advantage"&gt;&lt;/a&gt;&lt;a id="advantage"&gt;&lt;/a&gt;Advantage&lt;/h3&gt;&lt;table class="gray"&gt;
@@ -107,17 +238,7 @@
 &lt;li&gt;A feat or feature that allows a player to roll again, they choose which die.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 173&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="18ebed56-161c-55e3-8854-436d0d3632c1" sort="2" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
-    <name>Charisma</name>
-    <slug>charisma</slug>
-    <content>&lt;h3 id="charisma"&gt;&lt;a id="charisma-charisma"&gt;&lt;/a&gt;&lt;a id="charisma"&gt;&lt;/a&gt;Charisma&lt;/h3&gt;</content>
-  </page>
-  <page id="5e49c775-4bfc-501d-8df1-8be4d217fe40" sort="3" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
-    <name>Constitution</name>
-    <slug>constitution</slug>
-    <content>&lt;h3 id="constitution"&gt;&lt;a id="constitution-constitution"&gt;&lt;/a&gt;&lt;a id="constitution"&gt;&lt;/a&gt;Constitution&lt;/h3&gt;</content>
-  </page>
-  <page id="f04929d0-844b-50ed-830a-33083250c0db" sort="4" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+  <page id="f04929d0-844b-50ed-830a-33083250c0db" sort="12" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Contests</name>
     <slug>contests</slug>
     <content>&lt;h3 id="contests"&gt;&lt;a id="contests-contests"&gt;&lt;/a&gt;&lt;a id="contests"&gt;&lt;/a&gt;Contests&lt;/h3&gt;&lt;table class="gray"&gt;
@@ -161,12 +282,12 @@
 &lt;li&gt;In the event of a tie, the initiator loses.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 174&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe" sort="5" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+  <page id="11661b8f-1ecd-536f-b237-163914de5b67" sort="13" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Dexterity</name>
-    <slug>dexterity</slug>
-    <content>&lt;h3 id="dexterity"&gt;&lt;a id="dexterity-dexterity"&gt;&lt;/a&gt;&lt;a id="dexterity"&gt;&lt;/a&gt;Dexterity&lt;/h3&gt;&lt;p&gt;Dexterity measures agility, reflexes, and balance.&lt;/p&gt;</content>
+    <slug>dexterity-1</slug>
+    <content>&lt;h3 id="dexterity-2"&gt;&lt;a id="dexterity-1-dexterity"&gt;&lt;/a&gt;&lt;a id="dexterity"&gt;&lt;/a&gt;Dexterity&lt;/h3&gt;&lt;p&gt;Dexterity measures agility, reflexes, and balance.&lt;/p&gt;</content>
   </page>
-  <page id="ff6d2839-1d32-5f95-8d18-1b377c2223df" sort="6" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+  <page id="ff6d2839-1d32-5f95-8d18-1b377c2223df" sort="14" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Difficulty Class</name>
     <slug>difficulty-class</slug>
     <content>&lt;h3 id="difficulty-class"&gt;&lt;a id="difficulty-class-difficulty-class"&gt;&lt;/a&gt;&lt;a id="difficulty-class"&gt;&lt;/a&gt;Difficulty Class&lt;/h3&gt;&lt;table class="gray"&gt;
@@ -205,92 +326,20 @@
 &lt;/blockquote&gt;
 &lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 174&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85" sort="7" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
-    <name>Intelligence</name>
-    <slug>intelligence</slug>
-    <content>&lt;h3 id="intelligence"&gt;&lt;a id="intelligence-intelligence"&gt;&lt;/a&gt;&lt;a id="intelligence"&gt;&lt;/a&gt;Intelligence&lt;/h3&gt;</content>
-  </page>
-  <page id="711900e8-2f18-538c-bbe3-45404e2eadb5" sort="8" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+  <page id="711900e8-2f18-538c-bbe3-45404e2eadb5" sort="15" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Group Checks</name>
     <slug>group-checks</slug>
     <content>&lt;h3 id="group-checks"&gt;&lt;a id="group-checks-group-checks"&gt;&lt;/a&gt;&lt;a id="group-checks"&gt;&lt;/a&gt;Group Checks&lt;/h3&gt;</content>
   </page>
-  <page id="a98da57e-f8c2-5917-a4c4-f681183b59bf" sort="9" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+  <page id="a98da57e-f8c2-5917-a4c4-f681183b59bf" sort="16" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Passive Checks</name>
     <slug>passive-checks</slug>
     <content>&lt;h3 id="passive-checks"&gt;&lt;a id="passive-checks-passive-checks"&gt;&lt;/a&gt;&lt;a id="passive-checks"&gt;&lt;/a&gt;Passive Checks&lt;/h3&gt;</content>
   </page>
-  <page id="94301409-f989-5a7c-a627-b49f7d782594" sort="10" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
-    <name>Strength</name>
-    <slug>strength</slug>
-    <content>&lt;h3 id="strength"&gt;&lt;a id="strength-strength"&gt;&lt;/a&gt;&lt;a id="strength"&gt;&lt;/a&gt;Strength&lt;/h3&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;</content>
-  </page>
-  <page id="f800cb96-530e-5bb1-a444-9360b3907b64" sort="11" parent="94301409-f989-5a7c-a627-b49f7d782594">
-    <name>Carry Capacity</name>
-    <slug>carry-capacity</slug>
-    <content>&lt;h4 id="carry-capacity"&gt;&lt;a id="carry-capacity-carry-capacity"&gt;&lt;/a&gt;&lt;a id="carry-capacity"&gt;&lt;/a&gt;Carry Capacity&lt;/h4&gt;&lt;table class="gray"&gt;
-&lt;thead&gt;
-&lt;tr&gt;&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;strong&gt;Tiny&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;(Strength x 15) / 2&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;strong&gt;Small&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Strength x 15&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;strong&gt;Medium&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Strength x 15&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;strong&gt;Large&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Strength x 30&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;strong&gt;Huge&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Strength x 60&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 176&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="0f20554f-2fd8-5fdf-97d6-b976ef5ae042" sort="12" parent="94301409-f989-5a7c-a627-b49f7d782594">
-    <name>Push, Drag, or Lift</name>
-    <slug>push-drag-or-lift</slug>
-    <content>&lt;h4 id="push%2C-drag%2C-or-lift"&gt;&lt;a id="push-drag-or-lift-push-drag-or-lift"&gt;&lt;/a&gt;&lt;a id="push-drag-or-lift"&gt;&lt;/a&gt;Push, Drag, or Lift&lt;/h4&gt;&lt;table class="gray"&gt;
-&lt;thead&gt;
-&lt;tr&gt;&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;strong&gt;Tiny&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;(Strength x 30) / 2&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;strong&gt;Small&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Strength x 30&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;strong&gt;Medium&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Strength x 30&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;strong&gt;Large&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Strength x 60&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;strong&gt;Huge&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Strength x 120&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 176&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="0d52bec9-cf7d-5205-8d3e-0eb89c14328b" sort="13" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
+  <page id="3ef4753a-b6ff-5964-90b1-9c0c393f5f2d" sort="17" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Wisdom</name>
-    <slug>wisdom</slug>
-    <content>&lt;h3 id="wisdom"&gt;&lt;a id="wisdom-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;</content>
+    <slug>wisdom-1</slug>
+    <content>&lt;h3 id="wisdom-2"&gt;&lt;a id="wisdom-1-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;</content>
   </page>
   <page id="2e5061d8-871b-53bb-b7c7-80ed942b1a30" sort="1">
     <name>Conditions</name>
