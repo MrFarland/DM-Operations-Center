@@ -24,11 +24,11 @@
 &lt;td&gt;&lt;a href="intelligence"&gt;&lt;strong&gt;Intelligence&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="arcana"&gt;Arcana&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="history"&gt;History&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="investigation"&gt;Investigation&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="nature"&gt;Nature&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="religion"&gt;Religion&lt;/a&gt;&lt;br&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="dexterity"&gt;&lt;strong&gt;Dexterity&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="acrobatics"&gt;Acrobatics&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="hiding"&gt;Hiding&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="sleight-of-hand"&gt;Sleight of Hand&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="stealth"&gt;Stealth&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="dexterity"&gt;&lt;strong&gt;Dexterity&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="acrobatics"&gt;Acrobatics&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="armor-class"&gt;Armor Class&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="hiding"&gt;Hiding&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="sleight-of-hand"&gt;Sleight of Hand&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="stealth"&gt;Stealth&lt;/a&gt;&lt;br&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href="wisdom"&gt;&lt;strong&gt;Wisdom&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="animal-handling"&gt;Animal Handling&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="insight"&gt;Insight&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="medicine"&gt;Medicine&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="perception"&gt;Perception&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="survival"&gt;Survival&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="constitution"&gt;&lt;strong&gt;Constitution&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="hit-dice"&gt;Hit Dice&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="hit-points"&gt;Hit Points&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="temporary-hp"&gt;Temporary HP&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="constitution"&gt;&lt;strong&gt;Constitution&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="hit-dice"&gt;Hit Dice&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="hit-points"&gt;Hit Points&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="temporary-hit-points"&gt;Temporary HP&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href="charisma"&gt;&lt;strong&gt;Charisma&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="deception"&gt;Deception&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="intimidation"&gt;Intimidation&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="performance"&gt;Performance&lt;/a&gt;&lt;br&gt; &amp;#x2013; &lt;a href="persuasion"&gt;Persuasion&lt;/a&gt;&lt;br&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -38,22 +38,35 @@
     <name>Strength</name>
     <slug>strength</slug>
     <content>&lt;h3 id="strength"&gt;&lt;a id="strength-strength"&gt;&lt;/a&gt;&lt;a id="strength"&gt;&lt;/a&gt;Strength&lt;/h3&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;
-Use general ability checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;An attempt to lift a very heavy object.&lt;/li&gt;
-&lt;li&gt;Trying to force open a stuck door.&lt;/li&gt;
+Use general strength checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;An attempt to &lt;a href="push-drag-lift"&gt;lift&lt;/a&gt; a very heavy object.&lt;/li&gt;
+&lt;li&gt;Trying to &lt;a href="push-drag-lift"&gt;push&lt;/a&gt; open a stuck door.&lt;/li&gt;
 &lt;li&gt;Attempting to break free from bonds.&lt;/li&gt;
-&lt;li&gt;Carrying something a long way.&lt;/li&gt;
+&lt;li&gt;&lt;a href="carry-capacity"&gt;Carrying&lt;/a&gt; something a long way.&lt;/li&gt;
 &lt;li&gt;Trying to hold on to a ledge or rope.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Attack &amp;amp; Damage Rolls&lt;/strong&gt;&lt;br&gt;
+The Strength modifier is added to attack and damage rolls for:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Melee Attacks&lt;/li&gt;
+&lt;li&gt;Ranged Attacks with Thrown Weapons&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Skills&lt;/strong&gt;&lt;br&gt;
-Skills that can be paired with this ability are:&lt;/p&gt;&lt;ul class="square"&gt;
+Some skills you can pair with this ability are:&lt;/p&gt;&lt;ul class="square"&gt;
 &lt;li&gt;&lt;a href="animal-handling"&gt;Animal Handling&lt;/a&gt;. Attempting to use brute force to subdue an animal.&lt;/li&gt;
 &lt;li&gt;&lt;a href="intimidation"&gt;Intimidation&lt;/a&gt;. Trying to look scary versus trying to threaten someone with words.&lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 175&lt;/em&gt;&lt;/p&gt;</content>
   </page>
   <page id="4b32f0e2-ba4b-5dd2-8150-302cf602a7a4" sort="1" parent="94301409-f989-5a7c-a627-b49f7d782594">
     <name>Athletics</name>
     <slug>athletics</slug>
-    <content>&lt;h4 id="athletics"&gt;&lt;a id="athletics-athletics"&gt;&lt;/a&gt;&lt;a id="athletics"&gt;&lt;/a&gt;Athletics&lt;/h4&gt;</content>
+    <content>&lt;h4 id="athletics"&gt;&lt;a id="athletics-athletics"&gt;&lt;/a&gt;&lt;a id="athletics"&gt;&lt;/a&gt;Athletics&lt;/h4&gt;&lt;p&gt;General athletic prowess when running, &lt;a href="jumping"&gt;jumping&lt;/a&gt;, &lt;a href="swimming"&gt;swimming&lt;/a&gt;, and &lt;a href="climbing"&gt;climbing&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use athletics skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;Attemping to &lt;a href="climbing"&gt;climb&lt;/a&gt; a cliff or rope.&lt;/li&gt;
+&lt;li&gt;Trying to &lt;a href="jumping"&gt;jump&lt;/a&gt; very high or far.&lt;/li&gt;
+&lt;li&gt;&lt;a href="swimming"&gt;Swimming&lt;/a&gt; against a strong current.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="constitution"&gt;Constitution&lt;/a&gt;. Running long distance are as much about &lt;a href="constitution"&gt;constitution&lt;/a&gt; as &lt;a href="strength"&gt;strength&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="dexterity"&gt;Dexterity&lt;/a&gt;. Some feats are more about &lt;a href="dexterity"&gt;dexterity&lt;/a&gt;, but see &lt;a href="acrobatics"&gt;Acrobatics&lt;/a&gt; first.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 175&lt;/em&gt;&lt;/p&gt;</content>
   </page>
   <page id="f800cb96-530e-5bb1-a444-9360b3907b64" sort="2" parent="94301409-f989-5a7c-a627-b49f7d782594">
     <name>Carry Capacity</name>
@@ -65,33 +78,94 @@ Skills that can be paired with this ability are:&lt;/p&gt;&lt;ul class="square"&
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style="text-align:left"&gt;&lt;strong&gt;Tiny&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;(Strength x 15) / 2&lt;/td&gt;
+&lt;td style="text-align:left"&gt;(&lt;a href="strength"&gt;STR&lt;/a&gt; x 15) / 2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:left"&gt;&lt;strong&gt;Small&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Strength x 15&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="strength"&gt;STR&lt;/a&gt; x 15&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:left"&gt;&lt;strong&gt;Medium&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Strength x 15&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="strength"&gt;STR&lt;/a&gt; x 15&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:left"&gt;&lt;strong&gt;Large&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Strength x 30&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="strength"&gt;STR&lt;/a&gt; x 30&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:left"&gt;&lt;strong&gt;Huge&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Strength x 60&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="strength"&gt;STR&lt;/a&gt; x 60&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Calculated&lt;/strong&gt;&lt;br&gt;
+We do enough math during a game, here are the capacities for small, medium and large creatures.&lt;/p&gt;&lt;table class="gray"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align:center"&gt;&lt;/th&gt;
+&lt;th style="text-align:center"&gt;S/M&lt;/th&gt;
+&lt;th style="text-align:center"&gt;L&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;10&lt;/td&gt;
+&lt;td style="text-align:center"&gt;150 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;300 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;11&lt;/td&gt;
+&lt;td style="text-align:center"&gt;165 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;330 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;12&lt;/td&gt;
+&lt;td style="text-align:center"&gt;180 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;360 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;13&lt;/td&gt;
+&lt;td style="text-align:center"&gt;195 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;390 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;14&lt;/td&gt;
+&lt;td style="text-align:center"&gt;210 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;420 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;15&lt;/td&gt;
+&lt;td style="text-align:center"&gt;225 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;450 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;16&lt;/td&gt;
+&lt;td style="text-align:center"&gt;240 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;480 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;17&lt;/td&gt;
+&lt;td style="text-align:center"&gt;255 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;510 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;18&lt;/td&gt;
+&lt;td style="text-align:center"&gt;270 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;540 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;19&lt;/td&gt;
+&lt;td style="text-align:center"&gt;285 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;570 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;20&lt;/td&gt;
+&lt;td style="text-align:center"&gt;300 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;600 lb&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 176&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="a8510322-0ee0-564b-8f7a-f04b91094e14" sort="3" parent="94301409-f989-5a7c-a627-b49f7d782594">
-    <name>Jumping</name>
-    <slug>jumping</slug>
-    <content>&lt;h4 id="jumping"&gt;&lt;a id="jumping-jumping"&gt;&lt;/a&gt;&lt;a id="jumping"&gt;&lt;/a&gt;Jumping&lt;/h4&gt;</content>
-  </page>
-  <page id="cf3ec5ca-fc62-581f-90fc-dc893de1e448" sort="4" parent="94301409-f989-5a7c-a627-b49f7d782594">
+  <page id="cf3ec5ca-fc62-581f-90fc-dc893de1e448" sort="3" parent="94301409-f989-5a7c-a627-b49f7d782594">
     <name>Push, Drag, Lift</name>
     <slug>push-drag-lift</slug>
     <content>&lt;h4 id="push%2C-drag%2C-lift"&gt;&lt;a id="push-drag-lift-push-drag-lift"&gt;&lt;/a&gt;&lt;a id="push-drag-lift"&gt;&lt;/a&gt;Push, Drag, Lift&lt;/h4&gt;&lt;table class="gray"&gt;
@@ -120,34 +194,417 @@ Skills that can be paired with this ability are:&lt;/p&gt;&lt;ul class="square"&
 &lt;td style="text-align:left"&gt;Strength x 120&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Calculated&lt;/strong&gt;&lt;br&gt;
+We do enough math during a game, here are the limits for small, medium and large creatures.&lt;/p&gt;&lt;table class="gray"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align:center"&gt;&lt;/th&gt;
+&lt;th style="text-align:center"&gt;S/M&lt;/th&gt;
+&lt;th style="text-align:center"&gt;L&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;10&lt;/td&gt;
+&lt;td style="text-align:center"&gt;300 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;600 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;11&lt;/td&gt;
+&lt;td style="text-align:center"&gt;330 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;660 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;12&lt;/td&gt;
+&lt;td style="text-align:center"&gt;360 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;720 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;13&lt;/td&gt;
+&lt;td style="text-align:center"&gt;390 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;780 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;14&lt;/td&gt;
+&lt;td style="text-align:center"&gt;420 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;840 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;15&lt;/td&gt;
+&lt;td style="text-align:center"&gt;450 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;900 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;16&lt;/td&gt;
+&lt;td style="text-align:center"&gt;480 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;960 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;17&lt;/td&gt;
+&lt;td style="text-align:center"&gt;510 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;1020 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;18&lt;/td&gt;
+&lt;td style="text-align:center"&gt;540 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;1080 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;19&lt;/td&gt;
+&lt;td style="text-align:center"&gt;570 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;1140 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;20&lt;/td&gt;
+&lt;td style="text-align:center"&gt;600 lb&lt;/td&gt;
+&lt;td style="text-align:center"&gt;1200 lb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 176&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe" sort="5" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe" sort="4" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Dexterity</name>
     <slug>dexterity</slug>
-    <content>&lt;h3 id="dexterity"&gt;&lt;a id="dexterity-dexterity"&gt;&lt;/a&gt;&lt;a id="dexterity"&gt;&lt;/a&gt;Dexterity&lt;/h3&gt;</content>
+    <content>&lt;h3 id="dexterity"&gt;&lt;a id="dexterity-dexterity"&gt;&lt;/a&gt;&lt;a id="dexterity"&gt;&lt;/a&gt;Dexterity&lt;/h3&gt;&lt;p&gt;Dexterity measures agility, reflexes, and balance.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;
+Use general dexterity checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;Picking a lock or disabling a trap.&lt;/li&gt;
+&lt;li&gt;Tie up a prisoner with some rope.&lt;/li&gt;
+&lt;li&gt;Wriggle free after being tied up.&lt;/li&gt;
+&lt;li&gt;Craft a small or detailed object.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href="initiative"&gt;Initiative&lt;/a&gt; is a general dexterity check.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Attack &amp;amp; Damage Rolls&lt;/strong&gt;&lt;br&gt;
+The Dexterity modifier is added to attack and damage rolls for:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Ranged Attacks&lt;/li&gt;
+&lt;li&gt;Melee Attacks with Finesse Weapons&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Skills&lt;/strong&gt;&lt;br&gt;
+Some skills you can pair with this ability are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;&lt;a href="athletics"&gt;Athletics&lt;/a&gt;. Some feats of athleticism might be better suited to dexterity than &lt;a href="strength"&gt;strength&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="performance"&gt;Performance&lt;/a&gt;. Playing an instrument may be a better ability to use than &lt;a href="charisma"&gt;charisma&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 176&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="5e49c775-4bfc-501d-8df1-8be4d217fe40" sort="6" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="faf1df38-be8a-52b0-ac2a-2db0ba1f9a86" sort="5" parent="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe">
+    <name>Acrobatics</name>
+    <slug>acrobatics</slug>
+    <content>&lt;h4 id="acrobatics"&gt;&lt;a id="acrobatics-acrobatics"&gt;&lt;/a&gt;&lt;a id="acrobatics"&gt;&lt;/a&gt;Acrobatics&lt;/h4&gt;&lt;p&gt;Acrobatics measures the ability to maintain balance, tumble, and perform tricks in the air.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;Walk across a tightrope.&lt;/li&gt;
+&lt;li&gt;Maintain balance on a rocking ship.&lt;/li&gt;
+&lt;li&gt;Parkour down a cluttered alley.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;N/A&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 176&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="e4b6e95d-af64-5a6c-aa36-0cf352531e85" sort="6" parent="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe">
+    <name>Armor Class</name>
+    <slug>armor-class</slug>
+    <content>&lt;h4 id="armor-class"&gt;&lt;a id="armor-class-armor-class"&gt;&lt;/a&gt;&lt;a id="armor-class"&gt;&lt;/a&gt;Armor Class&lt;/h4&gt;&lt;p&gt;A creature&amp;#x2019;s natural armor class is how hard they are to hit when they are &lt;strong&gt;not&lt;/strong&gt; wearing armor.&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;Natural AC = 10 + &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; Modifier&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wearing Armor&lt;/strong&gt;&lt;br&gt;
+Wearing armor replaces a creature&amp;#x2019;s natural AC with that of the armor they are wearing.&lt;/p&gt;&lt;table class="gray"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Armor&lt;/th&gt;
+&lt;th style="text-align:center"&gt;Type&lt;/th&gt;
+&lt;th&gt;AC&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="/item/padded-armor"&gt;Padded&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;L&lt;/td&gt;
+&lt;td&gt;11 + &lt;a href="dexterity"&gt;DEX&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="/item/leather-armor"&gt;Leather&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;L&lt;/td&gt;
+&lt;td&gt;11 + &lt;a href="dexterity"&gt;DEX&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="/item/studded-leather-armor"&gt;Studded&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;L&lt;/td&gt;
+&lt;td&gt;12 + &lt;a href="dexterity"&gt;DEX&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="/item/hide-armor"&gt;Hide&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;M&lt;/td&gt;
+&lt;td&gt;12 + &lt;a href="dexterity"&gt;DEX&lt;/a&gt; (max 2)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="/item/chain-shirt"&gt;Chain Shirt&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;M&lt;/td&gt;
+&lt;td&gt;13 + &lt;a href="dexterity"&gt;DEX&lt;/a&gt; (max 2)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="/item/scale-mail"&gt;Scale Mail&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;M&lt;/td&gt;
+&lt;td&gt;14 + &lt;a href="dexterity"&gt;DEX&lt;/a&gt; (max 2)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="/item/breastplate"&gt;Breastplate&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;M&lt;/td&gt;
+&lt;td&gt;14 + &lt;a href="dexterity"&gt;DEX&lt;/a&gt; (max 2)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="/item/half-plate"&gt;Half Plate&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:center"&gt;M&lt;/td&gt;
+&lt;td&gt;15 + &lt;a href="dexterity"&gt;DEX&lt;/a&gt; (max 2)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;Characters wearing heavy armor do not add their &lt;a href="dexterity"&gt;DEX&lt;/a&gt; modifier to their AC.&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 145, 177&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="920917b9-41a9-55b4-95c0-c938d0292c02" sort="7" parent="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe">
+    <name>Hiding</name>
+    <slug>hiding</slug>
+    <content>&lt;h4 id="hiding"&gt;&lt;a id="hiding-hiding"&gt;&lt;/a&gt;&lt;a id="hiding"&gt;&lt;/a&gt;Hiding&lt;/h4&gt;&lt;p&gt;&lt;a href="contest"&gt;Contest&lt;/a&gt; between hider &amp;amp; active searcher.&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;Hider (&lt;a href="stealth"&gt;Stealth&lt;/a&gt;) v. Searcher (&lt;a href="perception"&gt;Perception&lt;/a&gt;)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;The DM decides when hiding is possible.&lt;/li&gt;
+&lt;li&gt;Cannot hide if clearly visible.&lt;/li&gt;
+&lt;li&gt;Cannot hide if searcher saw you hide.&lt;/li&gt;
+&lt;li&gt;&lt;a href="invisible"&gt;Invisible&lt;/a&gt; creatures can always try to hide.&lt;/li&gt;
+&lt;li&gt;Hiding ends if discovered or stop hiding.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 177&lt;/em&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="e8e22df7-ca8e-5b54-9b62-d00c66e5e080" sort="8" parent="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe">
+    <name>Sleight of Hand</name>
+    <slug>sleight-of-hand</slug>
+    <content>&lt;h4 id="sleight-of-hand"&gt;&lt;a id="sleight-of-hand-sleight-of-hand"&gt;&lt;/a&gt;&lt;a id="sleight-of-hand"&gt;&lt;/a&gt;Sleight of Hand&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="0f9293c1-9dcf-500a-8359-1f72159f933b" sort="9" parent="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe">
+    <name>Stealth</name>
+    <slug>stealth</slug>
+    <content>&lt;h4 id="stealth"&gt;&lt;a id="stealth-stealth"&gt;&lt;/a&gt;&lt;a id="stealth"&gt;&lt;/a&gt;Stealth&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="5e49c775-4bfc-501d-8df1-8be4d217fe40" sort="10" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Constitution</name>
     <slug>constitution</slug>
-    <content>&lt;h3 id="constitution"&gt;&lt;a id="constitution-constitution"&gt;&lt;/a&gt;&lt;a id="constitution"&gt;&lt;/a&gt;Constitution&lt;/h3&gt;</content>
+    <content>&lt;h3 id="constitution"&gt;&lt;a id="constitution-constitution"&gt;&lt;/a&gt;&lt;a id="constitution"&gt;&lt;/a&gt;Constitution&lt;/h3&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;
+Use general constitution checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Skills&lt;/strong&gt;&lt;br&gt;
+Some skills you can pair with this ability are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 175&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85" sort="7" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="a0836f59-38a2-55af-92f6-7bc39e77b85e" sort="11" parent="5e49c775-4bfc-501d-8df1-8be4d217fe40">
+    <name>Hit Dice</name>
+    <slug>hit-dice</slug>
+    <content>&lt;h4 id="hit-dice"&gt;&lt;a id="hit-dice-hit-dice"&gt;&lt;/a&gt;&lt;a id="hit-dice"&gt;&lt;/a&gt;Hit Dice&lt;/h4&gt;</content>
+  </page>
+  <page id="a5dd378d-1aae-5426-9a40-ae8a4f6f0582" sort="12" parent="5e49c775-4bfc-501d-8df1-8be4d217fe40">
+    <name>Hit Points</name>
+    <slug>hit-points</slug>
+    <content>&lt;h4 id="hit-points"&gt;&lt;a id="hit-points-hit-points"&gt;&lt;/a&gt;&lt;a id="hit-points"&gt;&lt;/a&gt;Hit Points&lt;/h4&gt;</content>
+  </page>
+  <page id="773f2319-8d73-5191-9426-0178cc9b64a8" sort="13" parent="5e49c775-4bfc-501d-8df1-8be4d217fe40">
+    <name>Temporary Hit Points</name>
+    <slug>temporary-hit-points</slug>
+    <content>&lt;h4 id="temporary-hit-points"&gt;&lt;a id="temporary-hit-points-temporary-hit-points"&gt;&lt;/a&gt;&lt;a id="temporary-hit-points"&gt;&lt;/a&gt;Temporary Hit Points&lt;/h4&gt;</content>
+  </page>
+  <page id="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85" sort="14" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Intelligence</name>
     <slug>intelligence</slug>
-    <content>&lt;h3 id="intelligence"&gt;&lt;a id="intelligence-intelligence"&gt;&lt;/a&gt;&lt;a id="intelligence"&gt;&lt;/a&gt;Intelligence&lt;/h3&gt;</content>
+    <content>&lt;h3 id="intelligence"&gt;&lt;a id="intelligence-intelligence"&gt;&lt;/a&gt;&lt;a id="intelligence"&gt;&lt;/a&gt;Intelligence&lt;/h3&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;
+Use general intelligence checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Attack &amp;amp; Damage Rolls&lt;/strong&gt;&lt;br&gt;
+The Strength modifier is added to attack and damage rolls for:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Melee Spell Attacks&lt;/li&gt;
+&lt;li&gt;Ranged Spell Attacks&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Skills&lt;/strong&gt;&lt;br&gt;
+Some skills you can pair with this ability are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 175&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="0d52bec9-cf7d-5205-8d3e-0eb89c14328b" sort="8" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="cd764145-2ed7-56ec-944c-6c7178927695" sort="15" parent="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85">
+    <name>Arcana</name>
+    <slug>arcana</slug>
+    <content>&lt;h4 id="arcana"&gt;&lt;a id="arcana-arcana"&gt;&lt;/a&gt;&lt;a id="arcana"&gt;&lt;/a&gt;Arcana&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="349017aa-af6c-5ca1-b657-222f8fcf0694" sort="16" parent="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85">
+    <name>History</name>
+    <slug>history</slug>
+    <content>&lt;h4 id="history"&gt;&lt;a id="history-history"&gt;&lt;/a&gt;&lt;a id="history"&gt;&lt;/a&gt;History&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="cce46f17-de41-59cc-917e-ae3d0958423c" sort="17" parent="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85">
+    <name>Investigation</name>
+    <slug>investigation</slug>
+    <content>&lt;h4 id="investigation"&gt;&lt;a id="investigation-investigation"&gt;&lt;/a&gt;&lt;a id="investigation"&gt;&lt;/a&gt;Investigation&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="012a2f59-3996-5320-afe8-2ff8583d1099" sort="18" parent="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85">
+    <name>Nature</name>
+    <slug>nature</slug>
+    <content>&lt;h4 id="nature"&gt;&lt;a id="nature-nature"&gt;&lt;/a&gt;&lt;a id="nature"&gt;&lt;/a&gt;Nature&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="ef69afe7-347f-5c62-80f4-091846c03996" sort="19" parent="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85">
+    <name>Religion</name>
+    <slug>religion</slug>
+    <content>&lt;h4 id="religion"&gt;&lt;a id="religion-religion"&gt;&lt;/a&gt;&lt;a id="religion"&gt;&lt;/a&gt;Religion&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="0d52bec9-cf7d-5205-8d3e-0eb89c14328b" sort="20" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Wisdom</name>
     <slug>wisdom</slug>
-    <content>&lt;h3 id="wisdom"&gt;&lt;a id="wisdom-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;</content>
+    <content>&lt;h3 id="wisdom"&gt;&lt;a id="wisdom-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;
+Use general wisdom checks for situations like:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Skills&lt;/strong&gt;&lt;br&gt;
+Some skills you can pair with this ability are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 175&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="18ebed56-161c-55e3-8854-436d0d3632c1" sort="9" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="2ccb2ca8-60f9-5229-b408-70c13a02f931" sort="21" parent="0d52bec9-cf7d-5205-8d3e-0eb89c14328b">
+    <name>Animal Handling</name>
+    <slug>animal-handling</slug>
+    <content>&lt;h4 id="animal-handling"&gt;&lt;a id="animal-handling-animal-handling"&gt;&lt;/a&gt;&lt;a id="animal-handling"&gt;&lt;/a&gt;Animal Handling&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="f8fb8e0d-c95b-57de-8fa3-caf7459237c1" sort="22" parent="0d52bec9-cf7d-5205-8d3e-0eb89c14328b">
+    <name>Insight</name>
+    <slug>insight</slug>
+    <content>&lt;h4 id="insight"&gt;&lt;a id="insight-insight"&gt;&lt;/a&gt;&lt;a id="insight"&gt;&lt;/a&gt;Insight&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="eb720a18-cb11-58d7-9557-f19e50b55af8" sort="23" parent="0d52bec9-cf7d-5205-8d3e-0eb89c14328b">
+    <name>Medicine</name>
+    <slug>medicine</slug>
+    <content>&lt;h4 id="medicine"&gt;&lt;a id="medicine-medicine"&gt;&lt;/a&gt;&lt;a id="medicine"&gt;&lt;/a&gt;Medicine&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="1553cfae-e2d7-5012-8392-e1f60cca9e81" sort="24" parent="0d52bec9-cf7d-5205-8d3e-0eb89c14328b">
+    <name>Perception</name>
+    <slug>perception</slug>
+    <content>&lt;h4 id="perception"&gt;&lt;a id="perception-perception"&gt;&lt;/a&gt;&lt;a id="perception"&gt;&lt;/a&gt;Perception&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="8387e576-7d1b-5649-adcd-92d88d6b5f3a" sort="25" parent="0d52bec9-cf7d-5205-8d3e-0eb89c14328b">
+    <name>Survival</name>
+    <slug>survival</slug>
+    <content>&lt;h4 id="survival"&gt;&lt;a id="survival-survival"&gt;&lt;/a&gt;&lt;a id="survival"&gt;&lt;/a&gt;Survival&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="18ebed56-161c-55e3-8854-436d0d3632c1" sort="26" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Charisma</name>
     <slug>charisma</slug>
-    <content>&lt;h3 id="charisma"&gt;&lt;a id="charisma-charisma"&gt;&lt;/a&gt;&lt;a id="charisma"&gt;&lt;/a&gt;Charisma&lt;/h3&gt;</content>
+    <content>&lt;h3 id="charisma"&gt;&lt;a id="charisma-charisma"&gt;&lt;/a&gt;&lt;a id="charisma"&gt;&lt;/a&gt;Charisma&lt;/h3&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;
+Use general charisma checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Skills&lt;/strong&gt;&lt;br&gt;
+Some skills you can pair with this ability are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 175&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="f200a128-0ce1-558b-9cc7-6217aa9fafeb" sort="10" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="d149950d-0fa5-5677-b9fd-419ab438a61e" sort="27" parent="18ebed56-161c-55e3-8854-436d0d3632c1">
+    <name>Deception</name>
+    <slug>deception</slug>
+    <content>&lt;h4 id="deception"&gt;&lt;a id="deception-deception"&gt;&lt;/a&gt;&lt;a id="deception"&gt;&lt;/a&gt;Deception&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="0c690d89-2c5d-503c-8e26-300014d6ff39" sort="28" parent="18ebed56-161c-55e3-8854-436d0d3632c1">
+    <name>Intimidation</name>
+    <slug>intimidation</slug>
+    <content>&lt;h4 id="intimidation"&gt;&lt;a id="intimidation-intimidation"&gt;&lt;/a&gt;&lt;a id="intimidation"&gt;&lt;/a&gt;Intimidation&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="2c753b38-6802-5891-aa77-8948293da255" sort="29" parent="18ebed56-161c-55e3-8854-436d0d3632c1">
+    <name>Performance</name>
+    <slug>performance</slug>
+    <content>&lt;h4 id="performance"&gt;&lt;a id="performance-performance"&gt;&lt;/a&gt;&lt;a id="performance"&gt;&lt;/a&gt;Performance&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="162f4496-ec6c-5da1-be4a-edceb4397210" sort="30" parent="18ebed56-161c-55e3-8854-436d0d3632c1">
+    <name>Persuasion</name>
+    <slug>persuasion</slug>
+    <content>&lt;h4 id="persuasion"&gt;&lt;a id="persuasion-persuasion"&gt;&lt;/a&gt;&lt;a id="persuasion"&gt;&lt;/a&gt;Persuasion&lt;/h4&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Abilities&lt;/strong&gt;&lt;br&gt;
+Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;?&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="f200a128-0ce1-558b-9cc7-6217aa9fafeb" sort="31" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Ability Modifiers</name>
     <slug>ability-modifiers</slug>
     <content>&lt;h3 id="ability-modifiers"&gt;&lt;a id="ability-modifiers-ability-modifiers"&gt;&lt;/a&gt;&lt;a id="ability-modifiers"&gt;&lt;/a&gt;Ability Modifiers&lt;/h3&gt;&lt;table class="gray"&gt;
@@ -215,7 +672,7 @@ Skills that can be paired with this ability are:&lt;/p&gt;&lt;ul class="square"&
 &lt;li&gt;The monster ability maximum is &lt;strong&gt;30&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 13, 173&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="dcf58eb6-0621-5566-8aa4-a47236899c3f" sort="11" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="dcf58eb6-0621-5566-8aa4-a47236899c3f" sort="32" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Advantage</name>
     <slug>advantage</slug>
     <content>&lt;h3 id="advantage"&gt;&lt;a id="advantage-advantage"&gt;&lt;/a&gt;&lt;a id="advantage"&gt;&lt;/a&gt;Advantage&lt;/h3&gt;&lt;table class="gray"&gt;
@@ -238,7 +695,7 @@ Skills that can be paired with this ability are:&lt;/p&gt;&lt;ul class="square"&
 &lt;li&gt;A feat or feature that allows a player to roll again, they choose which die.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 173&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="f04929d0-844b-50ed-830a-33083250c0db" sort="12" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="f04929d0-844b-50ed-830a-33083250c0db" sort="33" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Contests</name>
     <slug>contests</slug>
     <content>&lt;h3 id="contests"&gt;&lt;a id="contests-contests"&gt;&lt;/a&gt;&lt;a id="contests"&gt;&lt;/a&gt;Contests&lt;/h3&gt;&lt;table class="gray"&gt;
@@ -282,12 +739,7 @@ Skills that can be paired with this ability are:&lt;/p&gt;&lt;ul class="square"&
 &lt;li&gt;In the event of a tie, the initiator loses.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 174&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="11661b8f-1ecd-536f-b237-163914de5b67" sort="13" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
-    <name>Dexterity</name>
-    <slug>dexterity-1</slug>
-    <content>&lt;h3 id="dexterity-2"&gt;&lt;a id="dexterity-1-dexterity"&gt;&lt;/a&gt;&lt;a id="dexterity"&gt;&lt;/a&gt;Dexterity&lt;/h3&gt;&lt;p&gt;Dexterity measures agility, reflexes, and balance.&lt;/p&gt;</content>
-  </page>
-  <page id="ff6d2839-1d32-5f95-8d18-1b377c2223df" sort="14" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="ff6d2839-1d32-5f95-8d18-1b377c2223df" sort="34" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Difficulty Class</name>
     <slug>difficulty-class</slug>
     <content>&lt;h3 id="difficulty-class"&gt;&lt;a id="difficulty-class-difficulty-class"&gt;&lt;/a&gt;&lt;a id="difficulty-class"&gt;&lt;/a&gt;Difficulty Class&lt;/h3&gt;&lt;table class="gray"&gt;
@@ -320,23 +772,19 @@ Skills that can be paired with this ability are:&lt;/p&gt;&lt;ul class="square"&
 &lt;td style="text-align:center"&gt;30&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;div class="blockquote-flavortext-wrap"&gt;&lt;blockquote class="flavortext text-right"&gt;
-&lt;p class="text-left"&gt;Don&amp;#x2019;t make all your DCs multiples of five. A DC jump of 5 is huge.&lt;/p&gt;
-&lt;p&gt;- MrFarland&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 174&lt;/em&gt;&lt;/p&gt;</content>
+&lt;/table&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 174&lt;/em&gt;&lt;/p&gt;</content>
   </page>
-  <page id="711900e8-2f18-538c-bbe3-45404e2eadb5" sort="15" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="711900e8-2f18-538c-bbe3-45404e2eadb5" sort="35" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Group Checks</name>
     <slug>group-checks</slug>
     <content>&lt;h3 id="group-checks"&gt;&lt;a id="group-checks-group-checks"&gt;&lt;/a&gt;&lt;a id="group-checks"&gt;&lt;/a&gt;Group Checks&lt;/h3&gt;</content>
   </page>
-  <page id="a98da57e-f8c2-5917-a4c4-f681183b59bf" sort="16" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="a98da57e-f8c2-5917-a4c4-f681183b59bf" sort="36" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Passive Checks</name>
     <slug>passive-checks</slug>
     <content>&lt;h3 id="passive-checks"&gt;&lt;a id="passive-checks-passive-checks"&gt;&lt;/a&gt;&lt;a id="passive-checks"&gt;&lt;/a&gt;Passive Checks&lt;/h3&gt;</content>
   </page>
-  <page id="3ef4753a-b6ff-5964-90b1-9c0c393f5f2d" sort="17" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="3ef4753a-b6ff-5964-90b1-9c0c393f5f2d" sort="37" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Wisdom</name>
     <slug>wisdom-1</slug>
     <content>&lt;h3 id="wisdom-2"&gt;&lt;a id="wisdom-1-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;</content>

@@ -10,7 +10,7 @@ module-pagebreaks: h1, h2, h3, h4
 |---|---|
 |[**Strength**](strength)<br/> -- [Athletics](athletics)<br/> -- [Carry Capacity](carry-capacity)<br/> -- [Jumping](jumping)<br/> -- [Push, Drag, Lift](push-drag-lift)<br/><br/> |[**Intelligence**](intelligence)<br/> -- [Arcana](arcana)<br/> -- [History](history)<br/> -- [Investigation](investigation)<br/> -- [Nature](nature)<br/> -- [Religion](religion)<br/> |
 |[**Dexterity**](dexterity)<br/> -- [Acrobatics](acrobatics)<br/> -- [Armor Class](armor-class)<br/> -- [Hiding](hiding)<br/> -- [Sleight of Hand](sleight-of-hand)<br/> -- [Stealth](stealth)<br/> |[**Wisdom**](wisdom)<br/> -- [Animal Handling](animal-handling)<br/> -- [Insight](insight)<br/> -- [Medicine](medicine)<br/> -- [Perception](perception)<br/> -- [Survival](survival) |
-|[**Constitution**](constitution)<br/> -- [Hit Dice](hit-dice)<br/> -- [Hit Points](hit-points)<br/> -- [Temporary HP](temporary-hp) |[**Charisma**](charisma)<br/> -- [Deception](deception)<br/> -- [Intimidation](intimidation)<br/> -- [Performance](performance)<br/> -- [Persuasion](persuasion)<br/> |
+|[**Constitution**](constitution)<br/> -- [Hit Dice](hit-dice)<br/> -- [Hit Points](hit-points)<br/> -- [Temporary HP](temporary-hit-points)<br/><br/> |[**Charisma**](charisma)<br/> -- [Deception](deception)<br/> -- [Intimidation](intimidation)<br/> -- [Performance](performance)<br/> -- [Persuasion](persuasion)<br/> |
 {.gray}
 
 **Other Topics**: [Ability Modifiers](ability-modifiers), [Advantage](advantage), [Contests](contests), [Difficulty Class](difficulty-class), [Group Checks](group-checks), [Passive Checks](passive-checks), [Proficiency Bonus](proficiency-bonus)
@@ -35,7 +35,7 @@ The Strength modifier is added to attack and damage rolls for:
 - Ranged Attacks with Thrown Weapons
 
 **Alternate Skills**<br/>
-Skills that can be paired with this ability are:
+Some skills you can pair with this ability are:
 - [Animal Handling](animal-handling). Attempting to use brute force to subdue an animal.  
 - [Intimidation](intimidation). Trying to look scary versus trying to threaten someone with words.
 {.square}
@@ -48,7 +48,7 @@ Skills that can be paired with this ability are:
 General athletic prowess when running, [jumping](jumping), [swimming](swimming), and [climbing](climbing).
 
 **Skill Checks**<br/>
-Use skill checks for situations like:
+Use athletics skill checks for situations like:
 - Attemping to [climb](climbing) a cliff or rope.
 - Trying to [jump](jumping) very high or far.
 - [Swimming](swimming) against a strong current.
@@ -66,11 +66,28 @@ Abilities that can be paired with this skill are:
 #### Carry Capacity
 |||
 |:-----------|:--------------------|
-| **Tiny**   | (Strength x 15) / 2 |
-| **Small**  | Strength x 15 |
-| **Medium** | Strength x 15 |
-| **Large**  | Strength x 30 |
-| **Huge**   | Strength x 60 |
+| **Tiny**   | ([STR](strength) x 15) / 2 |
+| **Small**  | [STR](strength) x 15 |
+| **Medium** | [STR](strength) x 15 |
+| **Large**  | [STR](strength) x 30 |
+| **Huge**   | [STR](strength) x 60 |
+{.gray}
+
+**Calculated**<br/>
+We do enough math, here are the capacities for small, medium and large creatures. 
+|    |   S/M  |    L   |
+|:--:|:------:|:------:|
+| 10 | 150 lb | 300 lb |
+| 11 | 165 lb | 330 lb |
+| 12 | 180 lb | 360 lb |
+| 13 | 195 lb | 390 lb |
+| 14 | 210 lb | 420 lb |
+| 15 | 225 lb | 450 lb |
+| 16 | 240 lb | 480 lb |
+| 17 | 255 lb | 510 lb |
+| 18 | 270 lb | 540 lb |
+| 19 | 285 lb | 570 lb |
+| 20 | 300 lb | 600 lb |
 {.gray}
 
 ***Sources**: Player's Handbook, p. 176*
@@ -87,15 +104,415 @@ Abilities that can be paired with this skill are:
 | **Huge**   | Strength x 120 |
 {.gray}
 
+**Calculated**<br/>
+We do enough math, here are the limits for small, medium and large creatures. 
+|    |   S/M  |    L   |
+|:--:|:------:|:------:|
+| 10 | 300 lb | 600 lb |
+| 11 | 330 lb | 660 lb |
+| 12 | 360 lb | 720 lb |
+| 13 | 390 lb | 780 lb |
+| 14 | 420 lb | 840 lb |
+| 15 | 450 lb | 900 lb |
+| 16 | 480 lb | 960 lb |
+| 17 | 510 lb | 1020 lb |
+| 18 | 540 lb | 1080 lb |
+| 19 | 570 lb | 1140 lb |
+| 20 | 600 lb | 1200 lb |
+{.gray}
+
 ***Sources**: Player's Handbook, p. 176*
 
 
 
 ### Dexterity
+Dexterity measures agility, reflexes, and balance.
+
+**Ability Checks**<br/>
+Use general ability checks for situations like:
+- Picking a lock or disabling a trap.
+- Tie up a prisoner with some rope.
+- Wriggle free after being tied up.
+- Craft a small or detailed object.
+{.square}
+
+[Initiative](initiative) is a general dexterity check.
+
+**Attack & Damage Rolls**<br/>
+The Dexterity modifier is added to attack and damage rolls for:
+- Ranged Attacks
+- Melee Attacks with Finesse Weapons
+
+**Alternate Skills**<br/>
+Some skills you can pair with this ability are:
+- [Athletics](athletics). Some feats of athleticism might be better suited to dexterity than [strength](strength).
+- [Performance](performance). Playing an instrument may be a better ability to use than [charisma](charisma).
+{.square}
+
+***Sources**: Player's Handbook, p. 176*
+
+
+
+#### Acrobatics
+Acrobatics measures the ability to maintain balance, tumble, and perform tricks in the air.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- Walk across a tightrope.
+- Maintain balance on a rocking ship.
+- Parkour down a cluttered alley.
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- N/A
+{.square}
+
+***Sources**: Player's Handbook, p. 176*
+
+
+
+#### Armor Class
+A creature's natural armor class is how hard they are to hit when **not** wearing armor.
+
+ **Natural AC = 10 + [Dexterity](dexterity) Modifier** {.text-center}
+
+**Wearing Armor**<br/>
+Wearing armor replaces a creature's natural AC with that of the armor they are wearing.
+| Armor | Type | AC | 
+|-------|:----:|----|
+| [Padded](/item/padded-armor)           | L | 11 + [DEX](dexterity) |
+| [Leather](/item/leather-armor)         | L | 11 + [DEX](dexterity) |
+| [Studded](/item/studded-leather-armor) | L | 12 + [DEX](dexterity) |
+| [Hide](/item/hide-armor)               | M | 12 + [DEX](dexterity) (max 2) |
+| [Chain Shirt](/item/chain-shirt)       | M | 13 + [DEX](dexterity) (max 2) |
+| [Scale Mail](/item/scale-mail)         | M | 14 + [DEX](dexterity) (max 2) |
+| [Breastplate](/item/breastplate)       | M | 14 + [DEX](dexterity) (max 2) |
+| [Half Plate](/item/half-plate)         | M | 15 + [DEX](dexterity) (max 2) |
+{.gray}
+
+Characters wearing heavy armor do not add their [DEX](dexterity) modifier to their AC.
+
+***Sources**: Player's Handbook, p. 145, 177*
+
+
+
+#### Hiding
+[Contest](contest) between hider & active searcher.
+
+ **Hider ([Stealth](stealth)) v. Searcher ([Perception](perception))** {.text-center}
+
+- DM decides when hiding is possible.
+- Cannot hide if clearly visible.
+- Cannot hide if searcher saw you hide.
+- [Invisible](invisible) creatures can always try.
+- Ends if discovered or stop hiding.
+
+***Sources**: Player's Handbook, p. 177*
+
+
+
+#### Sleight of Hand
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
+
+#### Stealth
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
 ### Constitution
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Ability Checks**<br/>
+Use general ability checks for situations like:
+- ?
+{.square}
+
+**Alternate Skills**<br/>
+Some skills you can pair with this ability are:
+- ?
+{.square}
+
+***Sources**: Player's Handbook, p. 175*
+
+
+
+#### Hit Dice
+#### Hit Points
+#### Temporary Hit Points
+
 ### Intelligence
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Ability Checks**<br/>
+Use general ability checks for situations like:
+- ?
+{.square}
+
+**Attack & Damage Rolls**<br/>
+The Strength modifier is added to attack and damage rolls for:
+- Melee Spell Attacks
+- Ranged Spell Attacks
+
+**Alternate Skills**<br/>
+Some skills you can pair with this ability are:
+- ?
+{.square}
+
+***Sources**: Player's Handbook, p. 175*
+
+
+
+#### Arcana
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
+#### History
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
+#### Investigation
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
+#### Nature
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
+#### Religion
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
 ### Wisdom
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Ability Checks**<br/>
+Use general ability checks for situations like:
+- - ?
+{.square}
+
+**Alternate Skills**<br/>
+Some skills you can pair with this ability are:
+- ?
+{.square}
+
+***Sources**: Player's Handbook, p. 175*
+
+
+
+#### Animal Handling
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
+#### Insight
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
+#### Medicine
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
+#### Perception
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
+#### Survival
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
+
 ### Charisma
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Ability Checks**<br/>
+Use general ability checks for situations like:
+- ?
+{.square}
+
+**Alternate Skills**<br/>
+Some skills you can pair with this ability are:
+- ?
+{.square}
+
+***Sources**: Player's Handbook, p. 175*
+
+
+
+#### Deception
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
+#### Intimidation
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
+#### Performance
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
+
+
+#### Persuasion
+Strength measures bodily power, athletic training, and raw physical power.
+
+**Skill Checks**<br/>
+Use skill checks for situations like:
+- ?
+{.square}
+
+**Alternate Abilities**<br/>
+Abilities that can be paired with this skill are:
+- ?
+{.square}
 
 
 
@@ -156,9 +573,6 @@ Abilities that can be paired with this skill are:
 
 ***Sources**: Player's Handbook, p. 174*
 
-### Dexterity
-Dexterity measures agility, reflexes, and balance.
-
 
 
 ### Difficulty Class
@@ -171,11 +585,6 @@ Dexterity measures agility, reflexes, and balance.
 | Very Hard | 25 |
 | Near Impossible | 30 |
 {.gray}
-
-> Don't make all your DCs multiples of five. A DC jump of 5 is huge. {.text-left}
-> 
-> \- MrFarland {.text-right}
-{.flavortext}
 
 ***Sources**: Player's Handbook, p. 174*
 
