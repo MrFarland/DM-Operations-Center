@@ -2,4 +2,4 @@
 *.zip
 .DS_Store
 Module/ModuleBuild/
-Module/ModuleBuild/module.xml
+documentation/sources/
