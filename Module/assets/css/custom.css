@@ -5,7 +5,7 @@
  custom styles & theme
  */
  
- #home-menu-container {
+ #menu-container {
     align-content:center;
     align-items:center; 
     display:flex;
@@ -13,25 +13,24 @@
     justify-content:center;
  }
 
- #home-menu-container a {
+ #menu-container a {
     background:#f2f2f2; 
     border:1px solid #dfdfdf; 
     border-radius:6px; 
     flex:1; 
     flex-basis:75px; 
-    height:75px;
-    line-height:75px; 
+    height:50px;
     margin:3px; 
     padding:5px; 
     text-align:center;
  }
 
- #home-menu-container a:hover {
+ #menu-container a:hover {
     background:#58180d; 
     color:#f2f2f2;
  }
 
- #home-menu-container a:active {
+ #menu-container a:active {
     background:#6b1b0c; 
     color:#f2f2f2;
  }
@@ -43,14 +42,10 @@
      text-align:center;
  }
 
- #license {
-    color:#282828;
-    font-size:11px;
-    line-height:11px;
-}
-
- #fan-content-policy {
+ #legal {
      color:#919191;
-     font-size:8px;
-     line-height:9px;
+     font-size:9px;
+     line-height:10px;
  }
+
+ .small-text {font-size:12px;line-height:12px;}

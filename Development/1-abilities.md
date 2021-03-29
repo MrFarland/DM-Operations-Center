@@ -5,6 +5,7 @@ order: 1
 module-pagebreaks: h1, h2, h3, h4
 ---
 ## Abilities
+[^Home^](home)
 
 |||
 |---|---|
