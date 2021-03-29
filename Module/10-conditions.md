@@ -5,7 +5,7 @@ order: 10
 module-pagebreaks: h1, h2, h3
 ---
 ## Conditions
-[Home](home) > Conditions
+[Home](home) > Conditions  {.small-text}
 
 <div id="menu-container">
     <a href="blinded">Blinded</a>
@@ -26,12 +26,12 @@ module-pagebreaks: h1, h2, h3
     <a href="restrained">Restratined</a>
     <a href="sleeping">Sleeping*</a>
     <a href="stunned">Stunned</a>
-    <a href="suffocating*">Suffocating</a>
+    <a href="suffocating">Suffocating*</a>
+    <a href="surprised">Surprised</a>
     <a href="unconcious">Unconcious</a>
 </div>
-<br/>
 
-\* This is not a condition, but serves a similar function. {.small-text}
+*\* This is not a condition, but it serves a similar function.* {.small-text}
 
 
 
