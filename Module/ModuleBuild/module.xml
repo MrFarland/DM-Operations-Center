@@ -7,10 +7,30 @@
   <code>dm-operations-center</code>
   <category/>
   <image>assets/img/placeholder_1920x1080.jpg</image>
-  <group id="e782313d-2a6c-5c6d-99b7-2e1d922112b2" sort="1">
-    <name>Tools</name>
-    <slug>tools</slug>
-  </group>
+  <page id="691547e4-6c44-5325-9655-dcd1a91cacc1" sort="0">
+    <name>Home</name>
+    <slug>home</slug>
+    <content>&lt;div&gt;
+    &lt;h2&gt;&lt;a id="home-dm-operations-center"&gt;&lt;/a&gt;&lt;a id="dm-operations-center"&gt;&lt;/a&gt;DM Operations Center&lt;/h2&gt;
+    &lt;em&gt;Preview Release 0.1.0&lt;/em&gt;
+    &lt;hr&gt;
+&lt;/div&gt;
+&lt;div style="display:flex; flex-flow:row wrap; align-content:center; align-items:center; justify-content:center;"&gt;
+    &lt;a style="flex:1; background:#f2f2f2; border:1px solid #dfdfdf; border-radius:3px; flex-basis:75px; height:75px; margin:3px; padding:5px; text-align:center; " href="abilities"&gt;&lt;div style="line-height:75px;"&gt;Abilities&lt;/div&gt;&lt;/a&gt;
+    &lt;a style="flex:1; background:#f2f2f2; border:1px solid #dfdfdf; border-radius:3px; flex-basis:75px; height:75px; margin:3px; padding:5px; text-align:center; " href="."&gt;&lt;div style="line-height:75px;"&gt;Combat&lt;/div&gt;&lt;/a&gt;
+    &lt;a style="flex:1; background:#f2f2f2; border:1px solid #dfdfdf; border-radius:3px; flex-basis:75px; height:75px; margin:3px; padding:5px; text-align:center; " href="."&gt;&lt;div style="line-height:75px;"&gt;Conditions&lt;/div&gt;&lt;/a&gt;
+    &lt;a style="flex:1; background:#f2f2f2; border:1px solid #dfdfdf; border-radius:3px; flex-basis:75px; height:75px; margin:3px; padding:5px; text-align:center; " href="."&gt;&lt;div style="line-height:75px;"&gt;Downtime&lt;/div&gt;&lt;/a&gt;
+    &lt;a style="flex:1; background:#f2f2f2; border:1px solid #dfdfdf; border-radius:3px; flex-basis:75px; height:75px; margin:3px; padding:5px; text-align:center; " href="."&gt;&lt;div style="line-height:75px;"&gt;Encounters&lt;/div&gt;&lt;/a&gt;
+    &lt;a style="flex:1; background:#f2f2f2; border:1px solid #dfdfdf; border-radius:3px; flex-basis:75px; height:75px; margin:3px; padding:5px; text-align:center; " href="."&gt;&lt;div style="line-height:75px;"&gt;Environment&lt;/div&gt;&lt;/a&gt;
+    &lt;a style="flex:1; background:#f2f2f2; border:1px solid #dfdfdf; border-radius:3px; flex-basis:75px; height:75px; margin:3px; padding:5px; text-align:center; " href="."&gt;&lt;div style="line-height:75px;"&gt;Expenses&lt;/div&gt;&lt;/a&gt;
+    &lt;a style="flex:1; background:#f2f2f2; border:1px solid #dfdfdf; border-radius:3px; flex-basis:75px; height:75px; margin:3px; padding:5px; text-align:center; " href="."&gt;&lt;div style="line-height:75px;"&gt;Movement&lt;/div&gt;&lt;/a&gt;
+    &lt;a style="flex:1; background:#f2f2f2; border:1px solid #dfdfdf; border-radius:3px; flex-basis:75px; height:75px; margin:3px; padding:5px; text-align:center; " href="."&gt;&lt;div style="line-height:75px;"&gt;Spellcasting&lt;/div&gt;&lt;/a&gt;
+    &lt;a style="flex:1; background:#f2f2f2; border:1px solid #dfdfdf; border-radius:3px; flex-basis:75px; height:75px; margin:3px; padding:5px; text-align:center; " href="."&gt;&lt;div style="line-height:75px;"&gt;Survival&lt;/div&gt;&lt;/a&gt;
+    &lt;a style="flex:1; background:#f2f2f2; border:1px solid #dfdfdf; border-radius:3px; flex-basis:75px; height:75px; margin:3px; padding:5px; text-align:center; " href="."&gt;&lt;div style="line-height:75px;"&gt;Travel&lt;/div&gt;&lt;/a&gt;
+    &lt;a style="flex:1; background:#f2f2f2; border:1px solid #dfdfdf; border-radius:3px; flex-basis:75px; height:75px; margin:3px; padding:5px; text-align:center; " href="."&gt;&lt;div style="line-height:75px;"&gt;Worldbuilding&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+</content>
+  </page>
   <page id="d5ba4333-a186-53e6-b389-543d9f21f561" sort="1">
     <name>Abilities</name>
     <slug>abilities</slug>
@@ -38,7 +58,7 @@
     <name>Strength</name>
     <slug>strength</slug>
     <content>&lt;h3 id="strength"&gt;&lt;a id="strength-strength"&gt;&lt;/a&gt;&lt;a id="strength"&gt;&lt;/a&gt;Strength&lt;/h3&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;
-Use general strength checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+Use general ability checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
 &lt;li&gt;An attempt to &lt;a href="push-drag-lift"&gt;lift&lt;/a&gt; a very heavy object.&lt;/li&gt;
 &lt;li&gt;Trying to &lt;a href="push-drag-lift"&gt;push&lt;/a&gt; open a stuck door.&lt;/li&gt;
 &lt;li&gt;Attempting to break free from bonds.&lt;/li&gt;
@@ -97,8 +117,7 @@ Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul&gt;
 &lt;td style="text-align:left"&gt;&lt;a href="strength"&gt;STR&lt;/a&gt; x 60&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Calculated&lt;/strong&gt;&lt;br&gt;
-We do enough math during a game, here are the capacities for small, medium and large creatures.&lt;/p&gt;&lt;table class="gray"&gt;
+&lt;/table&gt;&lt;p&gt;&lt;em&gt;We do enough math, here are the pre-calculated capacities for small, medium and large creatures.&lt;/em&gt;&lt;/p&gt;&lt;table class="gray"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style="text-align:center"&gt;&lt;/th&gt;
@@ -194,8 +213,7 @@ We do enough math during a game, here are the capacities for small, medium and l
 &lt;td style="text-align:left"&gt;Strength x 120&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Calculated&lt;/strong&gt;&lt;br&gt;
-We do enough math during a game, here are the limits for small, medium and large creatures.&lt;/p&gt;&lt;table class="gray"&gt;
+&lt;/table&gt;&lt;p&gt;&lt;em&gt;We do enough math, here are the pre-calculated capacities for small, medium and large creatures.&lt;/em&gt;&lt;/p&gt;&lt;table class="gray"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style="text-align:center"&gt;&lt;/th&gt;
@@ -266,7 +284,7 @@ We do enough math during a game, here are the limits for small, medium and large
     <name>Dexterity</name>
     <slug>dexterity</slug>
     <content>&lt;h3 id="dexterity"&gt;&lt;a id="dexterity-dexterity"&gt;&lt;/a&gt;&lt;a id="dexterity"&gt;&lt;/a&gt;Dexterity&lt;/h3&gt;&lt;p&gt;Dexterity measures agility, reflexes, and balance.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;
-Use general dexterity checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+Use general ability checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
 &lt;li&gt;Picking a lock or disabling a trap.&lt;/li&gt;
 &lt;li&gt;Tie up a prisoner with some rope.&lt;/li&gt;
 &lt;li&gt;Wriggle free after being tied up.&lt;/li&gt;
@@ -297,7 +315,7 @@ Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"
   <page id="e4b6e95d-af64-5a6c-aa36-0cf352531e85" sort="6" parent="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe">
     <name>Armor Class</name>
     <slug>armor-class</slug>
-    <content>&lt;h4 id="armor-class"&gt;&lt;a id="armor-class-armor-class"&gt;&lt;/a&gt;&lt;a id="armor-class"&gt;&lt;/a&gt;Armor Class&lt;/h4&gt;&lt;p&gt;A creature&amp;#x2019;s natural armor class is how hard they are to hit when they are &lt;strong&gt;not&lt;/strong&gt; wearing armor.&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;Natural AC = 10 + &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; Modifier&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wearing Armor&lt;/strong&gt;&lt;br&gt;
+    <content>&lt;h4 id="armor-class"&gt;&lt;a id="armor-class-armor-class"&gt;&lt;/a&gt;&lt;a id="armor-class"&gt;&lt;/a&gt;Armor Class&lt;/h4&gt;&lt;p&gt;A creature&amp;#x2019;s natural armor class is how hard they are to hit when &lt;strong&gt;not&lt;/strong&gt; wearing armor.&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;Natural AC = 10 + &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; Modifier&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wearing Armor&lt;/strong&gt;&lt;br&gt;
 Wearing armor replaces a creature&amp;#x2019;s natural AC with that of the armor they are wearing.&lt;/p&gt;&lt;table class="gray"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -354,11 +372,12 @@ Wearing armor replaces a creature&amp;#x2019;s natural AC with that of the armor
     <name>Hiding</name>
     <slug>hiding</slug>
     <content>&lt;h4 id="hiding"&gt;&lt;a id="hiding-hiding"&gt;&lt;/a&gt;&lt;a id="hiding"&gt;&lt;/a&gt;Hiding&lt;/h4&gt;&lt;p&gt;&lt;a href="contest"&gt;Contest&lt;/a&gt; between hider &amp;amp; active searcher.&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;Hider (&lt;a href="stealth"&gt;Stealth&lt;/a&gt;) v. Searcher (&lt;a href="perception"&gt;Perception&lt;/a&gt;)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;The DM decides when hiding is possible.&lt;/li&gt;
+&lt;li&gt;DM decides when hiding is possible.&lt;/li&gt;
 &lt;li&gt;Cannot hide if clearly visible.&lt;/li&gt;
 &lt;li&gt;Cannot hide if searcher saw you hide.&lt;/li&gt;
-&lt;li&gt;&lt;a href="invisible"&gt;Invisible&lt;/a&gt; creatures can always try to hide.&lt;/li&gt;
-&lt;li&gt;Hiding ends if discovered or stop hiding.&lt;/li&gt;
+&lt;li&gt;&lt;a href="invisible"&gt;Invisible&lt;/a&gt; creatures can always try.&lt;/li&gt;
+&lt;li&gt;Sound &amp;amp; tracks can give them away.&lt;/li&gt;
+&lt;li&gt;Ends if discovered or stop hiding.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sources&lt;/strong&gt;: Player&amp;#x2019;s Handbook, p. 177&lt;/em&gt;&lt;/p&gt;</content>
   </page>
   <page id="e8e22df7-ca8e-5b54-9b62-d00c66e5e080" sort="8" parent="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe">
@@ -387,7 +406,7 @@ Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"
     <name>Constitution</name>
     <slug>constitution</slug>
     <content>&lt;h3 id="constitution"&gt;&lt;a id="constitution-constitution"&gt;&lt;/a&gt;&lt;a id="constitution"&gt;&lt;/a&gt;Constitution&lt;/h3&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;
-Use general constitution checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+Use general ability checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
 &lt;li&gt;?&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Skills&lt;/strong&gt;&lt;br&gt;
 Some skills you can pair with this ability are:&lt;/p&gt;&lt;ul class="square"&gt;
@@ -413,7 +432,7 @@ Some skills you can pair with this ability are:&lt;/p&gt;&lt;ul class="square"&g
     <name>Intelligence</name>
     <slug>intelligence</slug>
     <content>&lt;h3 id="intelligence"&gt;&lt;a id="intelligence-intelligence"&gt;&lt;/a&gt;&lt;a id="intelligence"&gt;&lt;/a&gt;Intelligence&lt;/h3&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;
-Use general intelligence checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+Use general ability checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
 &lt;li&gt;?&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Attack &amp;amp; Damage Rolls&lt;/strong&gt;&lt;br&gt;
 The Strength modifier is added to attack and damage rolls for:&lt;/p&gt;&lt;ul&gt;
@@ -483,7 +502,7 @@ Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"
     <name>Wisdom</name>
     <slug>wisdom</slug>
     <content>&lt;h3 id="wisdom"&gt;&lt;a id="wisdom-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;
-Use general wisdom checks for situations like:&lt;/p&gt;&lt;ul&gt;
+Use general ability checks for situations like:&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;?&lt;/li&gt;
@@ -553,7 +572,7 @@ Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"
     <name>Charisma</name>
     <slug>charisma</slug>
     <content>&lt;h3 id="charisma"&gt;&lt;a id="charisma-charisma"&gt;&lt;/a&gt;&lt;a id="charisma"&gt;&lt;/a&gt;Charisma&lt;/h3&gt;&lt;p&gt;Strength measures bodily power, athletic training, and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;
-Use general charisma checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
+Use general ability checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
 &lt;li&gt;?&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Alternate Skills&lt;/strong&gt;&lt;br&gt;
 Some skills you can pair with this ability are:&lt;/p&gt;&lt;ul class="square"&gt;
@@ -788,727 +807,5 @@ Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"
     <name>Wisdom</name>
     <slug>wisdom-1</slug>
     <content>&lt;h3 id="wisdom-2"&gt;&lt;a id="wisdom-1-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;</content>
-  </page>
-  <page id="2e5061d8-871b-53bb-b7c7-80ed942b1a30" sort="1">
-    <name>Conditions</name>
-    <slug>conditions</slug>
-    <content>&lt;h2 id="conditions"&gt;&lt;a id="conditions-conditions"&gt;&lt;/a&gt;&lt;a id="conditions"&gt;&lt;/a&gt;Conditions&lt;/h2&gt;&lt;p&gt;A creature affected by a &lt;strong&gt;condition&lt;/strong&gt;&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;A condition lasts until it is countered or&lt;/li&gt;
-&lt;li&gt;when the duration of the effect causing the condition has expired.&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </page>
-  <page id="4107493b-239a-58f0-80ed-c27deb8df4f5" sort="0" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Blinded</name>
-    <slug>blinded</slug>
-    <content>&lt;h3 id="blinded"&gt;&lt;a id="blinded-blinded"&gt;&lt;/a&gt;&lt;a id="blinded"&gt;&lt;/a&gt;Blinded&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;blinded&lt;/strong&gt; creature cannot see and:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;checks based on sight fail,&lt;/li&gt;
-&lt;li&gt;attacks against it have advantage,&lt;/li&gt;
-&lt;li&gt;its attacks have disadvantage,&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="c364e703-2c18-5f67-b0e3-b0b3325f2d67" sort="1" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Deafened</name>
-    <slug>deafened</slug>
-    <content>&lt;h3 id="deafened"&gt;&lt;a id="deafened-deafened"&gt;&lt;/a&gt;&lt;a id="deafened"&gt;&lt;/a&gt;Deafened&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;deafened&lt;/strong&gt; creature cannot hear and:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;checks based on hearing fail.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="5cfdce3c-e819-57d1-a2d2-c7acb3f35775" sort="2" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Exhaustion</name>
-    <slug>exhaustion</slug>
-    <content>&lt;h3 id="exhaustion"&gt;&lt;a id="exhaustion-exhaustion"&gt;&lt;/a&gt;&lt;a id="exhaustion"&gt;&lt;/a&gt;Exhaustion&lt;/h3&gt;&lt;p&gt;An &lt;strong&gt;exhausted&lt;/strong&gt; creature has:&lt;/p&gt;&lt;table class="gray"&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align:center"&gt;Level&lt;/th&gt;
-&lt;th style="text-align:left"&gt;Effect&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;1&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Disadvantage on ability checks&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;2&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Speed halved&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;3&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Disadvantage on attacks &amp;amp; saves&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;4&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Hit point maximum halved&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;5&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Speed reduced to 0&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;6&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Death&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;ul class="square"&gt;
-&lt;li&gt;Additional points increase the level.&lt;/li&gt;
-&lt;li&gt;Suffer effects of current &amp;amp; lower levels.&lt;/li&gt;
-&lt;li&gt;Ends if level is reduced below level 1.&lt;/li&gt;
-&lt;li&gt;Long rest lowers level w/ food &amp;amp; drink.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="52935a28-640c-5caf-aba9-10418b4e3255" sort="3" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Frightened</name>
-    <slug>frightened</slug>
-    <content>&lt;h3 id="frightened"&gt;&lt;a id="frightened-frightened"&gt;&lt;/a&gt;&lt;a id="frightened"&gt;&lt;/a&gt;Frightened&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;frightened&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;has disadvantage on checks &amp;amp; attacks while source of fear is in sight.&lt;/li&gt;
-&lt;li&gt;Can&amp;#x2019;t move closer to source of fear.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="afbf382f-2e21-5a25-9e66-b7d9b06745fa" sort="4" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Grappled</name>
-    <slug>grappled</slug>
-    <content>&lt;h3 id="grappled"&gt;&lt;a id="grappled-grappled"&gt;&lt;/a&gt;&lt;a id="grappled"&gt;&lt;/a&gt;Grappled&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;grappled&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;has a speed of 0,&lt;/li&gt;
-&lt;li&gt;cannot benefit from bonus to speed,&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The condition is removed if the:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;grappler releases the creature,&lt;/li&gt;
-&lt;li&gt;creature is forced out of reach.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="8431b253-f233-5dd1-a33f-42f938d24a4e" sort="5" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Incapacitated</name>
-    <slug>incapacitated</slug>
-    <content>&lt;h3 id="incapacitated"&gt;&lt;a id="incapacitated-incapacitated"&gt;&lt;/a&gt;&lt;a id="incapacitated"&gt;&lt;/a&gt;Incapacitated&lt;/h3&gt;&lt;p&gt;An &lt;strong&gt;incapacitated&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;cannot take actions or reactions.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="dc823821-f256-5f47-b782-626c37300c72" sort="6" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Invisible</name>
-    <slug>invisible</slug>
-    <content>&lt;h3 id="invisible"&gt;&lt;a id="invisible-invisible"&gt;&lt;/a&gt;&lt;a id="invisible"&gt;&lt;/a&gt;Invisible&lt;/h3&gt;&lt;p&gt;An &lt;strong&gt;invisible&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;is impossible to see without magic,&lt;/li&gt;
-&lt;li&gt;is heavily obscured when hiding,&lt;/li&gt;
-&lt;li&gt;can be detected by noise &amp;amp; tracks,&lt;/li&gt;
-&lt;li&gt;has advantage on attacks,&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attacks against have disadvantage.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="fc112b05-8388-5447-92c2-129cfda65987" sort="7" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Paralyzed</name>
-    <slug>paralyzed</slug>
-    <content>&lt;h3 id="paralyzed"&gt;&lt;a id="paralyzed-paralyzed"&gt;&lt;/a&gt;&lt;a id="paralyzed"&gt;&lt;/a&gt;Paralyzed&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;paralyzed&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;is incapacitated &amp;amp; can&amp;#x2019;t move or speak,&lt;/li&gt;
-&lt;li&gt;fails strength &amp;amp; dexterity saving throws.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attacks against have advantage and hits within 5&amp;#x2019; are critical hits.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="89f1b94b-a710-5e69-86bc-f22be8a33ac1" sort="8" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Petrified</name>
-    <slug>petrified</slug>
-    <content>&lt;h3 id="petrified"&gt;&lt;a id="petrified-petrified"&gt;&lt;/a&gt;&lt;a id="petrified"&gt;&lt;/a&gt;Petrified&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;petrified&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;is transformed into a solid substance,&lt;/li&gt;
-&lt;li&gt;its mundane items are transformed too,&lt;/li&gt;
-&lt;li&gt;has it its weight increase by ten,&lt;/li&gt;
-&lt;li&gt;stops aging,&lt;/li&gt;
-&lt;li&gt;is incapacitated &amp;amp; can&amp;#x2019;t move or speak,&lt;/li&gt;
-&lt;li&gt;fails strength &amp;amp; dexterity saving throws,&lt;/li&gt;
-&lt;li&gt;has resistance to all damage,&lt;/li&gt;
-&lt;li&gt;is immune to poison and disease, but current poison or disease is suspended&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attacks against have advantage.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="7a8c2337-2906-5744-acf8-fdefd03aeac1" sort="9" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Poisoned</name>
-    <slug>poisoned</slug>
-    <content>&lt;h3 id="poisoned"&gt;&lt;a id="poisoned-poisoned"&gt;&lt;/a&gt;&lt;a id="poisoned"&gt;&lt;/a&gt;Poisoned&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;poisoned&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;has disadvantage on attacks &amp;amp; checks.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="c2897676-7460-5fba-866e-1aa143ecfa2c" sort="10" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Prone</name>
-    <slug>prone</slug>
-    <content>&lt;h3 id="prone"&gt;&lt;a id="prone-prone"&gt;&lt;/a&gt;&lt;a id="prone"&gt;&lt;/a&gt;Prone&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;prone&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;can only crawl, unless it stands up,&lt;/li&gt;
-&lt;li&gt;has disadvantage on attacks,&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attacks against have advantage and hits within 5&amp;#x2019; are critical hits.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="2ebe19f0-8565-5da9-81de-2284c755afad" sort="11" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Restrained</name>
-    <slug>restrained</slug>
-    <content>&lt;h3 id="restrained"&gt;&lt;a id="restrained-restrained"&gt;&lt;/a&gt;&lt;a id="restrained"&gt;&lt;/a&gt;Restrained&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;restrained&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;has a speed of 0,&lt;/li&gt;
-&lt;li&gt;cannot benefit from bonus to speed,&lt;/li&gt;
-&lt;li&gt;has disadvantage on attacks,&lt;/li&gt;
-&lt;li&gt;has disadvantage on dex saves.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attack against have advantage.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="383219e4-4b51-5b3a-ba3d-004618f09f9c" sort="12" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Stunned</name>
-    <slug>stunned</slug>
-    <content>&lt;h3 id="stunned"&gt;&lt;a id="stunned-stunned"&gt;&lt;/a&gt;&lt;a id="stunned"&gt;&lt;/a&gt;Stunned&lt;/h3&gt;&lt;p&gt;A &lt;strong&gt;stunned&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;is incapacitated &amp;amp; can&amp;#x2019;t move or speak,&lt;/li&gt;
-&lt;li&gt;can only speak falteringly,&lt;/li&gt;
-&lt;li&gt;fails strength &amp;amp; dexterity saving throws,&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attack against have advantage.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="ac65fd4c-d2a5-56f8-80a3-ba3acfe66a8a" sort="13" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
-    <name>Unconcious</name>
-    <slug>unconcious</slug>
-    <content>&lt;h3 id="unconcious"&gt;&lt;a id="unconcious-unconcious"&gt;&lt;/a&gt;&lt;a id="unconcious"&gt;&lt;/a&gt;Unconcious&lt;/h3&gt;&lt;p&gt;An &lt;strong&gt;unconcious&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;is incapacitated &amp;amp; can&amp;#x2019;t move or speak,&lt;/li&gt;
-&lt;li&gt;drops what it is holding and falls prone,&lt;/li&gt;
-&lt;li&gt;fails strength &amp;amp; dexterity saving throws,&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attacks against have advantage and hits within 5&amp;#x2019; are critical hits.&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 292&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="6f32c0a9-961c-5fa2-8cd0-0482bef434bf" sort="1">
-    <name>Equipment</name>
-    <slug>equipment</slug>
-    <content>&lt;h2 id="equipment"&gt;&lt;a id="equipment-equipment"&gt;&lt;/a&gt;&lt;a id="equipment"&gt;&lt;/a&gt;Equipment&lt;/h2&gt;</content>
-  </page>
-  <page id="2f3eeadd-50db-5a1c-8b23-ab3c6c1e22ed" sort="0" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
-    <name>Adventuring Gear</name>
-    <slug>adventuring-gear</slug>
-    <content>&lt;h3 id="adventuring-gear"&gt;&lt;a id="adventuring-gear-adventuring-gear"&gt;&lt;/a&gt;&lt;a id="adventuring-gear"&gt;&lt;/a&gt;Adventuring Gear&lt;/h3&gt;&lt;table class="shop"&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align:left"&gt;&lt;sub&gt;Item&lt;/sub&gt;&lt;/th&gt;
-&lt;th style="text-align:right"&gt;&lt;sub&gt;Cost&lt;/sub&gt;&lt;/th&gt;
-&lt;th style="text-align:right"&gt;&lt;sub&gt;Weight&lt;/sub&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/abacus"&gt;Abacus&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/acid-vial"&gt;Acid (Vial)&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;25 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/alchemists-fire"&gt;Alchemist&amp;#x2019;s Fire&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="shopH2"&gt;
-&lt;td style="text-align:left" colspan="3"&gt;Ammunition&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/arrow"&gt;&amp;#x2013; Arrow&lt;/a&gt; (20)&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/blowgun-needle"&gt;&amp;#x2013; Blowgun Needles&lt;/a&gt; (50)&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/crossbow-bolt"&gt;&amp;#x2013; Crossbow Bolts&lt;/a&gt; (10)&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1.5 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/sling-bullet"&gt;&amp;#x2013; Sling Bullets&lt;/a&gt; (20)&lt;/td&gt;
-&lt;td style="text-align:right"&gt;4 cp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1.5 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/antitoxin-vial"&gt;Antitoxin (Vial)&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;50 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="shopH2"&gt;
-&lt;td style="text-align:left" colspan="3"&gt;Arcane Focus&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/crystal"&gt;&amp;#x2013; Crystal&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/orb"&gt;&amp;#x2013; Orb&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;20 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;3 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/rod"&gt;&amp;#x2013; Rod&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/staff"&gt;&amp;#x2013; Staff&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;4 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/wand"&gt;&amp;#x2013; Wand&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/backpack"&gt;Backpack&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/ball-bearings"&gt;Ball Bearings&lt;/a&gt; (1000)&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/barrel"&gt;Barrel&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;70 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/basket"&gt;Basket&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;4 sp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/bedroll"&gt;Bedroll&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;7 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/bell"&gt;Bell&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.1 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/blanket"&gt;Blanket&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 sp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;3 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/block-and-tackle"&gt;Block and Tackle&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/book"&gt;Book&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;25 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/bottle-glass"&gt;Bottle, Glass&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/bucket"&gt;Bucket&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 cp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/caltrops"&gt;Caltrops&lt;/a&gt; (20)&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;20 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;div class="blockquote-flavortext-wrap"&gt;&lt;blockquote class="flavortext"&gt;
-&lt;h4 id="dm%E2%80%99s-tip"&gt;&lt;a id="adventuring-gear-dms-tip"&gt;&lt;/a&gt;&lt;a id="dms-tip"&gt;&lt;/a&gt;DM&amp;#x2019;s Tip&lt;/h4&gt;
-&lt;p&gt;Adjust the size and price of regular items to make them bigger, smaller, or more ornate. Adjust the price and weight accordingly and a &lt;a href="/item/barrel"&gt;barrel&lt;/a&gt; worth 1 gp and 35 lbs, is now an empty cask.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="25b906b8-8ab5-57b4-a54b-f92e830cdfb5" sort="1" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
-    <name>Armor</name>
-    <slug>armor</slug>
-    <content>&lt;h3 id="armor"&gt;&lt;a id="armor-armor"&gt;&lt;/a&gt;&lt;a id="armor"&gt;&lt;/a&gt;Armor&lt;/h3&gt;&lt;table class="shop"&gt;
-&lt;thead&gt;
-&lt;tr&gt;&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr class="shopH2"&gt;
-&lt;td style="text-align:left" colspan="5"&gt;Light Armor&lt;/td&gt;
-&lt;td style="text-align:right"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Padded&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 gp&lt;/td&gt;
-&lt;td style="text-align:left"&gt;11+Dex&lt;/td&gt;
-&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:center"&gt;D&lt;/td&gt;
-&lt;td style="text-align:right"&gt;8 lb&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Leather&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
-&lt;td style="text-align:left"&gt;11+Dex&lt;/td&gt;
-&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 lb&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Studded&lt;/td&gt;
-&lt;td style="text-align:right"&gt;45 gp&lt;/td&gt;
-&lt;td style="text-align:left"&gt;12+Dex&lt;/td&gt;
-&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 lb&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="shopH2"&gt;
-&lt;td style="text-align:left" colspan="5"&gt;Medium Armor&lt;/td&gt;
-&lt;td style="text-align:right"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Hide&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
-&lt;td style="text-align:left"&gt;12+Dex(2)&lt;/td&gt;
-&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;12 lb&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Chain S.&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
-&lt;td style="text-align:left"&gt;11+Dex&lt;/td&gt;
-&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 lb&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Studded&lt;/td&gt;
-&lt;td style="text-align:right"&gt;45 gp&lt;/td&gt;
-&lt;td style="text-align:left"&gt;12+Dex&lt;/td&gt;
-&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 lb&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="shopH2"&gt;
-&lt;td style="text-align:left" colspan="5"&gt;Light Armor&lt;/td&gt;
-&lt;td style="text-align:right"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Padded&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 gp&lt;/td&gt;
-&lt;td style="text-align:left"&gt;11+Dex&lt;/td&gt;
-&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;8 lb&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Leather&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
-&lt;td style="text-align:left"&gt;11+Dex&lt;/td&gt;
-&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 lb&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Studded&lt;/td&gt;
-&lt;td style="text-align:right"&gt;45 gp&lt;/td&gt;
-&lt;td style="text-align:left"&gt;12+Dex&lt;/td&gt;
-&lt;td style="text-align:left"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:center"&gt;&amp;#x2013;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 lb&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content>
-  </page>
-  <page id="7e00ee26-c4b0-5580-9d11-8296caf5dbc8" sort="2" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
-    <name>Coinage</name>
-    <slug>coinage</slug>
-    <content>&lt;h3 id="coinage"&gt;&lt;a id="coinage-coinage"&gt;&lt;/a&gt;&lt;a id="coinage"&gt;&lt;/a&gt;Coinage&lt;/h3&gt;&lt;table class="gray"&gt;
-&lt;thead&gt;
-&lt;tr&gt;&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Copper&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.1&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.02&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.01&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.001&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Silver&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.2&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.1&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.01&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Electrum&lt;/td&gt;
-&lt;td style="text-align:right"&gt;50&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.5&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.05&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Gold&lt;/td&gt;
-&lt;td style="text-align:right"&gt;100&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Platinum&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1,000&lt;/td&gt;
-&lt;td style="text-align:right"&gt;100&lt;/td&gt;
-&lt;td style="text-align:right"&gt;20&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read"&gt;
-&lt;p&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 143&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3" sort="1">
-    <name>Spellcasting</name>
-    <slug>spellcasting</slug>
-    <content>&lt;h2 id="spellcasting"&gt;&lt;a id="spellcasting-spellcasting"&gt;&lt;/a&gt;&lt;a id="spellcasting"&gt;&lt;/a&gt;Spellcasting&lt;/h2&gt;</content>
-  </page>
-  <page id="273d0f98-4afc-5330-a105-f7db0ac2323f" sort="0" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
-    <name>Components</name>
-    <slug>components</slug>
-    <content>&lt;h3 id="components"&gt;&lt;a id="components-components"&gt;&lt;/a&gt;&lt;a id="components"&gt;&lt;/a&gt;Components&lt;/h3&gt;&lt;h4 id="verbal"&gt;&lt;a id="components-verbal"&gt;&lt;/a&gt;&lt;a id="verbal"&gt;&lt;/a&gt;Verbal&lt;/h4&gt;&lt;h4 id="somatic"&gt;&lt;a id="components-somatic"&gt;&lt;/a&gt;&lt;a id="somatic"&gt;&lt;/a&gt;Somatic&lt;/h4&gt;&lt;h4 id="material"&gt;&lt;a id="components-material"&gt;&lt;/a&gt;&lt;a id="material"&gt;&lt;/a&gt;Material&lt;/h4&gt;</content>
-  </page>
-  <page id="4055af74-48b8-5f43-88c4-c97520898c2b" sort="1" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
-    <name>Concentration</name>
-    <slug>concentration</slug>
-    <content>&lt;h3 id="concentration"&gt;&lt;a id="concentration-concentration"&gt;&lt;/a&gt;&lt;a id="concentration"&gt;&lt;/a&gt;Concentration&lt;/h3&gt;&lt;p&gt;A caster loses &lt;strong&gt;concentration&lt;/strong&gt; when they:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;cast another concentration spell,&lt;/li&gt;
-&lt;li&gt;become incapacitated or killed,&lt;/li&gt;
-&lt;li&gt;takes damage from an attack or effect.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="text-center"&gt;&lt;strong&gt;CON DC = Higher of (10 or &lt;sup&gt;1&lt;/sup&gt;/&lt;sub&gt;2&lt;/sub&gt; DMG)&lt;/strong&gt;&lt;/p&gt;&lt;p class="source"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 203&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="dfe7500f-c81f-59be-8dc6-a543cadd70c9" parent="e782313d-2a6c-5c6d-99b7-2e1d922112b2">
-    <name>Character Name Generator</name>
-    <slug>character-name-generator</slug>
-    <content>&lt;h3&gt;&lt;a id="character-name-generator-character-name-generator"&gt;&lt;/a&gt;&lt;a id="character-name-generator"&gt;&lt;/a&gt;Character Name Generator&lt;/h3&gt;
-&lt;p&gt;Use the following generator to quickly generate a few names based on the character&amp;apos;s race (or culture) and gender identity.&lt;/p&gt;
-&lt;div style="margin-bottom:15px; text-align:center;"&gt;
-    &lt;select id="selectRace"&gt;
-        &lt;option value&gt;-- Race --&lt;/option&gt;
-        &lt;option value="Dragonborn"&gt;Dragonborn&lt;/option&gt;
-        &lt;option value="Dwarf"&gt;Dwarf&lt;/option&gt;
-        &lt;option value="Elf"&gt;Elf&lt;/option&gt;
-        &lt;option value="Gnome"&gt;Gnome&lt;/option&gt;
-        &lt;option value="Halfling"&gt;Halfling&lt;/option&gt;
-        &lt;option value="HumanArabic"&gt;Human (Arabic)&lt;/option&gt;
-        &lt;option value="HumanCeltic"&gt;Human (Celtic)&lt;/option&gt;
-        &lt;option value="HumanChinese"&gt;Human (Chinese)&lt;/option&gt;
-        &lt;option value="HumanEgyptian"&gt;Human (Egyptian)&lt;/option&gt;
-        &lt;option value="HumanEnglish"&gt;Human (English)&lt;/option&gt;
-        &lt;option value="HumanFrench"&gt;Human (French)&lt;/option&gt;
-        &lt;option value="HumanGerman"&gt;Human (German)&lt;/option&gt;
-        &lt;option value="HumanGreek"&gt;Human (Greek)&lt;/option&gt;
-        &lt;option value="HumanIndian"&gt;Human (Indian)&lt;/option&gt;
-        &lt;option value="HumanMesoamerican"&gt;Human (Mesoamerican)&lt;/option&gt;
-        &lt;option value="HumanJapanese"&gt;Human (Japanese)&lt;/option&gt;
-        &lt;option value="HumanNigerCongo"&gt;Human (Niger-Congo)&lt;/option&gt;
-        &lt;option value="HumanNorse"&gt;Human (Norse)&lt;/option&gt;
-        &lt;option value="HumanPolynesian"&gt;Human (Polynesian)&lt;/option&gt;
-        &lt;option value="HumanRoman"&gt;Human (Roman)&lt;/option&gt;
-        &lt;option value="HumanSlavic"&gt;Human (Slavic)&lt;/option&gt;
-        &lt;option value="HumanSpanish"&gt;Human (Spanish)&lt;/option&gt;
-        &lt;option value="Orc"&gt;Orc&lt;/option&gt;
-        &lt;option value="Tiefling"&gt;Tiefling&lt;/option&gt;
-    &lt;/select&gt;
-    &lt;select id="selectGender"&gt;
-        &lt;option value&gt;-- Gender --&lt;/option&gt;
-        &lt;option value="Female"&gt;Female&lt;/option&gt;
-        &lt;option value="Male"&gt;Male&lt;/option&gt;
-    &lt;/select&gt;
-    &lt;button id="buttonGenerateName" onclick="generateName()"&gt; 
-        Generate Name 
-    &lt;/button&gt; 
-&lt;/div&gt;
-&lt;hr&gt;
-&lt;h4 style="text-align:center;"&gt;&lt;a id="character-name-generator-"&gt;&lt;/a&gt;&lt;a id&gt;&lt;/a&gt;&lt;span id="givenName"&gt;&lt;/span&gt; &lt;span id="familyName"&gt;&lt;/span&gt;&lt;/h4&gt;
-&lt;script&gt;
-    // Generate a random named based on the selected name lists.
-    
-    function generateName() {
-
-        // Populate race variable based on the selection in the dropdown menus.
-        let selectRace = document.getElementById('selectRace');
-        let race = selectRace.options[selectRace.selectedIndex].value;
-
-        // Populate gender variable based on the selection in the dropdown menus.
-        let selectGender= document.getElementById('selectGender');
-        let gender = selectGender.options[selectGender.selectedIndex].value;
-
-        // Combine the race and gender variables to identify desired arrays.
-        let givenNameList = eval(race + gender);
-        let familyNameList = eval(race + "Family");
-        
-        // Select the given and family names at random from the appropriate list.
-        givenName.innerHTML = 
-            givenNameList[Math.floor(Math.random() * givenNameList.length)];
-        familyName.innerHTML = 
-            familyNameList[Math.floor(Math.random() * familyNameList.length)];
-    }
-
-    // Data
-    const DragonbornFemale = ["Aakra","Aasathra","Antrara","Arava","Biri","Blendaeth","Burana","Chassath","Daar","Dentratha","Doudra","Driindar","Eggren","Farideh","Findex","Furrele","Gesrethe","Gilkass","Harann","Havilar","Hethress","Hillanot","Jaxi","Jezean","Jheri","Kadana","Kava","Korinn","Megren","Mijira","Mishann","Nala","Nuthra","Perra","Pogranix","Pyxrin","Quespa","Raiann","Rezena","Ruloth","Saphara","Savaran","Surina","Sora","Synthrin","Tatyan","Thava","Uadjit","Vezera","Zykroff"];
-    const DragonbornMale = ["Adrex","Arjhan","Azzakh","Balasar","Baradad","Bharash","Bidreked","Dadalan","Dazzazn","Direcris","Donaar","Fax","Gargax","Ghesh","Gorbundus","Greethen","Heskan","Hirrathak","Ildrex","Kaladan","Kerkad","Kiirith","Kriv","Maagog","Medrash","Mehen","Mozikth","Mreksh","Mugrunden","Nadarr","Nithther","Norkruuth","Nykkan","Pandjed","Patrin","Pijjirik","Quarethon","Rathkran","Rhogar","Rivaan","Sethrekar","Sharnash","Shedinn","Srorthen","Tarhun","Torinn","Trynnicus","Valorean","Vrondiss","Zedaar"];
-    const DragonbornFamily = ["Akambherylliax","Argenthrixus","Baharoosh","Beryntolthropal","Bhenkumbyrznaax","Caavylteradyn","Chumbyxirinnish","Clethtinthiallor","Daardendrian","Delmirev","Dhyrktelonis","Ebynichtomonis","Esstyrlynn","Fharngnarthnost","Ghaallixirn","Grrrmmballhyst","Gygazzylyshrift","Hashphronyxadyn","Hshhsstoroth","Imbixtellrhyst","Jerynomonis","Jharthraxyn","Kerrhylon","Kimbatuul","Lhamboldennish","Linxakasendalor","Mohradyllion","Mystan","Nemmonis","Norixius","Ophinshtalajiir","Orexijandilin","Pfaphnyrennish","Phrahdrandon","Pyraxtallinost","Qyxpahrgh","Raghthroknaar","Shestendeliath","Skaarzborroosh","Sumnarghthrysh","Tiammanthyllish","Turnuroth","Umbyrphrael","Vangdondalor","Verthisathurgiesh","Wivvyrholdalphiax","Wystongjiir","Xephyrbahnor","Yarjerit","Zzzxaaxthroth"];
-    const DwarfFemale = ["Anbera","Artin","Audhild","Balifra","Barbena","Bardryn","Bolhild","Dagnal","Dariff","Delre","Diesa","Eldeth","Eridred","Falkrunn","Fallthra","Finellen","Gillydd","Gunnloda","Gurdis","Helgret","Helja","Hlin","Ilde","Jarana","Kathra","Kilia","Kristryd","Liftrasa","Marastyr","Mardred","Morana","Nalaed","Nora","Nurkara","Oriff","Ovina","Riswynn","Sannl","Therlin","Thodris","Torbera","Tordrid","Torgga","Urshar","Valida","Vistra","Vonana","Werydd","Whurdred","Yurgunn"];
-    const DwarfMale = ["Adrik","Alberich","Baern","Barendd","Beloril","Brottor","Dain","Dalgal","Darrak","Delg","Duergath","Dworic","Eberk","Einkil","Elaim","Erias","Fallond","Fargrim","Gardain","Gilthur","Gimgen","Gimurt","Harbek","Kildrak","Kilvar","Morgran","Morkral","Nalral","Nordak","Nuraval","Oloric","Olunt","Orsik","Oskar","Rangrim","Reirak","Rurik","Taklinn","Thoradin","Thorin","Thradal","Tordek","Traubon","Travok","Ulfgar","Uraim","Veit","Vonbin","Vondal","Whurbin"];
-    const DwarfFamily = ["Aranore","Balderk","Battlehammer","Bigtoe","Bloodkith","Bofdann","Brawnanvil","Brazzik","Broodfist","Burrowfound","Caebrek","Daerdahk","Dankil","Daraln","Deepdelver","Durthane","Eversharp","Fallack","Fireforge","Foamtankard","Frostbeard","Glanhig","Goblinbane","Goldfinder","Gorunn","Graybeard","Hammerstone","Helcral","Holderhek","Ironfist","Loderr","Lutgehr","Morigak","Orcfoe","Rakankrak","Ruby-Eye","Rumnaheim","Silveraxe","Silverstone","Steelfist","Stoutale","Strakeln","Strongheart","Thrahak","Torevir","Torunn","Trollbleeder","Trueanvil","Trueblood","Ungart"];
-    const ElfFemale = ["Adrie","Ahinar","Althaea","Anastrianna","Andraste","Antinua","Arara","Baelitae","Bethrynna","Birel","Caelynn","Chaedi","Claira","Dara","Drusilia","Elama","Enna","Faral","Felosial","Hatae","Ielenia","Ilanis","Irann","Jarsali","Jelenneth","Keyleth","Leshanna","Lia","Maiathah","Malquis","Meriele","Mialee","Myathethil","Naivara","Quelenna","Quillathe","Ridaro","Sariel","Shanairla","Shava","Silaqui","Sumnes","Theirastra","Thiala","Tiaathque","Traulam","Vadania","Valanthe","Valna","Xanaphia"];
-    const ElfMale = ["Adran","Aelar","Aerdeth","Ahvain","Aramil","Arannis","Aust","Azaki","Beiro","Berrian","Caeldrim","Carric","Dayereth","Dreali","Efferil","Eiravel","Enialis","Erdan","Erevan","Fivin","Galinndan","Gennal","Hadarai","Halimath","Heian","Himo","Immeral","Ivellios","Korfel","Lamlis","Laucian","Lucan","Mindartis","Naal","Nutae","Paelias","Peren","Quarion","Riardon","Rolen","Soveliss","Suhnae","Thamior","Tharivol","Theren","Theriatis","Thervan","Uthemar","Vanuath","Varis"];
-    const ElfFamily = ["Aloro","Amakiir","Amastacia","Ariessus","Arnuanna","Berevan","Caerdonel","Caphaxath","Casilltenirra","Cithreth","Dalanthan","Eathalena","Erenaeth","Ethanasath","Fasharash","Firahel","Floshem","Galanodel","Goltorah","Hanali","Holimion","Horineth","Iathrana","Ilphelkiir","Iranapha","Koehlanna","Lathalas","Liadon","Meliamne","Mellerelel","Mystralath","Naïlo","Netyoive","Ofandrus","Ostoroth","Othronus","Qualanthri","Raethran","Rothenel","Selevarun","Siannodel","Suithrasas","Sylvaranth","Teinithra","Tiltathana","Wasanthi","Withrethin","Xiloscient","Xistsrith","Yaeldrin"];
-    const GnomeFemale = ["Abalaba","Bimpnottin","Breena","Buvvie","Callybon","Caramip","Carlin","Cumpen","Dalaba","Donella","Duvamil","Ella","Ellyjoybell","Ellywick","Enidda","Lilli","Loopmottin","Lorilla","Luthra","Mardnab","Meena","Menny","Mumpena","Nissa","Numba","Nyx","Oda","Oppah","Orla","Panana","Pyntle","Quilla","Ranala","Reddlepop","Roywyn","Salanop","Shamil","Siffress","Symma","Tana","Tenena","Tervaround","Tippletoe","Ulla","Unvera","Veloptima","Virra","Waywocket","Yebe","Zanna"];
-    const GnomeMale = ["Alston","Alvyn","Anverth","Arumawann","Bilbron","Boddynock","Brocc","Burgell","Cockaby","Crampernap","Dabbledob","Delebean","Dimble","Eberdeb","Eldon","Erky","Fablen","Fibblestib","Fonkin","Frouse","Frug","Gerbo","Gimble","Glim","Igden","Jabble","Jebeddo","Kellen","Kipper","Namfoodle","Oppleby","Orryn","Paggen","Pallabar","Pog","Qualen","Ribbles","Rimple","Roondar","Sapply","Seebo","Senteq","Sindri","Umpen","Warryn","Wiggens","Wobbles","Wrenn","Zaffrab","Zook"];
-    const GnomeFamily = ["Albaratie","Bafflestone","Beren","Boondiggles","Cobblelob","Daergel","Dunben","Fabblestabble","Fapplestamp","Fiddlefen","Folkor","Garrick","Gimlen","Glittergem","Gobblefirn","Gummen","Horcusporcus","Humplebumple","Ironhide","Leffery","Lingenhall","Loofollue","Maekkelferce","Miggledy","Munggen","Murnig","Musgraben","Nackle","Ningel","Nopenstallen","Nucklestamp","Offund","Oomtrowl","Pilwicken","Pingun","Quillsharpener","Raulnor","Reese","Rofferton","Scheppen","Shadowcloak","Silverthread","Sympony","Tarkelby","Timbers","Turen","Umbodoben","Waggletop","Welber","Wildwander"];
-    const HalflingFemale = ["Alain","Andry","Anne","Bella","Blossom","Bree","Callie","Chenna","Cora","Dee","Dell","Eida","Eran","Euphemia","Georgina","Gynnie","Harriet","Jasmine","Jillian","Jo","Kithri","Lavinia","Lidda","Maegan","Marigold","Merla","Myria","Nedda","Nikki","Nora","Olivia","Paela","Pearl","Pennie","Philomena","Portia","Robbie","Rose","Saral","Seraphina","Shaena","Stacee","Tawna","Thea","Trym","Tyna","Vani","Verna","Wella","Willow"];
-    const HalflingMale = ["Alton","Ander","Bernie","Bobbin","Cade","Callus","Corrin","Dannad","Danniel","Eddie","Egart","Eldon","Errich","Fildo","Finnan","Franklin","Garret","Garth","Gilbert","Gob","Harol","Igor","Jasper","Keith","Kevin","Lazam","Lerry","Lindal","Lyle","Merric","Mican","Milo","Morrin","Nebin","Nevil","Osborn","Ostran","Oswalt","Perrin","Poppy","Reed","Roscoe","Sam","Shardon","Tye","Ulmo","Wellby","Wendel","Wenner","Wes"];
-    const HalflingFamily = ["Appleblossom","Bigheart","Brightmoon","Brushgather","Cherrycheeks","Copperkettle","Deephollow","Elderberry","Fastfoot","Fatrabbit","Glenfellow","Goldfound","Goodbarrel","Goodearth","Greenbottle","Greenleaf","High-hill","Hilltopple","Hogcollar","Honeypot","Jamjar","Kettlewhistle","Leagallow","Littlefoot","Nimblefingers","Porridgepot","Quickstep","Reedfellow","Shadowquick","Silvereyes","Smoothhands","Stonebridge","Stoutbridge","Stoutman","Strongbones","Sunmeadow","Swiftwhistle","Tallfellow","Tealeaf","Tenpenny","Thistletop","Thorngage","Tosscobble","Underbough","Underfoot","Warmwater","Whispermouse","Wildcloak","Wildheart","Wiseacre"];
-    const HumanArabicFemale = ["Aaliyah","Aida","Akilah","Alia","Amina","Atefeh","Chaima","Dalia","Ehsan","Elham","Farah","Fatemah","Gamila","Iesha","Inbar","Kamaria","Khadija","Layla","Lupe","Nabila","Nadine","Naima","Najila","Najwa","Nakia","Nashwa","Nawra","Nuha","Nura","Oma","Qadira","Qamar","Qistina","Rahima","Rihanna","Saadia","Sabah","Sada","Saffron","Sahar","Salma","Shatha","Tahira","Takisha","Thana","Yadira","Zahra","Zaida","Zaina","Zeinab"];
-    const HumanArabicMale = ["Abbad","Abdul","Achmed","Akeem","Alif","Amir","Asim","Bashir","Bassam","Fahim","Farid","Farouk","Fayez","Fayyaad","Fazil","Hakim","Halil","Hamid","Hazim","Heydar","Hussein","Jabari","Jafar","Jahid","Jamal","Kalim","Karim","Kazim","Khadim","Khalid","Mahmud","Mansour","Musharraf","Mustafa","Nadir","Nazim","Omar","Qadir","Qusay","Rafiq","Rakim","Rashad","Rauf","Saladin","Sami","Samir","Talib","Tamir","Tariq","Yazid"];
-    const HumanArabicFamily = ["-- Coming Soon --"];
-    const HumanCelticFemale = ["Aife","Aina","Alane","Ardena","Arienh","Beatha","Birgit","Briann","Caomh","Cara","Cinnia","Cordelia","Deheune","Divone","Donia","Doreena","Elsha","Enid","Ethne","Evelina","Fianna","Genevieve","Gilda","Gitta","Grania","Gwyndolin","Idelisa","Isolde","Keelin","Kennocha","Lavena","Lesley","Linnette","Lyonesse","Mabina","Marvina","Mavis","Mirna","Morgan","Muriel","Nareena","Oriana","Regan","Ronat","Rowena","Selma","Ula","Venetia","Wynne","Yseult"];
-    const HumanCelticMale = ["Airell","Airic","Alan","Anghus","Aodh","Bardon","Bearacb","Bevyn","Boden","Bran","Brasil","Bredon","Brian","Bricriu","Bryant","Cadman","Caradoc","Cedric","Conalt","Conchobar","Condon","Darcy","Devin","Dillion","Donaghy","Donall","Duer","Eghan","Ewyn","Ferghus","Galvyn","Gildas","Guy","Harvey","Iden","Irven","Karney","Kayne","Kelvyn","Kunsgnos","Leigh","Maccus","Moryn","Neale","Owyn","Pryderi","Reaghan","Taliesin","Tiernay","Turi"];
-    const HumanCelticFamily = ["-- Coming Soon --"];
-    const HumanChineseFemale = ["Ai","Anming","Baozhai","Bei","Caixia","Changchang","Chen","Chou","Chunhua","Daianna","Daiyu","Die","Ehuang","Fenfang","Ge","Hong","Huan","Huifang","Jia","Jiao","Jiaying","Jingfei","Jinjing","Lan","Li","Lihua","Lin","Ling","Liu","Meili","Ning","Qi","Qiao","Rong","Shu","Shuang","Song","Ting","Wen","Xia","Xiaodan","Xiaoli","Xingjuan","Xue","Ya","Yan","Ying","Yuan","Yue","Yun"];
-    const HumanChineseMale = ["Bingwen","Bo","Bolin","Chang","Chao","Chen","Cheng","Da","Dingxiang","Fang","Feng","Fu","Gang","Guang","Hai","Heng","Hong","Huan","Huang","Huiliang","Huizhong","Jian","Jiayi","Junjie","Kang","Lei","Liang","Ling","Liwei","Meilin","Niu","Peizhi","Peng","Ping","Qiang","Qiu","Quan","Renshu","Rong","Ru","Shan","Shen","Tengfei","Wei","Xiaobo","Xiaoli","Xin","Yang","Ying","Zhong"];
-    const HumanChineseFamily = ["-- Coming Soon --"];
-    const HumanEgyptianFemale = ["A'at","Ahset","Amunet","Aneksi","Atet","Baketamon","Betrest","Bunefer","Dedyet","Hatshepsut","Hentie","Herit","Hetepheres","Intakaes","Ipwet","Itet","Joba","Kasmut","Kemanub","Khemut","Kiya","Maia","Menhet","Merit","Meritamen","Merneith","Merseger","Muyet","Nebet","Nebetah","Nedjemmut","Nefertiti","Neferu","Neithotep","Nit","Nofret","Nubemiunu","Peseshet","Pypuy","Qalhata","Rai","Redji","Sadeh","Sadek","Sitamun","Sitre","Takhat","Tarset","Taweret","Werenro"];
-    const HumanEgyptianMale = ["Ahmose","Akhom","Amasis","Amenemhet","Anen","Banefre","Bek","Djedefre","Djoser","Hekaib","Henenu","Horemheb","Horwedja","Huya","Ibebi","Idu","Imhotep","Ineni","Ipuki","Irsu","Kagemni","Kawab","Kenamon","Kewap","Khaemwaset","Khafra","Khusebek","Masaharta","Meketre","Menkhaf","Merenre","Metjen","Nebamun","Nebetka","Nehi","Nekure","Nessumontu","Pakhom","Pawah","Pawero","Ramose","Rudjek","Sabaf","Sebek-khu","Sebni","Senusret","Shabaka","Somintu","Thaneni","Thethi"];
-    const HumanEgyptianFamily = ["-- Coming Soon --"];
-    const HumanEnglishFemale = ["Adelaide","Agatha","Agnes","Alice","Aline","Anne","Avelina","Avice","Beatrice","Cecily","Egelina","Eleanor","Elizabeth","Ella","Eloise","Elysande","Emeny","Emma","Emmeline","Ermina","Eva","Galiena","Geva","Giselle","Griselda","Hadwisa","Helen","Herleva","Hugolina","Ida","Isabella","Jacoba","Jane","Joan","Juliana","Katherine","Margery","Mary","Matilda","Maynild","Millicent","Oriel","Rohesia","Rosalind","Rosamund","Sarah","Susannah","Sybil","Williamina","Yvonne"];
-    const HumanEnglishMale = ["Adam","Adelard","Aldous","Anselm","Arnold","Bernard","Bertram","Charles","Clerebold","Conrad","Diggory","Drogo","Everard","Frederick","Geoffrey","Gerald","Gilbert","Godfrey","Gunter","Guy","Henry","Heward","Hubert","Hugh","Jocelyn","John","Lance","Manfred","Miles","Nicholas","Norman","Odo","Percival","Peter","Ralf","Randal","Raymond","Reynard","Richard","Robert","Roger","Roland","Rolf","Simon","Theobald","Theodoric","Thomas","Timm","William","Wymar"];
-    const HumanEnglishFamily = ["-- Coming Soon --"];
-    const HumanFrenchFemale = ["Aalis","Agatha","Agnez","Alberea","Alips","Amée","Amelot","Anne","Avelina","Blancha","Cateline","Cecilia","Claricia","Collette","Denisete","Dorian","Edelina","Emelina","Emmelot","Ermentrudis","Gibelina","Gila","Gillette","Guiburgis","Guillemette","Guoite","Hecelina","Heloysis","Helyoudis","Hodeardis","Isabellis","Jaquette","Jehan","Johanna","Juliote","Katerine","Luciana","Margot","Marguerite","Maria","Marie","Melisende","Odelina","Perrette","Petronilla","Sedilia","Stephana","Sybilla","Ysabeau","Ysabel"];
-    const HumanFrenchMale = ["Ambroys","Ame","Andri","Andriet","Anthoine","Bernard","Charles","Charlot","Colin","Denis","Durant","Edouart","Eremon","Ernault","Ethor","Felix","Floquart","Galleren","Gaultier","Gilles","Guy","Henry","Hugo","Imbert","Jacques","Jacquot","Jean","Jehannin","Louis","Louys","Loys","Martin","Michel","Mille","Morelet","Nicolas","Nicolle","Oudart","Perrin","Phillippe","Pierre","Regnault","Richart","Robert","Robinet","Sauvage","Simon","Talbot","Tanguy","Vincent"];
-    const HumanFrenchFamily = ["-- Coming Soon --"];
-    const HumanGermanFemale = ["Adelhayt","Affra","Agatha","Allet","Angnes","Anna","Apell","Applonia","Barbara","Brida","Brigita","Cecilia","Clara","Cristina","Dorothea","Duretta","Ella","Els","Elsbeth","Engel","Enlein","Enndlin","Eva","Fela","Fronicka","Genefe","Geras","Gerhauss","Gertrudt","Guttel","Helena","Irmel","Jonata","Katerina","Kuen","Kungund","Lucia","Madalena","Magdalen","Margret","Marlein","Martha","Otilia","Ottilg","Peternella","Reusin","Sibilla","Ursel","Vrsula","Walpurg"];
-    const HumanGermanMale = ["Albrecht","Allexander","Baltasar","Benedick","Berhart","Caspar","Clas","Cristin","Cristoff","Dieterich","Engelhart","Erhart","Felix","Frantz","Fritz","Gerhart","Gotleib","Hans","Hartmann","Heintz","Herman","Jacob","Jeremias","Jorg","Karll","Kilian","Linhart","Lorentz","Ludwig","Marx","Melchor","Mertin","Michel","Moritz","Osswald","Ott","Peter","Rudolff","Ruprecht","Sewastian","Sigmund","Steffan","Symon","Thoman","Ulrich","Vallentin","Wendel","Wilhelm","Wolff","Wolfgang"];
-    const HumanGermanFamily = ["-- Coming Soon --"];
-    const HumanGreekFemale = ["Acantha","Aella","Alektos","Alkippe","Andromeda","Antigone","Ariadne","Astraea","Chloros","Chryseos","Daphne","Despoina","Dione","Eileithyia","Elektra","Euadne","Eudora","Eunomia","Hekabe","Helene","Hermoione","Hippolyte","Ianthe","Iokaste","Iole","Iphigenia","Ismene","Kalliope","Kallisto","Kalypso","Karme","Kassandra","Kassiopeia","Kirke","Kleio","Klotho","Klytië","Kynthia","Leto","Megaera","Melaina","Melpomene","Nausikaa","Nemesis","Niobe","Ourania","Phaenna","Polymnia","Semele","Theia"];
-    const HumanGreekMale = ["Adonis","Adrastos","Aeson","Aias","Aineias","Aiolos","Alekto","Alkeides","Argos","Brontes","Damazo","Dardanos","Deimos","Diomedes","Endymion","Epimetheus","Erebos","Euandros","Ganymedes","Glaukos","Hektor","Heros","Hippolytos","Iacchus","Iason","Kadmos","Kastor","Kephalos","Kepheus","Koios","Kreios","Laios","Leandros","Linos","Lykos","Melanthios","Menelaus","Mentor","Neoptolemus","Okeanos","Orestes","Pallas","Patroklos","Philandros","Phoibos","Phrixus","Priamos","Pyrrhos","Xanthos","Zephyros"];
-    const HumanGreekFamily = ["-- Coming Soon --"];
-    const HumanIndianFemale = ["Abha","Aishwarya","Amala","Ananda","Ankita","Archana","Avani","Chandana","Chandrakanta","Chetan","Darshana","Devi","Dipti","Esha","Gauro","Gita","Indira","Indu","Jaya","Kala","Kalpana","Kamala","Kanta","Kashi","Kishori","Lalita","Lina","Madhur","Manju","Meera","Mohana","Mukta","Nisha","Nitya","Padma","Pratima","Priya","Rani","Sarala","Shakti","Shanta","Shobha","Sima","Sonal","Sumana","Sunita","Tara","Valli","Vijaya","Vimala"];
-    const HumanIndianMale = ["Abhay","Ahsan","Ajay","Ajit","Akhil","Amar","Amit","Ananta","Aseem","Ashok","Bahadur","Basu","Chand","Chandra","Damodar","Darhsan","Devdan","Dinesh","Dipak","Gopal","Govind","Harendra","Harsha","Ila","Isha","Johar","Kalyan","Kiran","Kumar","Lakshmana","Mahavir","Narayan","Naveen","Nirav","Prabhakar","Prasanna","Raghu","Rajanikant","Rakesh","Ranjeet","Rishi","Sanjay","Sekar","Shandar","Sumantra","Vijay","Vikram","Vimal","Vishal","Yash"];
-    const HumanIndianFamily = ["-- Coming Soon --"];
-    const HumanJapaneseFemale = ["Aika","Akemi","Akiko","Amaya","Asami","Ayumi","Bunko","Chieko","Chika","Chiyo","Cho","Eiko","Emiko","Eri","Etsuko","Gina","Hana","Haruki","Hideko","Hikari","Hiroko","Hisoka","Hishi","Hotaru","Izumi","Kameyo","Kasumi","Kimiko","Kotone","Kyoko","Maiko","Masako","Mi","Minori","Mizuki","Naoki","Natsuko","Noriko","Rei","Ren","Saki","Shigeko","Shinju","Sumiko","Toshiko","Tsukiko","Ume","Usagi","Yasuko","Yuriko"];
-    const HumanJapaneseMale = ["Akio","Atsushi","Daichi","Daiki","Daisuke","Eiji","Fumio","Hajime","Haru","Hideaki","Hideo","Hikaru","Hiro","Hiroki","Hisao","Hitoshi","Isamu","Isao","Jun","Katashi","Katsu","Kei","Ken","Kenshin","Kenta","Kioshi","Makoto","Mamoru","Masato","Masumi","Noboru","Norio","Osamu","Ryota","Sadao","Satoshi","Shigeo","Shin","Sora","Tadao","Takehiko","Takeo","Takeshi","Takumi","Tamotsu","Tatsuo","Toru","Toshio","Yasuo","Yukio"];
-    const HumanJapaneseFamily = ["-- Coming Soon --"];
-    const HumanMesoamericanFemale = ["Ahuiliztli","Atl","Centehua","Chalchiuitl","Chipahua","Cihuaton","Citlali","Citlalmina","Coszcatl","Cozamalotl","Cuicatl","Eleuia","Eloxochitl","Eztli","Ichtaca","Icnoyotl","Ihuicatl","Ilhuitl","Itotia","Iuitl","Ixcatzin","Izel","Malinalxochitl","Mecatl","Meztli","Miyaoaxochitl","Mizquixaual","Moyolehuani","Nahuatl","Necahual","Nenetl","Nochtli","Noxochicoztli","Ohtli","Papan","Patli","Quetzalxochitl","Sacnite","Teicui","Tepin","Teuicui","Teyacapan","Tlaco","Tlacoehua","Tlacotl","Tlalli","Tlanextli","Xihuitl","Xiuhcoatl","Xiuhtonal"];
-    const HumanMesoamericanMale = ["Achcauhtli","Amoxtli","Chicahua","Chimalli","Cipactli","Coaxoch","Coyotl","Cualli","Cuauhtémoc","Cuetlachtilo","Cuetzpalli","Cuixtli","Ehecatl","Etalpalli","Huemac","Huitzilihuitl","Iccauhtli","Ilhicamina","Itztli","Ixtli","Mahuizoh","Manauia","Matlal","Matlalihuitl","Mazatl","Mictlantecuhtli","Milintica","Momoztli","Namacuix","Necalli","Necuametl","Nezahualcoyotl","Nexahualpilli","Nochehuatl","Nopaltzin","Ollin","Quauhtli","Tenoch","Teoxihuitl","Tepiltzin","Tezcacoatl","Tlacaelel","Tlacelel","Tlaloc","Tlanextic","Tlazohtlaloni","Tlazopillo","Uetzcayotl","Xipilli","Yaotl"];
-    const HumanMesoamericanFamily = ["-- Coming Soon --"];
-    const HumanNigerCongoFemale = ["Abebi","Abena","Abimbola","Akoko","Akachi","Alaba","Anuli","Ayo","Bolanle","Bosede","Chiamaka","Chidi","Chidimma","Chinyere","Chioma","Dada","Ebele","Efemena","Ejiro","Ekundayo","Enitan","Funanya","Ifunanya","Ige","Ime","Kunto","Lesedi","Lumusi","Mojisola","Monifa","Nakato","Ndidi","Ngozi","Nkiruka","Nneka","Ogechi","Olamide","Oluchi","Omolara","Onyeka","Simisola","Temitope","Thema","Titlayo","Udo","Uduak","Ufuoma","Yaa","Yejide","Yewande"];
-    const HumanNigerCongoMale = ["Abebe","Abel","Abidemi","Abrafo","Adisa","Amadi","Amara","Anyim","Azubuike","Bapoto","Baraka","Bohlale","Bongani","Bujune","Buziba","Chakide","Chibuzo","Chika","Chimola","Chiratidzo","Dabulamanzi","Dumisa","Dwanh","Emeka","Folami","Gatura","Gebhuza","Gero","Isoba","Kagiso","Kamau","Katlego","Masego","Matata","Nthanda","Ogechi","Olwenyo","Osumare","Paki","Qinisela","Quanda","Samanya","Shanika","Sibonakaliso","Tapiwa","Thabo","Themba","Uzoma","Zuberi","Zuri"];
-    const HumanNigerCongoFamily = ["-- Coming Soon --"];
-    const HumanNorseFemale = ["Alfhild","Arnbjorg","Ase","Aslog","Astrid","Auda","Audhid","Bergljot","Birghild","Bodil","Brenna","Brynhild","Dagmar","Eerika","Eira","Gudrun","Gunborg","Gunhild","Gunvor","Helga","Hertha","Hilde","Hillevi","Ingrid","Iona","Jorunn","Kari","Kenna","Magnhild","Nanna","Olga","Ragna","Ragnhild","Ranveig","Runa","Saga","Sigfrid","Signe","Sigrid","Sigrunn","Solveg","Svanhild","Thora","Torborg","Torunn","Tove","Unn","Vigdis","Ylva","Yngvild"];
-    const HumanNorseMale = ["Agni","Alaric","Anvindr","Arvid","Asger","Asmund","Bjarte","Bjorg","Bjorn","Brandr","Brandt","Brynjar","Calder","Colborn","Cuyler","Egil","Einar","Eric","Erland","Fiske","Folkvar","Fritjof","Frode","Geir","Halvar","Hemming","Hjalmar","Hjortr","Ingimarr","Ivar","Knud","Leif","Liufr","Manning","Oddr","Olin","Ormr","Ove","Rannulfr","Sigurd","Skari","Snorri","Sten","Stigandr","Stigr","Sven","Trygve","Ulf","Vali","Vidar"];
-    const HumanNorseFamily = ["-- Coming Soon --"];
-    const HumanPolynesianFemale = ["Ahulani","Airini","Alani","Aluala","Anahera","Anuhea","Aolani","Elenoa","Emele","Fetia","Fiva","Halona","Hi'ilei","Hina","Hinatea","Huali","Inia","Inina","Iolani","Isa","Ka'ana'ana","Ka'ena","Kaamia","Kahula","Kailani","Kamaile","Kamakani","Kamea","Latai","Liona","Lokelani","Marva","Mehana","Millawa","Moana","Ngana","Nohea","Pelika","Sanoe","Satina","Tahia","Tasi","Tiaho","Tihani","Toroa","Ulanni","Uluwehi","Vaina","Waiola","Waitara"];
-    const HumanPolynesianMale = ["Afa","Ahohako","Aisake","Aleki","Anewa","Anitelu","Aputi","Ariki","Butat","Enele","Fef","Fuifui","Ha'aheo","Hanohano","Haunui","Hekili","Hiapo","Hikawera","Hanano","Ho'onani","Hoku","Hû'eu","Ina","Itu","Ka'aukai","Ka'eo","Kaelani","Kahale","Kaiea","Kaikoa","Kana'I","Koamalu","Ka","Laki","Makai","Manu","Manuka","Nui","Pono","Popoki","Ruru","Tahu","Taurau","Tuala","Turoa","Tusitala","Uaine","Waata","Waipuna","Zamar"];
-    const HumanPolynesianFamily = ["-- Coming Soon --"];
-    const HumanRomanFemale = ["Aelia","Aemilia","Agrippina","Alba","Antonia","Aquila","Augusta","Aurelia","Balbina","Blandina","Caelia","Camilla","Casia","Claudia","Cloelia","Domitia","Drusa","Fabia","Fabricia","Fausta","Flavia","Floriana","Fulvia","Germana","Glaucia","Gratiana","Hadriana","Hermina","Horatia","Hortensia","Iovita","Iulia","Laelia","Laurentia","Livia","Longina","Lucilla","Lucretia","Marcella","Marcia","Maxima","Nona","Octavia","Paulina","Petronia","Porcia","Tacita","Tullia","Verginia","Vita"];
-    const HumanRomanMale = ["Aelius","Aetius","Agrippa","Albanus","Albus","Antonius","Appius","Aquilinus","Atilus","Augustus","Aurelius","Avitus","Balbus","Blandus","Blasius","Brutus","Caelius","Caius","Casian","Cassius","Cato","Celsus","Claudius","Cloelius","Cnaeus","Crispus","Cyprianus","Diocletianus","Egnatius","Ennius","Fabricius","Faustus","Gaius","Germanus","Gnaeus","Horatius","Iovianus","Iulius","Lucilius","Manius","Marcus","Marius","Maximus","Octavius","Paulus","Quintilian","Regulus","Servius","Tacitus","Varius"];
-    const HumanRomanFamily = ["-- Coming Soon --"];
-    const HumanSlavicFemale = ["Agripina","Anastasiya","Bogdana","Boleslava","Bozhena","Danica","Darya","Desislava","Dragoslava","Dunja","Efrosinia","Ekaterina","Elena","Faina","Galina","Irina","Iskra","Jasna","Katarina","Katya","Kresimira","Lyudmila","Magda","Mariya","Militsa","Miloslava","Mira","Miroslava","Mokosh","Morana","Natasha","Nika","Olga","Rada","Radoslava","Raisa","Slavitsa","Sofiya","Stanislava","Svetlana","Tatyana","Tomislava","Veronika","Vesna","Vladimira","Yaroslava","Yelena","Zaria","Zarya","Zoria"];
-    const HumanSlavicMale = ["Aleksandru","Berislav","Blazh","Bogumir","Boguslav","Borislav","Bozhidar","Bratomil","Bratoslav","Bronislav","Chedomir","Chestibor","Chestirad","Chestislav","Desilav","Dmitrei","Dobromil","Dobroslav","Dragomir","Dragutin","Drazhan","Gostislav","Kazimir","Kyrilu","Lyubomir","Mechislav","Milivoj","Milosh","Mstislav","Nikola","Ninoslav","Premislav","Radomir","Radovan","Ratimir","Rostislav","Slavomir","Stanislav","Svetoslav","Tomislav","Vasili","Velimir","Vladimir","Vladislav","Vlastimir","Volodimeru","Vratislav","Yarognev","Yaromir","Zbignev"];
-    const HumanSlavicFamily = ["-- Coming Soon --"];
-    const HumanSpanishFemale = ["Abella","Adalina","Adora","Adriana","Ana","Antonia","Basilia","Beatriz","Bonita","Camila","Cande","Carmen","Catlina","Dolores","Dominga","Dorotea","Elena","Elicia","Esmerelda","Felipina","Francisca","Gabriela","Imelda","Ines","Isabel","Juana","Leocadia","Leonor","Leta","Lucinda","Maresol","Maria","Maricela","Matilde","Melania","Monica","Neva","Nilda","Petrona","Rafaela","Ramira","Rosario","Sofia","Suelo","Teresa","Tomasa","Valentia","Veronica","Ynes","Ysabel"];
-    const HumanSpanishMale = ["Alexandre","Alfonso","Alonso","Anthon","Arcos","Arnaut","Arturo","Bartoleme","Benito","Bernat","Blasco","Carlos","Damian","Diego","Domingo","Enrique","Escobar","Ettor","Fernando","Franciso","Gabriel","Garcia","Gaspar","Gil","Gomes","Goncalo","Gostantin","Jayme","Joan","Jorge","Jose","Juan","Machin","Martin","Mateu","Miguel","Nicolas","Pascual","Pedro","Porico","Ramiro","Ramon","Rodrigo","Sabastian","Salvador","Simon","Tomas","Tristan","Valeriano","Ynigo"];
-    const HumanSpanishFamily = ["-- Coming Soon --"];
-    const OrcFemale = ["Arha","Baggi","Bendoo","Bilga","Brakka","Creega","Drenna","Ekk","Emen","Engong","Fistula","Gaaki","Gorga","Grai","Greeba","Grigi","Gynk","Hrathy","Huru","Ilga","Kabbarg","Kansif","Lagazi","Lezre","Murgen","Murook","Myev","Nagrette","Neega","Nella","Nogu","Oolah","Ootah","Ovak","Ownka","Puyet","Reeza","Shautha","Silgre","Sutha","Tagga","Tawar","Tomph","Ubada","Vanchu","Vola","Volen","Vorka","Yevelda","Zagga"];
-    const OrcMale = ["Argran","Braak","Brug","Cagak","Dench","Dorn","Dren","Druuk","Feng","Gell","Gnarsh","Grumbar","Gubrash","Hagren","Henk","Hogar","Holg","Imsh","Karash","Karg","Keth","Korag","Krusk","Lubash","Megged","Mhurren","Mord","Morg","Nil","Nybarg","Odorr","Ohr","Rendar","Resh","Ront","Rrath","Sark","Scrag","Sheggen","Shump","Tanglar","Tarak","Thar","Thokk","Trag","Ugarth","Varg","Vilberg","Yurk","Zed"];
-    const OrcFamily = ["-- Coming Soon --"];
-    const TieflingFemale = ["Akta","Anakis","Armara","Astaro","Aym","Azza","Beleth","Bryseis","Bune","Criella","Damaia","Decarabia","Ea","Gadreel","Gomory","Hecat","Ishte","Jezebeth","Kali","Kallista","Kasdeya","Lerissa","Lilith","Makaria","Manea","Markosian","Mastema","Naamah","Nemeia","Nija","Orianna","Osah","Phelaia","Prosperine","Purah","Pyra","Rieta","Ronobe","Ronwe","Seddit","Seere","Sekhmet","Semyaza","Shava","Shax","Sorath","Uzza","Vapula","Vepar","Verin"];
-    const TieflingMale = ["Abad","Ahrim","Akmen","Amnon","Andram","Astar","Balam","Barakas","Bathin","Caim","Chem","Cimer","Cressel","Damakos","Ekemon","Euron","Fenriz","Forcas","Habor","Iados","Kairon","Leucis","Mamnen","Mantus","Marbas","Melech","Merihim","Modean","Mordai","Mormo","Morthos","Nicor","Nirgel","Oriax","Paymon","Pelaios","Purson","Qemuel","Raam","Rimmon","Sammal","Skamos","Tethren","Thamuz","Therai","Valafar","Vassago","Xappan","Zepar","Zephan"];
-    const TieflingFamily = ["Ambition","Art","Carrion","Chant","Creed","Death","Debauchery","Despair","Doom","Doubt","Dread","Ecstasy","Ennui","Entropy","Excellence","Fear","Glory","Gluttony","Grief","Hate","Hope","Horror","Ideal","Ignominy","Laughter","Love","Lust","Mayhem","Mockery","Murder","Muse","Music","Mystery","Nowhere","Open","Pain","Passion","Poetry","Quest","Random","Reverence","Revulsion","Sorrow","Temerity","Torment","Tragedy","Vice","Virtue","Weary","Wit"];
-&lt;/script&gt; </content>
   </page>
 </module>
