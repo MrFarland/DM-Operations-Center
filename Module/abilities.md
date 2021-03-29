@@ -73,8 +73,7 @@ Abilities that can be paired with this skill are:
 | **Huge**   | [STR](strength) x 60 |
 {.gray}
 
-**Calculated**<br/>
-We do enough math, here are the capacities for small, medium and large creatures. 
+*We do enough math, here are the pre-calculated capacities for small, medium and large creatures.*
 |    |   S/M  |    L   |
 |:--:|:------:|:------:|
 | 10 | 150 lb | 300 lb |
@@ -104,8 +103,7 @@ We do enough math, here are the capacities for small, medium and large creatures
 | **Huge**   | Strength x 120 |
 {.gray}
 
-**Calculated**<br/>
-We do enough math, here are the limits for small, medium and large creatures. 
+*We do enough math, here are the pre-calculated capacities for small, medium and large creatures.*
 |    |   S/M  |    L   |
 |:--:|:------:|:------:|
 | 10 | 300 lb | 600 lb |
@@ -206,6 +204,7 @@ Characters wearing heavy armor do not add their [DEX](dexterity) modifier to the
 - Cannot hide if clearly visible.
 - Cannot hide if searcher saw you hide.
 - [Invisible](invisible) creatures can always try.
+- Sound & tracks can give them away.
 - Ends if discovered or stop hiding.
 
 ***Sources**: Player's Handbook, p. 177*
