@@ -7,38 +7,43 @@ module-pagebreaks: h1, h2, h3
 ## Abilities
 [Home](home) > Abilities  {.small-text}
 
+**Abilties**
 <div id="menu-container">
-    <a href="link">Link</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
+    <a href="strength">Strength</a>
+    <a href="dexterity">Dexterity</a>
+    <a href="constitution">Constitution</a>
+    <a href="intelligence">Intelligence</a>
+    <a href="wisdom">Wisdom</a>
+    <a href="charisma">Charisma</a>
+</div>
+<br/>
+
+**Other Topics**
+<div id="menu-container">
+    <a href="">Ability Modifiers</a>
+    <a href="">Advantage</a>
+    <a href="">Contests</a>
+    <a href="">Difficulty Class</a>
+    <a href="">Group Checks</a>
+    <a href="">Passive Checks</a>
 </div>
 
 
 
+
 ### Strength
-Strength measures bodily power, athletic training, and raw physical power.
+Athletic training and raw physical power.
 
 **Ability Checks**<br/>
-Use general ability checks for situations like:
-- An attempt to [lift](push-drag-lift) a very heavy object.
-- Trying to [push](push-drag-lift) open a stuck door.
-- Attempting to break free from bonds.
-- [Carrying](carry-capacity) something a long way.
-- Trying to hold on to a ledge or rope.
+- [Lift](push-drag-lift) a very heavy object.
+- [Force](push-drag-lift) open a barricaded door.
+- [Carry](carry-capacity) something a long distance.
+- Break [something](objects) with brute strength.
+- Hold on to a ledge or rope.
 {.square}
 
 **Attack & Damage Rolls**<br/>
-The Strength modifier is added to attack and damage rolls for:
-- Melee Attacks
+- Add modifier to melee attacks
 - Ranged Attacks with Thrown Weapons
 
 **Alternate Skills**<br/>
