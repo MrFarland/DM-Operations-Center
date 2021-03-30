@@ -28,5 +28,5 @@ order: 00
 
 **Tools**
 <div id="menu-container">
-    <a href="character-name">Character Name Generator</a>
+    <a href="character-name-generator">Character Name Generator</a>
 </div>
