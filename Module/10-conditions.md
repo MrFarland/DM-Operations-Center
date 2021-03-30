@@ -38,137 +38,152 @@ module-pagebreaks: h1, h2, h3
 ### Blinded
 [Home](home) > [Conditions](conditions) > Blinded {.small-text}
 
-A **blinded** creature cannot see and:
-- checks based on sight fail,
-- attacks against it have advantage,
-- its attacks have disadvantage,
+- The creature cannot see.
+- All checks that rely on sight fail.
+- All attacks have [disadvantage](advantage).
+- Attacks **against** have [advantage](advantage).
 {.square}
 
-*Source: Player's Handbook, p. 290* {.small-text}
-
+> **Sources** <br/>
+> Player's Handbook, p. 290
+{.read .small-text}
 
 
 ### Cursed
 [Home](home) > [Conditions](conditions) > Cursed {.small-text}
 
+**COMING SOON** {.text-center}
 
-*Source: Player's Handbook, p. xxx* {.small-text}
-
+> **Sources** <br/>
+> Player's Handbook, p. xxx
+{.read .small-text}
 
 
 ### Deafened
 [Home](home) > [Conditions](conditions) > Deafened {.small-text}
 
-A **deafened** creature cannot hear and:
-- checks based on hearing fail.
+- The creature cannot hear.
+- All checks based on hearing fail.
 {.square}
 
-*Source: Player's Handbook, p. 290* {.small-text}
-
+> **Sources** <br/>
+> Player's Handbook, p. 290
+{.read .small-text}
 
 
 ### Diseased
 [Home](home) > [Conditions](conditions) > Diseased {.small-text}
 
+**COMING SOON** {.text-center}
 
-*Source: Player's Handbook, p. xxx* {.small-text}
+> **Sources** <br/>
+> Player's Handbook, p. xxx
+{.read .small-text}
 
 
 
 ### Dying
 [Home](home) > [Conditions](conditions) > Dying {.small-text}
 
+**COMING SOON** {.text-center}
 
-*Source: Player's Handbook, p. xxx* {.small-text}
+> **Sources** <br/>
+> Player's Handbook, p. xxx
+{.read .small-text}
 
 
 
 ### Exhaustion
 [Home](home) > [Conditions](conditions) > Exhaustion {.small-text}
 
-An **exhausted** creature has:
-|Level| Effect |
+|||
 |:---:|:--------------------------------|
-|  1  | Disadvantage on ability checks  |
+|  1  | [Disadvantage](advantage) on ability checks  |
 |  2  | Speed halved                    |
-|  3  | Disadvantage on attacks & saves |
-|  4  | Hit point maximum halved        |
+|  3  | [Disadvantage](advantage) on attacks & saves |
+|  4  | [Hit point](hit-points) maximum halved        |
 |  5  | Speed reduced to 0              |
 |  6  | Death                           |
-{.gray}
+{.gray .small-text}
 
-- Additional points increase the level.
-- Suffer effects of current & lower levels.
-- Ends if level is reduced below level 1.
-- Long rest lowers level w/ food & drink.
+- Gaining additional points increases level.
+- Suffer effects of current and lower levels.
+- Ends if the current level is reduced below 1.
+- [Long rest](rest) lowers level by 1, w/ [food & water](food-water).
 {.square}
 
-*Source: Player's Handbook, p. 291* {.small-text}
-
+> **Sources** <br/>
+> Player's Handbook, p. 291
+{.read .small-text}
 
 
 
 ### Frightened
 [Home](home) > [Conditions](conditions) > Frightened {.small-text}
 
-A **frightened** creature:
-- has disadvantage on checks & attacks while small-text of fear is in sight.
-- Can't move closer to small-text of fear.
+- Afraid of the creature that caused the effect.
+- [Disadvantage](disadvantage) on checks if source in sight.
+- [Disadvantage](disadvantage) on attacks if source in sight.
+- Cannot willingly move closer to source.
 {.square}
 
-*Source: Player's Handbook, p. 290* {.small-text}
-
-
+> **Sources** <br/>
+> Player's Handbook, p. 290
+{.read .small-text}
 
 
 ### Grappled
 [Home](home) > [Conditions](conditions) > Grappled {.small-text}
 
-A **grappled** creature:
-- has a speed of 0,
-- cannot benefit from bonus to speed,
-
-The condition is removed if the:
-- grappler releases the creature,
-- creature is forced out of reach.
+- The grappled creature's speed is 0.
+- Cannot benefit from any bonus to speed.
 {.square}
 
-*Source: Player's Handbook, p. 290* {.small-text}
+The condition ends when/if the:
+- Creature is released by the grappler.
+- Creature is forced out of grappler's reach.
+{.square}
 
+> **Sources** <br/>
+> Player's Handbook, p. 290
+{.read .small-text}
 
 
  ### Incapacitated
  [Home](home) > [Conditions](conditions) > Incapacitated {.small-text}
 
- An **incapacitated** creature:
- - cannot take actions or reactions.
+ - Cannot take any actions or reactions.
  {.square}
 
-*Source: Player's Handbook, p. 290* {.small-text}
-
+> **Sources** <br/>
+> Player's Handbook, p. 290
+{.read .small-text}
 
 
 ### Invisible
  [Home](home) > [Conditions](conditions) > Invisible {.small-text}
 
-An **invisible** creature:
-- is impossible to see without magic,
-- is heavily obscured when hiding,
-- can be detected by noise & tracks,
-- has advantage on attacks,
+- Only be seen with magic or special [sight](sight).
+- Considered [heavily obscured](obscured) for [hiding](hiding).
+- Can still be detected by noise & tracks.
+- All attacks have [advantage](advantage).
+- Attacks **against** have [disadvantage](disadvantage).
 {.square}
 
-Attacks against have disadvantage.
-
-*Source: Player's Handbook, p. 291* {.small-text}
+> **Sources** <br/>
+> Player's Handbook, p. 291
+{.read .small-text}
 
 
 
 ### Madness
 [Home](home) > [Conditions](conditions) > Madness {.small-text}
 
+**COMING SOON** {.text-center}
 
-*Source: Player's Handbook, p. xxx* {.small-text}
+> **Sources** <br/>
+> Player's Handbook, p. xxx
+{.read .small-text}
 
 
 
@@ -250,8 +265,11 @@ Attack against have advantage.
 ### Sleeping
 [Home](home) > [Conditions](conditions) > Sleeping {.small-text}
 
+**COMING SOON** {.text-center}
 
-*Source: Player's Handbook, p. xxx* {.small-text}
+> **Sources** <br/>
+> Player's Handbook, p. xxx
+{.read .small-text}
 
 
 
@@ -273,8 +291,11 @@ Attack against have advantage.
 ### Suffocating
 [Home](home) > [Conditions](conditions) > Suffocating {.small-text}
 
+**COMING SOON** {.text-center}
 
-*Source: Player's Handbook, p. xxx* {.small-text}
+> **Sources** <br/>
+> Player's Handbook, p. xxx
+{.read .small-text}
 
 
 

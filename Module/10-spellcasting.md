@@ -8,26 +8,26 @@ module-pagebreaks: h1, h2, h3
 [Home](home) > Spellcasting {.small-text}
 
 <div id="menu-container">
-    <a href="area-effect">Area Effects</a>
-    <a href="casting-time">Casting Time</a>
+    <a href="area-of-effect">Area of<br/> Effects</a>
+    <a href="casting-time">Casting<br/> Time</a>
     <a href="combining-effects">Combining Effects</a>
     <a href="components">Components</a>
     <a href="concentration">Concentration</a>
     <a href="duration">Duration</a>
     <a href="known-prepared-spells">Known & Prepared</a>
-    <a href="rituals">Rituals</a>
-    <a href="schools">Schools</a>
-    <a href="spell-attack">Spell Attack</a>
-    <a href="spell-level">Spell Level</a>
-    <a href="spell-range">Spell Range</a>
-    <a href="spell-saves">Spell Save</a>
-    <a href="spell-slots">Spell Slots</a>
-    <a href="spell-targets">Spell Targets</a>
+    <a href="ritual-casting">Ritual<br/> Casting</a>
+    <a href="schools-of-magic">Schools<br/> of Magic</a>
+    <a href="spell-attacks">Spell<br/> Attacks</a>
+    <a href="spell-level">Spell<br/> Level</a>
+    <a href="spell-range">Spell<br/> Range</a>
+    <a href="spell-saves">Spell<br/> Saves</a>
+    <a href="spell-slots">Spell<br/> Slots</a>
+    <a href="spell-targets">Spell<br/> Targets</a>
 </div>
 
 
 
-### Area Effects
+### Area of Effects
 [Home](home) > [Spellcasting](spellcasting) > Area Effects {.small-text}
 
 > **Sources** <br/>
@@ -89,7 +89,7 @@ A caster loses **concentration** when they:
 
 
 
-### Rituals
+### Ritual Casting
 [Home](home) > [Spellcasting](spellcasting) > Rituals {.small-text}
 
 > **Sources** <br/>
@@ -98,7 +98,7 @@ A caster loses **concentration** when they:
 
 
 
-### Schools
+### Schools of Magic
 [Home](home) > [Spellcasting](spellcasting) > Schools {.small-text}
 
 > **Sources** <br/>
@@ -107,7 +107,7 @@ A caster loses **concentration** when they:
 
 
 
-### Spell Attack
+### Spell Attacks
 [Home](home) > [Spellcasting](spellcasting) > Spell Attack {.small-text}
 
 > **Sources** <br/>
@@ -134,7 +134,7 @@ A caster loses **concentration** when they:
 
 
 
-### Spell Save
+### Spell Saves
 [Home](home) > [Spellcasting](spellcasting) > Spell Save {.small-text}
 
 > **Sources** <br/>

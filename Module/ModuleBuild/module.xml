@@ -751,48 +751,67 @@ Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"
   <page id="4107493b-239a-58f0-80ed-c27deb8df4f5" sort="0" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Blinded</name>
     <slug>blinded</slug>
-    <content>&lt;h3 id="blinded"&gt;&lt;a id="blinded-blinded"&gt;&lt;/a&gt;&lt;a id="blinded"&gt;&lt;/a&gt;Blinded&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Blinded&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;blinded&lt;/strong&gt; creature cannot see and:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;checks based on sight fail,&lt;/li&gt;
-&lt;li&gt;attacks against it have advantage,&lt;/li&gt;
-&lt;li&gt;its attacks have disadvantage,&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="small-text"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
+    <content>&lt;h3 id="blinded"&gt;&lt;a id="blinded-blinded"&gt;&lt;/a&gt;&lt;a id="blinded"&gt;&lt;/a&gt;Blinded&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Blinded&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;The creature cannot see.&lt;/li&gt;
+&lt;li&gt;All checks that rely on sight fail.&lt;/li&gt;
+&lt;li&gt;All attacks have &lt;a href="advantage"&gt;disadvantage&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Attacks &lt;strong&gt;against&lt;/strong&gt; have &lt;a href="advantage"&gt;advantage&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 290&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="6bad69c9-e5a3-5ce1-92d4-880a16d0510a" sort="1" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Cursed</name>
     <slug>cursed</slug>
-    <content>&lt;h3 id="cursed"&gt;&lt;a id="cursed-cursed"&gt;&lt;/a&gt;&lt;a id="cursed"&gt;&lt;/a&gt;Cursed&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Cursed&lt;/p&gt;&lt;p class="small-text"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. xxx&lt;/em&gt;&lt;/p&gt;</content>
+    <content>&lt;h3 id="cursed"&gt;&lt;a id="cursed-cursed"&gt;&lt;/a&gt;&lt;a id="cursed"&gt;&lt;/a&gt;Cursed&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Cursed&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="c364e703-2c18-5f67-b0e3-b0b3325f2d67" sort="2" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Deafened</name>
     <slug>deafened</slug>
-    <content>&lt;h3 id="deafened"&gt;&lt;a id="deafened-deafened"&gt;&lt;/a&gt;&lt;a id="deafened"&gt;&lt;/a&gt;Deafened&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Deafened&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;deafened&lt;/strong&gt; creature cannot hear and:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;checks based on hearing fail.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="small-text"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
+    <content>&lt;h3 id="deafened"&gt;&lt;a id="deafened-deafened"&gt;&lt;/a&gt;&lt;a id="deafened"&gt;&lt;/a&gt;Deafened&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Deafened&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;The creature cannot hear.&lt;/li&gt;
+&lt;li&gt;All checks based on hearing fail.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 290&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="f9dca2a1-7214-55ab-8d33-706a3eb63600" sort="3" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Diseased</name>
     <slug>diseased</slug>
-    <content>&lt;h3 id="diseased"&gt;&lt;a id="diseased-diseased"&gt;&lt;/a&gt;&lt;a id="diseased"&gt;&lt;/a&gt;Diseased&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Diseased&lt;/p&gt;&lt;p class="small-text"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. xxx&lt;/em&gt;&lt;/p&gt;</content>
+    <content>&lt;h3 id="diseased"&gt;&lt;a id="diseased-diseased"&gt;&lt;/a&gt;&lt;a id="diseased"&gt;&lt;/a&gt;Diseased&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Diseased&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="4ee14c87-8494-518c-bfd7-2b5c8b0f9b59" sort="4" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Dying</name>
     <slug>dying</slug>
-    <content>&lt;h3 id="dying"&gt;&lt;a id="dying-dying"&gt;&lt;/a&gt;&lt;a id="dying"&gt;&lt;/a&gt;Dying&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Dying&lt;/p&gt;&lt;p class="small-text"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. xxx&lt;/em&gt;&lt;/p&gt;</content>
+    <content>&lt;h3 id="dying"&gt;&lt;a id="dying-dying"&gt;&lt;/a&gt;&lt;a id="dying"&gt;&lt;/a&gt;Dying&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Dying&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="5cfdce3c-e819-57d1-a2d2-c7acb3f35775" sort="5" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Exhaustion</name>
     <slug>exhaustion</slug>
-    <content>&lt;h3 id="exhaustion"&gt;&lt;a id="exhaustion-exhaustion"&gt;&lt;/a&gt;&lt;a id="exhaustion"&gt;&lt;/a&gt;Exhaustion&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Exhaustion&lt;/p&gt;&lt;p&gt;An &lt;strong&gt;exhausted&lt;/strong&gt; creature has:&lt;/p&gt;&lt;table class="gray"&gt;
+    <content>&lt;h3 id="exhaustion"&gt;&lt;a id="exhaustion-exhaustion"&gt;&lt;/a&gt;&lt;a id="exhaustion"&gt;&lt;/a&gt;Exhaustion&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Exhaustion&lt;/p&gt;&lt;table class="gray small-text"&gt;
 &lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align:center"&gt;Level&lt;/th&gt;
-&lt;th style="text-align:left"&gt;Effect&lt;/th&gt;
-&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center"&gt;1&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Disadvantage on ability checks&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="advantage"&gt;Disadvantage&lt;/a&gt; on ability checks&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center"&gt;2&lt;/td&gt;
@@ -800,11 +819,11 @@ Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center"&gt;3&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Disadvantage on attacks &amp;amp; saves&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="advantage"&gt;Disadvantage&lt;/a&gt; on attacks &amp;amp; saves&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center"&gt;4&lt;/td&gt;
-&lt;td style="text-align:left"&gt;Hit point maximum halved&lt;/td&gt;
+&lt;td style="text-align:left"&gt;&lt;a href="hit-points"&gt;Hit point&lt;/a&gt; maximum halved&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center"&gt;5&lt;/td&gt;
@@ -816,11 +835,15 @@ Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;&lt;ul class="square"&gt;
-&lt;li&gt;Additional points increase the level.&lt;/li&gt;
-&lt;li&gt;Suffer effects of current &amp;amp; lower levels.&lt;/li&gt;
-&lt;li&gt;Ends if level is reduced below level 1.&lt;/li&gt;
-&lt;li&gt;Long rest lowers level w/ food &amp;amp; drink.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="small-text"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
+&lt;li&gt;Gaining additional points increase total level.&lt;/li&gt;
+&lt;li&gt;Suffer effects of current and lower levels.&lt;/li&gt;
+&lt;li&gt;Ends if the current level is reduced below 1.&lt;/li&gt;
+&lt;li&gt;&lt;a href="rest"&gt;Long rest&lt;/a&gt; lowers level by 1, w/ &lt;a href="food-water"&gt;food &amp;amp; water&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 291&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="52935a28-640c-5caf-aba9-10418b4e3255" sort="6" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Frightened</name>
@@ -1500,27 +1523,27 @@ Player&amp;#x2019;s Handbook, p. 204&lt;/p&gt;
     <name>Spellcasting</name>
     <slug>spellcasting</slug>
     <content>&lt;h2 id="spellcasting"&gt;&lt;a id="spellcasting-spellcasting"&gt;&lt;/a&gt;&lt;a id="spellcasting"&gt;&lt;/a&gt;Spellcasting&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Spellcasting&lt;/p&gt;&lt;div id="menu-container"&gt;
-    &lt;a href="area-effect"&gt;Area Effects&lt;/a&gt;
-    &lt;a href="casting-time"&gt;Casting Time&lt;/a&gt;
+    &lt;a href="area-of-effect"&gt;Area of&lt;br&gt; Effects&lt;/a&gt;
+    &lt;a href="casting-time"&gt;Casting&lt;br&gt; Time&lt;/a&gt;
     &lt;a href="combining-effects"&gt;Combining Effects&lt;/a&gt;
     &lt;a href="components"&gt;Components&lt;/a&gt;
     &lt;a href="concentration"&gt;Concentration&lt;/a&gt;
     &lt;a href="duration"&gt;Duration&lt;/a&gt;
     &lt;a href="known-prepared-spells"&gt;Known &amp;amp; Prepared&lt;/a&gt;
-    &lt;a href="rituals"&gt;Rituals&lt;/a&gt;
-    &lt;a href="schools"&gt;Schools&lt;/a&gt;
-    &lt;a href="spell-attack"&gt;Spell Attack&lt;/a&gt;
-    &lt;a href="spell-level"&gt;Spell Level&lt;/a&gt;
-    &lt;a href="spell-range"&gt;Spell Range&lt;/a&gt;
-    &lt;a href="spell-saves"&gt;Spell Save&lt;/a&gt;
-    &lt;a href="spell-slots"&gt;Spell Slots&lt;/a&gt;
-    &lt;a href="spell-targets"&gt;Spell Targets&lt;/a&gt;
+    &lt;a href="ritual-casting"&gt;Ritual&lt;br&gt; Casting&lt;/a&gt;
+    &lt;a href="schools-of-magic"&gt;Schools&lt;br&gt; of Magic&lt;/a&gt;
+    &lt;a href="spell-attacks"&gt;Spell&lt;br&gt; Attacks&lt;/a&gt;
+    &lt;a href="spell-level"&gt;Spell&lt;br&gt; Level&lt;/a&gt;
+    &lt;a href="spell-range"&gt;Spell&lt;br&gt; Range&lt;/a&gt;
+    &lt;a href="spell-saves"&gt;Spell&lt;br&gt; Saves&lt;/a&gt;
+    &lt;a href="spell-slots"&gt;Spell&lt;br&gt; Slots&lt;/a&gt;
+    &lt;a href="spell-targets"&gt;Spell&lt;br&gt; Targets&lt;/a&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="24e23994-0b44-5e8f-8aeb-a99398267c1c" sort="0" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
-    <name>Area Effects</name>
-    <slug>area-effects</slug>
-    <content>&lt;h3 id="area-effects"&gt;&lt;a id="area-effects-area-effects"&gt;&lt;/a&gt;&lt;a id="area-effects"&gt;&lt;/a&gt;Area Effects&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Area Effects&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+  <page id="a0ddddf2-515c-517a-854d-11818b3b1c1b" sort="0" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
+    <name>Area of Effects</name>
+    <slug>area-of-effects</slug>
+    <content>&lt;h3 id="area-of-effects"&gt;&lt;a id="area-of-effects-area-of-effects"&gt;&lt;/a&gt;&lt;a id="area-of-effects"&gt;&lt;/a&gt;Area of Effects&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Area Effects&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. 204&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1575,28 +1598,28 @@ Player&amp;#x2019;s Handbook, p. 201&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="52458c2c-b375-58ba-8ff0-690606f94852" sort="6" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
-    <name>Rituals</name>
-    <slug>rituals</slug>
-    <content>&lt;h3 id="rituals"&gt;&lt;a id="rituals-rituals"&gt;&lt;/a&gt;&lt;a id="rituals"&gt;&lt;/a&gt;Rituals&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Rituals&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+  <page id="d86cd3f9-e088-5f99-939b-def0d04f5487" sort="6" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
+    <name>Ritual Casting</name>
+    <slug>ritual-casting</slug>
+    <content>&lt;h3 id="ritual-casting"&gt;&lt;a id="ritual-casting-ritual-casting"&gt;&lt;/a&gt;&lt;a id="ritual-casting"&gt;&lt;/a&gt;Ritual Casting&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Rituals&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. 201,202&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="c127972a-5c25-57dc-9e0d-c16726557a7f" sort="7" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
-    <name>Schools</name>
-    <slug>schools</slug>
-    <content>&lt;h3 id="schools"&gt;&lt;a id="schools-schools"&gt;&lt;/a&gt;&lt;a id="schools"&gt;&lt;/a&gt;Schools&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Schools&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+  <page id="aa3ff225-1fe2-599b-9ae6-f24f9070c343" sort="7" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
+    <name>Schools of Magic</name>
+    <slug>schools-of-magic</slug>
+    <content>&lt;h3 id="schools-of-magic"&gt;&lt;a id="schools-of-magic-schools-of-magic"&gt;&lt;/a&gt;&lt;a id="schools-of-magic"&gt;&lt;/a&gt;Schools of Magic&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Schools&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. 203&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="3261d37f-b3d0-56f8-8a69-b8b0459108d4" sort="8" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
-    <name>Spell Attack</name>
-    <slug>spell-attack</slug>
-    <content>&lt;h3 id="spell-attack"&gt;&lt;a id="spell-attack-spell-attack"&gt;&lt;/a&gt;&lt;a id="spell-attack"&gt;&lt;/a&gt;Spell Attack&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Spell Attack&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+  <page id="f9695a8c-ddd8-53be-96d9-ae4b772f9a82" sort="8" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
+    <name>Spell Attacks</name>
+    <slug>spell-attacks</slug>
+    <content>&lt;h3 id="spell-attacks"&gt;&lt;a id="spell-attacks-spell-attacks"&gt;&lt;/a&gt;&lt;a id="spell-attacks"&gt;&lt;/a&gt;Spell Attacks&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Spell Attack&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. 205&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1620,10 +1643,10 @@ Player&amp;#x2019;s Handbook, p. 202&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="e41f54e3-268f-5150-9592-496d44ee0109" sort="11" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
-    <name>Spell Save</name>
-    <slug>spell-save</slug>
-    <content>&lt;h3 id="spell-save"&gt;&lt;a id="spell-save-spell-save"&gt;&lt;/a&gt;&lt;a id="spell-save"&gt;&lt;/a&gt;Spell Save&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Spell Save&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+  <page id="5116709f-8983-5a9c-81bb-61da352c5bfb" sort="11" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
+    <name>Spell Saves</name>
+    <slug>spell-saves</slug>
+    <content>&lt;h3 id="spell-saves"&gt;&lt;a id="spell-saves-spell-saves"&gt;&lt;/a&gt;&lt;a id="spell-saves"&gt;&lt;/a&gt;Spell Saves&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Spell Save&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. 205&lt;/p&gt;
 &lt;/blockquote&gt;
