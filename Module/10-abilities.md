@@ -7,7 +7,7 @@ module-pagebreaks: h1, h2, h3
 ## Abilities
 [Home](home) > Abilities  {.small-text}
 
-**Abilties**
+**Abilties**  {.small-text}
 <div id="menu-container">
     <a href="strength">Strength</a>
     <a href="dexterity">Dexterity</a>
@@ -22,9 +22,11 @@ module-pagebreaks: h1, h2, h3
 <div id="menu-container">
     <a href="">Ability Modifiers</a>
     <a href="">Advantage</a>
+    <a href="">Alternate Abilities</a>
     <a href="">Contests</a>
     <a href="">Difficulty Class</a>
     <a href="">Group Checks</a>
+    <a href="">Helping</a>
     <a href="">Passive Checks</a>
 </div>
 
