@@ -746,7 +746,7 @@ Abilities that can be paired with this skill are:&lt;/p&gt;&lt;ul class="square"
     &lt;a href="suffocating"&gt;Suffocating*&lt;/a&gt;
     &lt;a href="surprised"&gt;Surprised&lt;/a&gt;
     &lt;a href="unconcious"&gt;Unconcious&lt;/a&gt;
-&lt;/div&gt;&lt;p class="small-text"&gt;&lt;em&gt;* This is not a condition, but it serves a similar function.&lt;/em&gt;&lt;/p&gt;</content>
+&lt;/div&gt;&lt;br&gt;&lt;p class="small-text"&gt;&lt;em&gt;* Technically not a condition, but functionally similar.&lt;/em&gt;&lt;/p&gt;</content>
   </page>
   <page id="4107493b-239a-58f0-80ed-c27deb8df4f5" sort="0" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Blinded</name>
@@ -849,7 +849,7 @@ Player&amp;#x2019;s Handbook, p. 291&lt;/p&gt;
     <name>Frightened</name>
     <slug>frightened</slug>
     <content>&lt;h3 id="frightened"&gt;&lt;a id="frightened-frightened"&gt;&lt;/a&gt;&lt;a id="frightened"&gt;&lt;/a&gt;Frightened&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Frightened&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;Afraid of the creature that caused the effect.&lt;/li&gt;
+&lt;li&gt;Afraid of creature causing the effect.&lt;/li&gt;
 &lt;li&gt;&lt;a href="disadvantage"&gt;Disadvantage&lt;/a&gt; on checks if source in sight.&lt;/li&gt;
 &lt;li&gt;&lt;a href="disadvantage"&gt;Disadvantage&lt;/a&gt; on attacks if source in sight.&lt;/li&gt;
 &lt;li&gt;Cannot willingly move closer to source.&lt;/li&gt;
