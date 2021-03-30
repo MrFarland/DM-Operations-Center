@@ -835,7 +835,7 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;&lt;ul class="square"&gt;
-&lt;li&gt;Gaining additional points increase total level.&lt;/li&gt;
+&lt;li&gt;Gaining additional points increases level.&lt;/li&gt;
 &lt;li&gt;Suffer effects of current and lower levels.&lt;/li&gt;
 &lt;li&gt;Ends if the current level is reduced below 1.&lt;/li&gt;
 &lt;li&gt;&lt;a href="rest"&gt;Long rest&lt;/a&gt; lowers level by 1, w/ &lt;a href="food-water"&gt;food &amp;amp; water&lt;/a&gt;.&lt;/li&gt;
@@ -848,43 +848,66 @@ Player&amp;#x2019;s Handbook, p. 291&lt;/p&gt;
   <page id="52935a28-640c-5caf-aba9-10418b4e3255" sort="6" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Frightened</name>
     <slug>frightened</slug>
-    <content>&lt;h3 id="frightened"&gt;&lt;a id="frightened-frightened"&gt;&lt;/a&gt;&lt;a id="frightened"&gt;&lt;/a&gt;Frightened&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Frightened&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;frightened&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;has disadvantage on checks &amp;amp; attacks while small-text of fear is in sight.&lt;/li&gt;
-&lt;li&gt;Can&amp;#x2019;t move closer to small-text of fear.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="small-text"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
+    <content>&lt;h3 id="frightened"&gt;&lt;a id="frightened-frightened"&gt;&lt;/a&gt;&lt;a id="frightened"&gt;&lt;/a&gt;Frightened&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Frightened&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;Afraid of the creature that caused the effect.&lt;/li&gt;
+&lt;li&gt;&lt;a href="disadvantage"&gt;Disadvantage&lt;/a&gt; on checks if source in sight.&lt;/li&gt;
+&lt;li&gt;&lt;a href="disadvantage"&gt;Disadvantage&lt;/a&gt; on attacks if source in sight.&lt;/li&gt;
+&lt;li&gt;Cannot willingly move closer to source.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 290&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="afbf382f-2e21-5a25-9e66-b7d9b06745fa" sort="7" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Grappled</name>
     <slug>grappled</slug>
-    <content>&lt;h3 id="grappled"&gt;&lt;a id="grappled-grappled"&gt;&lt;/a&gt;&lt;a id="grappled"&gt;&lt;/a&gt;Grappled&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Grappled&lt;/p&gt;&lt;p&gt;A &lt;strong&gt;grappled&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;has a speed of 0,&lt;/li&gt;
-&lt;li&gt;cannot benefit from bonus to speed,&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The condition is removed if the:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;grappler releases the creature,&lt;/li&gt;
-&lt;li&gt;creature is forced out of reach.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="small-text"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
+    <content>&lt;h3 id="grappled"&gt;&lt;a id="grappled-grappled"&gt;&lt;/a&gt;&lt;a id="grappled"&gt;&lt;/a&gt;Grappled&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Grappled&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;The grappled creature&amp;#x2019;s speed is 0.&lt;/li&gt;
+&lt;li&gt;Cannot benefit from any bonus to speed.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The condition ends when/if the:&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;Creature is released by the grappler.&lt;/li&gt;
+&lt;li&gt;Creature is forced out of grappler&amp;#x2019;s reach.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 290&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="8431b253-f233-5dd1-a33f-42f938d24a4e" sort="8" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Incapacitated</name>
     <slug>incapacitated</slug>
-    <content>&lt;h3 id="incapacitated"&gt;&lt;a id="incapacitated-incapacitated"&gt;&lt;/a&gt;&lt;a id="incapacitated"&gt;&lt;/a&gt;Incapacitated&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Incapacitated&lt;/p&gt;&lt;p&gt;An &lt;strong&gt;incapacitated&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;cannot take actions or reactions.&lt;/li&gt;
-&lt;/ul&gt;&lt;p class="small-text"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 290&lt;/em&gt;&lt;/p&gt;</content>
+    <content>&lt;h3 id="incapacitated"&gt;&lt;a id="incapacitated-incapacitated"&gt;&lt;/a&gt;&lt;a id="incapacitated"&gt;&lt;/a&gt;Incapacitated&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Incapacitated&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;Cannot take any actions or reactions.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 290&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="dc823821-f256-5f47-b782-626c37300c72" sort="9" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Invisible</name>
     <slug>invisible</slug>
-    <content>&lt;h3 id="invisible"&gt;&lt;a id="invisible-invisible"&gt;&lt;/a&gt;&lt;a id="invisible"&gt;&lt;/a&gt;Invisible&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Invisible&lt;/p&gt;&lt;p&gt;An &lt;strong&gt;invisible&lt;/strong&gt; creature:&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;is impossible to see without magic,&lt;/li&gt;
-&lt;li&gt;is heavily obscured when hiding,&lt;/li&gt;
-&lt;li&gt;can be detected by noise &amp;amp; tracks,&lt;/li&gt;
-&lt;li&gt;has advantage on attacks,&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Attacks against have disadvantage.&lt;/p&gt;&lt;p class="small-text"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 291&lt;/em&gt;&lt;/p&gt;</content>
+    <content>&lt;h3 id="invisible"&gt;&lt;a id="invisible-invisible"&gt;&lt;/a&gt;&lt;a id="invisible"&gt;&lt;/a&gt;Invisible&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Invisible&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;Only be seen with magic or special &lt;a href="sight"&gt;sight&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Considered &lt;a href="obscured"&gt;heavily obscured&lt;/a&gt; for &lt;a href="hiding"&gt;hiding&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Can still be detected by noise &amp;amp; tracks.&lt;/li&gt;
+&lt;li&gt;All attacks have &lt;a href="advantage"&gt;advantage&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Attacks &lt;strong&gt;against&lt;/strong&gt; have &lt;a href="disadvantage"&gt;disadvantage&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 291&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="626a3b88-a682-5fa3-98e6-62bf3d64d08e" sort="10" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Madness</name>
     <slug>madness</slug>
-    <content>&lt;h3 id="madness"&gt;&lt;a id="madness-madness"&gt;&lt;/a&gt;&lt;a id="madness"&gt;&lt;/a&gt;Madness&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Madness&lt;/p&gt;&lt;p class="small-text"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. xxx&lt;/em&gt;&lt;/p&gt;</content>
+    <content>&lt;h3 id="madness"&gt;&lt;a id="madness-madness"&gt;&lt;/a&gt;&lt;a id="madness"&gt;&lt;/a&gt;Madness&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Madness&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="fc112b05-8388-5447-92c2-129cfda65987" sort="11" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Paralyzed</name>
@@ -936,7 +959,11 @@ Player&amp;#x2019;s Handbook, p. 291&lt;/p&gt;
   <page id="a1936368-2646-5118-ad32-e3247278f33a" sort="16" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Sleeping</name>
     <slug>sleeping</slug>
-    <content>&lt;h3 id="sleeping"&gt;&lt;a id="sleeping-sleeping"&gt;&lt;/a&gt;&lt;a id="sleeping"&gt;&lt;/a&gt;Sleeping&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Sleeping&lt;/p&gt;&lt;p class="small-text"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. xxx&lt;/em&gt;&lt;/p&gt;</content>
+    <content>&lt;h3 id="sleeping"&gt;&lt;a id="sleeping-sleeping"&gt;&lt;/a&gt;&lt;a id="sleeping"&gt;&lt;/a&gt;Sleeping&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Sleeping&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="383219e4-4b51-5b3a-ba3d-004618f09f9c" sort="17" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Stunned</name>
@@ -950,7 +977,11 @@ Player&amp;#x2019;s Handbook, p. 291&lt;/p&gt;
   <page id="e1abb671-0be2-5072-853b-8614c7933312" sort="18" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Suffocating</name>
     <slug>suffocating</slug>
-    <content>&lt;h3 id="suffocating"&gt;&lt;a id="suffocating-suffocating"&gt;&lt;/a&gt;&lt;a id="suffocating"&gt;&lt;/a&gt;Suffocating&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Suffocating&lt;/p&gt;&lt;p class="small-text"&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. xxx&lt;/em&gt;&lt;/p&gt;</content>
+    <content>&lt;h3 id="suffocating"&gt;&lt;a id="suffocating-suffocating"&gt;&lt;/a&gt;&lt;a id="suffocating"&gt;&lt;/a&gt;Suffocating&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Suffocating&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="ac65fd4c-d2a5-56f8-80a3-ba3acfe66a8a" sort="19" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
     <name>Unconcious</name>
