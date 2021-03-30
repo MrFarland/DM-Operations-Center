@@ -30,8 +30,9 @@ module-pagebreaks: h1, h2, h3
     <a href="surprised">Surprised</a>
     <a href="unconcious">Unconcious</a>
 </div>
+<br/>
 
-*\* This is not a condition, but it serves a similar function.* {.small-text}
+*\* Technically not a condition, but functionally similar.* {.small-text}
 
 
 
@@ -121,7 +122,7 @@ module-pagebreaks: h1, h2, h3
 ### Frightened
 [Home](home) > [Conditions](conditions) > Frightened {.small-text}
 
-- Afraid of the creature that caused the effect.
+- Afraid of creature causing the effect.
 - [Disadvantage](disadvantage) on checks if source in sight.
 - [Disadvantage](disadvantage) on attacks if source in sight.
 - Cannot willingly move closer to source.
