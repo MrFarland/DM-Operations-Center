@@ -164,7 +164,7 @@ The condition ends when/if the:
 ### Invisible
  [Home](home) > [Conditions](conditions) > Invisible {.small-text}
 
-- Only be seen with magic or special [sight](sight).
+- Only visible with magic or special [sight](sight).
 - Considered [heavily obscured](obscured) for [hiding](hiding).
 - Can still be detected by noise & tracks.
 - All attacks have [advantage](advantage).
@@ -191,75 +191,82 @@ The condition ends when/if the:
 ### Paralyzed
  [Home](home) > [Conditions](conditions) > Paralyzed {.small-text}
 
-A **paralyzed** creature:
-- is incapacitated & can't move or speak,
-- fails strength & dexterity saving throws.
+- Creature is [incapacitated](incapacitated).
+- Can not move or speak.
+- Fail all [STR](strength) & [DEX](dexterity) saving throws.
+- Attacks **against** have [advantage](advantage).
+- Attack hits within 5' are [critical hits](criticals).
 {.square}
 
-Attacks against have advantage and hits within 5' are critical hits.
 
-*Source: Player's Handbook, p. 291* {.small-text}
+> **Sources** <br/>
+> Player's Handbook, p. 291
+{.read .small-text}
 
 
 
 ### Petrified
  [Home](home) > [Conditions](conditions) > Petrified {.small-text}
 
-A **petrified** creature:
-- is transformed into a solid substance,
-- its mundane items are transformed too,
-- has it its weight increase by ten,
-- stops aging,
-- is incapacitated & can't move or speak,
-- fails strength & dexterity saving throws,
-- has resistance to all damage,
-- is immune to poison and disease, but current poison or disease is suspended 
+- Transformed into a solid substance.
+- Mundane items are transformed too.
+- Weight increases by ten.
+- Frozen in time and stops aging.
+- Creature is [incapacitated](incapacitated).
+- Can not move or speak.
+- Fail all [STR](strength) & [DEX](dexterity) saving throws.
+- Resistance to all [damage types](damange-types).
+- Immune to any new poison or disease.
+- Existing poison or disease suspended.
 {.square}
 
-Attacks against have advantage.
-
-*Source: Player's Handbook, p. 291* {.small-text}
+> **Sources** <br/>
+> Player's Handbook, p. 291
+{.read .small-text}
 
 
 
 ### Poisoned
  [Home](home) > [Conditions](conditions) > Poisoned {.small-text}
 
-A **poisoned** creature:
-- has disadvantage on attacks & checks.
+- [Disadvantage](advantage) on all attack rolls.
+- [Disadvantage](advantage) on all ability checks.
 {.square}
 
-*Source: Player's Handbook, p. 292* {.small-text}
+> **Sources** <br/>
+> Player's Handbook, p. 292
+{.read .small-text}
 
 
 
 ### Prone
  [Home](home) > [Conditions](conditions) > Prone {.small-text}
-
-A **prone** creature:
-- can only crawl, unless it stands up,
-- has disadvantage on attacks,
+- Only movement option is to [crawl](crawling).
+- [Disadvantage](advantage) on all attack rolls.
+- Ranged attacks against have [disadv.](disadvantage).
+- Melee attacks against have [advantage](advantage).
+- Hits within 5' are [critical hits](criticals).
 {.square}
  
-Attacks against have advantage and hits within 5' are critical hits.
-
-*Source: Player's Handbook, p. 292* {.small-text}
+> **Sources** <br/>
+> Player's Handbook, p. 292
+{.read .small-text}
 
 
 
 ### Restrained
  [Home](home) > [Conditions](conditions) > Restrained {.small-text}
 
-A **restrained** creature:
-- has a speed of 0,
-- cannot benefit from bonus to speed,
-- has disadvantage on attacks,
-- has disadvantage on dex saves.
+- The creature's speed is 0.
+- Cannot benefit from any bonus to speed.
+- All attacks have [disadvantage](advantage).
+- Attacks **against** have [advantage](advantage).
+- [Disadvantage](advantage) on [DEX](dexterity) saving throws.
 {.square}
 
-Attack against have advantage.
-
-*Source: Player's Handbook, p. 292* {.small-text}
+> **Sources** <br/>
+> Player's Handbook, p. 292
+{.read .small-text}
 
 
 
@@ -277,15 +284,15 @@ Attack against have advantage.
 ### Stunned
  [Home](home) > [Conditions](conditions) > Stunned {.small-text}
 
-A **stunned** creature:
-- is incapacitated & can't move or speak,
-- can only speak falteringly,
-- fails strength & dexterity saving throws,
+- Creature is [incapacitated](incapacitated).
+- Cannot move, but can speak falteringly.
+- Fail all [STR](strength) & [DEX](dexterity) saving throws.
+- Attacks **against** have [advantage](advantage).
 {.square}
 
-Attack against have advantage.
-
-*Source: Player's Handbook, p. 292* {.small-text}
+> **Sources** <br/>
+> Player's Handbook, p. 292
+{.read .small-text}
 
 
 
@@ -303,12 +310,15 @@ Attack against have advantage.
 ### Unconcious
  [Home](home) > [Conditions](conditions) > Unconcious {.small-text}
 
-An **unconcious** creature:
-- is incapacitated & can't move or speak,
-- drops what it is holding and falls prone,
-- fails strength & dexterity saving throws,
+- Creature is [incapacitated](incapacitated).
+- Cannot move or speak.
+- Drops whatever it is currently holding.
+- Falls [prone](prone).
+- Fail all [STR](strength) & [DEX](dexterity) saving throws.
+- Melee attacks against have [advantage](advantage).
+- Hits within 5' are [critical hits](criticals).
 {.square}
 
-Attacks against have advantage and hits within 5' are critical hits.
-
-*Source: Player's Handbook, p. 292* {.small-text}
+> **Sources** <br/>
+> Player's Handbook, p. 292
+{.read .small-text}
