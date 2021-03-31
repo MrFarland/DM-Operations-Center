@@ -16,6 +16,16 @@ module-pagebreaks: h1, h2, h3
 
 
 
+### Food & Water
+[Home](home) > [Survival](survival) > Food & Water {.small-text}
+
+**COMING SOON** {.text-center}
+
+> **Sources** <br/>
+> Player's Handbook, p. xxx
+{.read .small-text}
+
+
 ### Foraging
 [Home](home) > [Survival](survival) > Foraging {.small-text}
 | ~Availability~ | ~DC~ |
@@ -24,6 +34,17 @@ module-pagebreaks: h1, h2, h3
 | Limited  | 15 |
 | Scarce   | 20 |
 {.gray}
+
+> **Sources** <br/>
+> Player's Handbook, p. xxx
+{.read .small-text}
+
+
+
+### Sleep
+[Home](home) > [Survival](survival) > Sleep {.small-text}
+
+**COMING SOON** {.text-center}
 
 > **Sources** <br/>
 > Player's Handbook, p. xxx
