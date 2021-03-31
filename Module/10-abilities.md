@@ -262,7 +262,6 @@ Balance, agility, and general nimbleness
 <div id="menu-container">
     <a href="acrobatics">Acrobatics</a>
     <a href="armor-class">Armor Class</a>
-    <a href="hiding">Hiding</a>
     <a href="sleight-of-hand">Sleight of Hand</a>
     <a href="stealth">Stealth</a>
 </div>
@@ -299,24 +298,6 @@ A creature's natural armor class is how hard they are to hit when **not** wearin
  **Natural AC = 10 + [Dexterity](dexterity) Modifier** {.text-center}
 
 Wearing [armor](armor) replaces a creature's natural AC with that of the armor they are wearing.
-
-> **Sources** <br/>
-> Player's Handbook, p. 177
-{.read .small-text}
-
-
-
-#### Hiding
-[Home](home) > [Abilities](abilities) > [Dexterity](dexterity) > Hiding {.small-text}
-
- **Hider ([Stealth](stealth)) v. Searcher ([Perception](perception))** {.text-center}
-
-- DM decides when hiding is possible.
-- Cannot hide if clearly visible.
-- Cannot hide if searcher saw you hide.
-- [Invisible](invisible) creatures can always try.
-- Sound & tracks can give them away.
-- Ends if discovered or stop hiding.
 
 > **Sources** <br/>
 > Player's Handbook, p. 177

@@ -16,7 +16,6 @@ order: 00
     <a href="environment">Environment</a>
     <a href="equipment">Equipment</a>
     <a href="expenses">Expenses</a>
-    <a href="life-death">Life & Death</a>
     <a href="movement">Movement</a>
     <a href="spellcasting">Spellcasting</a>
     <a href="survival">Survival</a>
