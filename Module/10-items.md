@@ -15,6 +15,8 @@ module-pagebreaks: h1, h2, h3
     <a href="coins">Coins</a>
     <a href="containers-capacity">Containers<br/> & Capacity</a>
     <a href="equipment-packs">Equipment Packs</a>
+    <a href="explosives">Explosives</a>
+    <a href="firearms">Firearms</a>
     <a href="magical-items">Magical Items</a>
     <a href="mounts-tack">Mounts & Tack</a>
     <a href="musical-intruments">Musical Instruments</a>
