@@ -1,23 +1,33 @@
 ---
-name: Equipment
-slug: equipment
+name: Items
+slug: items
 order: 10
 module-pagebreaks: h1, h2, h3
 ---
-## Equipment
-[Home](home) > Equipment {.small-text}
+## Items
+[Home](home) > Items {.small-text}
 
 <div id="menu-container">
     <a href="adventuring-gear">Adventuring Gear</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
-    <a href="link">Link</a>
+    <a href="ammunition">Ammunition</a>
+    <a href="arcane-focus">Arcane Focus</a>
+    <a href="armor">Armor</a>
+    <a href="coins">Coins</a>
+    <a href="containers-capacity">Containers<br/> & Capacity</a>
+    <a href="equipment-packs">Equipment Packs</a>
+    <a href="magical-items">Magical Items</a>
+    <a href="mounts-tack">Mounts & Tack</a>
+    <a href="musical-intruments">Musical Instruments</a>
+    <a href="object-ac-hp">Object<br/> AC & HP</a>
+    <a href="trade-goods">Trade<br/> Goods</a>
+    <a href="treasure">Treasure</a>
+    <a href="tools">Tools</a>
+    <a href="vehicles">Vehicles</a>
+    <a href="weapons">Weapons</a>
 </div>
 
 ### Adventuring Gear
-[Home](home) > [Equipment](equipment) > Adventuring Gear {.small-text}
+[Home](home) > [Items](items) > Adventuring Gear {.small-text}
 
 | ~Item~ | ~Cost~ | ~Weight~ |
 |:----------------------------------------------|-------:|--------:|
@@ -65,7 +75,7 @@ module-pagebreaks: h1, h2, h3
 | [temp](/item/temp)                        |   x gp |   x lb. |
 | [temp](/item/temp)                        |   x gp |   x lb. |
 | [temp](/item/temp)                        |   x gp |   x lb. |
-{.shop}
+{.shop .small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. xxx
@@ -101,38 +111,3 @@ module-pagebreaks: h1, h2, h3
 > Player's Handbook, p. 204
 {.read .small-text}
 
-
-
-### Objects
-[Home](home) > [Equipment](equipment) > Objects {.small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. 204
-{.read .small-text}
-
-
-
-### Mounts
-[Home](home) > [Equipment](equipment) > Mounts {.small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. 204
-{.read .small-text}
-
-
-
-### Trade Goods
-[Home](home) > [Equipment](equipment) > Trade Goods{.small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. 204
-{.read .small-text}
-
-
-
-### Vehicles
-[Home](home) > [Equipment](equipment) > Vehicles {.small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. 204
-{.read .small-text}

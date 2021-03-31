@@ -24,7 +24,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Arctic Encounters
-[Home](home) > [Encounters](encounters) > Arctic(arctic-encounters){.small-text}
+[Home](home) > [Encounters](encounters) > [Arctic](arctic-encounters){.small-text}
 
 <div id="menu-container">
     <a href="">Tier 0<br/>Any</a>
