@@ -19,13 +19,10 @@ order: 00
     <a href="movement">Movement</a>
     <a href="spellcasting">Spellcasting</a>
     <a href="survival">Survival</a>
-    <a href="treasure">Treasure</a>
-    <a href="worldbuilding">Worldbuilding</a>
 </div>
 <br/>
-<br/>
 
-**Tools**
+**Generators**
 <div id="menu-container">
-    <a href="character-name-generator">Character Name Generator</a>
+    <a href="character-name-generator">NPC Names</a>
 </div>
