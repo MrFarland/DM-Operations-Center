@@ -30,7 +30,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Adventuring Gear
+### Adventuring Gear
 [Home](home) > [Items](items) > Adventuring Gear {.small-text}
 
 **COMING SOON** {.text-center}
@@ -41,7 +41,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Ammunition
+### Ammunition
 [Home](home) > [Items](items) > Ammunition {.small-text}
 
 **COMING SOON** {.text-center}
@@ -52,7 +52,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Arcane Focus
+### Arcane Focus
 [Home](home) > [Items](items) > Arcane Focus {.small-text}
 
 **COMING SOON** {.text-center}
@@ -63,7 +63,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Armor
+### Armor
 [Home](home) > [Items](items) > Armor {.small-text}
 
 **COMING SOON** {.text-center}
@@ -74,7 +74,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Coins
+### Coins
 [Home](home) > [Items](items) > Coins {.small-text}
 
 **COMING SOON** {.text-center}
@@ -85,7 +85,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Containers & Capacity
+### Containers & Capacity
 [Home](home) > [Items](items) > Weapons {.small-text}
 
 **COMING SOON** {.text-center}
@@ -96,7 +96,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Equipment Packs
+### Equipment Packs
 [Home](home) > [Items](items) > Equipment Packs {.small-text}
 
 **COMING SOON** {.text-center}
@@ -107,7 +107,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Explosives
+### Explosives
 [Home](home) > [Items](items) > Explosives {.small-text}
 
 **COMING SOON** {.text-center}
@@ -118,7 +118,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Firearms
+### Firearms
 [Home](home) > [Items](items) > Firearms {.small-text}
 
 **COMING SOON** {.text-center}
@@ -129,7 +129,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Magical Items
+### Magical Items
 [Home](home) > [Items](items) > Magical Items {.small-text}
 
 **COMING SOON** {.text-center}
@@ -140,7 +140,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Mounts & Tack
+### Mounts & Tack
 [Home](home) > [Items](items) > Mounts & Tack {.small-text}
 
 **COMING SOON** {.text-center}
@@ -151,7 +151,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Musical Instruments
+### Musical Instruments
 [Home](home) > [Items](items) > Musical Instruments {.small-text}
 
 **COMING SOON** {.text-center}
@@ -162,7 +162,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Object AC & HP
+### Object AC & HP
 [Home](home) > [Items](items) > Object AC & HP {.small-text}
 
 **COMING SOON** {.text-center}
@@ -173,7 +173,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Trade Goods
+### Trade Goods
 [Home](home) > [Items](items) > Trade Goods {.small-text}
 
 **COMING SOON** {.text-center}
@@ -184,7 +184,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Treasure
+### Treasure
 [Home](home) > [Items](items) > Treasure {.small-text}
 
 **COMING SOON** {.text-center}
@@ -195,7 +195,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Tools
+### Tools
 [Home](home) > [Items](items) > Tools {.small-text}
 
 **COMING SOON** {.text-center}
@@ -206,7 +206,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Vehicles
+### Vehicles
 [Home](home) > [Items](items) > Vehicles {.small-text}
 
 **COMING SOON** {.text-center}
@@ -217,7 +217,7 @@ module-pagebreaks: h1, h2, h3
 
 
 
-#### Weapons
+### Weapons
 [Home](home) > [Items](items) > Weapons {.small-text}
 
 **COMING SOON** {.text-center}
