@@ -7,9 +7,9 @@
   <code>dm-operations-center</code>
   <category/>
   <image>assets/img/placeholder_1920x1080.jpg</image>
-  <group id="e782313d-2a6c-5c6d-99b7-2e1d922112b2" sort="1">
-    <name>Tools</name>
-    <slug>tools</slug>
+  <group id="9ea0a5e4-1457-532d-b424-e3d4298fc8e8" sort="99">
+    <name>Generators</name>
+    <slug>generators</slug>
   </group>
   <page id="691547e4-6c44-5325-9655-dcd1a91cacc1" sort="0">
     <name>Home</name>
@@ -26,18 +26,14 @@
     &lt;a href="environment"&gt;Environment&lt;/a&gt;
     &lt;a href="equipment"&gt;Equipment&lt;/a&gt;
     &lt;a href="expenses"&gt;Expenses&lt;/a&gt;
-    &lt;a href="life-death"&gt;Life &amp;amp; Death&lt;/a&gt;
     &lt;a href="movement"&gt;Movement&lt;/a&gt;
     &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt;
     &lt;a href="survival"&gt;Survival&lt;/a&gt;
-    &lt;a href="treasure"&gt;Treasure&lt;/a&gt;
-    &lt;a href="worldbuilding"&gt;Worldbuilding&lt;/a&gt;
 &lt;/div&gt;
 &lt;br&gt;
-&lt;br&gt;
-&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Generators&lt;/strong&gt;&lt;/p&gt;
 &lt;div id="menu-container"&gt;
-    &lt;a href="character-name-generator"&gt;Character Name Generator&lt;/a&gt;
+    &lt;a href="character-name-generator"&gt;NPC Names&lt;/a&gt;
 &lt;/div&gt;
 </content>
   </page>
@@ -57,6 +53,7 @@
     &lt;a href="helping"&gt;Helping&lt;/a&gt;
     &lt;a href="intelligence"&gt;Intelligence&lt;/a&gt;
     &lt;a href="passive-checks"&gt;Passive Checks&lt;/a&gt;
+    &lt;a href="proficiency-bonus"&gt;Proficiency Bonus&lt;/a&gt;
     &lt;a href="strength"&gt;Strength&lt;/a&gt;
     &lt;a href="wisdom"&gt;Wisdom&lt;/a&gt;
 &lt;/div&gt;&lt;br&gt;</content>
@@ -322,7 +319,6 @@ Player&amp;#x2019;s Handbook, p. 174&lt;/p&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Other Abilities&lt;/strong&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
     &lt;a href="acrobatics"&gt;Acrobatics&lt;/a&gt;
     &lt;a href="armor-class"&gt;Armor Class&lt;/a&gt;
-    &lt;a href="hiding"&gt;Hiding&lt;/a&gt;
     &lt;a href="sleight-of-hand"&gt;Sleight of Hand&lt;/a&gt;
     &lt;a href="stealth"&gt;Stealth&lt;/a&gt;
 &lt;/div&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
@@ -339,17 +335,6 @@ Use skill checks for situations like:&lt;/p&gt;&lt;ul class="square"&gt;
 Player&amp;#x2019;s Handbook, p. 176&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;&lt;h4 id="armor-class"&gt;&lt;a id="dexterity-armor-class"&gt;&lt;/a&gt;&lt;a id="armor-class"&gt;&lt;/a&gt;Armor Class&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; &amp;gt; Armor Class&lt;/p&gt;&lt;p&gt;A creature&amp;#x2019;s natural armor class is how hard they are to hit when &lt;strong&gt;not&lt;/strong&gt; wearing &lt;a href="armor"&gt;armor&lt;/a&gt;.&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;Natural AC = 10 + &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; Modifier&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Wearing &lt;a href="armor"&gt;armor&lt;/a&gt; replaces a creature&amp;#x2019;s natural AC with that of the armor they are wearing.&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;&lt;h4 id="hiding"&gt;&lt;a id="dexterity-hiding"&gt;&lt;/a&gt;&lt;a id="hiding"&gt;&lt;/a&gt;Hiding&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; &amp;gt; Hiding&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;Hider (&lt;a href="stealth"&gt;Stealth&lt;/a&gt;) v. Searcher (&lt;a href="perception"&gt;Perception&lt;/a&gt;)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;DM decides when hiding is possible.&lt;/li&gt;
-&lt;li&gt;Cannot hide if clearly visible.&lt;/li&gt;
-&lt;li&gt;Cannot hide if searcher saw you hide.&lt;/li&gt;
-&lt;li&gt;&lt;a href="invisible"&gt;Invisible&lt;/a&gt; creatures can always try.&lt;/li&gt;
-&lt;li&gt;Sound &amp;amp; tracks can give them away.&lt;/li&gt;
-&lt;li&gt;Ends if discovered or stop hiding.&lt;/li&gt;
-&lt;/ul&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -464,7 +449,16 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="94301409-f989-5a7c-a627-b49f7d782594" sort="12" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="22c212c3-9e76-5ced-aec3-e4486069c150" sort="12" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+    <name>Proficiency Bonus</name>
+    <slug>proficiency-bonus</slug>
+    <content>&lt;h3 id="proficiency-bonus"&gt;&lt;a id="proficiency-bonus-proficiency-bonus"&gt;&lt;/a&gt;&lt;a id="proficiency-bonus"&gt;&lt;/a&gt;Proficiency Bonus&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Proficiency Bonus&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="94301409-f989-5a7c-a627-b49f7d782594" sort="13" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Strength</name>
     <slug>strength</slug>
     <content>&lt;h3 id="strength"&gt;&lt;a id="strength-strength"&gt;&lt;/a&gt;&lt;a id="strength"&gt;&lt;/a&gt;Strength&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Strength&lt;/p&gt;&lt;p&gt;Athletic training and raw physical power.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;ul class="square"&gt;
@@ -685,7 +679,7 @@ Player&amp;#x2019;s Handbook, p. 176&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="0d52bec9-cf7d-5205-8d3e-0eb89c14328b" sort="13" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="0d52bec9-cf7d-5205-8d3e-0eb89c14328b" sort="14" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Wisdom</name>
     <slug>wisdom</slug>
     <content>&lt;h3 id="wisdom"&gt;&lt;a id="wisdom-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Wisdom&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Other Abilities&lt;/strong&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
@@ -720,33 +714,259 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
     <name>Character</name>
     <slug>character</slug>
     <content>&lt;h2 id="character"&gt;&lt;a id="character-character"&gt;&lt;/a&gt;&lt;a id="character"&gt;&lt;/a&gt;Character&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Character&lt;/p&gt;&lt;div id="menu-container"&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
+    &lt;a href="advancement"&gt;Advancement&lt;/a&gt;
+    &lt;a href="age"&gt;Age&lt;/a&gt;
+    &lt;a href="alignment"&gt;Alignment&lt;/a&gt;
+    &lt;a href="languages"&gt;Languages&lt;/a&gt;
+    &lt;a href="races"&gt;Races&lt;/a&gt;
+    &lt;a href="size"&gt;Size&lt;/a&gt;
+&lt;/div&gt;&lt;h4 id="advancement"&gt;&lt;a id="character-advancement"&gt;&lt;/a&gt;&lt;a id="advancement"&gt;&lt;/a&gt;Advancement&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="character"&gt;Character&lt;/a&gt; &amp;gt; Advancement&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="age"&gt;&lt;a id="character-age"&gt;&lt;/a&gt;&lt;a id="age"&gt;&lt;/a&gt;Age&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="character"&gt;Character&lt;/a&gt; &amp;gt; Advancement&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="alignment"&gt;&lt;a id="character-alignment"&gt;&lt;/a&gt;&lt;a id="alignment"&gt;&lt;/a&gt;Alignment&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="character"&gt;Character&lt;/a&gt; &amp;gt; Alignment&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="languages"&gt;&lt;a id="character-languages"&gt;&lt;/a&gt;&lt;a id="languages"&gt;&lt;/a&gt;Languages&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="character"&gt;Character&lt;/a&gt; &amp;gt; Languages&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="races"&gt;&lt;a id="character-races"&gt;&lt;/a&gt;&lt;a id="races"&gt;&lt;/a&gt;Races&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="character"&gt;Character&lt;/a&gt; &amp;gt; Races&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="size"&gt;&lt;a id="character-size"&gt;&lt;/a&gt;&lt;a id="size"&gt;&lt;/a&gt;Size&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="character"&gt;Character&lt;/a&gt; &amp;gt; Size&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
   <page id="4ea8357c-70bf-5e52-8ed2-8a3fab816b91" sort="10">
     <name>Combat</name>
     <slug>combat</slug>
     <content>&lt;h2 id="combat"&gt;&lt;a id="combat-combat"&gt;&lt;/a&gt;&lt;a id="combat"&gt;&lt;/a&gt;Combat&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Combat&lt;/p&gt;&lt;div id="menu-container"&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
+    &lt;a href="actions"&gt;Actions&lt;/a&gt;
+    &lt;a href="link"&gt;Bonus Actions&lt;/a&gt;
+    &lt;a href="link"&gt;Cover&lt;/a&gt;
+    &lt;a href="link"&gt;Criticals&lt;/a&gt;
+    &lt;a href="link"&gt;Damage&lt;/a&gt;
+    &lt;a href="link"&gt;Extra Attack&lt;/a&gt;
+    &lt;a href="link"&gt;Free Actions&lt;/a&gt;
+    &lt;a href="link"&gt;Grapple &amp;amp; Shove&lt;/a&gt;
+    &lt;a href="link"&gt;Healing&lt;/a&gt;
+    &lt;a href="link"&gt;Initiative&lt;/a&gt;
+    &lt;a href="link"&gt;Mounted Combat&lt;/a&gt;
+    &lt;a href="link"&gt;Naval Combat&lt;/a&gt;
+    &lt;a href="link"&gt;Nonlethal Damage&lt;/a&gt;
+    &lt;a href="link"&gt;Reactions&lt;/a&gt;
+    &lt;a href="link"&gt;Surprise&lt;/a&gt;
+    &lt;a href="link"&gt;Unarmed Combat&lt;/a&gt;
+    &lt;a href="link"&gt;Underwater Combat&lt;/a&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="e0dc20c2-4727-567f-8090-0e3a5f5e4945" sort="0" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Actions</name>
+    <slug>actions</slug>
+    <content>&lt;h3 id="actions"&gt;&lt;a id="actions-actions"&gt;&lt;/a&gt;&lt;a id="actions"&gt;&lt;/a&gt;Actions&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Actions&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="attack"&gt;&lt;a id="actions-attack"&gt;&lt;/a&gt;&lt;a id="attack"&gt;&lt;/a&gt;Attack&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="Combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions"&gt;Actions&lt;/a&gt; &amp;gt; Attack&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="cast-spell"&gt;&lt;a id="actions-cast-spell"&gt;&lt;/a&gt;&lt;a id="cast-spell"&gt;&lt;/a&gt;Cast Spell&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="Combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions"&gt;Actions&lt;/a&gt; &amp;gt; Cast Spell&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="dash"&gt;&lt;a id="actions-dash"&gt;&lt;/a&gt;&lt;a id="dash"&gt;&lt;/a&gt;Dash&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="Combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions"&gt;Actions&lt;/a&gt; &amp;gt; Dash&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="disengage"&gt;&lt;a id="actions-disengage"&gt;&lt;/a&gt;&lt;a id="disengage"&gt;&lt;/a&gt;Disengage&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="Combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions"&gt;Actions&lt;/a&gt; &amp;gt; Disengage&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="dodge"&gt;&lt;a id="actions-dodge"&gt;&lt;/a&gt;&lt;a id="dodge"&gt;&lt;/a&gt;Dodge&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="Combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions"&gt;Actions&lt;/a&gt; &amp;gt; Dodge&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="help"&gt;&lt;a id="actions-help"&gt;&lt;/a&gt;&lt;a id="help"&gt;&lt;/a&gt;Help&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="Combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions"&gt;Actions&lt;/a&gt; &amp;gt; Help&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="hide"&gt;&lt;a id="actions-hide"&gt;&lt;/a&gt;&lt;a id="hide"&gt;&lt;/a&gt;Hide&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="Combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions"&gt;Actions&lt;/a&gt; &amp;gt; Hide&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;Hider (&lt;a href="stealth"&gt;Stealth&lt;/a&gt;) v. Searcher (&lt;a href="perception"&gt;Perception&lt;/a&gt;)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;DM decides when hiding is possible.&lt;/li&gt;
+&lt;li&gt;Cannot hide if clearly visible.&lt;/li&gt;
+&lt;li&gt;Cannot hide if searcher saw you hide.&lt;/li&gt;
+&lt;li&gt;&lt;a href="invisible"&gt;Invisible&lt;/a&gt; creatures can always try.&lt;/li&gt;
+&lt;li&gt;Sound &amp;amp; tracks can give them away.&lt;/li&gt;
+&lt;li&gt;Ends if discovered or stop hiding.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="ready"&gt;&lt;a id="actions-ready"&gt;&lt;/a&gt;&lt;a id="ready"&gt;&lt;/a&gt;Ready&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="Combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions"&gt;Actions&lt;/a&gt; &amp;gt; Ready&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="search"&gt;&lt;a id="actions-search"&gt;&lt;/a&gt;&lt;a id="search"&gt;&lt;/a&gt;Search&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="Combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions"&gt;Actions&lt;/a&gt; &amp;gt; Search&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="use-object"&gt;&lt;a id="actions-use-object"&gt;&lt;/a&gt;&lt;a id="use-object"&gt;&lt;/a&gt;Use Object&lt;/h4&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="Combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions"&gt;Actions&lt;/a&gt; &amp;gt; Use Object&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="8afb4c64-ad3f-5a1f-80bf-7b443c73569f" sort="1" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Bonus Actions</name>
+    <slug>bonus-actions</slug>
+    <content>&lt;h3 id="bonus-actions"&gt;&lt;a id="bonus-actions-bonus-actions"&gt;&lt;/a&gt;&lt;a id="bonus-actions"&gt;&lt;/a&gt;Bonus Actions&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Bonus Actions&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="a79b0e6b-c315-51bc-8bcf-eb1414560fd7" sort="2" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Cover</name>
+    <slug>cover</slug>
+    <content>&lt;h3 id="cover"&gt;&lt;a id="cover-cover"&gt;&lt;/a&gt;&lt;a id="cover"&gt;&lt;/a&gt;Cover&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Cover&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="f1c73936-7650-5c44-a0b4-5f2986747f7d" sort="3" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Criticals</name>
+    <slug>criticals</slug>
+    <content>&lt;h3 id="criticals"&gt;&lt;a id="criticals-criticals"&gt;&lt;/a&gt;&lt;a id="criticals"&gt;&lt;/a&gt;Criticals&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Criticals&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="75ea93e7-276e-5c17-b1c3-07b3d071cbd1" sort="4" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Damage</name>
+    <slug>damage</slug>
+    <content>&lt;h3 id="damage"&gt;&lt;a id="damage-damage"&gt;&lt;/a&gt;&lt;a id="damage"&gt;&lt;/a&gt;Damage&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Damage&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="3184fae3-1d8e-5d6c-a5eb-91928dd16870" sort="5" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Extra Attack</name>
+    <slug>extra-attack</slug>
+    <content>&lt;h3 id="extra-attack"&gt;&lt;a id="extra-attack-extra-attack"&gt;&lt;/a&gt;&lt;a id="extra-attack"&gt;&lt;/a&gt;Extra Attack&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt;Extra Attack&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="a8a9b5d1-3b93-5288-a432-f0b9c2fa8d4c" sort="6" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Free Actions</name>
+    <slug>free-actions</slug>
+    <content>&lt;h3 id="free-actions"&gt;&lt;a id="free-actions-free-actions"&gt;&lt;/a&gt;&lt;a id="free-actions"&gt;&lt;/a&gt;Free Actions&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Free Actions&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="4bff0b4d-3dda-53b0-8cf3-0506eae80bdf" sort="7" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Grapple &amp; Shove</name>
+    <slug>grapple-and-shove</slug>
+    <content>&lt;h3 id="grapple-%26-shove"&gt;&lt;a id="grapple-and-shove-grapple-and-shove"&gt;&lt;/a&gt;&lt;a id="grapple-and-shove"&gt;&lt;/a&gt;Grapple &amp;amp; Shove&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Grapple &amp;amp; Shove&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="05e7fbb7-a78f-51e6-9373-8ce2219fc86b" sort="8" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Healing</name>
+    <slug>healing</slug>
+    <content>&lt;h3 id="healing"&gt;&lt;a id="healing-healing"&gt;&lt;/a&gt;&lt;a id="healing"&gt;&lt;/a&gt;Healing&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Healing&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="d8bfb975-c316-590d-856f-1576feac3beb" sort="9" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Initiative</name>
+    <slug>initiative</slug>
+    <content>&lt;h3 id="initiative"&gt;&lt;a id="initiative-initiative"&gt;&lt;/a&gt;&lt;a id="initiative"&gt;&lt;/a&gt;Initiative&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Initiative&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="0821d882-6b5d-5708-80f6-8d8cc5e9ee19" sort="10" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Mounted Combat</name>
+    <slug>mounted-combat</slug>
+    <content>&lt;h3 id="mounted-combat"&gt;&lt;a id="mounted-combat-mounted-combat"&gt;&lt;/a&gt;&lt;a id="mounted-combat"&gt;&lt;/a&gt;Mounted Combat&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Mounted Combat&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="db21b12f-18f6-5eec-a472-e04d355a30c0" sort="11" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Naval Combat</name>
+    <slug>naval-combat</slug>
+    <content>&lt;h3 id="naval-combat"&gt;&lt;a id="naval-combat-naval-combat"&gt;&lt;/a&gt;&lt;a id="naval-combat"&gt;&lt;/a&gt;Naval Combat&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Naval Combat&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="f7851e5b-f335-51f0-a199-0f66142ae52c" sort="12" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Nonlethal Damage</name>
+    <slug>nonlethal-damage</slug>
+    <content>&lt;h3 id="nonlethal-damage"&gt;&lt;a id="nonlethal-damage-nonlethal-damage"&gt;&lt;/a&gt;&lt;a id="nonlethal-damage"&gt;&lt;/a&gt;Nonlethal Damage&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Nonlethal Damage&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="c06d29ba-0d87-500e-831e-4e0e1eb7d8b8" sort="13" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Reactions</name>
+    <slug>reactions</slug>
+    <content>&lt;h3 id="reactions"&gt;&lt;a id="reactions-reactions"&gt;&lt;/a&gt;&lt;a id="reactions"&gt;&lt;/a&gt;Reactions&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Reactions&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="71fe46cc-2d49-5efa-87ec-7a774595086e" sort="14" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Surprise</name>
+    <slug>surprise</slug>
+    <content>&lt;h3 id="surprise"&gt;&lt;a id="surprise-surprise"&gt;&lt;/a&gt;&lt;a id="surprise"&gt;&lt;/a&gt;Surprise&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Surprise&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="b4ef1a01-4ce0-5264-8694-56591b47e851" sort="15" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Unarmed Combat</name>
+    <slug>unarmed-combat</slug>
+    <content>&lt;h3 id="unarmed-combat"&gt;&lt;a id="unarmed-combat-unarmed-combat"&gt;&lt;/a&gt;&lt;a id="unarmed-combat"&gt;&lt;/a&gt;Unarmed Combat&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Unarmed Combat&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="bcdf0d9e-a2b3-519b-b5be-c9dd02224779" sort="16" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Underwater Combat</name>
+    <slug>underwater-combat</slug>
+    <content>&lt;h3 id="underwater-combat"&gt;&lt;a id="underwater-combat-underwater-combat"&gt;&lt;/a&gt;&lt;a id="underwater-combat"&gt;&lt;/a&gt;Underwater Combat&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Underwater Combat&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
   <page id="2e5061d8-871b-53bb-b7c7-80ed942b1a30" sort="10">
@@ -1194,74 +1414,571 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
     <name>Encounters</name>
     <slug>encounters</slug>
     <content>&lt;h2 id="encounters"&gt;&lt;a id="encounters-encounters"&gt;&lt;/a&gt;&lt;a id="encounters"&gt;&lt;/a&gt;Encounters&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Encounters&lt;/p&gt;&lt;div id="menu-container"&gt;
-    &lt;a href="link"&gt;Arctic&lt;/a&gt;
-    &lt;a href="link"&gt;Coastal&lt;/a&gt;
-    &lt;a href="link"&gt;Desert&lt;/a&gt;
-    &lt;a href="link"&gt;Forest&lt;/a&gt;
-    &lt;a href="link"&gt;Hill&lt;/a&gt;
-    &lt;a href="link"&gt;Mountain&lt;/a&gt;
-    &lt;a href="link"&gt;Swamp&lt;/a&gt;
-    &lt;a href="link"&gt;Underdark&lt;/a&gt;
-    &lt;a href="link"&gt;Underwater&lt;/a&gt;
+    &lt;a href="arctic-encounters"&gt;Arctic&lt;/a&gt;
+    &lt;a href="coastal-encounters"&gt;Coastal&lt;/a&gt;
+    &lt;a href="desert-encounters"&gt;Desert&lt;/a&gt;
+    &lt;a href="forest-encounters"&gt;Forest&lt;/a&gt;
+    &lt;a href="grassland-encounters"&gt;Grassland&lt;/a&gt;
+    &lt;a href="hill-encounters"&gt;Hill&lt;/a&gt;
+    &lt;a href="mountain-encounters"&gt;Mountain&lt;/a&gt;
+    &lt;a href="swamp-encounters"&gt;Swamp&lt;/a&gt;
+    &lt;a href="underdark-encounters"&gt;Underdark&lt;/a&gt;
+    &lt;a href="underwater-encounters"&gt;Underwater&lt;/a&gt;
+    &lt;a href="urban-encounters"&gt;Urban&lt;/a&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="3a0ce8d8-5ad1-5fc4-bc60-bffe6a467643" sort="0" parent="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152">
+    <name>Arctic Encounters</name>
+    <slug>arctic-encounters</slug>
+    <content>&lt;h3 id="arctic-encounters"&gt;&lt;a id="arctic-encounters-arctic-encounters"&gt;&lt;/a&gt;&lt;a id="arctic-encounters"&gt;&lt;/a&gt;Arctic Encounters&lt;/h3&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="arctic-encounters" class="small-text"&gt;Arctic&lt;/a&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
+    &lt;a href&gt;Tier 0&lt;br&gt;Any&lt;/a&gt;
+    &lt;a href&gt;Tier 1&lt;br&gt;(1-4)&lt;/a&gt;
+    &lt;a href&gt;Tier 2&lt;br&gt;(5-10)&lt;/a&gt;
+    &lt;a href&gt;Tier 3&lt;br&gt;(11-16)&lt;/a&gt;
+    &lt;a href&gt;Tier 4&lt;br&gt;(17-20)&lt;/a&gt;
+&lt;/div&gt;&lt;h4 id="arctic-tier-0"&gt;&lt;a id="arctic-encounters-arctic-tier-0"&gt;&lt;/a&gt;&lt;a id="arctic-tier-0"&gt;&lt;/a&gt;Arctic Tier 0&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="arctic-encounters"&gt;Arctic&lt;/a&gt; &amp;gt; &lt;a href="arctic-tier-0" class="small-text"&gt;Tier 0&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="arctic-tier-1"&gt;&lt;a id="arctic-encounters-arctic-tier-1"&gt;&lt;/a&gt;&lt;a id="arctic-tier-1"&gt;&lt;/a&gt;Arctic Tier 1&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="arctic-encounters"&gt;Arctic&lt;/a&gt; &amp;gt; &lt;a href="arctic-tier-1" class="small-text"&gt;Tier 1&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="arctic-tier-2"&gt;&lt;a id="arctic-encounters-arctic-tier-2"&gt;&lt;/a&gt;&lt;a id="arctic-tier-2"&gt;&lt;/a&gt;Arctic Tier 2&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="arctic-encounters"&gt;Arctic&lt;/a&gt; &amp;gt; &lt;a href="arctic-tier-2" class="small-text"&gt;Tier 2&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="arctic-tier-3"&gt;&lt;a id="arctic-encounters-arctic-tier-3"&gt;&lt;/a&gt;&lt;a id="arctic-tier-3"&gt;&lt;/a&gt;Arctic Tier 3&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="arctic-encounters"&gt;Arctic&lt;/a&gt; &amp;gt; &lt;a href="arctic-tier-3" class="small-text"&gt;Tier 3&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="arctic-tier-4"&gt;&lt;a id="arctic-encounters-arctic-tier-4"&gt;&lt;/a&gt;&lt;a id="arctic-tier-4"&gt;&lt;/a&gt;Arctic Tier 4&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="arctic-encounters"&gt;Arctic&lt;/a&gt; &amp;gt; &lt;a href="arctic-tier-4" class="small-text"&gt;Tier 4&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="43caaa54-ed95-513d-aef5-d13402afa54f" sort="1" parent="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152">
+    <name>Coastal Encounters</name>
+    <slug>coastal-encounters</slug>
+    <content>&lt;h3 id="coastal-encounters"&gt;&lt;a id="coastal-encounters-coastal-encounters"&gt;&lt;/a&gt;&lt;a id="coastal-encounters"&gt;&lt;/a&gt;Coastal Encounters&lt;/h3&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="coastal-encounters" class="small-text"&gt;Coastal&lt;/a&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
+    &lt;a href&gt;Tier 0&lt;br&gt;Any&lt;/a&gt;
+    &lt;a href&gt;Tier 1&lt;br&gt;(1-4)&lt;/a&gt;
+    &lt;a href&gt;Tier 2&lt;br&gt;(5-10)&lt;/a&gt;
+    &lt;a href&gt;Tier 3&lt;br&gt;(11-16)&lt;/a&gt;
+    &lt;a href&gt;Tier 4&lt;br&gt;(17-20)&lt;/a&gt;
+&lt;/div&gt;&lt;h4 id="coastal-tier-0"&gt;&lt;a id="coastal-encounters-coastal-tier-0"&gt;&lt;/a&gt;&lt;a id="coastal-tier-0"&gt;&lt;/a&gt;Coastal Tier 0&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="coastal-encounters"&gt;Coastal&lt;/a&gt; &amp;gt; &lt;a href="coastal-tier-0" class="small-text"&gt;Tier 0&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="coastal-tier-1"&gt;&lt;a id="coastal-encounters-coastal-tier-1"&gt;&lt;/a&gt;&lt;a id="coastal-tier-1"&gt;&lt;/a&gt;Coastal Tier 1&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="coastal-encounters"&gt;Coastal&lt;/a&gt; &amp;gt; &lt;a href="coastal-tier-1" class="small-text"&gt;Tier 1&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="coastal-tier-2"&gt;&lt;a id="coastal-encounters-coastal-tier-2"&gt;&lt;/a&gt;&lt;a id="coastal-tier-2"&gt;&lt;/a&gt;Coastal Tier 2&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="coastal-encounters"&gt;Coastal&lt;/a&gt; &amp;gt; &lt;a href="coastal-tier-2" class="small-text"&gt;Tier 2&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="coastal-tier-3"&gt;&lt;a id="coastal-encounters-coastal-tier-3"&gt;&lt;/a&gt;&lt;a id="coastal-tier-3"&gt;&lt;/a&gt;Coastal Tier 3&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="coastal-encounters"&gt;Coastal&lt;/a&gt; &amp;gt; &lt;a href="coastal-tier-3" class="small-text"&gt;Tier 3&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="coastal-tier-4"&gt;&lt;a id="coastal-encounters-coastal-tier-4"&gt;&lt;/a&gt;&lt;a id="coastal-tier-4"&gt;&lt;/a&gt;Coastal Tier 4&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="coastal-encounters"&gt;Coastal&lt;/a&gt; &amp;gt; &lt;a href="coastal-tier-4" class="small-text"&gt;Tier 4&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="c3148c31-df7a-51d8-9553-54f53519f35e" sort="2" parent="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152">
+    <name>Desert Encounters</name>
+    <slug>desert-encounters</slug>
+    <content>&lt;h3 id="desert-encounters"&gt;&lt;a id="desert-encounters-desert-encounters"&gt;&lt;/a&gt;&lt;a id="desert-encounters"&gt;&lt;/a&gt;Desert Encounters&lt;/h3&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="desert-encounters" class="small-text"&gt;Desert&lt;/a&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
+    &lt;a href&gt;Tier 0&lt;br&gt;Any&lt;/a&gt;
+    &lt;a href&gt;Tier 1&lt;br&gt;(1-4)&lt;/a&gt;
+    &lt;a href&gt;Tier 2&lt;br&gt;(5-10)&lt;/a&gt;
+    &lt;a href&gt;Tier 3&lt;br&gt;(11-16)&lt;/a&gt;
+    &lt;a href&gt;Tier 4&lt;br&gt;(17-20)&lt;/a&gt;
+&lt;/div&gt;&lt;h4 id="desert-tier-0"&gt;&lt;a id="desert-encounters-desert-tier-0"&gt;&lt;/a&gt;&lt;a id="desert-tier-0"&gt;&lt;/a&gt;Desert Tier 0&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="desert-encounters"&gt;Desert&lt;/a&gt; &amp;gt; &lt;a href="desert-tier-0" class="small-text"&gt;Tier 0&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="desert-tier-1"&gt;&lt;a id="desert-encounters-desert-tier-1"&gt;&lt;/a&gt;&lt;a id="desert-tier-1"&gt;&lt;/a&gt;Desert Tier 1&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="desert-encounters"&gt;Desert&lt;/a&gt; &amp;gt; &lt;a href="desert-tier-1" class="small-text"&gt;Tier 1&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="desert-tier-2"&gt;&lt;a id="desert-encounters-desert-tier-2"&gt;&lt;/a&gt;&lt;a id="desert-tier-2"&gt;&lt;/a&gt;Desert Tier 2&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="desert-encounters"&gt;Desert&lt;/a&gt; &amp;gt; &lt;a href="desert-tier-2" class="small-text"&gt;Tier 2&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="desert-tier-3"&gt;&lt;a id="desert-encounters-desert-tier-3"&gt;&lt;/a&gt;&lt;a id="desert-tier-3"&gt;&lt;/a&gt;Desert Tier 3&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="desert-encounters"&gt;Desert&lt;/a&gt; &amp;gt; &lt;a href="desert-tier-3" class="small-text"&gt;Tier 3&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="desert-tier-4"&gt;&lt;a id="desert-encounters-desert-tier-4"&gt;&lt;/a&gt;&lt;a id="desert-tier-4"&gt;&lt;/a&gt;Desert Tier 4&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="desert-encounters"&gt;Desert&lt;/a&gt; &amp;gt; &lt;a href="desert-tier-4" class="small-text"&gt;Tier 4&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="c43b34fb-ee35-5a7e-9ca7-9160cd8ef019" sort="3" parent="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152">
+    <name>Forest Encounters</name>
+    <slug>forest-encounters</slug>
+    <content>&lt;h3 id="forest-encounters"&gt;&lt;a id="forest-encounters-forest-encounters"&gt;&lt;/a&gt;&lt;a id="forest-encounters"&gt;&lt;/a&gt;Forest Encounters&lt;/h3&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="forest-encounters" class="small-text"&gt;Forest&lt;/a&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
+    &lt;a href&gt;Tier 0&lt;br&gt;Any&lt;/a&gt;
+    &lt;a href&gt;Tier 1&lt;br&gt;(1-4)&lt;/a&gt;
+    &lt;a href&gt;Tier 2&lt;br&gt;(5-10)&lt;/a&gt;
+    &lt;a href&gt;Tier 3&lt;br&gt;(11-16)&lt;/a&gt;
+    &lt;a href&gt;Tier 4&lt;br&gt;(17-20)&lt;/a&gt;
+&lt;/div&gt;&lt;h4 id="forest-tier-0"&gt;&lt;a id="forest-encounters-forest-tier-0"&gt;&lt;/a&gt;&lt;a id="forest-tier-0"&gt;&lt;/a&gt;Forest Tier 0&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="forest-encounters"&gt;Forest&lt;/a&gt; &amp;gt; &lt;a href="forest-tier-0" class="small-text"&gt;Tier 0&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="forest-tier-1"&gt;&lt;a id="forest-encounters-forest-tier-1"&gt;&lt;/a&gt;&lt;a id="forest-tier-1"&gt;&lt;/a&gt;Forest Tier 1&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="forest-encounters"&gt;Forest&lt;/a&gt; &amp;gt; &lt;a href="forest-tier-1" class="small-text"&gt;Tier 1&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="forest-tier-2"&gt;&lt;a id="forest-encounters-forest-tier-2"&gt;&lt;/a&gt;&lt;a id="forest-tier-2"&gt;&lt;/a&gt;Forest Tier 2&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="forest-encounters"&gt;Forest&lt;/a&gt; &amp;gt; &lt;a href="forest-tier-2" class="small-text"&gt;Tier 2&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="forest-tier-3"&gt;&lt;a id="forest-encounters-forest-tier-3"&gt;&lt;/a&gt;&lt;a id="forest-tier-3"&gt;&lt;/a&gt;Forest Tier 3&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="forest-encounters"&gt;Forest&lt;/a&gt; &amp;gt; &lt;a href="forest-tier-3" class="small-text"&gt;Tier 3&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="forest-tier-4"&gt;&lt;a id="forest-encounters-forest-tier-4"&gt;&lt;/a&gt;&lt;a id="forest-tier-4"&gt;&lt;/a&gt;Forest Tier 4&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="forest-encounters"&gt;Forest&lt;/a&gt; &amp;gt; &lt;a href="forest-tier-4" class="small-text"&gt;Tier 4&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="a019e018-329a-5d4e-b6fa-f753959e00bd" sort="4" parent="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152">
+    <name>Grassland Encounters</name>
+    <slug>grassland-encounters</slug>
+    <content>&lt;h3 id="grassland-encounters"&gt;&lt;a id="grassland-encounters-grassland-encounters"&gt;&lt;/a&gt;&lt;a id="grassland-encounters"&gt;&lt;/a&gt;Grassland Encounters&lt;/h3&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="grassland-encounters" class="small-text"&gt;Grassland&lt;/a&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
+    &lt;a href&gt;Tier 0&lt;br&gt;Any&lt;/a&gt;
+    &lt;a href&gt;Tier 1&lt;br&gt;(1-4)&lt;/a&gt;
+    &lt;a href&gt;Tier 2&lt;br&gt;(5-10)&lt;/a&gt;
+    &lt;a href&gt;Tier 3&lt;br&gt;(11-16)&lt;/a&gt;
+    &lt;a href&gt;Tier 4&lt;br&gt;(17-20)&lt;/a&gt;
+&lt;/div&gt;&lt;h4 id="grassland-tier-0"&gt;&lt;a id="grassland-encounters-grassland-tier-0"&gt;&lt;/a&gt;&lt;a id="grassland-tier-0"&gt;&lt;/a&gt;Grassland Tier 0&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="grassland-encounters"&gt;Grassland&lt;/a&gt; &amp;gt; &lt;a href="grassland-tier-0" class="small-text"&gt;Tier 0&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="grassland-tier-1"&gt;&lt;a id="grassland-encounters-grassland-tier-1"&gt;&lt;/a&gt;&lt;a id="grassland-tier-1"&gt;&lt;/a&gt;Grassland Tier 1&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="grassland-encounters"&gt;Grassland&lt;/a&gt; &amp;gt; &lt;a href="grassland-tier-1" class="small-text"&gt;Tier 1&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="grassland-tier-2"&gt;&lt;a id="grassland-encounters-grassland-tier-2"&gt;&lt;/a&gt;&lt;a id="grassland-tier-2"&gt;&lt;/a&gt;Grassland Tier 2&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="grassland-encounters"&gt;Grassland&lt;/a&gt; &amp;gt; &lt;a href="grassland-tier-2" class="small-text"&gt;Tier 2&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="grassland-tier-3"&gt;&lt;a id="grassland-encounters-grassland-tier-3"&gt;&lt;/a&gt;&lt;a id="grassland-tier-3"&gt;&lt;/a&gt;Grassland Tier 3&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="grassland-encounters"&gt;Grassland&lt;/a&gt; &amp;gt; &lt;a href="grassland-tier-3" class="small-text"&gt;Tier 3&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="grassland-tier-4"&gt;&lt;a id="grassland-encounters-grassland-tier-4"&gt;&lt;/a&gt;&lt;a id="grassland-tier-4"&gt;&lt;/a&gt;Grassland Tier 4&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="grassland-encounters"&gt;Grassland&lt;/a&gt; &amp;gt; &lt;a href="grassland-tier-4" class="small-text"&gt;Tier 4&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="3a20cfd1-152c-5f7e-8c92-0701a954f85a" sort="5" parent="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152">
+    <name>Hill Encounters</name>
+    <slug>hill-encounters</slug>
+    <content>&lt;h3 id="hill-encounters"&gt;&lt;a id="hill-encounters-hill-encounters"&gt;&lt;/a&gt;&lt;a id="hill-encounters"&gt;&lt;/a&gt;Hill Encounters&lt;/h3&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="hill-encounters" class="small-text"&gt;Hill&lt;/a&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
+    &lt;a href&gt;Tier 0&lt;br&gt;Any&lt;/a&gt;
+    &lt;a href&gt;Tier 1&lt;br&gt;(1-4)&lt;/a&gt;
+    &lt;a href&gt;Tier 2&lt;br&gt;(5-10)&lt;/a&gt;
+    &lt;a href&gt;Tier 3&lt;br&gt;(11-16)&lt;/a&gt;
+    &lt;a href&gt;Tier 4&lt;br&gt;(17-20)&lt;/a&gt;
+&lt;/div&gt;&lt;h4 id="hill-tier-0"&gt;&lt;a id="hill-encounters-hill-tier-0"&gt;&lt;/a&gt;&lt;a id="hill-tier-0"&gt;&lt;/a&gt;Hill Tier 0&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="hill-encounters"&gt;Hill&lt;/a&gt; &amp;gt; &lt;a href="hill-tier-0" class="small-text"&gt;Tier 0&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="hill-tier-1"&gt;&lt;a id="hill-encounters-hill-tier-1"&gt;&lt;/a&gt;&lt;a id="hill-tier-1"&gt;&lt;/a&gt;Hill Tier 1&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="hill-encounters"&gt;Hill&lt;/a&gt; &amp;gt; &lt;a href="hill-tier-1" class="small-text"&gt;Tier 1&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="hill-tier-2"&gt;&lt;a id="hill-encounters-hill-tier-2"&gt;&lt;/a&gt;&lt;a id="hill-tier-2"&gt;&lt;/a&gt;Hill Tier 2&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="hill-encounters"&gt;Hill&lt;/a&gt; &amp;gt; &lt;a href="hill-tier-2" class="small-text"&gt;Tier 2&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="hill-tier-3"&gt;&lt;a id="hill-encounters-hill-tier-3"&gt;&lt;/a&gt;&lt;a id="hill-tier-3"&gt;&lt;/a&gt;Hill Tier 3&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="hill-encounters"&gt;Hill&lt;/a&gt; &amp;gt; &lt;a href="hill-tier-3" class="small-text"&gt;Tier 3&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="hill-tier-4"&gt;&lt;a id="hill-encounters-hill-tier-4"&gt;&lt;/a&gt;&lt;a id="hill-tier-4"&gt;&lt;/a&gt;Hill Tier 4&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="hill-encounters"&gt;Hill&lt;/a&gt; &amp;gt; &lt;a href="hill-tier-4" class="small-text"&gt;Tier 4&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="64a35a8a-3c8f-5e72-9b0c-aa0d2bac1304" sort="6" parent="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152">
+    <name>Mountain Encounters</name>
+    <slug>mountain-encounters</slug>
+    <content>&lt;h3 id="mountain-encounters"&gt;&lt;a id="mountain-encounters-mountain-encounters"&gt;&lt;/a&gt;&lt;a id="mountain-encounters"&gt;&lt;/a&gt;Mountain Encounters&lt;/h3&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="mountain-encounters" class="small-text"&gt;Mountain&lt;/a&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
+    &lt;a href&gt;Tier 0&lt;br&gt;Any&lt;/a&gt;
+    &lt;a href&gt;Tier 1&lt;br&gt;(1-4)&lt;/a&gt;
+    &lt;a href&gt;Tier 2&lt;br&gt;(5-10)&lt;/a&gt;
+    &lt;a href&gt;Tier 3&lt;br&gt;(11-16)&lt;/a&gt;
+    &lt;a href&gt;Tier 4&lt;br&gt;(17-20)&lt;/a&gt;
+&lt;/div&gt;&lt;h4 id="mountain-tier-0"&gt;&lt;a id="mountain-encounters-mountain-tier-0"&gt;&lt;/a&gt;&lt;a id="mountain-tier-0"&gt;&lt;/a&gt;Mountain Tier 0&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="mountain-encounters"&gt;Mountain&lt;/a&gt; &amp;gt; &lt;a href="mountain-tier-0" class="small-text"&gt;Tier 0&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="mountain-tier-1"&gt;&lt;a id="mountain-encounters-mountain-tier-1"&gt;&lt;/a&gt;&lt;a id="mountain-tier-1"&gt;&lt;/a&gt;Mountain Tier 1&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="mountain-encounters"&gt;Mountain&lt;/a&gt; &amp;gt; &lt;a href="mountain-tier-1" class="small-text"&gt;Tier 1&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="mountain-tier-2"&gt;&lt;a id="mountain-encounters-mountain-tier-2"&gt;&lt;/a&gt;&lt;a id="mountain-tier-2"&gt;&lt;/a&gt;Mountain Tier 2&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="mountain-encounters"&gt;Mountain&lt;/a&gt; &amp;gt; &lt;a href="mountain-tier-2" class="small-text"&gt;Tier 2&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="mountain-tier-3"&gt;&lt;a id="mountain-encounters-mountain-tier-3"&gt;&lt;/a&gt;&lt;a id="mountain-tier-3"&gt;&lt;/a&gt;Mountain Tier 3&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="mountain-encounters"&gt;Mountain&lt;/a&gt; &amp;gt; &lt;a href="mountain-tier-3" class="small-text"&gt;Tier 3&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="mountain-tier-4"&gt;&lt;a id="mountain-encounters-mountain-tier-4"&gt;&lt;/a&gt;&lt;a id="mountain-tier-4"&gt;&lt;/a&gt;Mountain Tier 4&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="mountain-encounters"&gt;Mountain&lt;/a&gt; &amp;gt; &lt;a href="mountain-tier-4" class="small-text"&gt;Tier 4&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="98ce8c49-9b81-5d3c-ac61-23a6bb0bc4a9" sort="7" parent="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152">
+    <name>Swamp Encounters</name>
+    <slug>swamp-encounters</slug>
+    <content>&lt;h3 id="swamp-encounters"&gt;&lt;a id="swamp-encounters-swamp-encounters"&gt;&lt;/a&gt;&lt;a id="swamp-encounters"&gt;&lt;/a&gt;Swamp Encounters&lt;/h3&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="swamp-encounters" class="small-text"&gt;Swamp&lt;/a&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
+    &lt;a href&gt;Tier 0&lt;br&gt;Any&lt;/a&gt;
+    &lt;a href&gt;Tier 1&lt;br&gt;(1-4)&lt;/a&gt;
+    &lt;a href&gt;Tier 2&lt;br&gt;(5-10)&lt;/a&gt;
+    &lt;a href&gt;Tier 3&lt;br&gt;(11-16)&lt;/a&gt;
+    &lt;a href&gt;Tier 4&lt;br&gt;(17-20)&lt;/a&gt;
+&lt;/div&gt;&lt;h4 id="swamp-tier-0"&gt;&lt;a id="swamp-encounters-swamp-tier-0"&gt;&lt;/a&gt;&lt;a id="swamp-tier-0"&gt;&lt;/a&gt;Swamp Tier 0&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="swamp-encounters"&gt;Swamp&lt;/a&gt; &amp;gt; &lt;a href="swamp-tier-0" class="small-text"&gt;Tier 0&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="swamp-tier-1"&gt;&lt;a id="swamp-encounters-swamp-tier-1"&gt;&lt;/a&gt;&lt;a id="swamp-tier-1"&gt;&lt;/a&gt;Swamp Tier 1&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="swamp-encounters"&gt;Swamp&lt;/a&gt; &amp;gt; &lt;a href="swamp-tier-1" class="small-text"&gt;Tier 1&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="swamp-tier-2"&gt;&lt;a id="swamp-encounters-swamp-tier-2"&gt;&lt;/a&gt;&lt;a id="swamp-tier-2"&gt;&lt;/a&gt;Swamp Tier 2&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="swamp-encounters"&gt;Swamp&lt;/a&gt; &amp;gt; &lt;a href="swamp-tier-2" class="small-text"&gt;Tier 2&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="swamp-tier-3"&gt;&lt;a id="swamp-encounters-swamp-tier-3"&gt;&lt;/a&gt;&lt;a id="swamp-tier-3"&gt;&lt;/a&gt;Swamp Tier 3&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="swamp-encounters"&gt;Swamp&lt;/a&gt; &amp;gt; &lt;a href="swamp-tier-3" class="small-text"&gt;Tier 3&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="swamp-tier-4"&gt;&lt;a id="swamp-encounters-swamp-tier-4"&gt;&lt;/a&gt;&lt;a id="swamp-tier-4"&gt;&lt;/a&gt;Swamp Tier 4&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="swamp-encounters"&gt;Swamp&lt;/a&gt; &amp;gt; &lt;a href="swamp-tier-4" class="small-text"&gt;Tier 4&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="511e8de5-03cd-5d63-8d7a-4ae84a300c3b" sort="8" parent="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152">
+    <name>Underdark Encounters</name>
+    <slug>underdark-encounters</slug>
+    <content>&lt;h3 id="underdark-encounters"&gt;&lt;a id="underdark-encounters-underdark-encounters"&gt;&lt;/a&gt;&lt;a id="underdark-encounters"&gt;&lt;/a&gt;Underdark Encounters&lt;/h3&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="underdark-encounters" class="small-text"&gt;Underdark&lt;/a&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
+    &lt;a href&gt;Tier 0&lt;br&gt;Any&lt;/a&gt;
+    &lt;a href&gt;Tier 1&lt;br&gt;(1-4)&lt;/a&gt;
+    &lt;a href&gt;Tier 2&lt;br&gt;(5-10)&lt;/a&gt;
+    &lt;a href&gt;Tier 3&lt;br&gt;(11-16)&lt;/a&gt;
+    &lt;a href&gt;Tier 4&lt;br&gt;(17-20)&lt;/a&gt;
+&lt;/div&gt;&lt;h4 id="underdark-tier-0"&gt;&lt;a id="underdark-encounters-underdark-tier-0"&gt;&lt;/a&gt;&lt;a id="underdark-tier-0"&gt;&lt;/a&gt;Underdark Tier 0&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="underdark-encounters"&gt;Underdark&lt;/a&gt; &amp;gt; &lt;a href="underdark-tier-0" class="small-text"&gt;Tier 0&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="underdark-tier-1"&gt;&lt;a id="underdark-encounters-underdark-tier-1"&gt;&lt;/a&gt;&lt;a id="underdark-tier-1"&gt;&lt;/a&gt;Underdark Tier 1&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="underdark-encounters"&gt;Underdark&lt;/a&gt; &amp;gt; &lt;a href="underdark-tier-1" class="small-text"&gt;Tier 1&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="underdark-tier-2"&gt;&lt;a id="underdark-encounters-underdark-tier-2"&gt;&lt;/a&gt;&lt;a id="underdark-tier-2"&gt;&lt;/a&gt;Underdark Tier 2&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="underdark-encounters"&gt;Underdark&lt;/a&gt; &amp;gt; &lt;a href="underdark-tier-2" class="small-text"&gt;Tier 2&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="underdark-tier-3"&gt;&lt;a id="underdark-encounters-underdark-tier-3"&gt;&lt;/a&gt;&lt;a id="underdark-tier-3"&gt;&lt;/a&gt;Underdark Tier 3&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="underdark-encounters"&gt;Underdark&lt;/a&gt; &amp;gt; &lt;a href="underdark-tier-3" class="small-text"&gt;Tier 3&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="underdark-tier-4"&gt;&lt;a id="underdark-encounters-underdark-tier-4"&gt;&lt;/a&gt;&lt;a id="underdark-tier-4"&gt;&lt;/a&gt;Underdark Tier 4&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="underdark-encounters"&gt;Underdark&lt;/a&gt; &amp;gt; &lt;a href="underdark-tier-4" class="small-text"&gt;Tier 4&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="0542cbe8-2991-5835-883f-94c3129dc473" sort="9" parent="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152">
+    <name>Underwater Encounters</name>
+    <slug>underwater-encounters</slug>
+    <content>&lt;h3 id="underwater-encounters"&gt;&lt;a id="underwater-encounters-underwater-encounters"&gt;&lt;/a&gt;&lt;a id="underwater-encounters"&gt;&lt;/a&gt;Underwater Encounters&lt;/h3&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="underwater-encounters" class="small-text"&gt;Urban&lt;/a&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
+    &lt;a href&gt;Tier 0&lt;br&gt;Any&lt;/a&gt;
+    &lt;a href&gt;Tier 1&lt;br&gt;(1-4)&lt;/a&gt;
+    &lt;a href&gt;Tier 2&lt;br&gt;(5-10)&lt;/a&gt;
+    &lt;a href&gt;Tier 3&lt;br&gt;(11-16)&lt;/a&gt;
+    &lt;a href&gt;Tier 4&lt;br&gt;(17-20)&lt;/a&gt;
+&lt;/div&gt;&lt;h4 id="underwater-tier-0"&gt;&lt;a id="underwater-encounters-underwater-tier-0"&gt;&lt;/a&gt;&lt;a id="underwater-tier-0"&gt;&lt;/a&gt;Underwater Tier 0&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="underwater-encounters"&gt;Underwater&lt;/a&gt; &amp;gt; &lt;a href="underwater-tier-0" class="small-text"&gt;Tier 0&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="underwater-tier-1"&gt;&lt;a id="underwater-encounters-underwater-tier-1"&gt;&lt;/a&gt;&lt;a id="underwater-tier-1"&gt;&lt;/a&gt;Underwater Tier 1&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="underwater-encounters"&gt;Underwater&lt;/a&gt; &amp;gt; &lt;a href="underwater-tier-1" class="small-text"&gt;Tier 1&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="underwater-tier-2"&gt;&lt;a id="underwater-encounters-underwater-tier-2"&gt;&lt;/a&gt;&lt;a id="underwater-tier-2"&gt;&lt;/a&gt;Underwater Tier 2&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="underwater-encounters"&gt;Underwater&lt;/a&gt; &amp;gt; &lt;a href="underwater-tier-2" class="small-text"&gt;Tier 2&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="underwater-tier-3"&gt;&lt;a id="underwater-encounters-underwater-tier-3"&gt;&lt;/a&gt;&lt;a id="underwater-tier-3"&gt;&lt;/a&gt;Underwater Tier 3&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="underwater-encounters"&gt;Underwater&lt;/a&gt; &amp;gt; &lt;a href="underwater-tier-3" class="small-text"&gt;Tier 3&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="underwater-tier-4"&gt;&lt;a id="underwater-encounters-underwater-tier-4"&gt;&lt;/a&gt;&lt;a id="underwater-tier-4"&gt;&lt;/a&gt;Underwater Tier 4&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="underwater-encounters"&gt;Underwater&lt;/a&gt; &amp;gt; &lt;a href="underwater-tier-4" class="small-text"&gt;Tier 4&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="37f49ccc-089f-5982-b3e2-4adaf1f1fb6c" sort="10" parent="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152">
+    <name>Urban Encounters</name>
+    <slug>urban-encounters</slug>
+    <content>&lt;h3 id="urban-encounters"&gt;&lt;a id="urban-encounters-urban-encounters"&gt;&lt;/a&gt;&lt;a id="urban-encounters"&gt;&lt;/a&gt;Urban Encounters&lt;/h3&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="urban-encounters" class="small-text"&gt;Urban&lt;/a&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
+    &lt;a href&gt;Tier 0&lt;br&gt;Any&lt;/a&gt;
+    &lt;a href&gt;Tier 1&lt;br&gt;(1-4)&lt;/a&gt;
+    &lt;a href&gt;Tier 2&lt;br&gt;(5-10)&lt;/a&gt;
+    &lt;a href&gt;Tier 3&lt;br&gt;(11-16)&lt;/a&gt;
+    &lt;a href&gt;Tier 4&lt;br&gt;(17-20)&lt;/a&gt;
+&lt;/div&gt;&lt;h4 id="urban-tier-0"&gt;&lt;a id="urban-encounters-urban-tier-0"&gt;&lt;/a&gt;&lt;a id="urban-tier-0"&gt;&lt;/a&gt;Urban Tier 0&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="urban-encounters"&gt;Urban&lt;/a&gt; &amp;gt; &lt;a href="urban-tier-0" class="small-text"&gt;Tier 0&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="urban-tier-1"&gt;&lt;a id="urban-encounters-urban-tier-1"&gt;&lt;/a&gt;&lt;a id="urban-tier-1"&gt;&lt;/a&gt;Urban Tier 1&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="urban-encounters"&gt;Urban&lt;/a&gt; &amp;gt; &lt;a href="urban-tier-1" class="small-text"&gt;Tier 1&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="urban-tier-2"&gt;&lt;a id="urban-encounters-urban-tier-2"&gt;&lt;/a&gt;&lt;a id="urban-tier-2"&gt;&lt;/a&gt;Urban Tier 2&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="urban-encounters"&gt;Urban&lt;/a&gt; &amp;gt; &lt;a href="urban-tier-2" class="small-text"&gt;Tier 2&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="urban-tier-3"&gt;&lt;a id="urban-encounters-urban-tier-3"&gt;&lt;/a&gt;&lt;a id="urban-tier-3"&gt;&lt;/a&gt;Urban Tier 3&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="urban-encounters"&gt;Urban&lt;/a&gt; &amp;gt; &lt;a href="urban-tier-3" class="small-text"&gt;Tier 3&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="urban-tier-4"&gt;&lt;a id="urban-encounters-urban-tier-4"&gt;&lt;/a&gt;&lt;a id="urban-tier-4"&gt;&lt;/a&gt;Urban Tier 4&lt;/h4&gt;&lt;p&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; &lt;a href="urban-encounters"&gt;Urban&lt;/a&gt; &amp;gt; &lt;a href="urban-tier-4" class="small-text"&gt;Tier 4&lt;/a&gt;&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
   <page id="b98b2811-89d6-532a-b4e6-31f0ed603a09" sort="10">
     <name>Environment</name>
     <slug>environment</slug>
     <content>&lt;h2 id="environment"&gt;&lt;a id="environment-environment"&gt;&lt;/a&gt;&lt;a id="environment"&gt;&lt;/a&gt;Environment&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Environment&lt;/p&gt;&lt;div id="menu-container"&gt;
-    &lt;a href="link"&gt;Blue Holes&lt;/a&gt;
-    &lt;a href="link"&gt;Coral Reefs&lt;/a&gt;
+    &lt;a href="link"&gt;Blue&lt;br&gt; Holes&lt;/a&gt;
+    &lt;a href="link"&gt;Coral&lt;br&gt; Reefs&lt;/a&gt;
     &lt;a href="link"&gt;Currents&lt;/a&gt;
+    &lt;a href="link"&gt;Desecrated&lt;br&gt; Ground&lt;/a&gt;
     &lt;a href="link"&gt;Depth&lt;/a&gt;
-    &lt;a href="link"&gt;Desecrated Ground&lt;/a&gt;
-    &lt;a href="link"&gt;Eldritch Mist&lt;/a&gt;
-    &lt;a href="link"&gt;Extreme Cold&lt;/a&gt;
-    &lt;a href="link"&gt;Extreme Heat&lt;/a&gt;
-    &lt;a href="link"&gt;Frigid Water&lt;/a&gt;
-    &lt;a href="link"&gt;Heavy Precipitation&lt;/a&gt;
-    &lt;a href="link"&gt;High Altitude&lt;/a&gt;
+    &lt;a href="link"&gt;Eldritch&lt;br&gt; Mist&lt;/a&gt;
+    &lt;a href="link"&gt;Extreme&lt;br&gt; Cold&lt;/a&gt;
+    &lt;a href="link"&gt;Extreme&lt;br&gt; Heat&lt;/a&gt;
+    &lt;a href="link"&gt;Frigid&lt;br&gt; Water&lt;/a&gt;
+    &lt;a href="link"&gt;Heavy&lt;br&gt; Precipitation&lt;/a&gt;
+    &lt;a href="link"&gt;High&lt;br&gt; Altitude&lt;/a&gt;
     &lt;a href="link"&gt;Ice&lt;/a&gt;
-    &lt;a href="link"&gt;Kelp Forests&lt;/a&gt;
-    &lt;a href="link"&gt;Kraken&amp;apos;s Grave&lt;/a&gt;
-    &lt;a href="link"&gt;Lure Lights&lt;/a&gt;
-    &lt;a href="link"&gt;Ice&lt;/a&gt;
-    &lt;a href="link"&gt;Magical Storms&lt;/a&gt;
+    &lt;a href="link"&gt;Kelp&lt;br&gt; Forests&lt;/a&gt;
+    &lt;a href="link"&gt;Kraken&amp;apos;s&lt;br&gt; Grave&lt;/a&gt;
+    &lt;a href="link"&gt;Lure&lt;br&gt; Lights&lt;/a&gt;
+    &lt;a href="link"&gt;Magical&lt;br&gt; Storms&lt;/a&gt;
     &lt;a href="link"&gt;Razorvine&lt;/a&gt;
     &lt;a href="link"&gt;Sandbars&lt;/a&gt;
-    &lt;a href="link"&gt;Sapping Snow&lt;/a&gt;
-    &lt;a href="link"&gt;Strong Wind&lt;/a&gt;
+    &lt;a href="link"&gt;Sapping&lt;br&gt; Snow&lt;/a&gt;
+    &lt;a href="link"&gt;Strong&lt;br&gt; Wind&lt;/a&gt;
     &lt;a href="link"&gt;Weather&lt;/a&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="f3ecf41b-b0a0-5dde-8d50-afccca58bcca" sort="0" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+  <page id="ad2feb28-ebc6-5344-8e3a-a25cd83ababe" sort="0" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Blue Holes</name>
+    <slug>blue-holes</slug>
+    <content>&lt;h3 id="blue-holes"&gt;&lt;a id="blue-holes-blue-holes"&gt;&lt;/a&gt;&lt;a id="blue-holes"&gt;&lt;/a&gt;Blue Holes&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Blue Holes&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="80f3fed3-2dc8-56f8-8fad-fe7b9c1684e7" sort="1" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Coral Reefs</name>
+    <slug>coral-reefs</slug>
+    <content>&lt;h3 id="coral-reefs"&gt;&lt;a id="coral-reefs-coral-reefs"&gt;&lt;/a&gt;&lt;a id="coral-reefs"&gt;&lt;/a&gt;Coral Reefs&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Coral Reefs&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="756e0c63-350d-54d8-bc95-676dbefac236" sort="2" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Currents</name>
+    <slug>currents</slug>
+    <content>&lt;h3 id="currents"&gt;&lt;a id="currents-currents"&gt;&lt;/a&gt;&lt;a id="currents"&gt;&lt;/a&gt;Currents&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Currents&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="c3fa3811-5df1-5f4b-9222-2fb0a157fc8c" sort="3" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Desecrated Ground</name>
+    <slug>desecrated-ground</slug>
+    <content>&lt;h3 id="desecrated-ground"&gt;&lt;a id="desecrated-ground-desecrated-ground"&gt;&lt;/a&gt;&lt;a id="desecrated-ground"&gt;&lt;/a&gt;Desecrated Ground&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Desecrated Ground&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="2feed236-2592-529f-a78b-517018e88af1" sort="4" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Depth</name>
+    <slug>depth</slug>
+    <content>&lt;h3 id="depth"&gt;&lt;a id="depth-depth"&gt;&lt;/a&gt;&lt;a id="depth"&gt;&lt;/a&gt;Depth&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Depth&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="56212986-3d7a-54e0-8b04-f9f066819fdd" sort="5" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Eldritch Mist</name>
+    <slug>eldritch-mist</slug>
+    <content>&lt;h3 id="eldritch-mist"&gt;&lt;a id="eldritch-mist-eldritch-mist"&gt;&lt;/a&gt;&lt;a id="eldritch-mist"&gt;&lt;/a&gt;Eldritch Mist&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Eldritch Mist&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="f3ecf41b-b0a0-5dde-8d50-afccca58bcca" sort="6" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
     <name>Extreme Cold</name>
     <slug>extreme-cold</slug>
-    <content>&lt;h3 id="extreme-cold"&gt;&lt;a id="extreme-cold-extreme-cold"&gt;&lt;/a&gt;&lt;a id="extreme-cold"&gt;&lt;/a&gt;Extreme Cold&lt;/h3&gt;</content>
+    <content>&lt;h3 id="extreme-cold"&gt;&lt;a id="extreme-cold-extreme-cold"&gt;&lt;/a&gt;&lt;a id="extreme-cold"&gt;&lt;/a&gt;Extreme Cold&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Extreme Cold&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
-  <page id="12d99d6a-d432-5300-8dbf-ec78801d15cd" sort="1" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+  <page id="12d99d6a-d432-5300-8dbf-ec78801d15cd" sort="7" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
     <name>Extreme Heat</name>
     <slug>extreme-heat</slug>
-    <content>&lt;h3 id="extreme-heat"&gt;&lt;a id="extreme-heat-extreme-heat"&gt;&lt;/a&gt;&lt;a id="extreme-heat"&gt;&lt;/a&gt;Extreme Heat&lt;/h3&gt;</content>
+    <content>&lt;h3 id="extreme-heat"&gt;&lt;a id="extreme-heat-extreme-heat"&gt;&lt;/a&gt;&lt;a id="extreme-heat"&gt;&lt;/a&gt;Extreme Heat&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Extreme Heat&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
-  <page id="5fb2a7c9-4ef8-52aa-815c-91819e531547" sort="2" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+  <page id="5fb2a7c9-4ef8-52aa-815c-91819e531547" sort="8" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
     <name>Frigid Water</name>
     <slug>frigid-water</slug>
-    <content>&lt;h3 id="frigid-water"&gt;&lt;a id="frigid-water-frigid-water"&gt;&lt;/a&gt;&lt;a id="frigid-water"&gt;&lt;/a&gt;Frigid Water&lt;/h3&gt;</content>
+    <content>&lt;h3 id="frigid-water"&gt;&lt;a id="frigid-water-frigid-water"&gt;&lt;/a&gt;&lt;a id="frigid-water"&gt;&lt;/a&gt;Frigid Water&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Frigid Water&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
-  <page id="fa8062c9-adc5-5f4e-b90e-61d2c43d1649" sort="3" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+  <page id="fa8062c9-adc5-5f4e-b90e-61d2c43d1649" sort="9" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
     <name>Heavy Precipitation</name>
     <slug>heavy-precipitation</slug>
-    <content>&lt;h3 id="heavy-precipitation"&gt;&lt;a id="heavy-precipitation-heavy-precipitation"&gt;&lt;/a&gt;&lt;a id="heavy-precipitation"&gt;&lt;/a&gt;Heavy Precipitation&lt;/h3&gt;</content>
+    <content>&lt;h3 id="heavy-precipitation"&gt;&lt;a id="heavy-precipitation-heavy-precipitation"&gt;&lt;/a&gt;&lt;a id="heavy-precipitation"&gt;&lt;/a&gt;Heavy Precipitation&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Heavy Precipitation&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
-  <page id="c11ba521-e410-54b7-b5a1-17479cc63c40" sort="4" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+  <page id="7075b891-c4fd-5707-a5bf-94aab98df203" sort="10" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>High Altitude</name>
+    <slug>high-altitude</slug>
+    <content>&lt;h3 id="high-altitude"&gt;&lt;a id="high-altitude-high-altitude"&gt;&lt;/a&gt;&lt;a id="high-altitude"&gt;&lt;/a&gt;High Altitude&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; High Altitude&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="171fd877-59f4-53a4-89a9-2bf2d61323de" sort="11" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Ice</name>
+    <slug>ice</slug>
+    <content>&lt;h3 id="ice"&gt;&lt;a id="ice-ice"&gt;&lt;/a&gt;&lt;a id="ice"&gt;&lt;/a&gt;Ice&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Ice&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="2cb8c60b-d8c1-5d14-b511-fb70ce076e7a" sort="12" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Kelp Forests</name>
+    <slug>kelp-forests</slug>
+    <content>&lt;h3 id="kelp-forests"&gt;&lt;a id="kelp-forests-kelp-forests"&gt;&lt;/a&gt;&lt;a id="kelp-forests"&gt;&lt;/a&gt;Kelp Forests&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Kelp Forests&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="20b14a3d-2a73-54d9-81c2-42d1f5004abb" sort="13" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Kraken’s Grave</name>
+    <slug>krakens-grave</slug>
+    <content>&lt;h3 id="kraken%E2%80%99s-grave"&gt;&lt;a id="krakens-grave-krakens-grave"&gt;&lt;/a&gt;&lt;a id="krakens-grave"&gt;&lt;/a&gt;Kraken&amp;#x2019;s Grave&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Kraken&amp;#x2019;s Grave&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="a239d235-36bb-592a-b925-9cf7c5d58f53" sort="14" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Lure Lights</name>
+    <slug>lure-lights</slug>
+    <content>&lt;h3 id="lure-lights"&gt;&lt;a id="lure-lights-lure-lights"&gt;&lt;/a&gt;&lt;a id="lure-lights"&gt;&lt;/a&gt;Lure Lights&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Lure Lights&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="f6474138-b633-557e-8331-80a50f47a535" sort="15" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Magical Storms</name>
+    <slug>magical-storms</slug>
+    <content>&lt;h3 id="magical-storms"&gt;&lt;a id="magical-storms-magical-storms"&gt;&lt;/a&gt;&lt;a id="magical-storms"&gt;&lt;/a&gt;Magical Storms&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Magical Storms&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="e97228c4-373f-5bb2-8fa2-96abe7918b8e" sort="16" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Razorvine</name>
+    <slug>razorvine</slug>
+    <content>&lt;h3 id="razorvine"&gt;&lt;a id="razorvine-razorvine"&gt;&lt;/a&gt;&lt;a id="razorvine"&gt;&lt;/a&gt;Razorvine&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Razorvine&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="1019d35d-b3b8-5d2d-a9c6-aa3625efe6ab" sort="17" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Sandbar</name>
+    <slug>sandbar</slug>
+    <content>&lt;h3 id="sandbar"&gt;&lt;a id="sandbar-sandbar"&gt;&lt;/a&gt;&lt;a id="sandbar"&gt;&lt;/a&gt;Sandbar&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Sandbar&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="7908ace3-9193-54d3-8a49-ca655f3d7327" sort="18" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Sapping Snow</name>
+    <slug>sapping-snow</slug>
+    <content>&lt;h3 id="sapping-snow"&gt;&lt;a id="sapping-snow-sapping-snow"&gt;&lt;/a&gt;&lt;a id="sapping-snow"&gt;&lt;/a&gt;Sapping Snow&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Sapping Snow&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="c11ba521-e410-54b7-b5a1-17479cc63c40" sort="19" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
     <name>Strong Wind</name>
     <slug>strong-wind</slug>
-    <content>&lt;h3 id="strong-wind"&gt;&lt;a id="strong-wind-strong-wind"&gt;&lt;/a&gt;&lt;a id="strong-wind"&gt;&lt;/a&gt;Strong Wind&lt;/h3&gt;</content>
+    <content>&lt;h3 id="strong-wind"&gt;&lt;a id="strong-wind-strong-wind"&gt;&lt;/a&gt;&lt;a id="strong-wind"&gt;&lt;/a&gt;Strong Wind&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Strong Wind&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
-  <page id="26919d1f-9f77-5b2c-8af2-114f1196d1a0" sort="5" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+  <page id="26919d1f-9f77-5b2c-8af2-114f1196d1a0" sort="20" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
     <name>Weather</name>
     <slug>weather</slug>
-    <content>&lt;h3 id="weather"&gt;&lt;a id="weather-weather"&gt;&lt;/a&gt;&lt;a id="weather"&gt;&lt;/a&gt;Weather&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Temperature&lt;/strong&gt;&lt;/p&gt;&lt;table class="gray"&gt;
+    <content>&lt;h3 id="weather"&gt;&lt;a id="weather-weather"&gt;&lt;/a&gt;&lt;a id="weather"&gt;&lt;/a&gt;Weather&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Weather&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Temperature&lt;/strong&gt;&lt;/p&gt;&lt;table class="gray small-text"&gt;
 &lt;thead&gt;
 &lt;tr&gt;&lt;/tr&gt;
 &lt;/thead&gt;
@@ -1279,7 +1996,7 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;td&gt;&lt;a href="/roll/1d4*10"&gt;1d4x10&lt;/a&gt; F&amp;#xB0; hotter than usual.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Wind&lt;/strong&gt;&lt;/p&gt;&lt;table class="gray"&gt;
+&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Wind&lt;/strong&gt;&lt;/p&gt;&lt;table class="gray small-text"&gt;
 &lt;thead&gt;
 &lt;tr&gt;&lt;/tr&gt;
 &lt;/thead&gt;
@@ -1297,7 +2014,7 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;td&gt;&lt;a href="strong-wind"&gt;Strong Wind&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Precipitation&lt;/strong&gt;&lt;/p&gt;&lt;table class="gray"&gt;
+&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Precipitation&lt;/strong&gt;&lt;/p&gt;&lt;table class="gray small-text"&gt;
 &lt;thead&gt;
 &lt;tr&gt;&lt;/tr&gt;
 &lt;/thead&gt;
@@ -1315,361 +2032,9 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;td&gt;&lt;a href="heavy-precipitation"&gt;Heavy Precipitation&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;div class="blockquote-flavortext-wrap"&gt;&lt;blockquote class="flavortext"&gt;
-&lt;p&gt;MrFarland&amp;#x2019;s Tip&lt;/p&gt;
-&lt;p&gt;Use these tables to come up with normal weather, but adjust ranges based on the region and season.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Tip&lt;/strong&gt;: Adjust the ranges depending on the region and season.&lt;/em&gt;&lt;/p&gt;</content>
-  </page>
-  <page id="6f32c0a9-961c-5fa2-8cd0-0482bef434bf" sort="10">
-    <name>Equipment</name>
-    <slug>equipment</slug>
-    <content>&lt;h2 id="equipment"&gt;&lt;a id="equipment-equipment"&gt;&lt;/a&gt;&lt;a id="equipment"&gt;&lt;/a&gt;Equipment&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Equipment&lt;/p&gt;&lt;div id="menu-container"&gt;
-    &lt;a href="adventuring-gear"&gt;Adventuring Gear&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="2f3eeadd-50db-5a1c-8b23-ab3c6c1e22ed" sort="0" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
-    <name>Adventuring Gear</name>
-    <slug>adventuring-gear</slug>
-    <content>&lt;h3 id="adventuring-gear"&gt;&lt;a id="adventuring-gear-adventuring-gear"&gt;&lt;/a&gt;&lt;a id="adventuring-gear"&gt;&lt;/a&gt;Adventuring Gear&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="equipment"&gt;Equipment&lt;/a&gt; &amp;gt; Adventuring Gear&lt;/p&gt;&lt;table class="shop"&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align:left"&gt;&lt;sub&gt;Item&lt;/sub&gt;&lt;/th&gt;
-&lt;th style="text-align:right"&gt;&lt;sub&gt;Cost&lt;/sub&gt;&lt;/th&gt;
-&lt;th style="text-align:right"&gt;&lt;sub&gt;Weight&lt;/sub&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/abacus"&gt;Abacus&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/acid-vial"&gt;Acid (Vial)&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;25 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/alchemists-fire"&gt;Alchemist&amp;#x2019;s Fire&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="shopH2"&gt;
-&lt;td style="text-align:left" colspan="3"&gt;Ammunition&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/arrow"&gt;&amp;#x2013; Arrow&lt;/a&gt; (20)&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/blowgun-needle"&gt;&amp;#x2013; Blowgun Needles&lt;/a&gt; (50)&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/crossbow-bolt"&gt;&amp;#x2013; Crossbow Bolts&lt;/a&gt; (10)&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1.5 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/sling-bullet"&gt;&amp;#x2013; Sling Bullets&lt;/a&gt; (20)&lt;/td&gt;
-&lt;td style="text-align:right"&gt;4 cp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1.5 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/antitoxin-vial"&gt;Antitoxin (Vial)&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;50 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="shopH2"&gt;
-&lt;td style="text-align:left" colspan="3"&gt;Arcane Focus&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/crystal"&gt;&amp;#x2013; Crystal&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/orb"&gt;&amp;#x2013; Orb&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;20 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;3 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/rod"&gt;&amp;#x2013; Rod&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/staff"&gt;&amp;#x2013; Staff&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;4 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/wand"&gt;&amp;#x2013; Wand&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/backpack"&gt;Backpack&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/ball-bearings"&gt;Ball Bearings&lt;/a&gt; (1000)&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/barrel"&gt;Barrel&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;70 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/basket"&gt;Basket&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;4 sp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/bedroll"&gt;Bedroll&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;7 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/bell"&gt;Bell&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.1 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/blanket"&gt;Blanket&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 sp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;3 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/block-and-tackle"&gt;Block and Tackle&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/book"&gt;Book&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;25 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/bottle-glass"&gt;Bottle, Glass&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/bucket"&gt;Bucket&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5 cp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/caltrops"&gt;Caltrops&lt;/a&gt; (20)&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1 gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;20 lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;&lt;a href="/item/temp"&gt;temp&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x gp&lt;/td&gt;
-&lt;td style="text-align:right"&gt;x lb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;/table&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Tip&lt;/strong&gt;: Adjust results based on region &amp;amp; season.&lt;/em&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="25b906b8-8ab5-57b4-a54b-f92e830cdfb5" sort="1" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
-    <name>Armor</name>
-    <slug>armor</slug>
-    <content>&lt;h3 id="armor"&gt;&lt;a id="armor-armor"&gt;&lt;/a&gt;&lt;a id="armor"&gt;&lt;/a&gt;Armor&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="equipment"&gt;Equipment&lt;/a&gt; &amp;gt; Armor&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 204&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="63c617f6-ff9a-5d4e-bdda-b6e798206638" sort="2" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
-    <name>Coins</name>
-    <slug>coins</slug>
-    <content>&lt;h3 id="coins"&gt;&lt;a id="coins-coins"&gt;&lt;/a&gt;&lt;a id="coins"&gt;&lt;/a&gt;Coins&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="equipment"&gt;Equipment&lt;/a&gt; &amp;gt; Coins&lt;/p&gt;&lt;table class="gray"&gt;
-&lt;thead&gt;
-&lt;tr&gt;&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Copper&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.1&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.02&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.01&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.001&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Silver&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.2&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.1&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.01&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Electrum&lt;/td&gt;
-&lt;td style="text-align:right"&gt;50&lt;/td&gt;
-&lt;td style="text-align:right"&gt;5&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.5&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.05&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Gold&lt;/td&gt;
-&lt;td style="text-align:right"&gt;100&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10&lt;/td&gt;
-&lt;td style="text-align:right"&gt;2&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1&lt;/td&gt;
-&lt;td style="text-align:right"&gt;0.1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;Platinum&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1,000&lt;/td&gt;
-&lt;td style="text-align:right"&gt;100&lt;/td&gt;
-&lt;td style="text-align:right"&gt;20&lt;/td&gt;
-&lt;td style="text-align:right"&gt;10&lt;/td&gt;
-&lt;td style="text-align:right"&gt;1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read"&gt;
-&lt;p&gt;&lt;em&gt;Source: Player&amp;#x2019;s Handbook, p. 143&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 204&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="0c9bde63-9199-5169-ab1f-e234df713fe9" sort="3" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
-    <name>Objects</name>
-    <slug>objects</slug>
-    <content>&lt;h3 id="objects"&gt;&lt;a id="objects-objects"&gt;&lt;/a&gt;&lt;a id="objects"&gt;&lt;/a&gt;Objects&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="equipment"&gt;Equipment&lt;/a&gt; &amp;gt; Objects&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 204&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="c12ba8fb-3f14-51ec-89db-17e964df664a" sort="4" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
-    <name>Mounts</name>
-    <slug>mounts</slug>
-    <content>&lt;h3 id="mounts"&gt;&lt;a id="mounts-mounts"&gt;&lt;/a&gt;&lt;a id="mounts"&gt;&lt;/a&gt;Mounts&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="equipment"&gt;Equipment&lt;/a&gt; &amp;gt; Mounts&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 204&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="0811099f-a240-58a0-a3e3-68f511c84450" sort="5" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
-    <name>Trade Goods</name>
-    <slug>trade-goods</slug>
-    <content>&lt;h3 id="trade-goods"&gt;&lt;a id="trade-goods-trade-goods"&gt;&lt;/a&gt;&lt;a id="trade-goods"&gt;&lt;/a&gt;Trade Goods&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="equipment"&gt;Equipment&lt;/a&gt; &amp;gt; Trade Goods&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 204&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="85a66eb9-ed59-5434-af67-ad082a9886b6" sort="6" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
-    <name>Vehicles</name>
-    <slug>vehicles</slug>
-    <content>&lt;h3 id="vehicles"&gt;&lt;a id="vehicles-vehicles"&gt;&lt;/a&gt;&lt;a id="vehicles"&gt;&lt;/a&gt;Vehicles&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="equipment"&gt;Equipment&lt;/a&gt; &amp;gt; Vehicles&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 204&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
@@ -1677,54 +2042,348 @@ Player&amp;#x2019;s Handbook, p. 204&lt;/p&gt;
     <name>Expenses</name>
     <slug>expenses</slug>
     <content>&lt;h2 id="expenses"&gt;&lt;a id="expenses-expenses"&gt;&lt;/a&gt;&lt;a id="expenses"&gt;&lt;/a&gt;Expenses&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Expenses&lt;/p&gt;&lt;div id="menu-container"&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
+    &lt;a href="food-drink"&gt;Food &amp;amp; Drink&lt;/a&gt;
+    &lt;a href="lifestyle-expenses"&gt;Lifestyle&lt;br&gt; Expenses&lt;/a&gt;
+    &lt;a href="lodging"&gt;Lodging&lt;/a&gt;
+    &lt;a href="services"&gt;Services&lt;/a&gt;
+    &lt;a href="spellcasting-services"&gt;Spellcasting&lt;br&gt; Services&lt;/a&gt;
+    &lt;a href="upkeep"&gt;Upkeep&lt;/a&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="ea1e3714-4a15-5fe3-a9a4-28ac697ae3bf" sort="10">
-    <name>Life &amp; Death</name>
-    <slug>life-and-death</slug>
-    <content>&lt;h2 id="life-%26-death"&gt;&lt;a id="life-and-death-life-and-death"&gt;&lt;/a&gt;&lt;a id="life-and-death"&gt;&lt;/a&gt;Life &amp;amp; Death&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Life &amp;amp; Death&lt;/p&gt;&lt;div id="menu-container"&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
+  <page id="da431455-134e-59a5-a945-cdb977971aec" sort="0" parent="2575d579-2813-523a-a94b-53bd2cb5bc4b">
+    <name>Food &amp; Drink</name>
+    <slug>food-and-drink</slug>
+    <content>&lt;h3 id="food-%26-drink"&gt;&lt;a id="food-and-drink-food-and-drink"&gt;&lt;/a&gt;&lt;a id="food-and-drink"&gt;&lt;/a&gt;Food &amp;amp; Drink&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Expenses&lt;/a&gt; &amp;gt; Food &amp;amp; Drink&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="597d0834-8b28-5054-a389-701c1642f050" sort="1" parent="2575d579-2813-523a-a94b-53bd2cb5bc4b">
+    <name>Lifestyle Expenses</name>
+    <slug>lifestyle-expenses</slug>
+    <content>&lt;h3 id="lifestyle-expenses"&gt;&lt;a id="lifestyle-expenses-lifestyle-expenses"&gt;&lt;/a&gt;&lt;a id="lifestyle-expenses"&gt;&lt;/a&gt;Lifestyle Expenses&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Expenses&lt;/a&gt; &amp;gt; Lifestyle Expenses&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="3bb9bc57-87f2-5b36-a0c6-fbe3c757b048" sort="2" parent="2575d579-2813-523a-a94b-53bd2cb5bc4b">
+    <name>Lodging</name>
+    <slug>lodging</slug>
+    <content>&lt;h3 id="lodging"&gt;&lt;a id="lodging-lodging"&gt;&lt;/a&gt;&lt;a id="lodging"&gt;&lt;/a&gt;Lodging&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Expenses&lt;/a&gt; &amp;gt; Lodging&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="986fe134-ca5b-55fd-a3d1-23c15caba575" sort="3" parent="2575d579-2813-523a-a94b-53bd2cb5bc4b">
+    <name>Services</name>
+    <slug>services</slug>
+    <content>&lt;h3 id="services"&gt;&lt;a id="services-services"&gt;&lt;/a&gt;&lt;a id="services"&gt;&lt;/a&gt;Services&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Expenses&lt;/a&gt; &amp;gt; Services&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="e6f8d68c-c0ad-5edb-b75c-4e4c3488c8f2" sort="4" parent="2575d579-2813-523a-a94b-53bd2cb5bc4b">
+    <name>Spellcasting Services</name>
+    <slug>spellcasting-services</slug>
+    <content>&lt;h3 id="spellcasting-services"&gt;&lt;a id="spellcasting-services-spellcasting-services"&gt;&lt;/a&gt;&lt;a id="spellcasting-services"&gt;&lt;/a&gt;Spellcasting Services&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Expenses&lt;/a&gt; &amp;gt; Spellcasting Services&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="e7423d33-2233-5762-ba54-6cbcee73a116" sort="5" parent="2575d579-2813-523a-a94b-53bd2cb5bc4b">
+    <name>Upkeep</name>
+    <slug>upkeep</slug>
+    <content>&lt;h3 id="upkeep"&gt;&lt;a id="upkeep-upkeep"&gt;&lt;/a&gt;&lt;a id="upkeep"&gt;&lt;/a&gt;Upkeep&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Expenses&lt;/a&gt; &amp;gt; Upkeep&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="30e846d8-ee62-5bda-a139-3185f861729f" sort="10">
+    <name>Items</name>
+    <slug>items</slug>
+    <content>&lt;h2 id="items"&gt;&lt;a id="items-items"&gt;&lt;/a&gt;&lt;a id="items"&gt;&lt;/a&gt;Items&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Items&lt;/p&gt;&lt;div id="menu-container"&gt;
+    &lt;a href="adventuring-gear"&gt;Adventuring Gear&lt;/a&gt;
+    &lt;a href="ammunition"&gt;Ammunition&lt;/a&gt;
+    &lt;a href="arcane-focus"&gt;Arcane Focus&lt;/a&gt;
+    &lt;a href="armor"&gt;Armor&lt;/a&gt;
+    &lt;a href="coins"&gt;Coins&lt;/a&gt;
+    &lt;a href="containers-capacity"&gt;Containers&lt;br&gt; &amp;amp; Capacity&lt;/a&gt;
+    &lt;a href="equipment-packs"&gt;Equipment Packs&lt;/a&gt;
+    &lt;a href="explosives"&gt;Explosives&lt;/a&gt;
+    &lt;a href="firearms"&gt;Firearms&lt;/a&gt;
+    &lt;a href="magical-items"&gt;Magical Items&lt;/a&gt;
+    &lt;a href="mounts-tack"&gt;Mounts &amp;amp; Tack&lt;/a&gt;
+    &lt;a href="musical-intruments"&gt;Musical Instruments&lt;/a&gt;
+    &lt;a href="object-ac-hp"&gt;Object&lt;br&gt; AC &amp;amp; HP&lt;/a&gt;
+    &lt;a href="trade-goods"&gt;Trade&lt;br&gt; Goods&lt;/a&gt;
+    &lt;a href="treasure"&gt;Treasure&lt;/a&gt;
+    &lt;a href="tools"&gt;Tools&lt;/a&gt;
+    &lt;a href="vehicles"&gt;Vehicles&lt;/a&gt;
+    &lt;a href="weapons"&gt;Weapons&lt;/a&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="2f3eeadd-50db-5a1c-8b23-ab3c6c1e22ed" sort="0" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Adventuring Gear</name>
+    <slug>adventuring-gear</slug>
+    <content>&lt;h3 id="adventuring-gear"&gt;&lt;a id="adventuring-gear-adventuring-gear"&gt;&lt;/a&gt;&lt;a id="adventuring-gear"&gt;&lt;/a&gt;Adventuring Gear&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Adventuring Gear&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="c538bf94-5214-54a3-972c-017fd9bae42c" sort="1" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Ammunition</name>
+    <slug>ammunition</slug>
+    <content>&lt;h3 id="ammunition"&gt;&lt;a id="ammunition-ammunition"&gt;&lt;/a&gt;&lt;a id="ammunition"&gt;&lt;/a&gt;Ammunition&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Ammunition&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="20b630be-d07b-5878-b3f0-ea142d00386e" sort="2" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Arcane Focus</name>
+    <slug>arcane-focus</slug>
+    <content>&lt;h3 id="arcane-focus"&gt;&lt;a id="arcane-focus-arcane-focus"&gt;&lt;/a&gt;&lt;a id="arcane-focus"&gt;&lt;/a&gt;Arcane Focus&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Arcane Focus&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="25b906b8-8ab5-57b4-a54b-f92e830cdfb5" sort="3" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Armor</name>
+    <slug>armor</slug>
+    <content>&lt;h3 id="armor"&gt;&lt;a id="armor-armor"&gt;&lt;/a&gt;&lt;a id="armor"&gt;&lt;/a&gt;Armor&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Armor&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="63c617f6-ff9a-5d4e-bdda-b6e798206638" sort="4" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Coins</name>
+    <slug>coins</slug>
+    <content>&lt;h3 id="coins"&gt;&lt;a id="coins-coins"&gt;&lt;/a&gt;&lt;a id="coins"&gt;&lt;/a&gt;Coins&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Coins&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="529a63e1-9500-57f0-bcd6-329c0ce97993" sort="5" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Containers &amp; Capacity</name>
+    <slug>containers-and-capacity</slug>
+    <content>&lt;h3 id="containers-%26-capacity"&gt;&lt;a id="containers-and-capacity-containers-and-capacity"&gt;&lt;/a&gt;&lt;a id="containers-and-capacity"&gt;&lt;/a&gt;Containers &amp;amp; Capacity&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Weapons&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="a12835e0-b6ff-54b5-9f99-366197f56f4a" sort="6" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Equipment Packs</name>
+    <slug>equipment-packs</slug>
+    <content>&lt;h3 id="equipment-packs"&gt;&lt;a id="equipment-packs-equipment-packs"&gt;&lt;/a&gt;&lt;a id="equipment-packs"&gt;&lt;/a&gt;Equipment Packs&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Equipment Packs&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="1fd2c359-81df-5db0-bc83-aff80503f669" sort="7" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Explosives</name>
+    <slug>explosives</slug>
+    <content>&lt;h3 id="explosives"&gt;&lt;a id="explosives-explosives"&gt;&lt;/a&gt;&lt;a id="explosives"&gt;&lt;/a&gt;Explosives&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Explosives&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="5debaa54-00a3-5673-a461-dd1c53098413" sort="8" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Firearms</name>
+    <slug>firearms</slug>
+    <content>&lt;h3 id="firearms"&gt;&lt;a id="firearms-firearms"&gt;&lt;/a&gt;&lt;a id="firearms"&gt;&lt;/a&gt;Firearms&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Firearms&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="da27c1d5-fa0d-5335-adf2-f48a322fd0c2" sort="9" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Magical Items</name>
+    <slug>magical-items</slug>
+    <content>&lt;h3 id="magical-items"&gt;&lt;a id="magical-items-magical-items"&gt;&lt;/a&gt;&lt;a id="magical-items"&gt;&lt;/a&gt;Magical Items&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Magical Items&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="7c2967c8-a67d-5de5-b0cc-87c027a7f0ef" sort="10" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Mounts &amp; Tack</name>
+    <slug>mounts-and-tack</slug>
+    <content>&lt;h3 id="mounts-%26-tack"&gt;&lt;a id="mounts-and-tack-mounts-and-tack"&gt;&lt;/a&gt;&lt;a id="mounts-and-tack"&gt;&lt;/a&gt;Mounts &amp;amp; Tack&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Mounts &amp;amp; Tack&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="68954148-5f70-5536-86c1-3d1185a8d4f3" sort="11" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Musical Instruments</name>
+    <slug>musical-instruments</slug>
+    <content>&lt;h3 id="musical-instruments"&gt;&lt;a id="musical-instruments-musical-instruments"&gt;&lt;/a&gt;&lt;a id="musical-instruments"&gt;&lt;/a&gt;Musical Instruments&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Musical Instruments&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="61a1978e-abf4-5bac-982a-91499949614c" sort="12" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Object AC &amp; HP</name>
+    <slug>object-ac-and-hp</slug>
+    <content>&lt;h3 id="object-ac-%26-hp"&gt;&lt;a id="object-ac-and-hp-object-ac-and-hp"&gt;&lt;/a&gt;&lt;a id="object-ac-and-hp"&gt;&lt;/a&gt;Object AC &amp;amp; HP&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Object AC &amp;amp; HP&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="0811099f-a240-58a0-a3e3-68f511c84450" sort="13" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Trade Goods</name>
+    <slug>trade-goods</slug>
+    <content>&lt;h3 id="trade-goods"&gt;&lt;a id="trade-goods-trade-goods"&gt;&lt;/a&gt;&lt;a id="trade-goods"&gt;&lt;/a&gt;Trade Goods&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Trade Goods&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="f7f9e688-c10b-52f7-9fba-5ad4d4268ccd" sort="14" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Treasure</name>
+    <slug>treasure</slug>
+    <content>&lt;h3 id="treasure"&gt;&lt;a id="treasure-treasure"&gt;&lt;/a&gt;&lt;a id="treasure"&gt;&lt;/a&gt;Treasure&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Treasure&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="e782313d-2a6c-5c6d-99b7-2e1d922112b2" sort="15" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Tools</name>
+    <slug>tools</slug>
+    <content>&lt;h3 id="tools"&gt;&lt;a id="tools-tools"&gt;&lt;/a&gt;&lt;a id="tools"&gt;&lt;/a&gt;Tools&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Tools&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="85a66eb9-ed59-5434-af67-ad082a9886b6" sort="16" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Vehicles</name>
+    <slug>vehicles</slug>
+    <content>&lt;h3 id="vehicles"&gt;&lt;a id="vehicles-vehicles"&gt;&lt;/a&gt;&lt;a id="vehicles"&gt;&lt;/a&gt;Vehicles&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Vehicles&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="5e4fa346-62a5-5487-980c-60a6e1cc381d" sort="17" parent="30e846d8-ee62-5bda-a139-3185f861729f">
+    <name>Weapons</name>
+    <slug>weapons</slug>
+    <content>&lt;h3 id="weapons"&gt;&lt;a id="weapons-weapons"&gt;&lt;/a&gt;&lt;a id="weapons"&gt;&lt;/a&gt;Weapons&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="items"&gt;Items&lt;/a&gt; &amp;gt; Weapons&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
   <page id="6fcaabe9-874f-5d17-aec2-58e97be7d2f2" sort="10">
     <name>Movement</name>
     <slug>movement</slug>
     <content>&lt;h2 id="movement"&gt;&lt;a id="movement-movement"&gt;&lt;/a&gt;&lt;a id="movement"&gt;&lt;/a&gt;Movement&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Movement&lt;/p&gt;&lt;div id="menu-container"&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
-    &lt;a href="link"&gt;Link&lt;/a&gt;
+    &lt;a href="link"&gt;Climbing&lt;/a&gt;
+    &lt;a href="link"&gt;Crawling&lt;/a&gt;
+    &lt;a href="link"&gt;Difficult Terrain&lt;/a&gt;
+    &lt;a href="link"&gt;Flying&lt;/a&gt;
+    &lt;a href="link"&gt;Forced March&lt;/a&gt;
+    &lt;a href="link"&gt;Jumping&lt;/a&gt;
+    &lt;a href="link"&gt;Speed&lt;/a&gt;
+    &lt;a href="link"&gt;Swimming&lt;/a&gt;
+    &lt;a href="link"&gt;Travel Speed&lt;/a&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="ca866dc1-d4cb-5dae-a7ae-0263b136185b" sort="0" parent="6fcaabe9-874f-5d17-aec2-58e97be7d2f2">
+    <name>Climbing</name>
+    <slug>climbing</slug>
+    <content>&lt;h3 id="climbing"&gt;&lt;a id="climbing-climbing"&gt;&lt;/a&gt;&lt;a id="climbing"&gt;&lt;/a&gt;Climbing&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Movement&lt;/a&gt; &amp;gt; Climbing&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="d7d0f27c-4bd5-52bb-afbb-7d4940140957" sort="1" parent="6fcaabe9-874f-5d17-aec2-58e97be7d2f2">
+    <name>Crawling</name>
+    <slug>crawling</slug>
+    <content>&lt;h3 id="crawling"&gt;&lt;a id="crawling-crawling"&gt;&lt;/a&gt;&lt;a id="crawling"&gt;&lt;/a&gt;Crawling&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Movement&lt;/a&gt; &amp;gt; Crawling&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="248b5fd9-b98f-5b47-a36b-662c5be4c590" sort="2" parent="6fcaabe9-874f-5d17-aec2-58e97be7d2f2">
+    <name>Difficult Terrain</name>
+    <slug>difficult-terrain</slug>
+    <content>&lt;h3 id="difficult-terrain"&gt;&lt;a id="difficult-terrain-difficult-terrain"&gt;&lt;/a&gt;&lt;a id="difficult-terrain"&gt;&lt;/a&gt;Difficult Terrain&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Movement&lt;/a&gt; &amp;gt; Difficult Terrain&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="cabeb599-de15-5230-b59a-a3b97197dfde" sort="3" parent="6fcaabe9-874f-5d17-aec2-58e97be7d2f2">
+    <name>Flying</name>
+    <slug>flying</slug>
+    <content>&lt;h3 id="flying"&gt;&lt;a id="flying-flying"&gt;&lt;/a&gt;&lt;a id="flying"&gt;&lt;/a&gt;Flying&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Movement&lt;/a&gt; &amp;gt; Flying&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="8f3ec86b-7600-547f-be03-d76b66b51840" sort="4" parent="6fcaabe9-874f-5d17-aec2-58e97be7d2f2">
+    <name>Forced March</name>
+    <slug>forced-march</slug>
+    <content>&lt;h3 id="forced-march"&gt;&lt;a id="forced-march-forced-march"&gt;&lt;/a&gt;&lt;a id="forced-march"&gt;&lt;/a&gt;Forced March&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Movement&lt;/a&gt; &amp;gt; Forced March&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="a8510322-0ee0-564b-8f7a-f04b91094e14" sort="5" parent="6fcaabe9-874f-5d17-aec2-58e97be7d2f2">
+    <name>Jumping</name>
+    <slug>jumping</slug>
+    <content>&lt;h3 id="jumping"&gt;&lt;a id="jumping-jumping"&gt;&lt;/a&gt;&lt;a id="jumping"&gt;&lt;/a&gt;Jumping&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Movement&lt;/a&gt; &amp;gt; Jumping&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="a08ad68b-72ab-5378-9086-319667e30a7b" sort="6" parent="6fcaabe9-874f-5d17-aec2-58e97be7d2f2">
+    <name>Speed</name>
+    <slug>speed</slug>
+    <content>&lt;h3 id="speed"&gt;&lt;a id="speed-speed"&gt;&lt;/a&gt;&lt;a id="speed"&gt;&lt;/a&gt;Speed&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Movement&lt;/a&gt; &amp;gt; Speed&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="ca33f656-bce9-5a7e-9409-3b2a20ffbad2" sort="7" parent="6fcaabe9-874f-5d17-aec2-58e97be7d2f2">
+    <name>Swimming</name>
+    <slug>swimming</slug>
+    <content>&lt;h3 id="swimming"&gt;&lt;a id="swimming-swimming"&gt;&lt;/a&gt;&lt;a id="swimming"&gt;&lt;/a&gt;Swimming&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Movement&lt;/a&gt; &amp;gt; Swimming&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="03bd681d-6038-5097-86bc-34c0c55deece" sort="8" parent="6fcaabe9-874f-5d17-aec2-58e97be7d2f2">
+    <name>Travel Speed</name>
+    <slug>travel-speed</slug>
+    <content>&lt;h3 id="travel-speed"&gt;&lt;a id="travel-speed-travel-speed"&gt;&lt;/a&gt;&lt;a id="travel-speed"&gt;&lt;/a&gt;Travel Speed&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Movement&lt;/a&gt; &amp;gt; Travel Speed&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
   <page id="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3" sort="10">
@@ -1888,7 +2547,16 @@ Player&amp;#x2019;s Handbook, p. 204&lt;/p&gt;
     &lt;a href="tracking"&gt;Tracking&lt;/a&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="7676113b-5508-5711-b851-80995d19d5f9" sort="0" parent="8387e576-7d1b-5649-adcd-92d88d6b5f3a">
+  <page id="08fae5b3-2ba9-5416-9f25-02c02ad10f1f" sort="0" parent="8387e576-7d1b-5649-adcd-92d88d6b5f3a">
+    <name>Food &amp; Water</name>
+    <slug>food-and-water</slug>
+    <content>&lt;h3 id="food-%26-water"&gt;&lt;a id="food-and-water-food-and-water"&gt;&lt;/a&gt;&lt;a id="food-and-water"&gt;&lt;/a&gt;Food &amp;amp; Water&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="survival"&gt;Survival&lt;/a&gt; &amp;gt; Food &amp;amp; Water&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="7676113b-5508-5711-b851-80995d19d5f9" sort="1" parent="8387e576-7d1b-5649-adcd-92d88d6b5f3a">
     <name>Foraging</name>
     <slug>foraging</slug>
     <content>&lt;h3 id="foraging"&gt;&lt;a id="foraging-foraging"&gt;&lt;/a&gt;&lt;a id="foraging"&gt;&lt;/a&gt;Foraging&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="survival"&gt;Survival&lt;/a&gt; &amp;gt; Foraging&lt;/p&gt;&lt;table class="gray"&gt;
@@ -1918,7 +2586,16 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="7ce64088-7e5b-56d0-90b1-7478b4ba8fa0" sort="1" parent="8387e576-7d1b-5649-adcd-92d88d6b5f3a">
+  <page id="f85fd978-1a6d-5071-88ff-4cca235dc1d2" sort="2" parent="8387e576-7d1b-5649-adcd-92d88d6b5f3a">
+    <name>Sleep</name>
+    <slug>sleep</slug>
+    <content>&lt;h3 id="sleep"&gt;&lt;a id="sleep-sleep"&gt;&lt;/a&gt;&lt;a id="sleep"&gt;&lt;/a&gt;Sleep&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="survival"&gt;Survival&lt;/a&gt; &amp;gt; Sleep&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="7ce64088-7e5b-56d0-90b1-7478b4ba8fa0" sort="3" parent="8387e576-7d1b-5649-adcd-92d88d6b5f3a">
     <name>Tracking</name>
     <slug>tracking</slug>
     <content>&lt;h3 id="tracking"&gt;&lt;a id="tracking-tracking"&gt;&lt;/a&gt;&lt;a id="tracking"&gt;&lt;/a&gt;Tracking&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="survival"&gt;Survival&lt;/a&gt; &amp;gt; Tracking&lt;/p&gt;&lt;table class="gray"&gt;
@@ -1956,7 +2633,7 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="dfe7500f-c81f-59be-8dc6-a543cadd70c9" parent="e782313d-2a6c-5c6d-99b7-2e1d922112b2">
+  <page id="dfe7500f-c81f-59be-8dc6-a543cadd70c9" parent="9ea0a5e4-1457-532d-b424-e3d4298fc8e8">
     <name>Character Name Generator</name>
     <slug>character-name-generator</slug>
     <content>&lt;h3&gt;&lt;a id="character-name-generator-character-name-generator"&gt;&lt;/a&gt;&lt;a id="character-name-generator"&gt;&lt;/a&gt;Character Name Generator&lt;/h3&gt;
