@@ -4,7 +4,7 @@ MrFarland's DM Operations Center is a add-on module for the EncounterPlus virtua
 ## Audience
 This module was designed specifically for 5th edition Dungeons & Dragons dungeon masters and users of the EncounterPlus virtual tabletop system.
 
-## Tools
+## Components
 This module hopes to provide 5th edition Dungeons & Dragons dungeon masters with the following tools:
 - **Calendars**. A tool to track the passage of in-game time and events for new and existing worlds.
 - **DM Screen**. A searchable index of common rules and tables to function as a virtual DM screen.
