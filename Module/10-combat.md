@@ -12,8 +12,8 @@ module-pagebreaks: h1, h2, h3
     <a href="link">Bonus Actions</a>
     <a href="link">Cover</a>
     <a href="link">Criticals</a>
-    <a href="link">Damage Types</a>
-    <a href="link">Damage Resistance</a>
+    <a href="link">Damage</a>
+    <a href="link">Extra Attack</a>
     <a href="link">Free Actions</a>
     <a href="link">Grapple & Shove</a>
     <a href="link">Healing</a>
@@ -194,8 +194,8 @@ module-pagebreaks: h1, h2, h3
 
 
 
-### Damage Resistance
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Damage Resistance {.small-text}
+### Damage
+[Home](home) > [Abilities](abilities) > [Combat](combat) > Damage {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -205,8 +205,8 @@ module-pagebreaks: h1, h2, h3
 
 
 
-### Damage Types
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Damage Types {.small-text}
+### Extra Attack
+[Home](home) > [Abilities](abilities) > [Combat](combat) >Extra Attack {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -214,6 +214,7 @@ module-pagebreaks: h1, h2, h3
 > **Sources** <br/>
 > Player's Handbook, p. xxx
 {.read .small-text}
+
 
 
 ### Free Actions

@@ -21,6 +21,7 @@ module-pagebreaks: h1, h2, h3
     <a href="helping">Helping</a>
     <a href="intelligence">Intelligence</a>
     <a href="passive-checks">Passive Checks</a>
+    <a href="proficiency-bonus">Proficiency Bonus</a>
     <a href="strength">Strength</a>
     <a href="wisdom">Wisdom</a>
 </div>
@@ -452,6 +453,17 @@ Wearing [armor](armor) replaces a creature's natural AC with that of the armor t
 
 ### Passive Checks
 [Home](home) > [Abilities](abilities) > Passive Checks {.small-text}
+
+**COMING SOON** {.text-center}
+
+> **Sources** <br/>
+> Player's Handbook, p. xxx
+{.read .small-text}
+
+
+
+### Proficiency Bonus
+[Home](home) > [Abilities](abilities) > Proficiency Bonus {.small-text}
 
 **COMING SOON** {.text-center}
 
