@@ -11,7 +11,7 @@ order: 00
     <a href="characters">Characters</a>
     <a href="combat">Combat</a>
     <a href="conditions-effects">Conditions<br/> & Effects</a>
-    <a href="downtime">Downtime</a>
+    <a href="downtime-recovery">Downtime<br/> & Recovery</a>
     <a href="encounters">Encounters</a>
     <a href="environment">Environment</a>
     <a href="equipment">Equipment</a>

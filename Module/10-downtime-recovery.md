@@ -1,11 +1,11 @@
 ---
-name: Downtime
-slug: downtime
+name: Downtime & Recovery
+slug: downtime-recovery
 order: 10
 module-pagebreaks: h1, h2, h3
 ---
-## Downtime
-[Home](home) > Downtime {.small-text}
+## Downtime & Recovery
+[Home](home) > Downtime & Recovery {.small-text}
 
 <div id="menu-container">
     <a href="brewing-potions">Brewing Potions</a>
@@ -26,7 +26,7 @@ module-pagebreaks: h1, h2, h3
 </div>
 
 ### Brewing Potions
-[Home](home) > [Downtime](downtime) > Brewing Potions {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Brewing Potions {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -37,7 +37,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Buying Magic items
-[Home](home) > [Downtime](downtime) > Buying Magic items {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Buying Magic items {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -48,7 +48,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Carousing
-[Home](home) > [Downtime](downtime) > Carousing {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Carousing {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -58,7 +58,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Crafting Items
-[Home](home) > [Downtime](downtime) > Crafting Items {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Crafting Items {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -69,7 +69,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Crime
-[Home](home) > [Downtime](downtime) > Crime {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Crime {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -80,7 +80,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Enchanting Items
-[Home](home) > [Downtime](downtime) > Enchanting Items {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Enchanting Items {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -90,7 +90,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Gambling
-[Home](home) > [Downtime](downtime) > Gambling {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Gambling {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -100,7 +100,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Pit Fighting
-[Home](home) > [Downtime](downtime) > Pit Fighting {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Pit Fighting {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -110,7 +110,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Practicing Profession
-[Home](home) > [Downtime](downtime) > Practicing Profession {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Practicing Profession {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -120,7 +120,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Religious Service
-[Home](home) > [Downtime](downtime) > Religious Service {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Religious Service {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -130,7 +130,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Researching
-[Home](home) > [Downtime](downtime) > Researching {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Researching {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -141,7 +141,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Long Rest
-[Home](home) > [Downtime](downtime) > Long Rest {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Long Rest {.small-text}
 
 **8 Hours** {.text-center}
 
@@ -157,16 +157,20 @@ module-pagebreaks: h1, h2, h3
 - Regain spent [HD](hit-dice) = 1/2 character level.
 
 > **Sources** <br/>
-> Player's Handbook, p. xxx
+> Player's Handbook, p. 186
 {.read .small-text}
 
 
 
 ### Short Rest
-[Home](home) > [Downtime](downtime) > Short Rest {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Short Rest {.small-text}
 
 **1 Hour** {.text-center}
+- Minimum of 1 hour of light activity.
+{.square}
 
+
+**Upon completion:**
 - May use [Hit Dice](hit-dice) equal to character level.
 - Restore [HP](hit-points) = [HD](hit-dice) + [CON](constitution) modifier per die.
 {.square}
@@ -178,7 +182,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Training
-[Home](home) > [Downtime](downtime) > Training {.small-text}
+[Home](home) > [Downtime & Recovery](downtime-recovery) > Training {.small-text}
 
 **COMING SOON** {.text-center}
 
