@@ -9,31 +9,41 @@ module-pagebreaks: h1, h2, h3
 
 <div id="menu-container">
     <a href="actions">Actions</a>
-    <a href="link">Bonus Actions</a>
-    <a href="link">Cover</a>
-    <a href="link">Criticals</a>
-    <a href="link">Damage</a>
-    <a href="link">Extra Attack</a>
-    <a href="link">Free Actions</a>
-    <a href="link">Grapple & Shove</a>
-    <a href="link">Healing</a>
-    <a href="link">Initiative</a>
-    <a href="link">Mounted Combat</a>
-    <a href="link">Naval Combat</a>
-    <a href="link">Nonlethal Damage</a>
-    <a href="link">Reactions</a>
-    <a href="link">Surprise</a>
-    <a href="link">Unarmed Combat</a>
-    <a href="link">Underwater Combat</a>
+    <a href="bonus-actions">Bonus Actions</a>
+    <a href="cover">Cover</a>
+    <a href="criticals">Criticals</a>
+    <a href="damage">Damage</a>
+    <a href="extra-attack">Extra Attack</a>
+    <a href="free-actions">Free Actions</a>
+    <a href="grapple-shove">Grapple & Shove</a>
+    <a href="healing">Healing</a>
+    <a href="initiative">Initiative</a>
+    <a href="mounted-combat">Mounted Combat</a>
+    <a href="naval-combat">Naval Combat</a>
+    <a href="nonlethal-damage">Nonlethal Damage</a>
+    <a href="reactions">Reactions</a>
+    <a href="surprise">Surprise</a>
+    <a href="unarmed-combat">Unarmed Combat</a>
+    <a href="underwater-combat">Underwater Combat</a>
 </div>
 
 
 
 ### Actions
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Actions {.small-text}
+[Home](home) > [Combat](combat) > Actions {.small-text}
 
-**COMING SOON** {.text-center}
-
+<div id="menu-container">
+    <a href="attack">Attack</a>
+    <a href="cast-spell">Cast Spell</a>
+    <a href="dash">Dash</a>
+    <a href="disengage">Disengage</a>
+    <a href="dodge">Dodge</a>
+    <a href="help">Help</a>
+    <a href="hide">Hide</a>
+    <a href="ready">Ready</a>
+    <a href="search">Search</a>
+    <a href="use-object">Use Object</a>
+</div>
 
 > **Sources** <br/>
 > Player's Handbook, p. xxx
@@ -42,7 +52,7 @@ module-pagebreaks: h1, h2, h3
 
 
 #### Attack
-[Home](home) > [Abilities](abilities) > [Combat](Combat) > [Actions](actions) > Attack {.small-text}
+[Home](home) > [Combat](combat) > [Actions](actions) > Attack {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -54,7 +64,7 @@ module-pagebreaks: h1, h2, h3
 
 
 #### Cast Spell
-[Home](home) > [Abilities](abilities) > [Combat](Combat) > [Actions](actions) > Cast Spell {.small-text}
+[Home](home) > [Combat](combat) > [Actions](actions) > Cast Spell {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -65,7 +75,7 @@ module-pagebreaks: h1, h2, h3
 
 
 #### Dash
-[Home](home) > [Abilities](abilities) > [Combat](Combat) > [Actions](actions) > Dash {.small-text}
+[Home](home) > [Combat](combat) > [Actions](actions) > Dash {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -76,7 +86,7 @@ module-pagebreaks: h1, h2, h3
 
 
 #### Disengage
-[Home](home) > [Abilities](abilities) > [Combat](Combat) > [Actions](actions) > Disengage {.small-text}
+[Home](home) > [Combat](combat) > [Actions](actions) > Disengage {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -87,7 +97,7 @@ module-pagebreaks: h1, h2, h3
 
 
 #### Dodge
-[Home](home) > [Abilities](abilities) > [Combat](Combat) > [Actions](actions) > Dodge {.small-text}
+[Home](home) > [Combat](combat) > [Actions](actions) > Dodge {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -98,7 +108,7 @@ module-pagebreaks: h1, h2, h3
 
 
 #### Help
-[Home](home) > [Abilities](abilities) > [Combat](Combat) > [Actions](actions) > Help {.small-text}
+[Home](home) > [Combat](combat) > [Actions](actions) > Help {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -109,7 +119,7 @@ module-pagebreaks: h1, h2, h3
 
 
 #### Hide
-[Home](home) > [Abilities](abilities) > [Combat](Combat) > [Actions](actions) > Hide {.small-text}
+[Home](home) > [Combat](combat) > [Actions](actions) > Hide {.small-text}
 
  **Hider ([Stealth](stealth)) v. Searcher ([Perception](perception))** {.text-center}
 
@@ -127,7 +137,7 @@ module-pagebreaks: h1, h2, h3
 
 
 #### Ready
-[Home](home) > [Abilities](abilities) > [Combat](Combat) > [Actions](actions) > Ready {.small-text}
+[Home](home) > [Combat](combat) > [Actions](actions) > Ready {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -138,7 +148,7 @@ module-pagebreaks: h1, h2, h3
 
 
 #### Search
-[Home](home) > [Abilities](abilities) > [Combat](Combat) > [Actions](actions) > Search {.small-text}
+[Home](home) > [Combat](combat) > [Actions](actions) > Search {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -149,7 +159,7 @@ module-pagebreaks: h1, h2, h3
 
 
 #### Use Object
-[Home](home) > [Abilities](abilities) > [Combat](Combat) > [Actions](actions) > Use Object {.small-text}
+[Home](home) > [Combat](combat) > [Actions](actions) > Use Object {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -161,7 +171,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Bonus Actions
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Bonus Actions {.small-text}
+[Home](home) > [Combat](combat) > Bonus Actions {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -172,7 +182,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Cover
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Cover {.small-text}
+[Home](home) > [Combat](combat) > Cover {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -183,7 +193,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Criticals
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Criticals {.small-text}
+[Home](home) > [Combat](combat) > Criticals {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -195,7 +205,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Damage
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Damage {.small-text}
+[Home](home) > [Combat](combat) > Damage {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -206,7 +216,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Extra Attack
-[Home](home) > [Abilities](abilities) > [Combat](combat) >Extra Attack {.small-text}
+[Home](home) > [Combat](combat) >Extra Attack {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -218,7 +228,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Free Actions
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Free Actions {.small-text}
+[Home](home) > [Combat](combat) > Free Actions {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -229,7 +239,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Grapple & Shove
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Grapple & Shove {.small-text}
+[Home](home) > [Combat](combat) > Grapple & Shove {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -240,7 +250,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Healing
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Healing {.small-text}
+[Home](home) > [Combat](combat) > Healing {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -251,7 +261,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Initiative
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Initiative {.small-text}
+[Home](home) > [Combat](combat) > Initiative {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -262,7 +272,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Mounted Combat
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Mounted Combat {.small-text}
+[Home](home) > [Combat](combat) > Mounted Combat {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -273,7 +283,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Naval Combat
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Naval Combat {.small-text}
+[Home](home) > [Combat](combat) > Naval Combat {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -284,7 +294,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Nonlethal Damage
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Nonlethal Damage {.small-text}
+[Home](home) > [Combat](combat) > Nonlethal Damage {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -295,7 +305,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Reactions
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Reactions {.small-text}
+[Home](home) > [Combat](combat) > Reactions {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -306,7 +316,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Surprise
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Surprise {.small-text}
+[Home](home) > [Combat](combat) > Surprise {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -317,7 +327,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Unarmed Combat
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Unarmed Combat {.small-text}
+[Home](home) > [Combat](combat) > Unarmed Combat {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -328,7 +338,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Underwater Combat
-[Home](home) > [Abilities](abilities) > [Combat](combat) > Underwater Combat {.small-text}
+[Home](home) > [Combat](combat) > Underwater Combat {.small-text}
 
 **COMING SOON** {.text-center}
 

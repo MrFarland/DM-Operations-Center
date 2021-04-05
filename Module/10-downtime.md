@@ -11,15 +11,17 @@ module-pagebreaks: h1, h2, h3
     <a href="brewing-potions">Brewing Potions</a>
     <a href="buying-magic-items">Buying<br/> Magic Items</a>
     <a href="carousing">Carousing</a>
-    <a href="crafting-items">Crafting Items</a>
+    <a href="crafting-items">Crafting<br/> Items</a>
     <a href="crime">Crime</a>
-    <a href="enchanting-items">Enchanting Items</a>
+    <a href="enchanting-items">Enchanting<br/> Items</a>
     <a href="gambling">Gambling</a>
     <a href="pit-fighting">Pit<br/> Fighting</a>
-    <a href="practicing-profession">Practicing Profession</a>
-    <a href="religious-service">Religious Service</a>
+    <a href="practicing-profession">Practicing<br/> Profession</a>
+    <a href="religious-service">Religious<br/> Service</a>
     <a href="recuperating">Recuperating</a>
     <a href="researching">Researching</a>
+    <a href="long-rest">Rest<br/> (Long)</a>
+    <a href="short-rest">Rest<br/> (Short)</a>
     <a href="training">Training</a>
 </div>
 
@@ -135,6 +137,44 @@ module-pagebreaks: h1, h2, h3
 > **Sources** <br/>
 > Player's Handbook, p. xxx
 {.read .small-text}
+
+
+
+### Long Rest
+[Home](home) > [Downtime](downtime) > Long Rest {.small-text}
+
+**8 Hours** {.text-center}
+
+- Minimum of 6 hours of [sleep](sleeping).
+- No more than 2 hours of light activity.
+- Must start over if interrupted > 1 hour.
+- Allowed only 1 long rest in 24H period.
+- Must have 1 [HP](hit-points) to benefit from long rest.
+{.square}
+
+**Upon completion:**
+- Regain all [HP](hit-points) up to character's maximum.
+- Regain spent [HD](hit-dice) = 1/2 character level.
+
+> **Sources** <br/>
+> Player's Handbook, p. xxx
+{.read .small-text}
+
+
+
+### Short Rest
+[Home](home) > [Downtime](downtime) > Short Rest {.small-text}
+
+**1 Hour** {.text-center}
+
+- May use [Hit Dice](hit-dice) equal to character level.
+- Restore [HP](hit-points) = [HD](hit-dice) + [CON](constitution) modifier per die.
+{.square}
+
+> **Sources** <br/>
+> Player's Handbook, p. 186
+{.read .small-text}
+
 
 
 ### Training
