@@ -124,8 +124,8 @@ A creature suffers the effects identified in the description of the disease.
 
 - Gaining additional points increases level.
 - Suffer effects of current and lower levels.
-- Ends if the current level is reduced below 1.
-- [Long rest](rest) lowers level by 1, w/ [food & water](food-water).
+- Ends if current level is reduced below 1.
+- [Long rest](rest-long) lowers level by 1, w/ [food & water](food-water).
 {.square}
 
 > **Sources** <br/>
@@ -195,10 +195,66 @@ The condition ends when/if the:
 ### Madness
 [Home](home) > [Conditions](conditions) > Madness {.small-text}
 
-**COMING SOON** {.text-center}
+<div id="menu-container">
+    <a href="short-term-madness">Short Term</a>
+    <a href="long-term-madness">Long Term</a>
+    <a href="indefinite-madness">Indefinite</a>
+</div>
 
 > **Sources** <br/>
-> Player's Handbook, p. xxx
+> Dungeon Master's Guide, p. 258
+{.read .small-text}
+
+
+
+### Short Term Madness
+ [Home](home) > [Conditions](conditions) > [Madness](madness) > Short Term {.small-text}
+
+**Duration = [1d10](/roll/1d10) minutes** {.text-center}
+
+|||
+|-------|---|
+| 01-20 | Retreats into their mind and become [paralyzed](paralyzed). Ends if they take damage. |
+| 21-30 | Becomes [incapacitated](incapacitated) and spends duration screaming, laughing, or weeping. |
+| 31-40 | Becomes [frightened](frightened) and must use action and movement each round to flee. |
+| 41-50 | Begins babbling and is incapable of normal speech or [spellcasting](spellcasting).|
+| 51-60 | Uses their action each round to attack the nearest creature. |
+| 61-70 | Experiences vivid hallucinations and has [disadvantage](advantage-disadvantage) on [ability checks](ability-checks). |
+| 71-75 | Does whatever anyone tells them to do that isn't obviously self-destructive. |
+| 76-80 | Overpowering urge to eat something unusual such as dirt, grass, or slime. |
+| 81-90 | The character is [stunned](stunned). |
+| 91-00 | The character falls [unconscious](unconcious). |
+{.gray .small-text}
+
+> **Sources** <br/>
+> Dungeon Master's Guide, p. 259
+{.read .small-text}
+
+
+
+### Long Term Madness
+ [Home](home) > [Conditions](conditions) > [Madness](madness) > Long Term {.small-text}
+
+**Duration = [1d10](/roll/1d10) x 10 hours** {.text-center}
+
+|||
+|-------|---|
+| 01-10 | **Compulsion**. Compelled to repeat a specific activity over and over. |
+| 11-20 | **Hallucinations**. [Disadvantage](advantage-disadvantage) on [ability checks](ability-checks). |
+| 21-30 | **Paranoia**. [Disadvantage](advantage-disadvantage) on [wisdom](wisdom) and [charisma](charisma) checks.  |
+| 31-40 | **Revulsion**. Regards something with revulsion, as if affected by [antipathy](/spell/antipathy-sympathy) spell.|
+| 41-50 | **Delusion**. Imagines have the abilities of a random magical potion. | 
+| 46-55 | **Attached**. Have a "lucky" person or object. [Disadvantage](advantage-disadvantage) on [attacks](attack), [checks](ability-checks), and [saves](saving-throw) if more than 30 feet from it. |
+| 56-65 | **Blind** or **Deaf**. The character is [blinded](blinded) (25%) or [deafened](deadfened) (75%). |
+| 66-75 | **Tremors** or **Tics**. [Disadvantage](advantage-disadvantage) on [STR](strength) & [DEX](dexterity) related [attacks](attack), [checks](ability-checks), and [saves](saving-throw). |
+| 76-85 | **Amnesia**. Know who they are, but don't recognize people or anything before the madness took effect.   |
+| 86-90 | **Confusion**. [Confused](/spell/confusion) for 1 min if they fail a [DC](difficulty-class)15 [WIS](wisdom) [save](saving-throw) after taking damage. |
+| 91-95 | **Speechless**. Loses the ability to speak and cast spells with a [somatic component](components). |
+| 96-00  | **Unconcious**. Falls [unconcious](unconcious) and jostling or damage will notwake them.  |
+{.gray .small-text}
+
+> **Sources** <br/>
+> Dungeon Master's Guide, p. 260
 {.read .small-text}
 
 
