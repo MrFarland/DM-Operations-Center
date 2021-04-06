@@ -195,11 +195,19 @@ The condition ends when/if the:
 ### Madness
 [Home](home) > [Conditions](conditions) > Madness {.small-text}
 
+Various items, spells, and effects can cause a creature to suffer the effects of madness. The three types of madness are:
+
 <div id="menu-container">
     <a href="short-term-madness">Short Term</a>
     <a href="long-term-madness">Long Term</a>
     <a href="indefinite-madness">Indefinite</a>
 </div>
+<br/>
+
+**Curing Madness**
+- [Calm Emotions](/spell/calm-emotions) (Suppress Only)
+- [Lesser Restoration](/spell/lesser-restoration) ([Short](short-term-madness) & [Long](long-term-madness) only)
+- [Greater Restoration](/spell/greater-restoration) ([Indefinite](indefinite-madness))
 
 > **Sources** <br/>
 > Dungeon Master's Guide, p. 258
@@ -256,6 +264,34 @@ The condition ends when/if the:
 > **Sources** <br/>
 > Dungeon Master's Guide, p. 260
 {.read .small-text}
+
+
+
+### Indefinite Madness
+ [Home](home) > [Conditions](conditions) > [Madness](madness) > Indefinite {.small-text}
+
+**Duration = Until Cured** {.text-center}
+
+|||
+|-------|---|
+| 01-15 | Being drunk keeps me sane. |
+| 16-25 | I keep whatever I find.  |
+| 26-30 | I try to be like someone I know, their style of dress, mannerisms, and name.|
+| 31-35 | I bend the truth, exaggerate, or outright lie to be interesting to other people. |
+| 36-45 | My goals are the only thing of interest to me, and I'll ignore everything else. |
+| 46-50 | I find it hard to care about anything that goes on around me.|
+| 51-55 | I don't like the way people judge me all the time.|
+| 56-70 | I am the smartest, wisest, strongest, fastest, most beautiful person I know. |
+| 71-80 | Powerful enemies are hunting me, and their agents are everywhere. I am sure they're watching me all the time. |
+| 81-85 | There's only one person I can trust. And only I can see this special friend. |
+| 86-95 | I can't take anything seriously. The more serious it is, the funnier I find it. |
+| 96-00 | I really like killing people. |
+{.gray .small-text}
+
+> **Sources** <br/>
+> Dungeon Master's Guide, p. 260
+{.read .small-text}
+
 
 
 
