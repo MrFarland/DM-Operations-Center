@@ -1,18 +1,17 @@
 ---
-name: Conditions & Effects
-slug: conditions-effects
+name: Conditions
+slug: conditions
 order: 10
 module-pagebreaks: h1, h2, h3
 ---
-## Conditions & Effects
-[Home](home) > Conditions & Effects  {.small-text}
+## Conditions
+[Home](home) > Conditions {.small-text}
 
 <div id="menu-container">
     <a href="blinded">Blinded</a>
     <a href="cursed">Cursed*</a>
     <a href="deafened">Deafened</a>
     <a href="diseased">Diseased*</a>
-    <a href="dying">Dying*</a>
     <a href="exhaustion">Exhaustion</a>
     <a href="frightened">Frightened</a>
     <a href="grappled">Grappled</a>
@@ -28,17 +27,16 @@ module-pagebreaks: h1, h2, h3
     <a href="stunned">Stunned</a>
     <a href="suffocating">Suffocating*</a>
     <a href="surprised">Surprised</a>
-    <a href="temporary-hit-points">Temporary<br/> HP*
     <a href="unconcious">Unconcious</a>
 </div>
 <br/>
 
-*\* Technically not a condition, but functionally similar.* {.small-text}
+*\* Not a condition, but a state or effect on a character.* {.small-text}
 
 
 
 ### Blinded
-[Home](home) > [Conditions & Effects](conditions-effects) > Blinded {.small-text}
+[Home](home) > [Conditions](conditions) > Blinded {.small-text}
 
 - The creature cannot see.
 - All checks that rely on sight fail.
@@ -51,18 +49,33 @@ module-pagebreaks: h1, h2, h3
 {.read .small-text}
 
 
-### Cursed
-[Home](home) > [Conditions & Effects](conditions-effects) > Cursed {.small-text}
 
-**COMING SOON** {.text-center}
+### Cursed
+[Home](home) > [Conditions](conditions) > Cursed {.small-text}
+
+A cursed creature suffers the effects identified in the description of the item, spell, or other source. 
+
+**Detection**
+- Cursed objects not detected by [Identify](/spell/identify).
+- Might be hinted at or known by lore.
+{.square}
+
+**Removal**
+- [Greater Restoration](/spell/greater-restoration)
+- [Remove Curse](/spell/remove-curse)
+- [Resurrection](/spell/resurrection) & [True Resurrection](/spell/true-resurrection)
+{.square}
+
+***Note**. If a curse identifies how it is detected or removed, it overrides the rules above.*
 
 > **Sources** <br/>
-> Player's Handbook, p. xxx
+> Dungeon Master's Guide, p. 139
 {.read .small-text}
 
 
+
 ### Deafened
-[Home](home) > [Conditions & Effects](conditions-effects) > Deafened {.small-text}
+[Home](home) > [Conditions](conditions) > Deafened {.small-text}
 
 - The creature cannot hear.
 - All checks based on hearing fail.
@@ -73,30 +86,31 @@ module-pagebreaks: h1, h2, h3
 {.read .small-text}
 
 
+
 ### Diseased
-[Home](home) > [Conditions & Effects](conditions-effects) > Diseased {.small-text}
+[Home](home) > [Conditions](conditions) > Diseased {.small-text}
 
-**COMING SOON** {.text-center}
+A creature suffers the effects identified in the description of the disease.
+
+**Detection**
+- [Detect Poison and Disease](/spell/detect-poison-and-disease)
+{.square}
+
+**Removal**<br/>
+- [Recuperating](recuperating)
+- Numerous items, potions, and spells.
+{.square}
+
+***Note**. If a disease identifies how it is detected or removed, it overrides the rules above.*
 
 > **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
-
-
-
-### Dying
-[Home](home) > [Conditions & Effects](conditions-effects) > Dying {.small-text}
-
-**COMING SOON** {.text-center}
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
+> Player's Handbook, p. 187
 {.read .small-text}
 
 
 
 ### Exhaustion
-[Home](home) > [Conditions & Effects](conditions-effects) > Exhaustion {.small-text}
+[Home](home) > [Conditions](conditions) > Exhaustion {.small-text}
 
 |||
 |:---:|:--------------------------------|
@@ -121,7 +135,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Frightened
-[Home](home) > [Conditions & Effects](conditions-effects) > Frightened {.small-text}
+[Home](home) > [Conditions](conditions) > Frightened {.small-text}
 
 - Afraid of creature causing the effect.
 - [Disadvantage](disadvantage) on checks if source in sight.
@@ -135,7 +149,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Grappled
-[Home](home) > [Conditions & Effects](conditions-effects) > Grappled {.small-text}
+[Home](home) > [Conditions](conditions) > Grappled {.small-text}
 
 - The grappled creature's speed is 0.
 - Cannot benefit from any bonus to speed.
@@ -152,7 +166,7 @@ The condition ends when/if the:
 
 
  ### Incapacitated
- [Home](home) > [Conditions & Effects](conditions-effects) > Incapacitated {.small-text}
+ [Home](home) > [Conditions](conditions) > Incapacitated {.small-text}
 
  - Cannot take any actions or reactions.
  {.square}
@@ -163,7 +177,7 @@ The condition ends when/if the:
 
 
 ### Invisible
- [Home](home) > [Conditions & Effects](conditions-effects) > Invisible {.small-text}
+ [Home](home) > [Conditions](conditions) > Invisible {.small-text}
 
 - Only visible with magic or special [sight](sight).
 - Considered [heavily obscured](obscured) for [hiding](hiding).
@@ -179,7 +193,7 @@ The condition ends when/if the:
 
 
 ### Madness
-[Home](home) > [Conditions & Effects](conditions-effects) > Madness {.small-text}
+[Home](home) > [Conditions](conditions) > Madness {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -190,7 +204,7 @@ The condition ends when/if the:
 
 
 ### Paralyzed
- [Home](home) > [Conditions & Effects](conditions-effects) > Paralyzed {.small-text}
+ [Home](home) > [Conditions](conditions) > Paralyzed {.small-text}
 
 - Creature is [incapacitated](incapacitated).
 - Can not move or speak.
@@ -207,7 +221,7 @@ The condition ends when/if the:
 
 
 ### Petrified
- [Home](home) > [Conditions & Effects](conditions-effects) > Petrified {.small-text}
+ [Home](home) > [Conditions](conditions) > Petrified {.small-text}
 
 - Transformed into a solid substance.
 - Mundane items are transformed too.
@@ -228,7 +242,7 @@ The condition ends when/if the:
 
 
 ### Poisoned
- [Home](home) > [Conditions & Effects](conditions-effects) > Poisoned {.small-text}
+ [Home](home) > [Conditions](conditions) > Poisoned {.small-text}
 
 - [Disadvantage](advantage-disadvantage) on all attack rolls.
 - [Disadvantage](advantage-disadvantage) on all ability checks.
@@ -241,7 +255,7 @@ The condition ends when/if the:
 
 
 ### Prone
- [Home](home) > [Conditions & Effects](conditions-effects) > Prone {.small-text}
+ [Home](home) > [Conditions](conditions) > Prone {.small-text}
 - Only movement option is to [crawl](crawling).
 - [Disadvantage](advantage-disadvantage) on all attack rolls.
 - Ranged attacks against have [disadv.](disadvantage).
@@ -256,7 +270,7 @@ The condition ends when/if the:
 
 
 ### Restrained
- [Home](home) > [Conditions & Effects](conditions-effects) > Restrained {.small-text}
+ [Home](home) > [Conditions](conditions) > Restrained {.small-text}
 
 - The creature's speed is 0.
 - Cannot benefit from any bonus to speed.
@@ -272,7 +286,7 @@ The condition ends when/if the:
 
 
 ### Sleeping
-[Home](home) > [Conditions & Effects](conditions-effects) > Sleeping {.small-text}
+[Home](home) > [Conditions](conditions) > Sleeping {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -283,7 +297,7 @@ The condition ends when/if the:
 
 
 ### Stunned
- [Home](home) > [Conditions & Effects](conditions-effects) > Stunned {.small-text}
+ [Home](home) > [Conditions](conditions) > Stunned {.small-text}
 
 - Creature is [incapacitated](incapacitated).
 - Cannot move, but can speak falteringly.
@@ -298,7 +312,7 @@ The condition ends when/if the:
 
 
 ### Suffocating
-[Home](home) > [Conditions & Effects](conditions-effects) > Suffocating {.small-text}
+[Home](home) > [Conditions](conditions) > Suffocating {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -308,24 +322,10 @@ The condition ends when/if the:
 
 
 
-### Temporary Hit Points
- [Home](home) > [Conditions & Effects](conditions-effects) > Temporary Hit Points {.small-text}
-
-- Not actual [Hit Points](hit-points), just a buffer.
-- Temp HP is used first, then regular [HP](hit-points).
-- Temp HP can exceed PCs [HP](hit-points) maximum.
-- Temp HP **does not heal** or stabilize.
-
-**Temp HP does not stack!<br/> Subsequent grants replace prior grants.** {.text-center}
-
-> **Sources** <br/>
-> Player's Handbook, p. 198
-{.read .small-text}
-
 
 
 ### Unconcious
- [Home](home) > [Conditions & Effects](conditions-effects) > Unconcious {.small-text}
+ [Home](home) > [Conditions](conditions) > Unconcious {.small-text}
 
 - Creature is [incapacitated](incapacitated).
 - Cannot move or speak.

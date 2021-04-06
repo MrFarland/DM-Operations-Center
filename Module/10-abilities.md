@@ -1,11 +1,11 @@
 ---
-name: Abilities & Skills
-slug: abilities-skills
+name: Abilities
+slug: abilities
 order: 10
 module-pagebreaks: h1, h2, h3
 ---
-## Abilities & Skills
-[Home](home) > Abilities & Skills  {.small-text}
+## Abilities
+[Home](home) > Abilities  {.small-text}
 
 <div id="menu-container">
     <a href="ability-check">Ability<br/> Check</a>
@@ -32,7 +32,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Ability Check
-[Home](home) > [Abilities & Skills](abilities-skills) > Ability Check {.small-text}
+[Home](home) > [Abilities](abilities) > Ability Check {.small-text}
 
 **Success = [1d20](/roll/1d20) + [Mod](ability-modifier)** ≥ [DC](difficulty-class) {.text-center}
 
@@ -56,7 +56,7 @@ In special circumstances a creature may have [advantage or disadvantage](advanta
 
 
 ### Ability Modifiers
-[Home](home) > [Abilities & Skills](abilities-skills) > Ability Modifiers {.small-text}
+[Home](home) > [Abilities](abilities) > Ability Modifiers {.small-text}
 
 | Score |+/- | Score |+/- |
 |:-----:|:--:|:-----:|:--:|
@@ -82,7 +82,7 @@ In special circumstances a creature may have [advantage or disadvantage](advanta
 
 
 ### Advantage & Disadvantage
-[Home](home) > [Abilities & Skills](abilities-skills) > Advantage & Disadvantage {.small-text}
+[Home](home) > [Abilities](abilities) > Advantage & Disadvantage {.small-text}
 
 |||
 |:-----------------|:-----------------------------------------------|
@@ -103,7 +103,7 @@ In special circumstances a creature may have [advantage or disadvantage](advanta
 
 
 ### Alternate Abilities
-[Home](home) > [Abilities & Skills](abilities-skills) > Alternate Abilities {.small-text}
+[Home](home) > [Abilities](abilities) > Alternate Abilities {.small-text}
 
 Depending on the situation, skills may be paired with alternate abilities from their base ability.
 
@@ -124,7 +124,7 @@ Depending on the situation, skills may be paired with alternate abilities from t
 
 
 ### Charisma
-[Home](home) > [Abilities & Skills](abilities-skills) > Charisma {.small-text}
+[Home](home) > [Abilities](abilities) > Charisma {.small-text}
 
 Charm, confidence, eloquence, and personality
     
@@ -149,7 +149,7 @@ Charm, confidence, eloquence, and personality
 
 
 #### Deception
-[Home](home) > [Abilities & Skills](abilities-skills) > [Charisma](charisma) > Deception {.small-text}
+[Home](home) > [Abilities](abilities) > [Charisma](charisma) > Deception {.small-text}
 
 Ability to lie or otherwise hide the truth.
 
@@ -166,7 +166,7 @@ Ability to lie or otherwise hide the truth.
 
 
 #### Intimidation
-[Home](home) > [Abilities & Skills](abilities-skills) > [Charisma](charisma) > Intimidation {.small-text}
+[Home](home) > [Abilities](abilities) > [Charisma](charisma) > Intimidation {.small-text}
 
 Ability to influence others via threat and coercion.
 
@@ -183,7 +183,7 @@ Ability to influence others via threat and coercion.
 
 
 #### Performance
-[Home](home) > [Abilities & Skills](abilities-skills) > [Charisma](charisma) > Performance {.small-text}
+[Home](home) > [Abilities](abilities) > [Charisma](charisma) > Performance {.small-text}
 
 How well you can entertain an audience.
 
@@ -200,7 +200,7 @@ How well you can entertain an audience.
 
 
 #### Persuasion
-[Home](home) > [Abilities & Skills](abilities-skills) > [Charisma](charisma) > Persuasion {.small-text}
+[Home](home) > [Abilities](abilities) > [Charisma](charisma) > Persuasion {.small-text}
 
 Influence others with logic, tact or good nature.
 
@@ -217,7 +217,7 @@ Influence others with logic, tact or good nature.
 
 
 ### Constitution
-[Home](home) > [Abilities & Skills](abilities-skills) > Constitution {.small-text}
+[Home](home) > [Abilities](abilities) > Constitution {.small-text}
 
 General health, fortitude, and stamina.
 
@@ -227,61 +227,14 @@ Constitution skill checks are rare, with [savings throws](saving-throw) being mo
 - Keep down a terrible meal or ale.
 {.square}
 
-**Skills & Other Abilities**
-<div id="menu-container">
-    <a href="hit-dice">Hit Dice</a>
-    <a href="hit-points">Hit Points</a>
-</div>
-
 > **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
-
-
-
-#### Hit Dice
-[Home](home) > [Abilities & Skills](abilities-skills) > [Constitution](constitution) > Hit Dice {.small-text}
-
-**[HP](hit-points) Restored = Hit Die + [CON](constitution) Mod** {.text-center}
-
-| Hit Die by Class ||
-|-----------|:---:|
-| Artificer | [1d8](/roll/1d8)   | Paladin   | [1d10](/roll/1d10) |
-| Barbarian | [1d12](/roll/1d12) | Ranger    | [1d10](/roll/1d10) |
-| Bard      | [1d8](/roll/1d8)   | Rogue     | [1d8](/roll/1d8)   |
-| Cleric    | [1d8](/roll/1d8)   | Sorcerer  | [1d6](/roll/1d6)   |
-| Druid     | [1d8](/roll/1d8)   | Warlock   | [1d8](/roll/1d8)   |
-| Fighter   | [1d10](/roll/1d10) | Wizard    | [1d6](/roll/1d6)   |
-| Monk      | [1d8](/roll/1d8)   | - | - |
-{.gray .small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. 12
-{.read .small-text}
-
-
-
-#### Hit Points
-[Home](home) > [Abilities & Skills](abilities-skills) > [Constitution](constitution) > Hit Points {.small-text}
-
-Hit Points represent a character's ability to fight as well as their physical health.
-
-**Max HP = ([Hit Die](hit-dice) + CON) per level** {.text-center}
-
-- Total HP cannot exceed their Max HP.
-- 0 HP - [unconcious](unconcious) and/or [dying](dying).
-{.square}
-
-*Changes to [CON](constitution) are **retroactive**. Apply change to Max HP for each character level.*
-
-> **Sources** <br/>
-> Player's Handbook, p. 177
+> Player's Handbook, p. 179
 {.read .small-text}
 
 
 
 ### Contest
-[Home](home) > [Abilities & Skills](abilities-skills) > Contest {.small-text}
+[Home](home) > [Abilities](abilities) > Contest {.small-text}
 
 **Success = Initiator's Roll > Defender's Roll** {.text-center}
 
@@ -301,7 +254,7 @@ Hit Points represent a character's ability to fight as well as their physical he
 
 
 ### Dexterity
-[Home](home) > [Abilities & Skills](abilities-skills) > Dexterity {.small-text}
+[Home](home) > [Abilities](abilities) > Dexterity {.small-text}
 
 Balance, agility, and general nimbleness
 
@@ -335,7 +288,7 @@ Balance, agility, and general nimbleness
 
 
 #### Acrobatics
-[Home](home) > [Abilities & Skills](abilities-skills) > [Dexterity](dexterity) > Acrobatics {.small-text}
+[Home](home) > [Abilities](abilities) > [Dexterity](dexterity) > Acrobatics {.small-text}
 
 Acrobatics measures the ability to maintain balance, tumble, and perform tricks in the air.
 
@@ -352,7 +305,7 @@ Acrobatics measures the ability to maintain balance, tumble, and perform tricks 
 
 
 #### Armor Class
-[Home](home) > [Abilities & Skills](abilities-skills) > [Dexterity](dexterity) > Armor Class {.small-text}
+[Home](home) > [Abilities](abilities) > [Dexterity](dexterity) > Armor Class {.small-text}
 
 A creature's natural armor class is how hard they are to hit when **not** wearing [armor](armor).
 
@@ -367,7 +320,7 @@ Wearing [armor](armor) replaces a creature's natural AC with that of the armor t
 
 
 #### Sleight of Hand
-[Home](home) > [Abilities & Skills](abilities-skills) > [Dexterity](dexterity) > Sleight of Hand {.small-text}
+[Home](home) > [Abilities](abilities) > [Dexterity](dexterity) > Sleight of Hand {.small-text}
 
 Perform manual trickery without being detected.
 
@@ -384,7 +337,7 @@ Perform manual trickery without being detected.
 
 
 #### Stealth
-[Home](home) > [Abilities & Skills](abilities-skills) > [Dexterity](dexterity) > Sleight of Hand {.small-text}
+[Home](home) > [Abilities](abilities) > [Dexterity](dexterity) > Sleight of Hand {.small-text}
 
 Ability to move and hide without being detected
 
@@ -401,7 +354,7 @@ Ability to move and hide without being detected
 
 
 ### Difficulty Class
-[Home](home) > [Abilities & Skills](abilities-skills) > Difficulty Class {.small-text}
+[Home](home) > [Abilities](abilities) > Difficulty Class {.small-text}
 
 |||
 |:----------|:--:|
@@ -420,7 +373,7 @@ Ability to move and hide without being detected
 
 
 ### Group Checks
-[Home](home) > [Abilities & Skills](abilities-skills) > Group Checks {.small-text}
+[Home](home) > [Abilities](abilities) > Group Checks {.small-text}
 
 **Success = 50% ≥ Check [DC](difficulty-class)** {.text-center}
 
@@ -441,7 +394,7 @@ Use group checks when multiple characters are trying to do something as a group 
 
 
 ### Intelligence
-[Home](home) > [Abilities & Skills](abilities-skills) > Intelligence {.small-text}
+[Home](home) > [Abilities](abilities) > Intelligence {.small-text}
 
 Mental acuity, recall, and ability to reason.
 
@@ -468,7 +421,7 @@ Mental acuity, recall, and ability to reason.
 
 
 #### Arcana
-[Home](home) > [Abilities & Skills](abilities-skills) > [Intelligence](intelligence) > Arcana {.small-text}
+[Home](home) > [Abilities](abilities) > [Intelligence](intelligence) > Arcana {.small-text}
 
 Knowledge of all things magical and the planes.
 
@@ -485,7 +438,7 @@ Knowledge of all things magical and the planes.
 
 
 #### History
-[Home](home) > [Abilities & Skills](abilities-skills) > [Intelligence](intelligence) > History {.small-text}
+[Home](home) > [Abilities](abilities) > [Intelligence](intelligence) > History {.small-text}
 
 Knowledge of history, people, and things.
 
@@ -503,7 +456,7 @@ Knowledge of history, people, and things.
 
 
 #### Investigation
-[Home](home) > [Abilities & Skills](abilities-skills) > [Intelligence](intelligence) > Investigation {.small-text}
+[Home](home) > [Abilities](abilities) > [Intelligence](intelligence) > Investigation {.small-text}
 
 Ability to find clues and make deducations.
 
@@ -521,7 +474,7 @@ Ability to find clues and make deducations.
 
 
 #### Nature
-[Home](home) > [Abilities & Skills](abilities-skills) > [Intelligence](intelligence) > Nature {.small-text}
+[Home](home) > [Abilities](abilities) > [Intelligence](intelligence) > Nature {.small-text}
 
 Knowledge of the world, geography, and creatures.
 
@@ -538,7 +491,7 @@ Knowledge of the world, geography, and creatures.
 
 
 #### Religion
-[Home](home) > [Abilities & Skills](abilities-skills) > [Intelligence](intelligence) > Religion {.small-text}
+[Home](home) > [Abilities](abilities) > [Intelligence](intelligence) > Religion {.small-text}
 
 Knowledge of religions, gods, cults, and traditions.
 
@@ -555,7 +508,7 @@ Knowledge of religions, gods, cults, and traditions.
 
 
 ### Passive Checks
-[Home](home) > [Abilities & Skills](abilities-skills) > Passive Checks {.small-text}
+[Home](home) > [Abilities](abilities) > Passive Checks {.small-text}
 
 **Auto Success = 10 + [Mod](ability-modifier)** ≥ [DC](difficulty-class) {.text-center}
 
@@ -577,7 +530,7 @@ Use passive checks to:
 
 
 ### Proficiency Bonus
-[Home](home) > [Abilities & Skills](abilities-skills) > Proficiency Bonus {.small-text}
+[Home](home) > [Abilities](abilities) > Proficiency Bonus {.small-text}
 
 Used in [saving throws](saving-throw) and [skill checks](skill-checks), as well as related [ability checks](ability-checks) when using [tools](tools) for which the character is proficient.
 
@@ -602,7 +555,7 @@ Used in [saving throws](saving-throw) and [skill checks](skill-checks), as well 
 
 
 ### Saving Throw
-[Home](home) > [Abilities & Skills](abilities-skills) > Saving Throw {.small-text}
+[Home](home) > [Abilities](abilities) > Saving Throw {.small-text}
 
 **Success = [1d20](/roll/1d20) + [Mod](ability-modifier) + [PROF](proficiency-bonus)** ≥ [DC](difficulty-class) {.text-center}
 
@@ -617,6 +570,7 @@ Used in [saving throws](saving-throw) and [skill checks](skill-checks), as well 
 | Monk      | [ST](strength), [DX](dexterity)    | - | - |
 {.gray .small-text}
 
+***See also**: [Death Savings Throws](death-saving-throws).*
 > **Sources** <br/>
 > Player's Handbook, p. 45
 {.read .small-text}
@@ -624,7 +578,7 @@ Used in [saving throws](saving-throw) and [skill checks](skill-checks), as well 
 
 
 ### Strength
-[Home](home) > [Abilities & Skills](abilities-skills) > Strength {.small-text}
+[Home](home) > [Abilities](abilities) > Strength {.small-text}
 
 Athletic training and raw physical power.
 
@@ -654,7 +608,7 @@ Athletic training and raw physical power.
 
 
 #### Athletics
-[Home](home) > [Abilities & Skills](abilities-skills) > [Strength](strength) > Athletics {.small-text}
+[Home](home) > [Abilities](abilities) > [Strength](strength) > Athletics {.small-text}
 
 General athletic prowess when running, [jumping](jumping), [swimming](swimming), and [climbing](climbing).
 
@@ -671,7 +625,7 @@ General athletic prowess when running, [jumping](jumping), [swimming](swimming),
 
 
 #### Carry Capacity
-[Home](home) > [Abilities & Skills](abilities-skills) > [Strength](strength) > Carry Capacity {.small-text}
+[Home](home) > [Abilities](abilities) > [Strength](strength) > Carry Capacity {.small-text}
 
 | Capacity by Creature Size||
 |:-----------|:--------------------|
@@ -705,7 +659,7 @@ General athletic prowess when running, [jumping](jumping), [swimming](swimming),
 
 
 #### Push, Drag, Lift
-[Home](home) > [Abilities & Skills](abilities-skills) > [Strength](strength) > Push, Drag, Lift {.small-text}
+[Home](home) > [Abilities](abilities) > [Strength](strength) > Push, Drag, Lift {.small-text}
 
 | Limits by Creature Size ||
 |:-----------|:--------------------|
@@ -739,7 +693,7 @@ General athletic prowess when running, [jumping](jumping), [swimming](swimming),
 
 
 ### Wisdom
-[Home](home) > [Abilities & Skills](abilities-skills) > Wisdom {.small-text}
+[Home](home) > [Abilities](abilities) > Wisdom {.small-text}
 
 General awareness, perceptiveness and intuition.
 
@@ -764,7 +718,7 @@ General awareness, perceptiveness and intuition.
 
 
 #### Animal Handling
-[Home](home) > [Abilities & Skills](abilities-skills) > [Wisdom](wisdom) > Animal Handling {.small-text}
+[Home](home) > [Abilities](abilities) > [Wisdom](wisdom) > Animal Handling {.small-text}
 
 Ability to interact, control and understand animals.
 
@@ -782,7 +736,7 @@ Ability to interact, control and understand animals.
 
 
 #### Insight
-[Home](home) > [Abilities & Skills](abilities-skills) > [Wisdom](wisdom) > Insight {.small-text}
+[Home](home) > [Abilities](abilities) > [Wisdom](wisdom) > Insight {.small-text}
 
 Ability to determine the true intentions of a creature.
 
@@ -798,7 +752,7 @@ Ability to determine the true intentions of a creature.
 
 
 #### Perception
-[Home](home) > [Abilities & Skills](abilities-skills) > [Wisdom](wisdom) > Perception {.small-text}
+[Home](home) > [Abilities](abilities) > [Wisdom](wisdom) > Perception {.small-text}
 
 Ability to spot, hear, or otherwise detect something.
 
@@ -814,7 +768,7 @@ Ability to spot, hear, or otherwise detect something.
 
 
 #### Survival
-[Home](home) > [Abilities & Skills](abilities-skills) > [Wisdom](wisdom) > Survival {.small-text}
+[Home](home) > [Abilities](abilities) > [Wisdom](wisdom) > Survival {.small-text}
 
 Ability to survive in the wilderness.
 
@@ -832,7 +786,7 @@ Ability to survive in the wilderness.
 
 
 ### Working Together
-[Home](home) > [Abilities & Skills](abilities-skills) > Working Together {.small-text}
+[Home](home) > [Abilities](abilities) > Working Together {.small-text}
 
 - PC leading the activity has [advantage](advantage-disadvantage).
 - Assistance must be practical for the task.

@@ -1,11 +1,11 @@
 ---
-name: Downtime & Recovery
-slug: downtime-recovery
+name: Downtime
+slug: downtime
 order: 10
 module-pagebreaks: h1, h2, h3
 ---
-## Downtime & Recovery
-[Home](home) > Downtime & Recovery {.small-text}
+## Downtime
+[Home](home) > Downtime {.small-text}
 
 <div id="menu-container">
     <a href="brewing-potions">Brewing Potions</a>
@@ -18,15 +18,12 @@ module-pagebreaks: h1, h2, h3
     <a href="pit-fighting">Pit<br/> Fighting</a>
     <a href="practicing-profession">Practicing<br/> Profession</a>
     <a href="religious-service">Religious<br/> Service</a>
-    <a href="recuperating">Recuperating</a>
     <a href="researching">Researching</a>
-    <a href="long-rest">Rest<br/> (Long)</a>
-    <a href="short-rest">Rest<br/> (Short)</a>
     <a href="training">Training</a>
 </div>
 
 ### Brewing Potions
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Brewing Potions {.small-text}
+[Home](home) > [Downtime](downtime) > Brewing Potions {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -37,7 +34,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Buying Magic items
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Buying Magic items {.small-text}
+[Home](home) > [Downtime](downtime) > Buying Magic items {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -48,7 +45,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Carousing
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Carousing {.small-text}
+[Home](home) > [Downtime](downtime) > Carousing {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -58,7 +55,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Crafting Items
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Crafting Items {.small-text}
+[Home](home) > [Downtime](downtime) > Crafting Items {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -69,7 +66,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Crime
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Crime {.small-text}
+[Home](home) > [Downtime](downtime) > Crime {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -80,7 +77,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Enchanting Items
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Enchanting Items {.small-text}
+[Home](home) > [Downtime](downtime) > Enchanting Items {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -90,7 +87,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Gambling
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Gambling {.small-text}
+[Home](home) > [Downtime](downtime) > Gambling {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -100,7 +97,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Pit Fighting
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Pit Fighting {.small-text}
+[Home](home) > [Downtime](downtime) > Pit Fighting {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -110,7 +107,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Practicing Profession
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Practicing Profession {.small-text}
+[Home](home) > [Downtime](downtime) > Practicing Profession {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -120,7 +117,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Religious Service
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Religious Service {.small-text}
+[Home](home) > [Downtime](downtime) > Religious Service {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -130,7 +127,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Researching
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Researching {.small-text}
+[Home](home) > [Downtime](downtime) > Researching {.small-text}
 
 **COMING SOON** {.text-center}
 
@@ -141,7 +138,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Long Rest
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Long Rest {.small-text}
+[Home](home) > [Downtime](downtime) > Long Rest {.small-text}
 
 **8 Hours** {.text-center}
 
@@ -163,7 +160,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Short Rest
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Short Rest {.small-text}
+[Home](home) > [Downtime](downtime) > Short Rest {.small-text}
 
 **1 Hour** {.text-center}
 - Minimum of 1 hour of light activity.
@@ -182,7 +179,7 @@ module-pagebreaks: h1, h2, h3
 
 
 ### Training
-[Home](home) > [Downtime & Recovery](downtime-recovery) > Training {.small-text}
+[Home](home) > [Downtime](downtime) > Training {.small-text}
 
 **COMING SOON** {.text-center}
 
