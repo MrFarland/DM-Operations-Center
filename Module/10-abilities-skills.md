@@ -8,23 +8,50 @@ module-pagebreaks: h1, h2, h3
 [Home](home) > Abilities & Skills  {.small-text}
 
 <div id="menu-container">
+    <a href="ability-check">Ability<br/> Check</a>
     <a href="ability-modifiers">Ability<br/> Modifiers</a>
     <a href="advantage-disadvantage">Advantage & Disadvantage</a>
     <a href="alternate-abilities">Alternate<br/> Abilities</a>
     <a href="charisma">Charisma</a>
     <a href="constitution">Constitution</a>
-    <a href="contests">Contests</a>
+    <a href="contest">Contest</a>
     <a href="dexterity">Dexterity</a>
     <a href="difficulty-class">Difficulty<br/> Class</a>
-    <a href="group-checks">Group<br/> Checks</a>
+    <a href="group-check">Group<br/> Check</a>
     <a href="intelligence">Intelligence</a>
     <a href="passive-checks">Passive<br/> Checks</a>
     <a href="proficiency-bonus">Proficiency<br/> Bonus</a>
+    <a href="saving-throw">Saving<br/> Throw</a>
+    <a href="skill-check">Skill<br/> Check</a>
     <a href="strength">Strength</a>
     <a href="wisdom">Wisdom</a>
     <a href="working-together">Working<br/> Together</a>
 </div>
 <br/>
+
+
+
+### Ability Check
+[Home](home) > [Abilities & Skills](abilities-skills) > Ability Check {.small-text}
+
+**Success = [1d20](/roll/1d20) + [Mod](ability-modifier)** ≥ [DC](difficulty-class) {.text-center}
+
+Used to determine the success or failure of general ability checks for:
+- [Strength](strength)
+- [Dexterity](strength)
+- [Constitution](strength)
+- [Intelligence](strength)
+- [Wisdom](strength)
+- [Charisma](strength)
+{.square}
+
+In special circumstances a creature may have [advantage or disadvantage](advantage-disadvantage) on the roll.
+
+*Other Checks: [Attack (Melee)](melee-attack), [Attack (Ranged)](ranged-attack), [Attack (Spell)](spell-attack), [Group Check](group-check), [Passive Check](passive-check), [Saving Throw](saving-throw), [Skill Check](skill-check)* {.small-text}
+
+> **Sources** <br/>
+> Player's Handbook, p. 174
+{.read .small-text}
 
 
 
@@ -59,14 +86,15 @@ module-pagebreaks: h1, h2, h3
 
 |||
 |:-----------------|:-----------------------------------------------|
-| **Advantage**    | Roll [2d20](/roll/2d20) and take the higher of the two rolls. |
-| **Disdvantage**  | Roll [2d20](/roll/2d20) and take the lower of the two rolls.  |
+| **Advantage**    | Roll [2d20](/roll/2d20) and take the **higher** of the two rolls. |
+| **Disdvantage**  | Roll [2d20](/roll/2d20) and take the **lower** of the two rolls.  |
 {.gray .small-text}
 
 - No double advantage or disadvantage.
-- A PC with both has neither, straight roll.
-- For rerolls, the player chooses the die.
+- A creature with both has neither.
 {.square}
+
+***Note**: If something grants a creature the ability to reroll a die, they choose which one to reroll.*
 
 > **Sources** <br/>
 > Player's Handbook, p. 173
@@ -77,9 +105,9 @@ module-pagebreaks: h1, h2, h3
 ### Alternate Abilities
 [Home](home) > [Abilities & Skills](abilities-skills) > Alternate Abilities {.small-text}
 
-Depending on the circumstances, a skill may be paired with a different ability score.
+Depending on the situation, skills may be paired with alternate abilities from their base ability.
 
-||||
+| Examples|||
 |:---------------------------------------|:--------------------|:----------------------------------------------------|
 | **[Animal Handling](animal-handling)** | [STR](strength)     | Attempting to subdue an animal with brute strength. |
 | **[Athletics](athletics)**             | [DEX](dexterity)    | An athletic feat, that requires agility more than strength. |
@@ -88,8 +116,6 @@ Depending on the circumstances, a skill may be paired with a different ability s
 | **[Sleight of Hand](sleight-of-hand)** | [INT](intelligence) | Something that requires a steady hand and keen mind. |
 | **[Stealth](stealth)**                 | [CHA](charisma)     | Blending in at a party or on the street, instead of sneaking. |
 {.gray .small-text}
-
-*These are just examples and are not RAW.*
 
 > **Sources** <br/>
 > Player's Handbook, p. 175
@@ -102,7 +128,7 @@ Depending on the circumstances, a skill may be paired with a different ability s
 
 Charm, confidence, eloquence, and personality
     
-**Ability Checks**<br/>
+**[Ability Checks](ability-check)**<br/>
 - Mingle at party or ball.
 - Gather rumors or news in a tavern.
 - Develop a rapport with an individual.
@@ -125,10 +151,9 @@ Charm, confidence, eloquence, and personality
 #### Deception
 [Home](home) > [Abilities & Skills](abilities-skills) > [Charisma](charisma) > Deception {.small-text}
 
-Ability to lie convincingly or otherwise hide the truth.
+Ability to lie or otherwise hide the truth.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Keep a straight face while telling a lie.
 - Convince someone an item is valuable.
 - Pass yourself off as someone else.
@@ -143,10 +168,9 @@ Use skill checks for situations like:
 #### Intimidation
 [Home](home) > [Abilities & Skills](abilities-skills) > [Charisma](charisma) > Intimidation {.small-text}
 
-Influence someone through the threat of violence.
+Ability to influence others via threat and coercion.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Coerce information from a prisoner.
 - Convince some thugs to back down.
 - Get something you want with a threat.
@@ -163,8 +187,7 @@ Use skill checks for situations like:
 
 How well you can entertain an audience.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Captivate an audience with a story.
 - Perform a scene from a play or epic.
 - Mimic the behaviors of someone else.
@@ -179,10 +202,9 @@ Use skill checks for situations like:
 #### Persuasion
 [Home](home) > [Abilities & Skills](abilities-skills) > [Charisma](charisma) > Persuasion {.small-text}
 
-Influence someone with logic, tact or good nature.
+Influence others with logic, tact or good nature.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Convince someone to help you.
 - Negotiate a lower price for something.
 - Rally your allies in battle.
@@ -199,8 +221,8 @@ Use skill checks for situations like:
 
 General health, fortitude, and stamina.
 
-**Skill Checks**<br/>
-Constitution skill checks are rare, with savings throws being much more common. Some checks might include:
+**[Skill Checks](skill-check)**<br/>
+Constitution skill checks are rare, with [savings throws](saving-throw) being more common. 
 - Perform a repetitive task for a long time.
 - Keep down a terrible meal or ale.
 {.square}
@@ -220,8 +242,9 @@ Constitution skill checks are rare, with savings throws being much more common. 
 #### Hit Dice
 [Home](home) > [Abilities & Skills](abilities-skills) > [Constitution](constitution) > Hit Dice {.small-text}
 
+**[HP](hit-points) Restored = Hit Die + [CON](constitution) Mod** {.text-center}
 
-|||
+| Hit Die by Class ||
 |-----------|:---:|
 | Artificer | [1d8](/roll/1d8)   | Paladin   | [1d10](/roll/1d10) |
 | Barbarian | [1d12](/roll/1d12) | Ranger    | [1d10](/roll/1d10) |
@@ -241,16 +264,15 @@ Constitution skill checks are rare, with savings throws being much more common. 
 #### Hit Points
 [Home](home) > [Abilities & Skills](abilities-skills) > [Constitution](constitution) > Hit Points {.small-text}
 
-- Represent health, the will to fight, and luck.
-- Cannot exceed HP maximum.
-- At 0 HP - [unconcious](unconcious) and/or [dying](dying).
-{.square}
-
-<br/>
+Hit Points represent a character's ability to fight as well as their physical health.
 
 **Max HP = ([Hit Die](hit-dice) + CON) per level** {.text-center}
 
-*Changes to [CON](constitution) modifier are **retroactive**. Multiply that change to Max HP for each level.*
+- Total HP cannot exceed their Max HP.
+- 0 HP - [unconcious](unconcious) and/or [dying](dying).
+{.square}
+
+*Changes to [CON](constitution) are **retroactive**. Apply change to Max HP for each character level.*
 
 > **Sources** <br/>
 > Player's Handbook, p. 177
@@ -258,14 +280,12 @@ Constitution skill checks are rare, with savings throws being much more common. 
 
 
 
-### Contests
-- Both PCs roll a [d20](/roll/1d20) and add modifiers.
-- The higher check wins the contest.
-- In the event of a tie, the initiator loses.
-{.square}
+### Contest
+[Home](home) > [Abilities & Skills](abilities-skills) > Contest {.small-text}
 
+**Success = Initiator's Roll > Defender's Roll** {.text-center}
 
-| Contest    | Attacker               | Defender |
+| Example    | Initiator               | Defender |
 |:-----------|:-----------------------|:---------|
 | Hide       | [Stealth](stealth)     | [Perception](perception)                          |
 | Grapple    | [Athletics](athletics) | [Athletics](athletics) / [Acrobatics](acrobatics) |
@@ -285,7 +305,7 @@ Constitution skill checks are rare, with savings throws being much more common. 
 
 Balance, agility, and general nimbleness
 
-**Ability Checks**<br/>
+**[Ability Checks](ability-check)**<br/>
 - Pick a lock or disable a trap.
 - Tie up a prisoner with some rope.
 - Wriggle free after being tied up.
@@ -295,8 +315,8 @@ Balance, agility, and general nimbleness
 [Initiative](initiative) is a general dexterity check.
 
 **Attack & Damage Rolls**<br/>
-- Ranged Attacks
-- Melee Attacks with Finesse Weapons
+- [Melee Attacks](melee-attack) (w/ [Finesse Weapons](weapon-properties))
+- [Ranged Attacks](ranged-attack)
 {.square}
 
 
@@ -319,8 +339,7 @@ Balance, agility, and general nimbleness
 
 Acrobatics measures the ability to maintain balance, tumble, and perform tricks in the air.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Walk across a tightrope.
 - Maintain balance on a rocking ship.
 - Parkour down a cluttered alley.
@@ -352,8 +371,7 @@ Wearing [armor](armor) replaces a creature's natural AC with that of the armor t
 
 Perform manual trickery without being detected.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Pick another person's pocket.
 - Plant somethng on an individual.
 - Quickly replace an object with a fake.
@@ -370,8 +388,7 @@ Use skill checks for situations like:
 
 Ability to move and hide without being detected
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Attempt to [hide](hide) from enemies.
 - Sneak up behind a guard to [knock them out](nonlethal-damage).
 - Slip away without being noticed.
@@ -405,12 +422,13 @@ Use skill checks for situations like:
 ### Group Checks
 [Home](home) > [Abilities & Skills](abilities-skills) > Group Checks {.small-text}
 
+**Success = 50% ≥ Check [DC](difficulty-class)** {.text-center}
+
 Use group checks when multiple characters are trying to do something as a group like:
 - Sneak past a guard outpost. ([stealth](stealth))
 - Find their way through a swamp. ([survival](survival))
+- Identify the intentions of a mob. ([insight](insight))
 {.square}
-
-**Success = 50% > Check [DC](difficulty-class)** {.text-center}
 
 > **MrFarland House Rule**<br/>
 > A natural 20 equals two successes;<br/> A natural 1 equals two failures.
@@ -427,7 +445,7 @@ Use group checks when multiple characters are trying to do something as a group 
 
 Mental acuity, recall, and ability to reason.
 
-**Ability Checks**<br/>
+**[Ability Checks](ability-check)**<br/>
 - Communicate without a common language.
 - Estimate the value of an item.
 - Recall lore about a craft or trade.
@@ -454,8 +472,7 @@ Mental acuity, recall, and ability to reason.
 
 Knowledge of all things magical and the planes.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Recall lore about a famous mage.
 - Identify a legendary magical item.
 - Deduce the purpose of arcane runes.
@@ -472,8 +489,7 @@ Use skill checks for situations like:
 
 Knowledge of history, people, and things.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Identify the remains of a lost civilization.
 - Recall the events of ancient war.
 - Recite the words to an epic poem.
@@ -491,8 +507,7 @@ Use skill checks for situations like:
 
 Ability to find clues and make deducations.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Search a room for a secret door.
 - Figure out how a construct or trap works.
 - Examine a crime scene and find clues.
@@ -510,8 +525,7 @@ Use skill checks for situations like:
 
 Knowledge of the world, geography, and creatures.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Identify a type of plant or rock.
 - Recognize the signs of bad weather.
 - Recall information about a specific creature.
@@ -528,8 +542,7 @@ Use skill checks for situations like:
 
 Knowledge of religions, gods, cults, and traditions.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Recognize the holy symbol of a god.
 - Recall a ritual or prayer.
 - Know the traditions of a religion or cult.
@@ -544,7 +557,7 @@ Use skill checks for situations like:
 ### Passive Checks
 [Home](home) > [Abilities & Skills](abilities-skills) > Passive Checks {.small-text}
 
-**10 + Ability Modifer** {.text-center}
+**Auto Success = 10 + [Mod](ability-modifier)** ≥ [DC](difficulty-class) {.text-center}
 
 Use passive checks to:
 - Determine a character's baseline ability.
@@ -553,8 +566,8 @@ Use passive checks to:
 {.square}
 
 [Advantage & Disadvantage](advantage-disadvantage)
-- +5 if the player would have advantage.
-- -5 if the player would have disadvantage.
+- +5 if the player would have [advantage](advantage-disadvantage).
+- -5 if the player would have [disadvantage](advantage-disadvantage).
 {.square}
 
 > **Sources** <br/>
@@ -565,8 +578,11 @@ Use passive checks to:
 
 ### Proficiency Bonus
 [Home](home) > [Abilities & Skills](abilities-skills) > Proficiency Bonus {.small-text}
-|||||
-|:--:|:--:|:--:|:--:|
+
+Used in [saving throws](saving-throw) and [skill checks](skill-checks), as well as related [ability checks](ability-checks) when using [tools](tools) for which the character is proficient.
+
+| Bonus by Level |||
+|:--|:--:|:--|:--:|
 |  **1** | +2 | **11** | +4 |
 |  **2** | +2 | **12** | +4 |
 |  **3** | +2 | **13** | +5 |
@@ -585,12 +601,34 @@ Use passive checks to:
 
 
 
+### Saving Throw
+[Home](home) > [Abilities & Skills](abilities-skills) > Saving Throw {.small-text}
+
+**Success = [1d20](/roll/1d20) + [Mod](ability-modifier) + [PROF](proficiency-bonus)** ≥ [DC](difficulty-class) {.text-center}
+
+| Proficiencies by Class||
+|-----------|:---:|
+| Artificer | [CN](constitution), [IN](intelligence) | Paladin   | [WS](wisdom), [CH](charisma) |
+| Barbarian | [ST](strength), [CN](constitution) | Ranger    | [ST](strength), [DX](dexterity) |
+| Bard      | [DX](dexterity), [CH](charisma)    | Rogue     | [DX](dexterity), [IN](intelligence) |
+| Cleric    | [WS](wisdom), [CH](charisma)       | Sorcerer  | [CN](constitution), [CH](charisma) |
+| Druid     | [IN](intelligence), [WS](wisdom)   | Warlock   | [WS](wisdom), [CH](charisma) |
+| Fighter   | [ST](strength), [CN](constitution) | Wizard    | [IN](intelligence), [WS](wisdom) |
+| Monk      | [ST](strength), [DX](dexterity)    | - | - |
+{.gray .small-text}
+
+> **Sources** <br/>
+> Player's Handbook, p. 45
+{.read .small-text}
+
+
+
 ### Strength
 [Home](home) > [Abilities & Skills](abilities-skills) > Strength {.small-text}
 
 Athletic training and raw physical power.
 
-**Ability Checks**<br/>
+**[Ability Checks](ability-check)**<br/>
 - [Lift](push-drag-lift) a very heavy object.
 - [Force](push-drag-lift) open a barricaded door.
 - [Carry](carry-capacity) something a long distance.
@@ -598,8 +636,8 @@ Athletic training and raw physical power.
 {.square}
 
 **Attack & Damage Rolls**<br/>
-- Add modifier to melee attacks
-- Ranged Attacks with Thrown Weapons
+- [Melee Attacks](melee-attack)
+- [Ranged Attacks](ranged-attack) (w/ [Thrown Weapons](weapon-properties))
 
 **Skills & Other Abilities**
 <div id="menu-container">
@@ -620,8 +658,7 @@ Athletic training and raw physical power.
 
 General athletic prowess when running, [jumping](jumping), [swimming](swimming), and [climbing](climbing).
 
-**Skill Checks**<br/>
-Use athletics skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Attemping to [climb](climbing) a cliff or rope.
 - Trying to [jump](jumping) very high or far.
 - [Swimming](swimming) against a strong current.
@@ -636,7 +673,7 @@ Use athletics skill checks for situations like:
 #### Carry Capacity
 [Home](home) > [Abilities & Skills](abilities-skills) > [Strength](strength) > Carry Capacity {.small-text}
 
-|||
+| Capacity by Creature Size||
 |:-----------|:--------------------|
 | **Tiny**   | ([STR](strength) x 15) / 2 |
 | **Small**  | [STR](strength) x 15 |
@@ -670,7 +707,7 @@ Use athletics skill checks for situations like:
 #### Push, Drag, Lift
 [Home](home) > [Abilities & Skills](abilities-skills) > [Strength](strength) > Push, Drag, Lift {.small-text}
 
-|||
+| Limits by Creature Size ||
 |:-----------|:--------------------|
 | **Tiny**   | (Strength x 30) / 2 |
 | **Small**  | Strength x 30 |
@@ -706,7 +743,7 @@ Use athletics skill checks for situations like:
 
 General awareness, perceptiveness and intuition.
 
-**Ability Checks**<br/>
+**[Ability Checks](ability-check)**<br/>
 - A gut feeling about the best course of action.
 - Determine if a creature is undead.
 {.square}
@@ -731,8 +768,7 @@ General awareness, perceptiveness and intuition.
 
 Ability to interact, control and understand animals.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Calm a spooked mount.
 - Coax a stubborn beast of burden.
 - Determine if an animal is about to attack.
@@ -750,8 +786,7 @@ Use skill checks for situations like:
 
 Ability to determine the true intentions of a creature.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Determine if someone is hiding something.
 - Predict an individual's next action.
 - Read someone's body language.
@@ -767,8 +802,7 @@ Use skill checks for situations like:
 
 Ability to spot, hear, or otherwise detect something.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Eavesdrop on a conversation.
 - Detect an approaching monster.
 - Spot a trap before setting it off. 
@@ -784,8 +818,7 @@ Use skill checks for situations like:
 
 Ability to survive in the wilderness.
 
-**Skill Checks**<br/>
-Use skill checks for situations like:
+**[Skill Checks](skill-check)**<br/>
 - Follow a creature's tracks. 
 - Find food and water in the wilderness.
 - Avoid natural hazards.
