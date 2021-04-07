@@ -168,7 +168,7 @@ Ability to lie or otherwise hide the truth.
 #### Intimidation
 [Home](home) > [Abilities](abilities) > [Charisma](charisma) > Intimidation {.small-text}
 
-Ability to influence others via threat and coercion.
+Influence others via threat or coercion.
 
 **[Skill Checks](skill-check)**<br/>
 - Coerce information from a prisoner.
@@ -244,7 +244,7 @@ Constitution skill checks are rare, with [savings throws](saving-throw) being mo
 | Grapple    | [Athletics](athletics) | [Athletics](athletics) / [Acrobatics](acrobatics) |
 | Shove      | [Athletics](athletics) | [Athletics](athletics) / [Acrobatics](acrobatics) |
 | Untie Knot | [Sleight of Hand](sleight-of-hand) | [Sleight of Hand](sleight-of-hand)    |
-| Disarm     | Attack                 | [Athletics](athletics) / [Acrobatics](acrobatics) |
+| Disarm     | [Melee Attack](melee-attack)                 | [Athletics](athletics) / [Acrobatics](acrobatics) |
 {.gray .small-text}
 
 > **Sources** <br/>
@@ -271,7 +271,6 @@ Balance, agility, and general nimbleness
 - [Melee Attacks](melee-attack) (w/ [Finesse Weapons](weapon-properties))
 - [Ranged Attacks](ranged-attack)
 {.square}
-
 
 **Skills & Other Abilities**
 <div id="menu-container">
@@ -379,12 +378,12 @@ Ability to move and hide without being detected
 
 Use group checks when multiple characters are trying to do something as a group like:
 - Sneak past a guard outpost. ([stealth](stealth))
-- Find their way through a swamp. ([survival](survival))
+- Navigate a dense jungle. ([survival](survival))
 - Identify the intentions of a mob. ([insight](insight))
 {.square}
 
 > **MrFarland House Rule**<br/>
-> A natural 20 equals two successes;<br/> A natural 1 equals two failures.
+> Natural 20 = 2 successes;<br/> Natural 1 = 2 failures.
 {.flavortext}
 
 > **Sources** <br/>
@@ -399,7 +398,7 @@ Use group checks when multiple characters are trying to do something as a group 
 Mental acuity, recall, and ability to reason.
 
 **[Ability Checks](ability-check)**<br/>
-- Communicate without a common language.
+- Communicate without a shared language.
 - Estimate the value of an item.
 - Recall lore about a craft or trade.
 - Win a game of skill, like chess
@@ -481,7 +480,7 @@ Knowledge of the world, geography, and creatures.
 **[Skill Checks](skill-check)**<br/>
 - Identify a type of plant or rock.
 - Recognize the signs of bad weather.
-- Recall information about a specific creature.
+- Recall information about a creature.
 {.square}
 
 > **Sources** <br/>
@@ -514,8 +513,8 @@ Knowledge of religions, gods, cults, and traditions.
 
 Use passive checks to:
 - Determine a character's baseline ability.
-- Satisfy common, repetitive tasks w/o a roll.
-- perform a check without alerting the player.
+- Perform common tasks without a roll.
+- Make a check without alerting the player.
 {.square}
 
 [Advantage & Disadvantage](advantage-disadvantage)
@@ -698,7 +697,7 @@ General athletic prowess when running, [jumping](jumping), [swimming](swimming),
 General awareness, perceptiveness and intuition.
 
 **[Ability Checks](ability-check)**<br/>
-- A gut feeling about the best course of action.
+- Get a gut feeling about a decision.
 - Determine if a creature is undead.
 {.square}
 
@@ -741,7 +740,7 @@ Ability to interact, control and understand animals.
 Ability to determine the true intentions of a creature.
 
 **[Skill Checks](skill-check)**<br/>
-- Determine if someone is hiding something.
+- Determine if someone is lying.
 - Predict an individual's next action.
 - Read someone's body language.
 {.square}
