@@ -8,8 +8,6 @@ module-pagebreaks: h1, h2, h3
 [Home](home) > Character {.small-text}
 
 <div id="menu-container">
-    <a href="alignment">Alignment</a>
-    <a href=""></a>
     <a href="languages">Languages</a>
     <a href=""></a>
     <a href=""></a>
@@ -21,103 +19,6 @@ module-pagebreaks: h1, h2, h3
     <a href=""></a>
 </div>
 
-
-
-### Alignment
-[Home](home) > [Character](character) > Alignment {.small-text}
-
-<div id="menu-container">
-    <a href="lawful-good">Lawful<br/> Good</a>
-    <a href="neutral-good">Neutral<br/> Good</a>
-    <a href="chaotic-good">Chaotic<br/> Good</a>
-    <a href="lawful-neutral">Lawful<br/> Neutral</a>
-    <a href="neutral">Neutral</a>
-    <a href="chaotic-neutral">Chaotic<br/> Neutral</a>
-    <a href="lawful-evil">Lawful<br/> Evil</a>
-    <a href="neutral-evil">Neutral<br/> Evil</a>
-    <a href="chaotic-evil">Chaotic<br/> Evil</a>
-</div>
-
-
-
-### Lawful Good
-[Home](home) > [Character](character) > [Alignment](alignment) > Lawful Good {.small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
-
-
-
-### Neutral Good
-[Home](home) > [Character](character) > [Alignment](alignment) > Neutral Good {.small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
-
-
-
-### Chaotic Good
-[Home](home) > [Character](character) > [Alignment](alignment) > Chaotic Good {.small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
-
-
-
-### Lawful Neutral
-[Home](home) > [Character](character) > [Alignment](alignment) > Lawful Neutral {.small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
-
-
-
-### Neutral
-[Home](home) > [Character](character) > [Alignment](alignment) > Neutral {.small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
-
-
-
-### Chaotic Neutral
-[Home](home) > [Character](character) > [Alignment](alignment) > Lawful Neutral {.small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
-
-
-
-### Lawful Evil
-[Home](home) > [Character](character) > [Alignment](alignment) > Lawful Evil {.small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
-
-
-
-### Neutral Evil
-[Home](home) > [Character](character) > [Alignment](alignment) > Neutral Evil {.small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
-
-
-
-### Chaotic Evil
-[Home](home) > [Character](character) > [Alignment](alignment) > Chaotic Evil {.small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
 
 
 
