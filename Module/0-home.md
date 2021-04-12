@@ -18,7 +18,6 @@ order: 00
     <a href="expenses">Expenses</a>
     <a href="movement">Movement</a>
     <a href="spellcasting">Spellcasting</a>
-    <a href="survival">Survival</a>
 </div>
 <br/>
 
