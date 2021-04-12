@@ -8,7 +8,7 @@ module-pagebreaks: h1, h2, h3
 [Home](home) > Environment {.small-text}
 
 <div id="menu-container">
-    <a href="link">Avalanche / Rock Slide</a>
+    <a href="avalanche-rock-slides">Avalanche / Rock Slide</a>
     <a href="link">Blue<br/> Holes</a>
     <a href="link">Coral<br/> Reefs</a>
     <a href="link">Currents</a>
@@ -17,7 +17,7 @@ module-pagebreaks: h1, h2, h3
     <a href="link">Eldritch<br/> Mist</a>
     <a href="link">Extreme<br/> Cold</a>
     <a href="link">Extreme<br/> Heat</a>
-    <a href="link">Falling</a>
+    <a href="falling">Falling</a>
     <a href="link">Frigid<br/> Water</a>
     <a href="link">Heavy<br/> Precipitation</a>
     <a href="link">High<br/> Altitude</a>
@@ -29,8 +29,8 @@ module-pagebreaks: h1, h2, h3
     <a href="link">Razorvine</a>
     <a href="link">Sandbars</a>
     <a href="link">Sapping<br/> Snow</a>
+    <a href="spells-as-hazards">Spells as Hazards</a>
     <a href="link">Strong<br/> Wind</a>
-    <a href="link">Spells as Hazards</a>
     <a href="link">Weather</a>
 </div>
 
@@ -407,13 +407,6 @@ If a creature is knocked [prone](prone) at a height greater than 500 feet, it ma
  
  
  
-
-
-
-
-
-
-
 ### Strong Wind
 [Home](home) > [Environment](environment) > Strong Wind {.small-text}
 
