@@ -8,14 +8,14 @@ order: 00
 
 <div id="menu-container">
     <a href="abilities">Abilities</a>
-    <a href="characters">Characters</a>
+    <a href="character">Character</a>
     <a href="combat">Combat</a>
     <a href="conditions">Conditions</a>
     <a href="downtime">Downtime</a>
     <a href="encounters">Encounters</a>
     <a href="environment">Environment</a>
-    <a href="equipment">Equipment</a>
     <a href="expenses">Expenses</a>
+    <a href="items">Items</a>
     <a href="movement">Movement</a>
     <a href="spellcasting">Spellcasting</a>
 </div>

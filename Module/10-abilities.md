@@ -236,11 +236,9 @@ Constitution skill checks are rare, with [savings throws](saving-throw) being mo
 
 | Example    | Initiator               | Defender |
 |:-----------|:-----------------------|:---------|
-| Hide       | [Stealth](stealth)     | [Perception](perception)                          |
-| Grapple    | [Athletics](athletics) | [Athletics](athletics) / [Acrobatics](acrobatics) |
-| Shove      | [Athletics](athletics) | [Athletics](athletics) / [Acrobatics](acrobatics) |
-| Untie Knot | [Sleight of Hand](sleight-of-hand) | [Sleight of Hand](sleight-of-hand)    |
-| Disarm     | [Melee Attack](melee-attack)                 | [Athletics](athletics) / [Acrobatics](acrobatics) |
+| Hide            | [Stealth](stealth)     | [Perception](perception)                          |
+| Grapple & Shove | [Athletics](athletics) | [Athletics](athletics) / [Acrobatics](acrobatics) |
+| Untie Knot      | [Sleight of Hand](sleight-of-hand) | [Sleight of Hand](sleight-of-hand)    |
 {.gray .small-text}
 
 > **Sources** <br/>

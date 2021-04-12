@@ -1,6 +1,6 @@
 ---
-name: Characters
-slug: characters
+name: Character
+slug: character
 order: 10
 module-pagebreaks: h1, h2, h3, h4
 ---
