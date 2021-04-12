@@ -216,6 +216,13 @@ Constitution skill checks are rare, with [savings throws](saving-throw) being mo
 - Keep down a terrible meal or ale.
 {.square}
 
+**Skills & Other Abilities**
+<div id="menu-container">
+    <a href="hit-dice">Hit Dice</a>
+    <a href="hit-points">Hit Points</a>
+</div>
+
+
 > **Sources** <br/>
 > Player's Handbook, p. 179
 {.read .small-text}
