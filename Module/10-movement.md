@@ -2,7 +2,7 @@
 name: Movement
 slug: movement
 order: 10
-module-pagebreaks: h1, h2, h3
+module-pagebreaks: h1, h2, h3, h4
 ---
 ## Movement
 [Home](home) > Movement {.small-text}

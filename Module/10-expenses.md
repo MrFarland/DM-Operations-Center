@@ -2,7 +2,7 @@
 name: Expenses
 slug: expenses
 order: 10
-module-pagebreaks: h1, h2, h3
+module-pagebreaks: h1, h2, h3, h4
 ---
 ## Expenses
 [Home](home) > Expenses {.small-text}

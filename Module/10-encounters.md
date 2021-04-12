@@ -2,7 +2,7 @@
 name: Encounters
 slug: encounters
 order: 10
-module-pagebreaks: h1, h2, h3
+module-pagebreaks: h1, h2, h3, h4
 ---
 ## Encounters
 [Home](home) > Encounters {.small-text}

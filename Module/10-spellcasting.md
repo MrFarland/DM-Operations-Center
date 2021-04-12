@@ -2,7 +2,7 @@
 name: Spellcasting
 slug: spellcasting
 order: 10
-module-pagebreaks: h1, h2, h3
+module-pagebreaks: h1, h2, h3, h4
 ---
 ## Spellcasting
 [Home](home) > Spellcasting {.small-text}
