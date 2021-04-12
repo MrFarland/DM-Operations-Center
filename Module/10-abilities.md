@@ -533,18 +533,18 @@ Use passive checks to:
 
 Used in [saving throws](saving-throw) and [skill checks](skill-checks), as well as related [ability checks](ability-checks) when using [tools](tools) for which the character is proficient.
 
-| Bonus by Level |||
-|:--|:--:|:--|:--:|
-|  **1** | +2 | **11** | +4 |
-|  **2** | +2 | **12** | +4 |
-|  **3** | +2 | **13** | +5 |
-|  **4** | +2 | **14** | +5 |
-|  **5** | +3 | **15** | +5 |
-|  **6** | +3 | **16** | +5 |
-|  **7** | +3 | **17** | +6 |
-|  **8** | +3 | **18** | +6 |
-|  **9** | +4 | **19** | +6 |
-| **10** | +4 | **20** | +6 |
+| ||||
+|:--|:--:|-|:--|:--:|
+|  **1** | +2 | | **11** | +4 |
+|  **2** | +2 | | **12** | +4 |
+|  **3** | +2 | | **13** | +5 |
+|  **4** | +2 | | **14** | +5 |
+|  **5** | +3 | | **15** | +5 |
+|  **6** | +3 | | **16** | +5 |
+|  **7** | +3 | | **17** | +6 |
+|  **8** | +3 | | **18** | +6 |
+|  **9** | +4 | | **19** | +6 |
+| **10** | +4 | | **20** | +6 |
 {.gray .small-text}
 
 > **Sources** <br/>
@@ -635,7 +635,7 @@ General athletic prowess when running, [jumping](jumping), [swimming](swimming),
 | **Huge**   | [STR](strength) x 60 |
 {.gray .small-text}
 
-*We do enough math, here are the pre-calculated capacities for small, medium and large creatures.*
+**Carry Capacity by Creature Size**
 |    |   S/M  |    L   |
 |:--:|:------:|:------:|
 | 10 | 150 lb | 300 lb |
@@ -669,7 +669,7 @@ General athletic prowess when running, [jumping](jumping), [swimming](swimming),
 | **Huge**   | Strength x 120 |
 {.gray .small-text}
 
-*We do enough math, here are the pre-calculated capacities for small, medium and large creatures.*
+**Push, Drag, Lift by Creature Size**
 |    |   S/M  |    L   |
 |:--:|:------:|:------:|
 | 10 | 300 lb | 600 lb |

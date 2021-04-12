@@ -22,7 +22,6 @@ module-pagebreaks: h1, h2, h3
     <a href="resurrection">Resurrection</a>
 </div>
 
-- Death Saving Throws
 - Dropping to 0 HP
 - Healing Magic
 - Healing Potions
@@ -39,7 +38,7 @@ module-pagebreaks: h1, h2, h3
 ### Death Savings Throws
 [Home](home) > [Life & Death](life-death) > Death Savings Throws {.small-text}
 
-A creature that starts it's turn with 0 [hit points](hit-points) and has **NOT** been [stabilized](stabilized) is dying and must make **death savings throws**.
+A creature that starts it's turn with 0 [hit points](hit-points) and has **NOT** been [stabilized](stabilized) is dying and must make a **death savings throw**.
 
 **Success = [1d20](/roll/1d20) ≥ 10** {.text-center}
 

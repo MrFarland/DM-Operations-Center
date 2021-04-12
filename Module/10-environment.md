@@ -8,6 +8,7 @@ module-pagebreaks: h1, h2, h3
 [Home](home) > Environment {.small-text}
 
 <div id="menu-container">
+    <a href="link">Avalanche / Rock Slide</a>
     <a href="link">Blue<br/> Holes</a>
     <a href="link">Coral<br/> Reefs</a>
     <a href="link">Currents</a>
@@ -16,6 +17,7 @@ module-pagebreaks: h1, h2, h3
     <a href="link">Eldritch<br/> Mist</a>
     <a href="link">Extreme<br/> Cold</a>
     <a href="link">Extreme<br/> Heat</a>
+    <a href="link">Falling</a>
     <a href="link">Frigid<br/> Water</a>
     <a href="link">Heavy<br/> Precipitation</a>
     <a href="link">High<br/> Altitude</a>
@@ -28,8 +30,37 @@ module-pagebreaks: h1, h2, h3
     <a href="link">Sandbars</a>
     <a href="link">Sapping<br/> Snow</a>
     <a href="link">Strong<br/> Wind</a>
+    <a href="link">Spells as Hazards</a>
     <a href="link">Weather</a>
 </div>
+
+
+
+### Avalanche / Rock Slide
+[Home](home) > [Environment](environment) > Avalanche / Rock Slide {.small-text}
+
+**300' Wide, 150' Long, 30' Thick** {.text-center}
+
+- Creatures roll [initiative](initiative)
+- Moves 300' at [initiative](initiative) 10 and 0
+- Creatures move with it and are [prone](prone)
+- [DC](difficulty-class) 15 [STR](strength) saving throw
+- Fail: [1d10](/roll/1d10) bludgeoning, 1/2 on success
+{.square}
+
+**Buried**
+- Creature is [blinded](blinded) and [restrained](restrained)
+- Gains 1 point [exhaustion](exhaustion) every 5 minutes
+- May use an action to attempt to free itself
+- Make a [DC](difficulty-class) 15 [Strength](strength) ([Athletics](athletics)) check
+- 3 failures and they cannot try again
+{.square}
+
+It takes an unrestrained creature 1 minute to dig out a buried creature.
+
+> **Sources** <br/>
+> Tasha's Cauldron of Everything, p. 170
+{.read .small-text}
 
 
 
@@ -242,6 +273,49 @@ module-pagebreaks: h1, h2, h3
 > **Sources** <br/>
 > Player's Handbook, p. xxx
 {.read .small-text}
+
+
+
+### Spells as Hazards
+[Home](home) > [Environment](environment) > Spells as Hazards {.small-text}
+
+| ||
+|--------------------|--------------------------------------|
+| Ball Lightning     | [Chromatic Orb](/spell/chromatic-orb) |
+| Blizzard           | [Cone of Cold](/spell/cone-of-cold), [Ice Storm](/spell/ice-storm) [Sleet Storm](/spell/sleet-storm) |
+| Earthquake         | [Earthquake](/spell/earthquake) |
+| Falling Debris     | [Conjure Barrage](/spell/conjure-barrage), [Conjure Volley](/spell/conjure-volley) |
+| Flood              | [Control Water](/spell/control-water), [Tsunami](/spell/tsunami) |
+| Fog                | [Fog Cloud](/spell/fog-cloud) |
+| Lava Bomb          | [Fireball](/spell/fireball), [Produce Flame](/spell/produce-flame) |
+| Lightning          | [Call Lightning](/spell/call-lightning), [Lightning Bolt](/spell/lightning-bolt) |
+| Meteor             | [Fireball](/spell/fireball), [Meteor Swarm](/spell/meteor-swarm) |
+| Mirage             | [Hallucinatory Terrain](/spell/hallucinatory-terrain) |
+| Pyroclastic Flow   | [Incendiary Cloud](/spell/incendiary-cloud) |
+| Radiation          | [Blight](/spell/blight), [Circle of Death](/spell/circle-of-death) |
+| Smoke              | [Fog cloud](/spell/fog-cloud) |
+| St. Elmo's Fire    | [Faerie Fire](/spell/faerie-fire) |
+| Swamp Gas          | [Dancing Lights](/spell/dancing-light) |
+| Tidal Wave         | [Tsunami](/spell/tsunami) |
+| Toxic Eruption     | [Acid Splash](/spell/acid-splash) |
+| Toxic Gas          | [Cloudkill](/spell/cloudkill), [Stinking Cloud](/spell/stinking-cloud)  |
+| Thunder            | [Thunderwave](/spell/thunderwave) |
+| Volcanic Lightning | [Storm of Vengeance](/spell/storm-of-vengeance) |
+| Whirlpool          | [Control Water](/spell/control-water) |
+| Wildfire           | [Fire Storm](/spell/fire-storm), [Wall of Fire](/spell/wall-of-fire) |
+| Windstorm          | [Gust of Wind](/spell/gust-of-wind) |
+{.gray .small-text}
+
+> **Sources** <br/>
+> Tasha's Cauldron of Everything, p. 170
+{.read .small-text}
+ 
+ 
+ 
+
+
+
+
 
 
 
