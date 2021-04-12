@@ -19,7 +19,7 @@ module-pagebreaks: h1, h2, h3
     <a href="difficulty-class">Difficulty<br/> Class</a>
     <a href="group-check">Group<br/> Check</a>
     <a href="intelligence">Intelligence</a>
-    <a href="passive-checks">Passive<br/> Checks</a>
+    <a href="passive-check">Passive<br/> Check</a>
     <a href="proficiency-bonus">Proficiency<br/> Bonus</a>
     <a href="saving-throw">Saving<br/> Throw</a>
     <a href="skill-check">Skill<br/> Check</a>
@@ -496,8 +496,8 @@ Knowledge of religions, gods, cults, and traditions.
 
 
 
-### Passive Checks
-[Home](home) > [Abilities](abilities) > Passive Checks {.small-text}
+### Passive Check
+[Home](home) > [Abilities](abilities) > Passive Check {.small-text}
 
 **Success = 10 + [Ability Mod](ability-modifier)** ≥ [DC](difficulty-class) {.text-center}
 
