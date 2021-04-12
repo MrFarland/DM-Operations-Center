@@ -22,25 +22,9 @@ module-pagebreaks: h1, h2, h3, h4
     <a href="training">Training</a>
 </div>
 
-### Brewing Potions
-[Home](home) > [Downtime](downtime) > Brewing Potions {.small-text}
-
-**COMING SOON** {.text-center}
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
 
 
 
-### Buying Magic items
-[Home](home) > [Downtime](downtime) > Buying Magic items {.small-text}
-
-**COMING SOON** {.text-center}
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
 
 
 
