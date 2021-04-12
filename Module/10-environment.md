@@ -153,6 +153,101 @@ It takes an unrestrained creature 1 minute to dig out a buried creature.
 
 
 
+### Falling
+[Home](home) > [Environment](environment) > Falling {.small-text}
+
+**[1d6](/roll/1d6) per 10' and land [prone](prone) - Max [20d6](/roll/20d6)** {.text-center}
+
+<div id="menu-container">
+    <a href="falling-in-water">Falling<br/> in Water</a>
+    <a href="falling-on-creatures">Falling on<br/> Creatures</a>
+    <a href="flying-falling">Flying & Falling</a>
+    <a href="rate-of-falling">Rate of<br/> Falling</a>
+</div>
+
+> **Sources** <br/>
+> Player's Handbook, p. xxx<br/>
+{.read .small-text}
+
+
+
+#### Falling in Water
+[Home](home) > [Environment](environment) > [Falling](falling) > Falling in Water {.small-text}
+
+A creature may use their [reaction](reaction) to try and hit head or feet first.
+
+**[DC](difficulty-class) 15 [STR](strength) ([Athletics](athletics)) or [DEX](dexterity) ([Acrobatics](acrobatics))** {.text-center}
+
+If successful, falling damage is halved.
+
+> **MrFarland House Rule**<br/>
+> The first 10 feet are free, I drop the number of damage dice by 1.
+{.flavortext}
+
+> **Sources** <br/>
+> Tasha's Cauldron of Everything, p. 170
+{.read .small-text}
+
+
+
+#### Falling on Creatures
+[Home](home) > [Environment](environment) > [Falling](falling) > Falling on Creatures {.small-text}
+
+A creature about to be landed on may attempt to avoid being hit by the falling creature.
+
+**[DC](difficulty-class)15 [DEX](dexterity) saving throw** {.text-center}
+
+If successful they take no damage, otherwise they take 1/2 of the falling creature's damage and are knocked [prone](prone).
+
+***Note**: The creature takes no damage if they are two or more sizes larger than falling creature.*
+
+> **Sources** <br/>
+> Tasha's Cauldron of Everything, p. 170
+{.read .small-text}
+
+
+
+#### Flying & Falling
+[Home](home) > [Environment](environment) > [Falling](falling) > Flying & Falling {.small-text}
+
+A flying creature is [falling](falling) if
+- it is knocked [prone](prone)
+- its speed is reduced to 0
+- it loses the ability to fly
+{.square}
+
+If the creature begins to fall, but has not lost the ability to fly and has movement left, it can use this movement to reduce the total fall distance.
+
+**Distance = Height - Remaining Fly Speed** {.text-center}
+
+If a creature is knocked [prone](prone) at a height greater than 500 feet, it may use half it's movement to "stand up" and resume flying on its next turn.
+
+> **Sources** <br/>
+> Xanathar's Guide to Everything, p. 77<br/>
+{.read .small-text}
+
+
+
+#### Rate of Falling 
+[Home](home) > [Environment](environment) > [Falling](falling) > Rate of Falling {.small-text}
+
+**500 feet per round** {.text-center}
+
+<br/>
+
+| Fall Distance per Second up to 6s|||||||
+|:-----|:--:|:--:|:---:|:---:|:---:|:---:|
+| Sec | 1 | 2 | 3 | 4 | 5 | 6 |
+| Feet | 16 | 62 | 138 | 242 | 366 | 504 |
+{.gray .small-text}
+
+> **Sources** <br/>
+> Xanathar's Guide to Everything, p. 77<br/>
+> [Green Harbor - Speed & Time Fallen](http://www.greenharbor.com/fffolder/speedtime.pdf)
+{.read .small-text}
+
+
+
 ### Frigid Water
 [Home](home) > [Environment](environment) > Frigid Water {.small-text}
 
