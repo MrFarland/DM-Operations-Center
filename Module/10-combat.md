@@ -27,7 +27,7 @@ module-pagebreaks: h1, h2, h3
     <a href="underwater-combat">Underwater Combat</a>
 </div>
 
-Add Ranged and melee attacks and Thrown Weapons
+
 
 ### Actions
 [Home](home) > [Combat](combat) > Actions {.small-text}
@@ -58,7 +58,7 @@ Add Ranged and melee attacks and Thrown Weapons
 
 
 > **Sources** <br/>
-> Player's Handbook, p. xxx
+> Player's Handbook, p. 192
 {.read .small-text}
 
 
