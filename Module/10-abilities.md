@@ -360,8 +360,8 @@ Ability to move and hide without being detected
 
 
 
-### Group Checks
-[Home](home) > [Abilities](abilities) > Group Checks {.small-text}
+### Group Check
+[Home](home) > [Abilities](abilities) > Group Check {.small-text}
 
 **Success = 50% ≥ Check [DC](difficulty-class)** {.text-center}
 
