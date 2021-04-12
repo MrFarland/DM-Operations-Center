@@ -9,15 +9,12 @@ module-pagebreaks: h1, h2, h3
 
 <div id="menu-container">
     <a href="advancement">Advancement</a>
-    <a href="determine-abilities">Determine Abilities</a>
+    <a href="alignment">Alignment</a>
+    <a href="determine-abilities">Determine<br/> Abilities</a>
+    <a href="height-weight">Height & Weight</a>
     <a href="languages">Languages</a>
-    <a href=""></a>
-    <a href=""></a>
-    <a href=""></a>
-    <a href=""></a>
-    <a href=""></a>
-    <a href=""></a>
 </div>
+<br/>
 
 
 
@@ -44,6 +41,15 @@ module-pagebreaks: h1, h2, h3
 
 
 
+### Alignment
+[Home](home) > [Character](character) > Alignment {.small-text}
+
+> **Sources** <br/>
+> Player's Handbook, p. 122
+{.read .small-text}
+
+
+
 ### Determine Abilities
 [Home](home) > [Character](character) > Determine Abilities {.small-text}
 
@@ -65,6 +71,15 @@ Using a pool of **27** points, players can purchase ability scores until the poo
 
 > **Sources** <br/>
 > Player's Handbook, p. 13
+{.read .small-text}
+
+
+
+### Height & Weight
+[Home](home) > [Character](character) > Height & Weight {.small-text}
+
+> **Sources** <br/>
+> Player's Handbook, p. 121
 {.read .small-text}
 
 
@@ -107,4 +122,6 @@ Using a pool of **27** points, players can purchase ability scores until the poo
 > **Sources** <br/>
 > Player's Handbook, p. 123
 {.read .small-text}
+
+
 
