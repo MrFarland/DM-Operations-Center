@@ -14,7 +14,7 @@ module-pagebreaks: h1, h2, h3
     <a href="components">Components</a>
     <a href="concentration">Concentration</a>
     <a href="duration">Duration</a>
-    <a href="known-prepared-spells">Known & Prepared</a>
+    <a href="known-and-prepared-spells">Known & Prepared</a>
     <a href="ritual-casting">Ritual<br/> Casting</a>
     <a href="schools-of-magic">Schools<br/> of Magic</a>
     <a href="spell-attacks">Spell<br/> Attacks</a>

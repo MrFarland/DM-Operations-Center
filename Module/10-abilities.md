@@ -10,7 +10,7 @@ module-pagebreaks: h1, h2, h3
 <div id="menu-container">
     <a href="ability-check">Ability<br/> Check</a>
     <a href="ability-modifiers">Ability<br/> Modifiers</a>
-    <a href="advantage-disadvantage">Advantage & Disadvantage</a>
+    <a href="advantage-and-disadvantage">Advantage & Disadvantage</a>
     <a href="alternate-abilities">Alternate<br/> Abilities</a>
     <a href="charisma">Charisma</a>
     <a href="constitution">Constitution</a>

@@ -20,7 +20,7 @@ module-pagebreaks: h1, h2, h3
     <a href="magical-items">Magical Items</a>
     <a href="mounts-tack">Mounts & Tack</a>
     <a href="musical-intruments">Musical Instruments</a>
-    <a href="object-ac-hp">Object<br/> AC & HP</a>
+    <a href="object-ac-and-hp">Object<br/> AC & HP</a>
     <a href="trade-goods">Trade<br/> Goods</a>
     <a href="treasure">Treasure</a>
     <a href="tools">Tools</a>
