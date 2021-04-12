@@ -11,8 +11,9 @@ module-pagebreaks: h1, h2, h3
     <a href="advancement">Advancement</a>
     <a href="alignment">Alignment</a>
     <a href="determine-abilities">Determine<br/> Abilities</a>
-    <a href="height-weight">Height & Weight</a>
+    <a href="height-weight">Height &<br/> Weight</a>
     <a href="languages">Languages</a>
+    <a href="starting-wealth">Starting<br/> Wealth</a>
 </div>
 <br/>
 
@@ -125,3 +126,26 @@ Using a pool of **27** points, players can purchase ability scores until the poo
 
 
 
+### Starting Wealth
+[Home](home) > [Character](character) > Starting Wealth {.small-text}
+
+| Class | Funds |
+|-------|------:|
+| Artificer | |
+| Barbarian | [2d4](/roll/2d4) x l0 gp |
+| Bard      | [5d4](/roll/5d4) x l0 gp |
+| Cleric    | [5d4](/roll/5d4) x 10 gp |
+| Druid     | [2d4](/roll/2d4) x 10 gp |
+| Fighter   | [5d4](/roll/5d4) x 10 gp |
+| Monk      |      [2d4](/roll/2d4) gp |
+| Paladin   | [5d4](/roll/5d4) x 10 gp |
+| Ranger    | [5d4](/roll/5d4) x l0 gp |
+| Rogue     | [4d4](/roll/4d4) x 10 gp |
+| Sorcerer  | [3d4](/roll/3d4) x 10 gp |
+| Warlock   | [4d4](/roll/4d4) x 10 gp |
+| Wizard    | [4d4](/roll/4d4) x 10 gp |
+{.gray .small-text}
+
+> **Sources** <br/>
+> Player's Handbook, p. 143
+{.read .small-text}
