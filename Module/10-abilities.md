@@ -34,20 +34,9 @@ module-pagebreaks: h1, h2, h3
 ### Ability Check
 [Home](home) > [Abilities](abilities) > Ability Check {.small-text}
 
-**Success = [1d20](/roll/1d20) + [Mod](ability-modifier)** ≥ [DC](difficulty-class) {.text-center}
-
-Used to determine the success or failure of general ability checks for:
-- [Strength](strength)
-- [Dexterity](strength)
-- [Constitution](strength)
-- [Intelligence](strength)
-- [Wisdom](strength)
-- [Charisma](strength)
-{.square}
+**Success = [1d20](/roll/1d20) + [Ability Mod](ability-modifier)** ≥ [DC](difficulty-class) {.text-center}
 
 In special circumstances a creature may have [advantage or disadvantage](advantage-disadvantage) on the roll.
-
-*Other Checks: [Attack (Melee)](melee-attack), [Attack (Ranged)](ranged-attack), [Attack (Spell)](spell-attack), [Group Check](group-check), [Passive Check](passive-check), [Saving Throw](saving-throw), [Skill Check](skill-check)* {.small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. 174
@@ -70,9 +59,9 @@ In special circumstances a creature may have [advantage or disadvantage](advanta
 | 14-15 | +2 |   30  | +10|
 {.gray .small-text}
 
-- The average for commoners is **10**.
-- The character ability maximum is **20**.
-- The monster ability maximum is **30**.
+- **10** = Average for humanoid commoners.
+- **20** = Maximum for player characters.
+- **30** = Maximum for monsters
 {.square}
 
 > **Sources** <br/>
@@ -88,7 +77,7 @@ In special circumstances a creature may have [advantage or disadvantage](advanta
 |:-----------------|:-----------------------------------------------|
 | **Advantage**    | Roll [2d20](/roll/2d20) and take the **higher** of the two rolls. |
 | **Disdvantage**  | Roll [2d20](/roll/2d20) and take the **lower** of the two rolls.  |
-{.gray .small-text}
+{.gray}
 
 - No double advantage or disadvantage.
 - A creature with both has neither.
@@ -310,7 +299,7 @@ A creature's natural armor class is how hard they are to hit when **not** wearin
 
  **Natural AC = 10 + [Dexterity](dexterity) Modifier** {.text-center}
 
-Wearing [armor](armor) replaces a creature's natural AC with that of the armor they are wearing.
+Wearing [armor](armor) replaces a creature's natural AC.
 
 > **Sources** <br/>
 > Player's Handbook, p. 177
@@ -498,6 +487,7 @@ Knowledge of religions, gods, cults, and traditions.
 - Recognize the holy symbol of a god.
 - Recall a ritual or prayer.
 - Know the traditions of a religion or cult.
+- Perform a [religious service](religious-service).
 {.square}
 
 > **Sources** <br/>
@@ -509,7 +499,7 @@ Knowledge of religions, gods, cults, and traditions.
 ### Passive Checks
 [Home](home) > [Abilities](abilities) > Passive Checks {.small-text}
 
-**Auto Success = 10 + [Mod](ability-modifier)** ≥ [DC](difficulty-class) {.text-center}
+**Success = 10 + [Ability Mod](ability-modifier)** ≥ [DC](difficulty-class) {.text-center}
 
 Use passive checks to:
 - Determine a character's baseline ability.
@@ -556,7 +546,11 @@ Used in [saving throws](saving-throw) and [skill checks](skill-checks), as well 
 ### Saving Throw
 [Home](home) > [Abilities](abilities) > Saving Throw {.small-text}
 
-**Success = [1d20](/roll/1d20) + [Mod](ability-modifier) + [PROF](proficiency-bonus)** ≥ [DC](difficulty-class) {.text-center}
+**Success = [1d20](/roll/1d20) + [Ability Mod](ability-modifier) + ([Prof \*](proficiency-bonus))** ≥ [DC](difficulty-class) {.text-center}
+
+In special circumstances a creature may have [advantage or disadvantage](advantage-disadvantage) on the roll.
+
+***\*** The character must be [proficient](proficiency-bonus) in the saving throw in order to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
 
 | Proficiencies by Class||
 |-----------|:---:|
@@ -572,6 +566,21 @@ Used in [saving throws](saving-throw) and [skill checks](skill-checks), as well 
 ***See also**: [Death Savings Throws](death-saving-throws).*
 > **Sources** <br/>
 > Player's Handbook, p. 45
+{.read .small-text}
+
+
+
+### Skill Check
+[Home](home) > [Abilities](abilities) > Skill Check {.small-text}
+
+**Success = [1d20](/roll/1d20) + [Skill](skill-modifier) + ([Prof.](proficiency-bonus))** ≥ [DC](difficulty-class) {.text-center}
+
+In special circumstances a creature may have [advantage or disadvantage](advantage-disadvantage) on the roll.
+
+***\*** The character must be [proficient](proficiency-bonus) in the skill in order to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
+
+> **Sources** <br/>
+> Player's Handbook, p. 174
 {.read .small-text}
 
 
@@ -772,8 +781,8 @@ Ability to spot, hear, or otherwise detect something.
 Ability to survive in the wilderness.
 
 **[Skill Checks](skill-check)**<br/>
-- Follow a creature's tracks. 
-- Find food and water in the wilderness.
+- Follow a creature's tracks. ([tracking](tracking))
+- Forage in the wilderness. ([foraging](foraging)) 
 - Avoid natural hazards.
 - Find a path through rough terrain.
 {.square}
