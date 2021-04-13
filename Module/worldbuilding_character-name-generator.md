@@ -2,7 +2,9 @@
 name: Character Name Generator
 slug: character-name-generator
 ---
-<h3>Character Name Generator</h3>
+### Character Name Generator</h3>
+[Home](home) > [Worldbuilding](worldbuilding) > Character Name Generator {.small-text}
+
 <p>Use the following generator to quickly generate a few names based on the character's race (or culture) and gender identity.</p>
 
 <div style="margin-bottom:15px; text-align:center;">

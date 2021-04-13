@@ -1,10 +1,10 @@
 ---
-name: World
-slug: world
+name: Worldbuilding
+slug: worldbuilding
 order: 13
 ---
-## World
-[Home](home) > World {.small-text}
+## Worldbuilding
+[Home](home) > Worldbuilding {.small-text}
 
 <div id="menu-container">
     <a href="character-name-generator">NPC Names</a>

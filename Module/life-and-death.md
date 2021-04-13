@@ -1,6 +1,6 @@
 ---
 name: Life & Death
-slug: life-death
+slug: life-and-death
 order: 10
 ---
 ## Life & Death
