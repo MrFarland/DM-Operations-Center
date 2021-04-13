@@ -3,7 +3,6 @@ name: Researching
 slug: researching
 parent: downtime
 ---
-
 ### Researching
 [Home](home) > [Downtime](downtime) > Researching {.small-text}
 

@@ -3,7 +3,6 @@ name: Gambling
 slug: gambling
 parent: downtime
 ---
-
 ### Gambling
 [Home](home) > [Downtime](downtime) > Gambling {.small-text}
 

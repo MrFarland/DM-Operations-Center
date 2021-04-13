@@ -19,12 +19,5 @@ module-pagebreaks: h1, h2
     <a href="items">Items</a>
     <a href="movement">Movement</a>
     <a href="spellcasting">Spellcasting</a>
+    <a href="world">World</a>
 </div>
-<br/>
-
-**Generators**
-<div id="menu-container">
-    <a href="character-name-generator">NPC Names</a>
-</div>
-
-

@@ -3,7 +3,6 @@ name: Pit Fighting
 slug: pit-fighting
 parent: downtime
 ---
-
 ### Pit Fighting
 [Home](home) > [Downtime](downtime) > Pit Fighting {.small-text}
 

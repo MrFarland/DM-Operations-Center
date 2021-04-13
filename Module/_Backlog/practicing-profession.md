@@ -3,8 +3,6 @@ name: Practicing Profession
 slug: practicing-profession
 parent: downtime
 ---
-
-
 ### Practicing Profession
 [Home](home) > [Downtime](downtime) > Practicing Profession {.small-text}
 

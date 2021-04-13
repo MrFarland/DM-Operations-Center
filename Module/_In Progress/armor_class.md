@@ -3,9 +3,8 @@ name: Armor Class
 slug: armor-class
 parent: combat
 ---
-
-#### Armor Class
-[Home](home) > [Abilities](abilities) > [Dexterity](dexterity) > Armor Class {.small-text}
+### Armor Class
+[Home](home) > [Combat](combat) > Armor Class {.small-text}
 
 A creature's natural armor class is how hard they are to hit when **not** wearing [armor](armor).
 

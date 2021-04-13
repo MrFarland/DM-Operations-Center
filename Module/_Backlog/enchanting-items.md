@@ -3,7 +3,6 @@ name: Enchanting Items
 slug: enchanting-items
 parent: downtime
 ---
-
 ### Enchanting Items
 [Home](home) > [Downtime](downtime) > Enchanting Items {.small-text}
 

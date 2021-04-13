@@ -8,7 +8,6 @@ order: 10
 
 <div id="menu-container">
     <a href="death-savings-throws">Death Saving Throws</a>
-    <a href="dropping-to-0-hp">Dropping<br/> to 0 HP</a>
     <a href="healing-magic">Healing Magic</a>
     <a href="healing-potions">Healing Potions</a>
     <a href="hit-dice">Hit Dice</a>
@@ -16,130 +15,7 @@ order: 10
     <a href="instant-death">Instant Death</a>
     <a href="stabilizing">Stabilizing</a>
     <a href="recuperating">Recuperating</a>
-    <a href="rest-long">Rest<br/> (Long)</a>
-    <a href="rest-short">Rest<br/> (Short)</a>
+    <a href="long-rest">Rest<br/> (Long)</a>
+    <a href="short-rest">Rest<br/> (Short)</a>
     <a href="resurrection">Resurrection</a>
 </div>
-
-- Dropping to 0 HP
-- Healing Magic
-- Healing Potions
-- Hit Dice
-- Hit Points
-- Instant Death
-- Stabilizing
-- Recuperating
-- Rest (Long)
-- Rest (Short)
-- Resurrection
-
-
-### Death Savings Throws
-[Home](home) > [Life & Death](life-death) > Death Savings Throws {.small-text}
-
-A creature that starts it's turn with 0 [hit points](hit-points) and has **NOT** been [stabilized](stabilized) is dying and must make a **death savings throw**.
-
-**Success = [1d20](/roll/1d20) ≥ 10** {.text-center}
-
--  
-
-
-
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
-
-
-### Hit Dice
-[Home](home) > [Abilities & Skills](abilities-skills) > [Constitution](constitution) > Hit Dice {.small-text}
-
-**[HP](hit-points) Restored = Hit Die + [CON](constitution) Mod** {.text-center}
-
-| Hit Die by Class ||
-|-----------|:---:|
-| Artificer | [1d8](/roll/1d8)   | Paladin   | [1d10](/roll/1d10) |
-| Barbarian | [1d12](/roll/1d12) | Ranger    | [1d10](/roll/1d10) |
-| Bard      | [1d8](/roll/1d8)   | Rogue     | [1d8](/roll/1d8)   |
-| Cleric    | [1d8](/roll/1d8)   | Sorcerer  | [1d6](/roll/1d6)   |
-| Druid     | [1d8](/roll/1d8)   | Warlock   | [1d8](/roll/1d8)   |
-| Fighter   | [1d10](/roll/1d10) | Wizard    | [1d6](/roll/1d6)   |
-| Monk      | [1d8](/roll/1d8)   | - | - |
-{.gray .small-text}
-
-> **Sources** <br/>
-> Player's Handbook, p. 12
-{.read .small-text}
-
-
-
-### Hit Points
-[Home](home) > [Abilities & Skills](abilities-skills) > [Constitution](constitution) > Hit Points {.small-text}
-
-Hit Points represent a character's ability to fight as well as their physical health.
-
-**Max HP = ([Hit Die](hit-dice) + CON) per level** {.text-center}
-
-- Total HP cannot exceed their Max HP.
-- 0 HP - [unconcious](unconcious) and/or [dying](dying).
-{.square}
-
-*Changes to [CON](constitution) are **retroactive**. Apply change to Max HP for each character level.*
-
-> **Sources** <br/>
-> Player's Handbook, p. 177
-{.read .small-text}
-
-### Temporary Hit Points
- [Home](home) > [Conditions & Effects](conditions-effects) > Temporary Hit Points {.small-text}
-
-- Not actual [Hit Points](hit-points), just a buffer.
-- Temp HP is used first, then regular [HP](hit-points).
-- Temp HP can exceed PCs [HP](hit-points) maximum.
-- Temp HP **does not heal** or stabilize.
-
-**Temp HP does not stack!<br/> Subsequent grants replace prior grants.** {.text-center}
-
-> **Sources** <br/>
-> Player's Handbook, p. 198
-{.read .small-text}
-
-
-### Long Rest
-[Home](home) > [Downtime](downtime) > Long Rest {.small-text}
-
-**8 Hours** {.text-center}
-
-- Minimum of 6 hours of [sleep](sleeping).
-- No more than 2 hours of light activity.
-- Must start over if interrupted > 1 hour.
-- Allowed only 1 long rest in 24H period.
-- Must have 1 [HP](hit-points) to benefit from long rest.
-{.square}
-
-**Upon completion:**
-- Regain all [HP](hit-points) up to character's maximum.
-- Regain spent [HD](hit-dice) = 1/2 character level.
-
-> **Sources** <br/>
-> Player's Handbook, p. 186
-{.read .small-text}
-
-
-
-### Short Rest
-[Home](home) > [Downtime](downtime) > Short Rest {.small-text}
-
-**1 Hour** {.text-center}
-- Minimum of 1 hour of light activity.
-{.square}
-
-
-**Upon completion:**
-- May use [Hit Dice](hit-dice) equal to character level.
-- Restore [HP](hit-points) = [HD](hit-dice) + [CON](constitution) modifier per die.
-{.square}
-
-> **Sources** <br/>
-> Player's Handbook, p. 186
-{.read .small-text}
