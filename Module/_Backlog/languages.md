@@ -2,7 +2,7 @@
 
 
 ### Languages
-[Home](dm-operations-center) > [Character](character) > Languages {.small-text}
+[Home](home) > [Character](character) > Languages {.small-text}
 
 | Language    | Script     | Speakers |
 |-------------|------------|----------|

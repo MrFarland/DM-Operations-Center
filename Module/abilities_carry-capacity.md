@@ -4,7 +4,7 @@ slug: carry-capacity
 parent: abilities
 ---
 ### Carry Capacity
-[Home](dm-operations-center) > [Abilities](abilities) > [Strength](strength) > Carry Capacity {.small-text}
+[Home](home) > [Abilities](abilities) > [Strength](strength) > Carry Capacity {.small-text}
 
 | Capacity by Creature Size||
 |:-----------|:--------------------|

@@ -4,7 +4,7 @@ slug: extreme-heat
 parent: environment
 ---
 ### Extreme Heat
-[Home](dm-operations-center) > [Environment](environment) > Extreme Heat {.small-text}
+[Home](home) > [Environment](environment) > Extreme Heat {.small-text}
 
 
 

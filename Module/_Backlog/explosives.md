@@ -4,7 +4,7 @@ slug: explosives
 parent: items
 ---
 ### Explosives
-[Home](dm-operations-center) > [Items](items) > Explosives {.small-text}
+[Home](home) > [Items](items) > Explosives {.small-text}
 
 
 

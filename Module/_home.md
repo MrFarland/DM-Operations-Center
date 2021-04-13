@@ -1,7 +1,8 @@
 ---
-name: DM Operations Center
-slug: dm-operations-center
+name: Home
+slug: home
 order: 00
+module-pagebreaks: h1, h2
 ---
 ## DM Operations Center
 *Preview Release 0.1.0* {.small-text}
@@ -18,8 +19,8 @@ order: 00
     <a href="items">Items</a>
     <a href="movement">Movement</a>
     <a href="spellcasting">Spellcasting</a>
-    <a href="treasure">Treasure</a>
     <a href="worldbuilding">Worldbuilding</a>
+    <a href=".">-</a>
     <a href=".">-</a>
     <a href=".">-</a>
 </div>

@@ -4,7 +4,7 @@ slug: flying
 parent: movement
 ---
 ### Flying
-[Home](dm-operations-center) > [Movement](movement) > Flying {.small-text}
+[Home](home) > [Movement](movement) > Flying {.small-text}
 
 **COMING SOON** {.text-center}
 

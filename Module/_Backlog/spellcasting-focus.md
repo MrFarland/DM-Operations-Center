@@ -4,7 +4,7 @@ slug: spellcasting-focus
 parent: spellcasting
 ---
 ### Blank
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Spellcasting Focus {.small-text}
+[Home](home) > [Spellcasting](spellcasting) > Spellcasting Focus {.small-text}
 
 
 

@@ -4,7 +4,7 @@ slug: charisma
 parent: abilities
 ---
 ### Charisma
-[Home](dm-operations-center) > [Abilities](abilities) > Charisma {.small-text}
+[Home](home) > [Abilities](abilities) > Charisma {.small-text}
 
 Charm, confidence, eloquence, and personality
     

@@ -4,7 +4,7 @@ slug: sapping-snow
 parent: environment
 ---
 ### Sapping Snow
-[Home](dm-operations-center) > [Environment](environment) > Sapping Snow {.small-text}
+[Home](home) > [Environment](environment) > Sapping Snow {.small-text}
 
 **COMING SOON** {.text-center}
 

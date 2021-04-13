@@ -4,7 +4,7 @@ slug: spellcasting
 order: 12
 ---
 ## Spellcasting
-[Home](dm-operations-center) > Spellcasting {.small-text}
+[Home](home) > Spellcasting {.small-text}
 
 <div id="menu-container">
     <a href="area-of-effect">Area of<br/> Effect</a>

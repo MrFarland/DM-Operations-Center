@@ -4,7 +4,7 @@ slug: ammunition
 parent: items
 ---
 ### Ammunition
-[Home](dm-operations-center) > [Items](items) > Ammunition {.small-text}
+[Home](home) > [Items](items) > Ammunition {.small-text}
 
 
 

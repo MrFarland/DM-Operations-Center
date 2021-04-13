@@ -4,7 +4,7 @@ slug: healing-magic
 parent: life-and-death
 ---
 ### Blank
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Healing Magic {.small-text}
+[Home](home) > [Life & Death](life-and-death) > Healing Magic {.small-text}
 
 
 

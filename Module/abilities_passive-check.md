@@ -4,7 +4,7 @@ slug: passive-check
 parent: abilities
 ---
 ### Passive Check
-[Home](dm-operations-center) > [Abilities](abilities) > Passive Check {.small-text}
+[Home](home) > [Abilities](abilities) > Passive Check {.small-text}
 
 **Success = 10 + [Ability Mod](ability-modifier)** ≥ [DC](difficulty-class) {.text-center}
 

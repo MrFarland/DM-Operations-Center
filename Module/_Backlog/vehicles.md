@@ -4,7 +4,7 @@ slug: vehicles
 parent: items
 ---
 ### Vehicles
-[Home](dm-operations-center) > [Items](items) > Vehicles {.small-text}
+[Home](home) > [Items](items) > Vehicles {.small-text}
 
 
 

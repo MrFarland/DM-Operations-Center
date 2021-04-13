@@ -4,7 +4,7 @@ slug: kelp-forest
 parent: environment
 ---
 ### Kelp Forest
-[Home](dm-operations-center) > [Environment](environment) > Kelp Forest {.small-text}
+[Home](home) > [Environment](environment) > Kelp Forest {.small-text}
 
 
 

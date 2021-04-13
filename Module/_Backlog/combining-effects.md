@@ -4,7 +4,7 @@ slug: combining-effects
 parent: spellcasting
 ---
 ### Blank
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Combining Effects {.small-text}
+[Home](home) > [Spellcasting](spellcasting) > Combining Effects {.small-text}
 
 
 

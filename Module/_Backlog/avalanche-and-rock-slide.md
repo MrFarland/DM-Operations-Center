@@ -4,7 +4,7 @@ slug: avalanche-and-rock-slide
 parent: environment
 ---
 ### Avalanche & Rock Slide
-[Home](dm-operations-center) > [Environment](environment) > Avalanche & Rock Slide {.small-text}
+[Home](home) > [Environment](environment) > Avalanche & Rock Slide {.small-text}
 
 **300' Wide, 150' Long, 30' Thick** {.text-center}
 

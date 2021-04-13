@@ -4,5 +4,5 @@ slug: underdark-encounters
 parent: encounters
 ---
 ### Underdark Encounters
-[Home](dm-operations-center) > [Encounters](encounters) > Underdark Encounters {.small-text}
+[Home](home) > [Encounters](encounters) > Underdark Encounters {.small-text}
 

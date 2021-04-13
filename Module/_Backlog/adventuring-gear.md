@@ -4,7 +4,7 @@ slug: adventuring-gear
 parent: items
 ---
 ### Adventuring Gear
-[Home](dm-operations-center) > [Items](items) > Adventuring Gear {.small-text}
+[Home](home) > [Items](items) > Adventuring Gear {.small-text}
 
 
 

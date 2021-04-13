@@ -4,5 +4,5 @@ slug: urban-encounters
 parent: encounters
 ---
 ### Urban Encounters
-[Home](dm-operations-center) > [Encounters](encounters) > Urban Encounters {.small-text}
+[Home](home) > [Encounters](encounters) > Urban Encounters {.small-text}
 

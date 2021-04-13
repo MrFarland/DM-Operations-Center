@@ -4,7 +4,7 @@ slug: hit-dice
 parent: life-and-death
 ---
 ### Hit Dice
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Hit Dice {.small-text}
+[Home](home) > [Life & Death](life-and-death) > Hit Dice {.small-text}
 
 **[HP](hit-points) Restored = Hit Die + [CON](constitution) Mod** {.text-center}
 

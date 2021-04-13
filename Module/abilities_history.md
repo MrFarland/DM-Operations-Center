@@ -4,7 +4,7 @@ slug: history
 parent: abilities
 ---
 ### History
-[Home](dm-operations-center) > [Abilities](abilities) > [Intelligence](intelligence) > History {.small-text}
+[Home](home) > [Abilities](abilities) > [Intelligence](intelligence) > History {.small-text}
 
 Knowledge of history, people, and things.
 

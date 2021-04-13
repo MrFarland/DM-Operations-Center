@@ -4,7 +4,7 @@ slug: encounters
 order: 06
 ---
 ## Encounters
-[Home](dm-operations-center) > Encounters {.small-text}
+[Home](home) > Encounters {.small-text}
 
 <div id="menu-container">
     <a href="arctic-encounters">Arctic</a>

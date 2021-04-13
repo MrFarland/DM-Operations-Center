@@ -4,7 +4,7 @@ slug: equipment-packs
 parent: items
 ---
 ### Equipment Packs
-[Home](dm-operations-center) > [Items](items) > Equipment Packs {.small-text}
+[Home](home) > [Items](items) > Equipment Packs {.small-text}
 
 
 

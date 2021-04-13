@@ -4,7 +4,7 @@ slug: area-of-effect
 parent: spellcasting
 ---
 ### Area of Effects
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Area Effect {.small-text}
+[Home](home) > [Spellcasting](spellcasting) > Area Effect {.small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. 204

@@ -4,7 +4,7 @@ slug: nature
 parent: abilities
 ---
 ### Nature
-[Home](dm-operations-center) > [Abilities](abilities) > Nature {.small-text}
+[Home](home) > [Abilities](abilities) > Nature {.small-text}
 
 Knowledge of the world, geography, and creatures.
 

@@ -4,7 +4,7 @@ slug: sleep
 parent: environment
 ---
 ### Sleep
-[Home](dm-operations-center) > [Environment](environment) > Sleep {.small-text}
+[Home](home) > [Environment](environment) > Sleep {.small-text}
 
 
 

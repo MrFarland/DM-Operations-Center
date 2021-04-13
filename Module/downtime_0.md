@@ -4,7 +4,7 @@ slug: downtime
 order: 05
 ---
 ## Downtime
-[Home](dm-operations-center) > Downtime {.small-text}
+[Home](home) > Downtime {.small-text}
 
 <div id="menu-container">
     <a href="brewing-potions">Brewing Potions</a>

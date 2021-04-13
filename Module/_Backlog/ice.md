@@ -4,7 +4,7 @@ slug: ice
 parent: environment
 ---
 ### Ice
-[Home](dm-operations-center) > [Environment](environment) > Ice {.small-text}
+[Home](home) > [Environment](environment) > Ice {.small-text}
 
 
 

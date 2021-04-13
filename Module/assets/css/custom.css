@@ -11,8 +11,6 @@
     display:flex;
     flex-flow:row wrap;
     justify-content:center;
-    font-size:12px;
-    line-height:12px;
  }
 
  #menu-container a {
@@ -21,7 +19,7 @@
     border-radius:6px; 
     flex:1; 
     flex-basis:75px; 
-    height:30px;
+    height:36px;
     margin:3px; 
     padding:3px; 
     text-align:center;

@@ -4,7 +4,7 @@ slug: alternate-abilities
 parent: abilities
 ---
 ### Alternate Abilities
-[Home](dm-operations-center) > [Abilities](abilities) > Alternate Abilities {.small-text}
+[Home](home) > [Abilities](abilities) > Alternate Abilities {.small-text}
 
 Depending on the situation, skills may be paired with alternate abilities from their base ability.
 

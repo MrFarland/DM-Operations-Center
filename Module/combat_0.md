@@ -4,7 +4,7 @@ slug: combat
 order: 03
 ---
 ## Combat
-[Home](dm-operations-center) > Combat {.small-text}
+[Home](home) > Combat {.small-text}
 
 <div id="menu-container">
     <a href="action">Action</a>

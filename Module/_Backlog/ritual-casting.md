@@ -4,7 +4,7 @@ slug: ritual-casting
 parent: spellcasting
 ---
 ### Ritual Casting
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Rituals {.small-text}
+[Home](home) > [Spellcasting](spellcasting) > Rituals {.small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. 201,202

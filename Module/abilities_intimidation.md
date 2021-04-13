@@ -4,7 +4,7 @@ slug: intimidation
 parent: abilities
 ---
 ### Intimidation
-[Home](dm-operations-center) > [Abilities](abilities) > [Charisma](charisma) > Intimidation {.small-text}
+[Home](home) > [Abilities](abilities) > [Charisma](charisma) > Intimidation {.small-text}
 
 Influence others via threat or coercion.
 

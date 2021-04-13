@@ -4,7 +4,7 @@ slug: training
 parent: downtime
 ---
 ### Training
-[Home](dm-operations-center) > [Downtime](downtime) > Training {.small-text}
+[Home](home) > [Downtime](downtime) > Training {.small-text}
 
 **COMING SOON** {.text-center}
 

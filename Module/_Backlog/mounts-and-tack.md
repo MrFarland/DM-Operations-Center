@@ -4,7 +4,7 @@ slug: mounts-and-tack
 parent: items
 ---
 ### Mounts & Tack
-[Home](dm-operations-center) > [Items](items) > Mounts & Tack {.small-text}
+[Home](home) > [Items](items) > Mounts & Tack {.small-text}
 
 
 

@@ -4,7 +4,7 @@ slug: crawling
 parent: movement
 ---
 ### Crawling
-[Home](dm-operations-center) > [Movement](movement) > Crawling {.small-text}
+[Home](home) > [Movement](movement) > Crawling {.small-text}
 
 **COMING SOON** {.text-center}
 

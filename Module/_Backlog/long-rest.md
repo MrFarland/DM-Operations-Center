@@ -4,7 +4,7 @@ slug: long-rest
 parent: life-and-death
 ---
 ### Long Rest
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Long Rest {.small-text}
+[Home](home) > [Life & Death](life-and-death) > Long Rest {.small-text}
 
 **8 Hours** {.text-center}
 

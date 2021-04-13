@@ -4,7 +4,7 @@ slug: environment
 order: 07
 ---
 ## Environment
-[Home](dm-operations-center) > Environment {.small-text}
+[Home](home) > Environment {.small-text}
 
 <div id="menu-container">
     <a href="avalanche-and-rock-slides">Avalanche & Rock Slide</a>

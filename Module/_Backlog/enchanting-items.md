@@ -4,7 +4,7 @@ slug: enchanting-items
 parent: downtime
 ---
 ### Enchanting Items
-[Home](dm-operations-center) > [Downtime](downtime) > Enchanting Items {.small-text}
+[Home](home) > [Downtime](downtime) > Enchanting Items {.small-text}
 
 **COMING SOON** {.text-center}
 

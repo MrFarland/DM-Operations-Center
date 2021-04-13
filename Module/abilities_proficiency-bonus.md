@@ -4,7 +4,7 @@ slug: proficiency-bonus
 parent: abilities
 ---
 ### Proficiency Bonus
-[Home](dm-operations-center) > [Abilities](abilities) > Proficiency Bonus {.small-text}
+[Home](home) > [Abilities](abilities) > Proficiency Bonus {.small-text}
 
 Used in [saving throws](saving-throw) and [skill checks](skill-checks), as well as related [ability checks](ability-checks) when using [tools](tools) for which the character is proficient.
 

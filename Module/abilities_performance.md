@@ -4,7 +4,7 @@ slug: performance
 parent: abilities
 ---
 ### Performance
-[Home](dm-operations-center) > [Abilities](abilities) > Performance {.small-text}
+[Home](home) > [Abilities](abilities) > Performance {.small-text}
 
 How well you can entertain an audience.
 

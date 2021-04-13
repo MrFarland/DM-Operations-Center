@@ -4,7 +4,7 @@ slug: armor
 parent: items
 ---
 ### Armor
-[Home](dm-operations-center) > [Items](items) > Armor {.small-text}
+[Home](home) > [Items](items) > Armor {.small-text}
 
 
 

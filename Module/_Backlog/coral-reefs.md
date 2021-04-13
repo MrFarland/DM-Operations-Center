@@ -4,7 +4,7 @@ slug: coral-reefs
 parent: environment
 ---
 ### Coral Reefs
-[Home](dm-operations-center) > [Environment](environment) > Coral Reefs {.small-text}
+[Home](home) > [Environment](environment) > Coral Reefs {.small-text}
 
 
 

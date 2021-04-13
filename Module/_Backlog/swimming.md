@@ -4,7 +4,7 @@ slug: swimming
 parent: movement
 ---
 ### Swimming
-[Home](dm-operations-center) > [Movement](movement) > Swimming {.small-text}
+[Home](home) > [Movement](movement) > Swimming {.small-text}
 
 **COMING SOON** {.text-center}
 

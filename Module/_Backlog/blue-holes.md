@@ -4,7 +4,7 @@ slug: blue-holes
 parent: environment
 ---
 ### Blue Holes
-[Home](dm-operations-center) > [Environment](environment) > Blue Holes {.small-text}
+[Home](home) > [Environment](environment) > Blue Holes {.small-text}
 
 
 

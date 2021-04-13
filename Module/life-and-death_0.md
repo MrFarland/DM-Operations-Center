@@ -4,7 +4,7 @@ slug: life-and-death
 order: 10
 ---
 ## Life & Death
-[Home](dm-operations-center) > Life & Death {.small-text}
+[Home](home) > Life & Death {.small-text}
 
 <div id="menu-container">
     <a href="death-savings-throws">Death Saving Throws</a>

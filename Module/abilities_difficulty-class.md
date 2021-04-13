@@ -4,7 +4,7 @@ slug: difficulty-class
 parent: abilities
 ---
 ### Difficulty Class
-[Home](dm-operations-center) > [Abilities](abilities) > Difficulty Class {.small-text}
+[Home](home) > [Abilities](abilities) > Difficulty Class {.small-text}
 
 |||
 |:----------|:--:|

@@ -4,7 +4,7 @@ slug: spell-level
 parent: spellcasting
 ---
 ### Spell Level
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Level {.small-text}
+[Home](home) > [Spellcasting](spellcasting) > Spell Level {.small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. 201

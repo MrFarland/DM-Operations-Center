@@ -4,7 +4,7 @@ slug: strong-wind
 parent: environment
 ---
 ### Strong Wind
-[Home](dm-operations-center) > [Environment](environment) > Strong Wind {.small-text}
+[Home](home) > [Environment](environment) > Strong Wind {.small-text}
 
 **COMING SOON** {.text-center}
 

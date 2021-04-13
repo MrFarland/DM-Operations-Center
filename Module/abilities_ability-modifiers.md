@@ -4,7 +4,7 @@ slug: ability-modifiers
 parent: abilities
 ---
 ### Ability Modifiers
-[Home](dm-operations-center) > [Abilities](abilities) > Ability Modifiers {.small-text}
+[Home](home) > [Abilities](abilities) > Ability Modifiers {.small-text}
 
 | Score |+/- | Score |+/- |
 |:-----:|:--:|:-----:|:--:|

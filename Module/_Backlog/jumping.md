@@ -4,7 +4,7 @@ slug: jumping
 parent: movement
 ---
 ### Jumping
-[Home](dm-operations-center) > [Movement](movement) > Jumping {.small-text}
+[Home](home) > [Movement](movement) > Jumping {.small-text}
 
 **COMING SOON** {.text-center}
 

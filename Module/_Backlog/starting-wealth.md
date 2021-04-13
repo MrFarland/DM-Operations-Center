@@ -3,7 +3,7 @@
 
 
 ### Starting Wealth
-[Home](dm-operations-center) > [Character](character) > Starting Wealth {.small-text}
+[Home](home) > [Character](character) > Starting Wealth {.small-text}
 
 | Class | Funds |
 |-------|------:|

@@ -4,7 +4,7 @@ slug: spellcasting-services
 parent: expenses
 ---
 ### Blank
-[Home](dm-operations-center) > [Expenses](expenses) > Spellcasting Services {.small-text}
+[Home](home) > [Expenses](expenses) > Spellcasting Services {.small-text}
 
 
 

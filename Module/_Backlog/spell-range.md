@@ -4,7 +4,7 @@ slug: spell-range
 parent: spellcasting
 ---
 ### Spell Range
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Range {.small-text}
+[Home](home) > [Spellcasting](spellcasting) > Spell Range {.small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. 202

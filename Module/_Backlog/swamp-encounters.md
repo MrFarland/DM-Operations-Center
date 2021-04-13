@@ -4,5 +4,5 @@ slug: swamp-encounters
 parent: encounters
 ---
 ### Swamp Encounters
-[Home](dm-operations-center) > [Encounters](encounters) > Swamp Encounters {.small-text}
+[Home](home) > [Encounters](encounters) > Swamp Encounters {.small-text}
 

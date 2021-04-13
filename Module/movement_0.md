@@ -4,7 +4,7 @@ slug: movement
 order: 11
 ---
 ## Movement
-[Home](dm-operations-center) > Movement {.small-text}
+[Home](home) > Movement {.small-text}
 
 <div id="menu-container">
     <a href="link">Climbing</a>

@@ -4,7 +4,7 @@ slug: firearms
 parent: items
 ---
 ### Firearms
-[Home](dm-operations-center) > [Items](items) > Firearms {.small-text}
+[Home](home) > [Items](items) > Firearms {.small-text}
 
 
 

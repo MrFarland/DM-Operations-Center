@@ -4,7 +4,7 @@ slug: ability-check
 parent: abilities
 ---
 ### Ability Check
-[Home](dm-operations-center) > [Abilities](abilities) > Ability Check {.small-text}
+[Home](home) > [Abilities](abilities) > Ability Check {.small-text}
 
 **Success = [1d20](/roll/1d20) + [Ability](ability-modifier) + ([Prof.](proficiency-bonus)) ≥ [DC](difficulty-class)** {.text-center}
 

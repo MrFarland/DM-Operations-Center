@@ -4,7 +4,7 @@ slug: krakens-grave
 parent: environment
 ---
 ### Kraken's Grave
-[Home](dm-operations-center) > [Environment](environment) > Kraken's Grave {.small-text}
+[Home](home) > [Environment](environment) > Kraken's Grave {.small-text}
 
 
 

@@ -4,7 +4,7 @@ slug: brewing-potions
 parent: downtime
 ---
 ### Brewing Potions
-[Home](dm-operations-center) > [Downtime](downtime) > Brewing Potions {.small-text}
+[Home](home) > [Downtime](downtime) > Brewing Potions {.small-text}
 
 **COMING SOON** {.text-center}
 

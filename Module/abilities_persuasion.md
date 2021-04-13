@@ -4,7 +4,7 @@ slug: persuasion
 parent: abilities
 ---
 ### Persuasion
-[Home](dm-operations-center) > [Abilities](abilities) > Persuasion {.small-text}
+[Home](home) > [Abilities](abilities) > Persuasion {.small-text}
 
 Influence others with logic, tact or good nature.
 

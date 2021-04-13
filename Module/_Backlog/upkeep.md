@@ -4,7 +4,7 @@ slug: upkeep
 parent: expenses
 ---
 ### Blank
-[Home](dm-operations-center) > [Expenses](expenses) > Upkeep {.small-text}
+[Home](home) > [Expenses](expenses) > Upkeep {.small-text}
 
 
 

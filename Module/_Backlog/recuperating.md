@@ -4,7 +4,7 @@ slug: recuperating
 parent: life-and-death
 ---
 ### Blank
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Recuperating {.small-text}
+[Home](home) > [Life & Death](life-and-death) > Recuperating {.small-text}
 
 
 

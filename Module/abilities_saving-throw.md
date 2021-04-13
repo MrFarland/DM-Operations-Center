@@ -4,7 +4,7 @@ slug: saving-throw
 parent: abilities
 ---
 ### Saving Throw
-[Home](dm-operations-center) > [Abilities](abilities) > Saving Throw {.small-text}
+[Home](home) > [Abilities](abilities) > Saving Throw {.small-text}
 
 **Success = [1d20](/roll/1d20) + [Ability Mod](ability-modifier) + ([Prof \*](proficiency-bonus))** ≥ [DC](difficulty-class) {.text-center}
 

@@ -4,7 +4,7 @@ slug: arcana
 parent: abilities
 ---
 ### Arcana
-[Home](dm-operations-center) > [Abilities](abilities) > Arcana {.small-text}
+[Home](home) > [Abilities](abilities) > Arcana {.small-text}
 
 Knowledge of all things magical and the planes.
 

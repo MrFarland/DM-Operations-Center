@@ -4,7 +4,7 @@ slug: foraging
 parent: environment
 ---
 ### Foraging
-[Home](dm-operations-center) > [Environment](environment) > Foraging {.small-text}
+[Home](home) > [Environment](environment) > Foraging {.small-text}
 | Availability | DC |
 |----------|:--:|
 | Abundant | 10 |
