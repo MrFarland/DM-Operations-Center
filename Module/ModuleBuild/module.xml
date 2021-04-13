@@ -10,7 +10,9 @@
   <page id="e6ec3901-6397-5b16-bcdd-a8d1f1638187" sort="0">
     <name>DM Operations Center</name>
     <slug>dm-operations-center</slug>
-    <content>&lt;h2 id="dm-operations-center"&gt;&lt;a id="dm-operations-center-dm-operations-center"&gt;&lt;/a&gt;&lt;a id="dm-operations-center"&gt;&lt;/a&gt;DM Operations Center&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;em&gt;Preview Release 0.1.0&lt;/em&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
+    <content>&lt;h2 id="dm-operations-center"&gt;&lt;a id="dm-operations-center-dm-operations-center"&gt;&lt;/a&gt;&lt;a id="dm-operations-center"&gt;&lt;/a&gt;DM Operations Center&lt;/h2&gt;
+&lt;p class="small-text"&gt;&lt;em&gt;Preview Release 0.1.0&lt;/em&gt;&lt;/p&gt;
+&lt;div id="menu-container"&gt;
     &lt;a href="abilities"&gt;Abilities&lt;/a&gt;
     &lt;a href="character"&gt;Character&lt;/a&gt;
     &lt;a href="combat"&gt;Combat&lt;/a&gt;
@@ -32,7 +34,7 @@
     <name>Abilities</name>
     <slug>abilities</slug>
     <content>&lt;h2 id="abilities"&gt;&lt;a id="abilities-abilities"&gt;&lt;/a&gt;&lt;a id="abilities"&gt;&lt;/a&gt;Abilities&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Abilities &lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Abilities &lt;/p&gt;
 &lt;h4 id="abilities-2"&gt;&lt;a id="abilities-abilities"&gt;&lt;/a&gt;&lt;a id="abilities"&gt;&lt;/a&gt;Abilities&lt;/h4&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="strength"&gt;Strength&lt;/a&gt;
@@ -84,7 +86,7 @@
     <name>Ability Check</name>
     <slug>ability-check</slug>
     <content>&lt;h3 id="ability-check"&gt;&lt;a id="ability-check-ability-check"&gt;&lt;/a&gt;&lt;a id="ability-check"&gt;&lt;/a&gt;Ability Check&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Ability Check&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Ability Check&lt;/p&gt;
 &lt;p class="text-center"&gt;&lt;strong&gt;Success = &lt;a href="/roll/1d20"&gt;1d20&lt;/a&gt; + &lt;a href="ability-modifier"&gt;Ability&lt;/a&gt; + (&lt;a href="proficiency-bonus"&gt;Prof.&lt;/a&gt;) &amp;#x2265; &lt;a href="difficulty-class"&gt;DC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In special circumstances a creature may have &lt;a href="advantage-disadvantage"&gt;advantage or disadvantage&lt;/a&gt; on the roll.&lt;/p&gt;
 &lt;p class="small-text"&gt;&lt;em&gt;&lt;strong&gt;*&lt;/strong&gt; The character must be &lt;a href="proficiency-bonus"&gt;proficient&lt;/a&gt; in the skill in order to add their &lt;a href="proficiency-bonus"&gt;proficiency bonus&lt;/a&gt; to the roll.&lt;/em&gt;&lt;/p&gt;
@@ -98,7 +100,7 @@ Player&amp;#x2019;s Handbook, p. 174&lt;/p&gt;
     <name>Ability Modifiers</name>
     <slug>ability-modifiers</slug>
     <content>&lt;h3 id="ability-modifiers"&gt;&lt;a id="ability-modifiers-ability-modifiers"&gt;&lt;/a&gt;&lt;a id="ability-modifiers"&gt;&lt;/a&gt;Ability Modifiers&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Ability Modifiers&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Ability Modifiers&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -174,7 +176,7 @@ Player&amp;#x2019;s Handbook, p. 13, 173&lt;/p&gt;
     <name>Acrobatics</name>
     <slug>acrobatics</slug>
     <content>&lt;h3 id="acrobatics"&gt;&lt;a id="acrobatics-acrobatics"&gt;&lt;/a&gt;&lt;a id="acrobatics"&gt;&lt;/a&gt;Acrobatics&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Acrobatics&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Acrobatics&lt;/p&gt;
 &lt;p&gt;Acrobatics measures the ability to maintain balance, tumble, and perform tricks in the air.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -192,7 +194,7 @@ Player&amp;#x2019;s Handbook, p. 176&lt;/p&gt;
     <name>Advantage &amp; Disadvantage</name>
     <slug>advantage-and-disadvantage</slug>
     <content>&lt;h3 id="advantage-%26-disadvantage"&gt;&lt;a id="advantage-and-disadvantage-advantage-and-disadvantage"&gt;&lt;/a&gt;&lt;a id="advantage-and-disadvantage"&gt;&lt;/a&gt;Advantage &amp;amp; Disadvantage&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Advantage &amp;amp; Disadvantage&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Advantage &amp;amp; Disadvantage&lt;/p&gt;
 &lt;table class="gray"&gt;
 &lt;thead&gt;
 &lt;tr&gt;&lt;/tr&gt;
@@ -223,7 +225,7 @@ Player&amp;#x2019;s Handbook, p. 173&lt;/p&gt;
     <name>Alternate Abilities</name>
     <slug>alternate-abilities</slug>
     <content>&lt;h3 id="alternate-abilities"&gt;&lt;a id="alternate-abilities-alternate-abilities"&gt;&lt;/a&gt;&lt;a id="alternate-abilities"&gt;&lt;/a&gt;Alternate Abilities&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Alternate Abilities&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Alternate Abilities&lt;/p&gt;
 &lt;p&gt;Depending on the situation, skills may be paired with alternate abilities from their base ability.&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
@@ -274,7 +276,7 @@ Player&amp;#x2019;s Handbook, p. 175&lt;/p&gt;
     <name>Animal Handling</name>
     <slug>animal-handling</slug>
     <content>&lt;h3 id="animal-handling"&gt;&lt;a id="animal-handling-animal-handling"&gt;&lt;/a&gt;&lt;a id="animal-handling"&gt;&lt;/a&gt;Animal Handling&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Animal Handling&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Animal Handling&lt;/p&gt;
 &lt;p&gt;Ability to interact, control and understand animals.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -293,7 +295,7 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
     <name>Arcana</name>
     <slug>arcana</slug>
     <content>&lt;h3 id="arcana"&gt;&lt;a id="arcana-arcana"&gt;&lt;/a&gt;&lt;a id="arcana"&gt;&lt;/a&gt;Arcana&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Arcana&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Arcana&lt;/p&gt;
 &lt;p&gt;Knowledge of all things magical and the planes.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -311,7 +313,7 @@ Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
     <name>Athletics</name>
     <slug>athletics</slug>
     <content>&lt;h3 id="athletics"&gt;&lt;a id="athletics-athletics"&gt;&lt;/a&gt;&lt;a id="athletics"&gt;&lt;/a&gt;Athletics&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="strength"&gt;Strength&lt;/a&gt; &amp;gt; Athletics&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="strength"&gt;Strength&lt;/a&gt; &amp;gt; Athletics&lt;/p&gt;
 &lt;p&gt;General athletic prowess when running, &lt;a href="jumping"&gt;jumping&lt;/a&gt;, &lt;a href="swimming"&gt;swimming&lt;/a&gt;, and &lt;a href="climbing"&gt;climbing&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -329,7 +331,7 @@ Player&amp;#x2019;s Handbook, p. 175&lt;/p&gt;
     <name>Carry Capacity</name>
     <slug>carry-capacity</slug>
     <content>&lt;h3 id="carry-capacity"&gt;&lt;a id="carry-capacity-carry-capacity"&gt;&lt;/a&gt;&lt;a id="carry-capacity"&gt;&lt;/a&gt;Carry Capacity&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="strength"&gt;Strength&lt;/a&gt; &amp;gt; Carry Capacity&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="strength"&gt;Strength&lt;/a&gt; &amp;gt; Carry Capacity&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -436,7 +438,7 @@ Player&amp;#x2019;s Handbook, p. 176&lt;/p&gt;
     <name>Charisma</name>
     <slug>charisma</slug>
     <content>&lt;h3 id="charisma"&gt;&lt;a id="charisma-charisma"&gt;&lt;/a&gt;&lt;a id="charisma"&gt;&lt;/a&gt;Charisma&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Charisma&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Charisma&lt;/p&gt;
 &lt;p&gt;Charm, confidence, eloquence, and personality&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="ability-check"&gt;Ability Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -461,7 +463,7 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
     <name>Constitution</name>
     <slug>constitution</slug>
     <content>&lt;h3 id="constitution"&gt;&lt;a id="constitution-constitution"&gt;&lt;/a&gt;&lt;a id="constitution"&gt;&lt;/a&gt;Constitution&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Constitution&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Constitution&lt;/p&gt;
 &lt;p&gt;General health, fortitude, and stamina.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
 Constitution skill checks are rare, with &lt;a href="saving-throw"&gt;savings throws&lt;/a&gt; being more common.&lt;/p&gt;
@@ -484,7 +486,7 @@ Player&amp;#x2019;s Handbook, p. 179&lt;/p&gt;
     <name>Contest Check</name>
     <slug>contest-check</slug>
     <content>&lt;h3 id="contest"&gt;&lt;a id="contest-check-contest"&gt;&lt;/a&gt;&lt;a id="contest"&gt;&lt;/a&gt;Contest&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Contest&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Contest&lt;/p&gt;
 &lt;p class="text-center"&gt;&lt;strong&gt;Success = Initiator&amp;#x2019;s Roll &amp;gt; Defender&amp;#x2019;s Roll&lt;/strong&gt;&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
@@ -522,7 +524,7 @@ Player&amp;#x2019;s Handbook, p. 174&lt;/p&gt;
     <name>Deception</name>
     <slug>deception</slug>
     <content>&lt;h3 id="deception"&gt;&lt;a id="deception-deception"&gt;&lt;/a&gt;&lt;a id="deception"&gt;&lt;/a&gt;Deception&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="charisma"&gt;Charisma&lt;/a&gt; &amp;gt; Deception&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="charisma"&gt;Charisma&lt;/a&gt; &amp;gt; Deception&lt;/p&gt;
 &lt;p&gt;Ability to lie or otherwise hide the truth.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -540,7 +542,7 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
     <name>Dexterity</name>
     <slug>dexterity</slug>
     <content>&lt;h3 id="dexterity"&gt;&lt;a id="dexterity-dexterity"&gt;&lt;/a&gt;&lt;a id="dexterity"&gt;&lt;/a&gt;Dexterity&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Dexterity&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Dexterity&lt;/p&gt;
 &lt;p&gt;Balance, agility, and general nimbleness&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="ability-check"&gt;Ability Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -572,7 +574,7 @@ Player&amp;#x2019;s Handbook, p. 176&lt;/p&gt;
     <name>Difficulty Class</name>
     <slug>difficulty-class</slug>
     <content>&lt;h3 id="difficulty-class"&gt;&lt;a id="difficulty-class-difficulty-class"&gt;&lt;/a&gt;&lt;a id="difficulty-class"&gt;&lt;/a&gt;Difficulty Class&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Difficulty Class&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Difficulty Class&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
 &lt;tr&gt;&lt;/tr&gt;
@@ -614,7 +616,7 @@ Player&amp;#x2019;s Handbook, p. 174&lt;/p&gt;
     <name>Group Check</name>
     <slug>group-check</slug>
     <content>&lt;h3 id="group-check"&gt;&lt;a id="group-check-group-check"&gt;&lt;/a&gt;&lt;a id="group-check"&gt;&lt;/a&gt;Group Check&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Group Check&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Group Check&lt;/p&gt;
 &lt;p class="text-center"&gt;&lt;strong&gt;Success = 50% &amp;#x2265; Check &lt;a href="difficulty-class"&gt;DC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Use group checks when multiple characters are trying to do something as a group like:&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -636,7 +638,7 @@ Player&amp;#x2019;s Handbook, p. 175&lt;/p&gt;
     <name>History</name>
     <slug>history</slug>
     <content>&lt;h3 id="history"&gt;&lt;a id="history-history"&gt;&lt;/a&gt;&lt;a id="history"&gt;&lt;/a&gt;History&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="intelligence"&gt;Intelligence&lt;/a&gt; &amp;gt; History&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="intelligence"&gt;Intelligence&lt;/a&gt; &amp;gt; History&lt;/p&gt;
 &lt;p&gt;Knowledge of history, people, and things.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -655,7 +657,7 @@ Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
     <name>Insight</name>
     <slug>insight</slug>
     <content>&lt;h3 id="insight"&gt;&lt;a id="insight-insight"&gt;&lt;/a&gt;&lt;a id="insight"&gt;&lt;/a&gt;Insight&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="wisdom"&gt;Wisdom&lt;/a&gt; &amp;gt; Insight&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="wisdom"&gt;Wisdom&lt;/a&gt; &amp;gt; Insight&lt;/p&gt;
 &lt;p&gt;Ability to determine the true intentions of a creature.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -673,7 +675,7 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
     <name>Intelligence</name>
     <slug>intelligence</slug>
     <content>&lt;h3 id="intelligence"&gt;&lt;a id="intelligence-intelligence"&gt;&lt;/a&gt;&lt;a id="intelligence"&gt;&lt;/a&gt;Intelligence&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Intelligence&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Intelligence&lt;/p&gt;
 &lt;p&gt;Mental acuity, recall, and ability to reason.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="ability-check"&gt;Ability Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -700,7 +702,7 @@ Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
     <name>Intimidation</name>
     <slug>intimidation</slug>
     <content>&lt;h3 id="intimidation"&gt;&lt;a id="intimidation-intimidation"&gt;&lt;/a&gt;&lt;a id="intimidation"&gt;&lt;/a&gt;Intimidation&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="charisma"&gt;Charisma&lt;/a&gt; &amp;gt; Intimidation&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="charisma"&gt;Charisma&lt;/a&gt; &amp;gt; Intimidation&lt;/p&gt;
 &lt;p&gt;Influence others via threat or coercion.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -718,7 +720,7 @@ Player&amp;#x2019;s Handbook, p. 179&lt;/p&gt;
     <name>Investigation</name>
     <slug>investigation</slug>
     <content>&lt;h3 id="investigation"&gt;&lt;a id="investigation-investigation"&gt;&lt;/a&gt;&lt;a id="investigation"&gt;&lt;/a&gt;Investigation&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="intelligence"&gt;Intelligence&lt;/a&gt; &amp;gt; Investigation&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="intelligence"&gt;Intelligence&lt;/a&gt; &amp;gt; Investigation&lt;/p&gt;
 &lt;p&gt;Ability to find clues and make deducations.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -737,7 +739,7 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
     <name>Nature</name>
     <slug>nature</slug>
     <content>&lt;h3 id="nature"&gt;&lt;a id="nature-nature"&gt;&lt;/a&gt;&lt;a id="nature"&gt;&lt;/a&gt;Nature&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Nature&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Nature&lt;/p&gt;
 &lt;p&gt;Knowledge of the world, geography, and creatures.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -755,7 +757,7 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
     <name>Passive Check</name>
     <slug>passive-check</slug>
     <content>&lt;h3 id="passive-check"&gt;&lt;a id="passive-check-passive-check"&gt;&lt;/a&gt;&lt;a id="passive-check"&gt;&lt;/a&gt;Passive Check&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Passive Check&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Passive Check&lt;/p&gt;
 &lt;p class="text-center"&gt;&lt;strong&gt;Success = 10 + &lt;a href="ability-modifier"&gt;Ability Mod&lt;/a&gt;&lt;/strong&gt; &amp;#x2265; &lt;a href="difficulty-class"&gt;DC&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Use passive checks to:&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -778,7 +780,7 @@ Player&amp;#x2019;s Handbook, p. 175&lt;/p&gt;
     <name>Perception</name>
     <slug>perception</slug>
     <content>&lt;h3 id="perception"&gt;&lt;a id="perception-perception"&gt;&lt;/a&gt;&lt;a id="perception"&gt;&lt;/a&gt;Perception&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Perception&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Perception&lt;/p&gt;
 &lt;p&gt;Ability to spot, hear, or otherwise detect something.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -796,7 +798,7 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
     <name>Performance</name>
     <slug>performance</slug>
     <content>&lt;h3 id="performance"&gt;&lt;a id="performance-performance"&gt;&lt;/a&gt;&lt;a id="performance"&gt;&lt;/a&gt;Performance&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Performance&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Performance&lt;/p&gt;
 &lt;p&gt;How well you can entertain an audience.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -814,7 +816,7 @@ Player&amp;#x2019;s Handbook, p. 179&lt;/p&gt;
     <name>Persuasion</name>
     <slug>persuasion</slug>
     <content>&lt;h3 id="persuasion"&gt;&lt;a id="persuasion-persuasion"&gt;&lt;/a&gt;&lt;a id="persuasion"&gt;&lt;/a&gt;Persuasion&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Persuasion&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Persuasion&lt;/p&gt;
 &lt;p&gt;Influence others with logic, tact or good nature.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -832,7 +834,7 @@ Player&amp;#x2019;s Handbook, p. 179&lt;/p&gt;
     <name>Proficiency Bonus</name>
     <slug>proficiency-bonus</slug>
     <content>&lt;h3 id="proficiency-bonus"&gt;&lt;a id="proficiency-bonus-proficiency-bonus"&gt;&lt;/a&gt;&lt;a id="proficiency-bonus"&gt;&lt;/a&gt;Proficiency Bonus&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Proficiency Bonus&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Proficiency Bonus&lt;/p&gt;
 &lt;p&gt;Used in &lt;a href="saving-throw"&gt;saving throws&lt;/a&gt; and &lt;a href="skill-checks"&gt;skill checks&lt;/a&gt;, as well as related &lt;a href="ability-checks"&gt;ability checks&lt;/a&gt; when using &lt;a href="tools"&gt;tools&lt;/a&gt; for which the character is proficient.&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
@@ -923,7 +925,7 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     <name>Push, Drag, Lift</name>
     <slug>push-drag-lift</slug>
     <content>&lt;h3 id="push%2C-drag%2C-lift"&gt;&lt;a id="push-drag-lift-push-drag-lift"&gt;&lt;/a&gt;&lt;a id="push-drag-lift"&gt;&lt;/a&gt;Push, Drag, Lift&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Push, Drag, Lift&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Push, Drag, Lift&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1030,7 +1032,7 @@ Player&amp;#x2019;s Handbook, p. 176&lt;/p&gt;
     <name>Religion</name>
     <slug>religion</slug>
     <content>&lt;h3 id="religion"&gt;&lt;a id="religion-religion"&gt;&lt;/a&gt;&lt;a id="religion"&gt;&lt;/a&gt;Religion&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Religion&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Religion&lt;/p&gt;
 &lt;p&gt;Knowledge of religions, gods, cults, and traditions.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -1049,7 +1051,7 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
     <name>Saving Throw</name>
     <slug>saving-throw</slug>
     <content>&lt;h3 id="saving-throw"&gt;&lt;a id="saving-throw-saving-throw"&gt;&lt;/a&gt;&lt;a id="saving-throw"&gt;&lt;/a&gt;Saving Throw&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Saving Throw&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Saving Throw&lt;/p&gt;
 &lt;p class="text-center"&gt;&lt;strong&gt;Success = &lt;a href="/roll/1d20"&gt;1d20&lt;/a&gt; + &lt;a href="ability-modifier"&gt;Ability Mod&lt;/a&gt; + (&lt;a href="proficiency-bonus"&gt;Prof *&lt;/a&gt;)&lt;/strong&gt; &amp;#x2265; &lt;a href="difficulty-class"&gt;DC&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In special circumstances a creature may have &lt;a href="advantage-disadvantage"&gt;advantage or disadvantage&lt;/a&gt; on the roll.&lt;/p&gt;
 &lt;p class="small-text"&gt;&lt;em&gt;&lt;strong&gt;*&lt;/strong&gt; The character must be &lt;a href="proficiency-bonus"&gt;proficient&lt;/a&gt; in the saving throw in order to add their &lt;a href="proficiency-bonus"&gt;proficiency bonus&lt;/a&gt; to the roll.&lt;/em&gt;&lt;/p&gt;
@@ -1115,7 +1117,7 @@ Player&amp;#x2019;s Handbook, p. 45&lt;/p&gt;
     <name>Sleight of Hand</name>
     <slug>sleight-of-hand</slug>
     <content>&lt;h3 id="sleight-of-hand"&gt;&lt;a id="sleight-of-hand-sleight-of-hand"&gt;&lt;/a&gt;&lt;a id="sleight-of-hand"&gt;&lt;/a&gt;Sleight of Hand&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Sleight of Hand&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Sleight of Hand&lt;/p&gt;
 &lt;p&gt;Perform manual trickery without being detected.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -1133,7 +1135,7 @@ Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
     <name>Stealth</name>
     <slug>stealth</slug>
     <content>&lt;h3 id="stealth"&gt;&lt;a id="stealth-stealth"&gt;&lt;/a&gt;&lt;a id="stealth"&gt;&lt;/a&gt;Stealth&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Sleight of Hand&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Sleight of Hand&lt;/p&gt;
 &lt;p&gt;Ability to move and hide without being detected&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -1151,7 +1153,7 @@ Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
     <name>Strength</name>
     <slug>strength</slug>
     <content>&lt;h3 id="strength"&gt;&lt;a id="strength-strength"&gt;&lt;/a&gt;&lt;a id="strength"&gt;&lt;/a&gt;Strength&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Strength&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Strength&lt;/p&gt;
 &lt;p&gt;Athletic training and raw physical power.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="ability-check"&gt;Ability Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -1182,7 +1184,7 @@ Player&amp;#x2019;s Handbook, p. 175&lt;/p&gt;
     <name>Survival</name>
     <slug>survival</slug>
     <content>&lt;h3 id="survival"&gt;&lt;a id="survival-survival"&gt;&lt;/a&gt;&lt;a id="survival"&gt;&lt;/a&gt;Survival&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Survival&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Survival&lt;/p&gt;
 &lt;p&gt;Ability to survive in the wilderness.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="skill-check"&gt;Skill Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -1201,7 +1203,7 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
     <name>Wisdom</name>
     <slug>wisdom</slug>
     <content>&lt;h3 id="wisdom"&gt;&lt;a id="wisdom-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Wisdom&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Wisdom&lt;/p&gt;
 &lt;p&gt;General awareness, perceptiveness and intuition.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="ability-check"&gt;Ability Checks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -1226,7 +1228,7 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
     <name>Working Together</name>
     <slug>working-together</slug>
     <content>&lt;h3 id="working-together"&gt;&lt;a id="working-together-working-together"&gt;&lt;/a&gt;&lt;a id="working-together"&gt;&lt;/a&gt;Working Together&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Working Together&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Working Together&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;PC leading the activity has &lt;a href="advantage-disadvantage"&gt;advantage&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Assistance must be practical for the task.&lt;/li&gt;
@@ -1243,7 +1245,7 @@ Player&amp;#x2019;s Handbook, p. 174&lt;/p&gt;
     <name>Advancement</name>
     <slug>advancement</slug>
     <content>&lt;h3 id="advancement"&gt;&lt;a id="advancement-advancement"&gt;&lt;/a&gt;&lt;a id="advancement"&gt;&lt;/a&gt;Advancement&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="character"&gt;Character&lt;/a&gt; &amp;gt; Advancement&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="character"&gt;Character&lt;/a&gt; &amp;gt; Advancement&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1337,7 +1339,7 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     <name>Character</name>
     <slug>character</slug>
     <content>&lt;h2 id="character"&gt;&lt;a id="character-character"&gt;&lt;/a&gt;&lt;a id="character"&gt;&lt;/a&gt;Character&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Character&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Character&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="advancement"&gt;Advancement&lt;/a&gt;
     &lt;a href="alignment"&gt;Alignment&lt;/a&gt;
@@ -1352,7 +1354,7 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     <name>Combat</name>
     <slug>combat</slug>
     <content>&lt;h2 id="combat"&gt;&lt;a id="combat-combat"&gt;&lt;/a&gt;&lt;a id="combat"&gt;&lt;/a&gt;Combat&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Combat&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Combat&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="action"&gt;Action&lt;/a&gt;
     &lt;a href="bonus-action"&gt;Bonus Action&lt;/a&gt;
@@ -1377,7 +1379,7 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     <name>Conditions</name>
     <slug>conditions</slug>
     <content>&lt;h2 id="conditions"&gt;&lt;a id="conditions-conditions"&gt;&lt;/a&gt;&lt;a id="conditions"&gt;&lt;/a&gt;Conditions&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Conditions&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Conditions&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="blinded"&gt;Blinded&lt;/a&gt;
     &lt;a href="cursed"&gt;Cursed*&lt;/a&gt;
@@ -1408,7 +1410,7 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     <name>Downtime</name>
     <slug>downtime</slug>
     <content>&lt;h2 id="downtime"&gt;&lt;a id="downtime-downtime"&gt;&lt;/a&gt;&lt;a id="downtime"&gt;&lt;/a&gt;Downtime&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Downtime&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Downtime&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="brewing-potions"&gt;Brewing Potions&lt;/a&gt;
     &lt;a href="buying-magical-items"&gt;Buying&lt;br&gt; Magical Items&lt;/a&gt;
@@ -1428,7 +1430,7 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     <name>Encounters</name>
     <slug>encounters</slug>
     <content>&lt;h2 id="encounters"&gt;&lt;a id="encounters-encounters"&gt;&lt;/a&gt;&lt;a id="encounters"&gt;&lt;/a&gt;Encounters&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Encounters&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Encounters&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="arctic-encounters"&gt;Arctic&lt;/a&gt;
     &lt;a href="coastal-encounters"&gt;Coastal&lt;/a&gt;
@@ -1447,7 +1449,7 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     <name>Environment</name>
     <slug>environment</slug>
     <content>&lt;h2 id="environment"&gt;&lt;a id="environment-environment"&gt;&lt;/a&gt;&lt;a id="environment"&gt;&lt;/a&gt;Environment&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Environment&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Environment&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="avalanche-and-rock-slides"&gt;Avalanche &amp;amp; Rock Slide&lt;/a&gt;
     &lt;a href="link"&gt;Blue&lt;br&gt; Holes&lt;/a&gt;
@@ -1485,7 +1487,7 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     <name>Expenses</name>
     <slug>expenses</slug>
     <content>&lt;h2 id="expenses"&gt;&lt;a id="expenses-expenses"&gt;&lt;/a&gt;&lt;a id="expenses"&gt;&lt;/a&gt;Expenses&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Expenses&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Expenses&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="food-drink"&gt;Food &amp;amp; Drink&lt;/a&gt;
     &lt;a href="lifestyle-expenses"&gt;Lifestyle&lt;br&gt; Expenses&lt;/a&gt;
@@ -1499,7 +1501,7 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     <name>Items</name>
     <slug>items</slug>
     <content>&lt;h2 id="items"&gt;&lt;a id="items-items"&gt;&lt;/a&gt;&lt;a id="items"&gt;&lt;/a&gt;Items&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Items&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Items&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="adventuring-gear"&gt;Adventuring Gear&lt;/a&gt;
     &lt;a href="ammunition"&gt;Ammunition&lt;/a&gt;
@@ -1526,7 +1528,7 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     <name>Life &amp; Death</name>
     <slug>life-and-death</slug>
     <content>&lt;h2 id="life-%26-death"&gt;&lt;a id="life-and-death-life-and-death"&gt;&lt;/a&gt;&lt;a id="life-and-death"&gt;&lt;/a&gt;Life &amp;amp; Death&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Life &amp;amp; Death&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Life &amp;amp; Death&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="death-savings-throws"&gt;Death Saving Throws&lt;/a&gt;
     &lt;a href="healing-magic"&gt;Healing Magic&lt;/a&gt;
@@ -1546,7 +1548,7 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     <name>Movement</name>
     <slug>movement</slug>
     <content>&lt;h2 id="movement"&gt;&lt;a id="movement-movement"&gt;&lt;/a&gt;&lt;a id="movement"&gt;&lt;/a&gt;Movement&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Movement&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Movement&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="link"&gt;Climbing&lt;/a&gt;
     &lt;a href="link"&gt;Crawling&lt;/a&gt;
@@ -1563,7 +1565,7 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     <name>Spellcasting</name>
     <slug>spellcasting</slug>
     <content>&lt;h2 id="spellcasting"&gt;&lt;a id="spellcasting-spellcasting"&gt;&lt;/a&gt;&lt;a id="spellcasting"&gt;&lt;/a&gt;Spellcasting&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Spellcasting&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Spellcasting&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="area-of-effect"&gt;Area of&lt;br&gt; Effect&lt;/a&gt;
     &lt;a href="casting-time"&gt;Casting&lt;br&gt; Time&lt;/a&gt;
@@ -1587,7 +1589,7 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     <name>Concentration</name>
     <slug>concentration</slug>
     <content>&lt;h3 id="concentration"&gt;&lt;a id="concentration-concentration"&gt;&lt;/a&gt;&lt;a id="concentration"&gt;&lt;/a&gt;Concentration&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Concentration&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Concentration&lt;/p&gt;
 &lt;p&gt;A caster loses &lt;strong&gt;concentration&lt;/strong&gt; when they:&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;cast another concentration spell,&lt;/li&gt;
@@ -1605,7 +1607,7 @@ Player&amp;#x2019;s Handbook, p. 203&lt;/p&gt;
     <name>Worldbuilding</name>
     <slug>worldbuilding</slug>
     <content>&lt;h2 id="worldbuilding"&gt;&lt;a id="worldbuilding-worldbuilding"&gt;&lt;/a&gt;&lt;a id="worldbuilding"&gt;&lt;/a&gt;Worldbuilding&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Worldbuilding&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Worldbuilding&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="character-name-generator"&gt;NPC Names&lt;/a&gt;
 &lt;/div&gt;</content>
@@ -1614,7 +1616,7 @@ Player&amp;#x2019;s Handbook, p. 203&lt;/p&gt;
     <name>Character Name Generator</name>
     <slug>character-name-generator</slug>
     <content>&lt;h3 id="character-name-generator"&gt;&lt;a id="character-name-generator-character-name-generator"&gt;&lt;/a&gt;&lt;a id="character-name-generator"&gt;&lt;/a&gt;Character Name Generator&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="worldbuilding"&gt;Worldbuilding&lt;/a&gt; &amp;gt; Character Name Generator&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="worldbuilding"&gt;Worldbuilding&lt;/a&gt; &amp;gt; Character Name Generator&lt;/p&gt;
 &lt;p&gt;Use the following generator to quickly generate a few names based on the character&amp;apos;s race (or culture) and gender identity.&lt;/p&gt;
 &lt;div style="margin-bottom:15px; text-align:center;"&gt;
     &lt;select id="selectRace"&gt;
