@@ -2,7 +2,6 @@
 name: Nature
 slug: nature
 parent: abilities
-include-in: all
 ---
 ### Nature
 [Home](home) > [Abilities](abilities) > Nature {.small-text}

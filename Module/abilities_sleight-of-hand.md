@@ -2,7 +2,6 @@
 name: Sleight of Hand
 slug: sleight-of-hand
 parent: abilities
-include-in: all
 ---
 ### Sleight of Hand
 [Home](home) > [Abilities](abilities) > Sleight of Hand {.small-text}

@@ -2,7 +2,6 @@
 name: Intelligence
 slug: intelligence
 parent: abilities
-include-in: all
 ---
 ### Intelligence
 [Home](home) > [Abilities](abilities) > Intelligence {.small-text}

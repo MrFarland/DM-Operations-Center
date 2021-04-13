@@ -2,7 +2,6 @@
 name: History
 slug: history
 parent: abilities
-include-in: all
 ---
 ### History
 [Home](home) > [Abilities](abilities) > [Intelligence](intelligence) > History {.small-text}

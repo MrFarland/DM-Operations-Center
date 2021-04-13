@@ -2,7 +2,6 @@
 name: Animal Handling
 slug: animal-handling
 parent: abilities
-include-in: all
 ---
 ### Animal Handling
 [Home](home) > [Abilities](abilities) > Animal Handling {.small-text}

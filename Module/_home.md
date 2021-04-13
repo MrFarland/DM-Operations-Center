@@ -19,5 +19,8 @@ module-pagebreaks: h1, h2
     <a href="items">Items</a>
     <a href="movement">Movement</a>
     <a href="spellcasting">Spellcasting</a>
-    <a href="world">World</a>
+    <a href="worldbuilding">Worldbuilding</a>
+    <a href=".">-</a>
+    <a href=".">-</a>
+    <a href=".">-</a>
 </div>

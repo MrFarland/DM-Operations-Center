@@ -2,7 +2,6 @@
 name: Deception
 slug: deception
 parent: abilities
-include-in: all
 ---
 ### Deception
 [Home](home) > [Abilities](abilities) > [Charisma](charisma) > Deception {.small-text}

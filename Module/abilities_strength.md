@@ -2,7 +2,6 @@
 name: Strength
 slug: strength
 parent: abilities
-include-in: all
 ---
 ### Strength
 [Home](home) > [Abilities](abilities) > Strength {.small-text}

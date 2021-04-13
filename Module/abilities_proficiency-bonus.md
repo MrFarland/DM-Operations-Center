@@ -2,7 +2,6 @@
 name: Proficiency Bonus
 slug: proficiency-bonus
 parent: abilities
-include-in: all
 ---
 ### Proficiency Bonus
 [Home](home) > [Abilities](abilities) > Proficiency Bonus {.small-text}

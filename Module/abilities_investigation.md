@@ -2,7 +2,6 @@
 name: Investigation
 slug: investigation
 parent: abilities
-include-in: all
 ---
 ### Investigation
 [Home](home) > [Abilities](abilities) > [Intelligence](intelligence) > Investigation {.small-text}

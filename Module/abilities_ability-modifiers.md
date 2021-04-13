@@ -2,7 +2,6 @@
 name: Ability Modifiers
 slug: ability-modifiers
 parent: abilities
-include-in: all
 ---
 ### Ability Modifiers
 [Home](home) > [Abilities](abilities) > Ability Modifiers {.small-text}

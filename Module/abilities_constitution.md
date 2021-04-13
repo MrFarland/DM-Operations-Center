@@ -2,7 +2,6 @@
 name: Constitution
 slug: constitution
 parent: abilities
-include-in: all
 ---
 ### Constitution
 [Home](home) > [Abilities](abilities) > Constitution {.small-text}

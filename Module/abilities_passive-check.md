@@ -2,7 +2,6 @@
 name: Passive Check
 slug: passive-check
 parent: abilities
-include-in: all
 ---
 ### Passive Check
 [Home](home) > [Abilities](abilities) > Passive Check {.small-text}

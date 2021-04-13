@@ -2,7 +2,6 @@
 name: Insight
 slug: insight
 parent: abilities
-include-in: all
 ---
 ### Insight
 [Home](home) > [Abilities](abilities) > [Wisdom](wisdom) > Insight {.small-text}

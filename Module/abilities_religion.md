@@ -2,7 +2,6 @@
 name: Religion
 slug: religion
 parent: abilities
-include-in: all
 ---
 ### Religion
 [Home](home) > [Abilities](abilities) > Religion {.small-text}

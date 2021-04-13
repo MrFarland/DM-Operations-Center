@@ -2,7 +2,6 @@
 name: Advantage & Disadvantage
 slug: advantage-and-disadvantage
 parent: abilities
-include-in: all
 ---
 ### Advantage & Disadvantage
 [Home](home) > [Abilities](abilities) > Advantage & Disadvantage {.small-text}

@@ -2,7 +2,6 @@
 name: Saving Throw
 slug: saving-throw
 parent: abilities
-include-in: all
 ---
 ### Saving Throw
 [Home](home) > [Abilities](abilities) > Saving Throw {.small-text}

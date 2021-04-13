@@ -2,7 +2,6 @@
 name: Ability Check
 slug: ability-check
 parent: abilities
-include-in: all
 ---
 ### Ability Check
 [Home](home) > [Abilities](abilities) > Ability Check {.small-text}

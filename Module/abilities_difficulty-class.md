@@ -2,7 +2,6 @@
 name: Difficulty Class
 slug: difficulty-class
 parent: abilities
-include-in: all
 ---
 ### Difficulty Class
 [Home](home) > [Abilities](abilities) > Difficulty Class {.small-text}

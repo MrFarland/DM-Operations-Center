@@ -2,7 +2,6 @@
 name: Persuasion
 slug: persuasion
 parent: abilities
-include-in: all
 ---
 ### Persuasion
 [Home](home) > [Abilities](abilities) > Persuasion {.small-text}

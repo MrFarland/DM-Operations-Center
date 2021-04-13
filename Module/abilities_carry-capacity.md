@@ -2,7 +2,6 @@
 name: Carry Capacity
 slug: carry-capacity
 parent: abilities
-include-in: all
 ---
 ### Carry Capacity
 [Home](home) > [Abilities](abilities) > [Strength](strength) > Carry Capacity {.small-text}

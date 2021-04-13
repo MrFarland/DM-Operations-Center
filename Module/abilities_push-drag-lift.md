@@ -2,7 +2,6 @@
 name: Push, Drag, Lift
 slug: push-drag-lift
 parent: abilities
-include-in: all
 ---
 ### Push, Drag, Lift
 [Home](home) > [Abilities](abilities) > Push, Drag, Lift {.small-text}

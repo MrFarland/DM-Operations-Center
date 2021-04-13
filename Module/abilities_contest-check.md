@@ -2,7 +2,6 @@
 name: Contest Check
 slug: contest-check
 parent: abilities
-include-in: all
 ---
 ### Contest
 [Home](home) > [Abilities](abilities) > Contest {.small-text}

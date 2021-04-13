@@ -2,7 +2,6 @@
 name: Arcana
 slug: arcana
 parent: abilities
-include-in: all
 ---
 ### Arcana
 [Home](home) > [Abilities](abilities) > Arcana {.small-text}

@@ -2,7 +2,6 @@
 name: Perception
 slug: perception
 parent: abilities
-include-in: all
 ---
 ### Perception
 [Home](home) > [Abilities](abilities) > Perception {.small-text}

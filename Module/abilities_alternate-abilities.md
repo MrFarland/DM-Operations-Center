@@ -2,7 +2,6 @@
 name: Alternate Abilities
 slug: alternate-abilities
 parent: abilities
-include-in: all
 ---
 ### Alternate Abilities
 [Home](home) > [Abilities](abilities) > Alternate Abilities {.small-text}

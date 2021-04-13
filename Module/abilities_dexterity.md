@@ -2,7 +2,6 @@
 name: Dexterity
 slug: dexterity
 parent: abilities
-include-in: all
 ---
 ### Dexterity
 [Home](home) > [Abilities](abilities) > Dexterity {.small-text}

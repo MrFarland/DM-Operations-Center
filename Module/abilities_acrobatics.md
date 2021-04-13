@@ -2,7 +2,6 @@
 name: Acrobatics
 slug: acrobatics
 parent: abilities
-include-in: all
 ---
 ### Acrobatics
 [Home](home) > [Abilities](abilities) > Acrobatics {.small-text}

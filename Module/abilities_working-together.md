@@ -2,7 +2,6 @@
 name: Working Together
 slug: working-together
 parent: abilities
-include-in: all
 ---
 ### Working Together
 [Home](home) > [Abilities](abilities) > Working Together {.small-text}

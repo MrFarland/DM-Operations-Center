@@ -2,7 +2,6 @@
 name: Wisdom
 slug: wisdom
 parent: abilities
-include-in: all
 ---
 ### Wisdom
 [Home](home) > [Abilities](abilities) > Wisdom {.small-text}

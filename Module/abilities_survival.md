@@ -2,7 +2,6 @@
 name: Survival
 slug: survival
 parent: abilities
-include-in: all
 ---
 ### Survival
 [Home](home) > [Abilities](abilities) > Survival {.small-text}

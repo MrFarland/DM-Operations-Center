@@ -2,7 +2,6 @@
 name: Intimidation
 slug: intimidation
 parent: abilities
-include-in: all
 ---
 ### Intimidation
 [Home](home) > [Abilities](abilities) > [Charisma](charisma) > Intimidation {.small-text}

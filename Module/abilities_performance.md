@@ -2,7 +2,6 @@
 name: Performance
 slug: performance
 parent: abilities
-include-in: all
 ---
 ### Performance
 [Home](home) > [Abilities](abilities) > Performance {.small-text}

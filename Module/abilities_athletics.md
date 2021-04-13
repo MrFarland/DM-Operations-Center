@@ -2,7 +2,6 @@
 name: Athletics
 slug: athletics
 parent: abilities
-include-in: all
 ---
 ### Athletics
 [Home](home) > [Abilities](abilities) > [Strength](strength) > Athletics {.small-text}

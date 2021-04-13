@@ -2,7 +2,6 @@
 name: Group Check
 slug: group-check
 parent: abilities
-include-in: all
 ---
 ### Group Check
 [Home](home) > [Abilities](abilities) > Group Check {.small-text}

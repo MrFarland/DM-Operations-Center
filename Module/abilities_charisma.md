@@ -2,7 +2,6 @@
 name: Charisma
 slug: charisma
 parent: abilities
-include-in: all
 ---
 ### Charisma
 [Home](home) > [Abilities](abilities) > Charisma {.small-text}
