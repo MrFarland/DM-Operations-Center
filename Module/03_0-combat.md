@@ -1,7 +1,7 @@
 ---
 name: Combat
 slug: combat
-order: 10
+order: 03
 module-pagebreaks: h1, h2, h3, h4
 ---
 ## Combat

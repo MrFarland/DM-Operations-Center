@@ -1,7 +1,7 @@
 ---
 name: Spellcasting
 slug: spellcasting
-order: 10
+order: 12
 module-pagebreaks: h1, h2, h3, h4
 ---
 ## Spellcasting

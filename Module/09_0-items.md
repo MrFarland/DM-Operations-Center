@@ -1,7 +1,7 @@
 ---
 name: Items
 slug: items
-order: 10
+order: 09
 module-pagebreaks: h1, h2, h3, h4
 ---
 ## Items

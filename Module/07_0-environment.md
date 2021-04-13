@@ -1,7 +1,7 @@
 ---
 name: Environment
 slug: environment
-order: 10
+order: 07
 module-pagebreaks: h1, h2, h3, h4
 ---
 ## Environment
@@ -34,7 +34,12 @@ module-pagebreaks: h1, h2, h3, h4
     <a href="link">Weather</a>
 </div>
 
-
+<div id="menu-container">
+    <a href="food-water">Food & Water</a>
+    <a href="foraging">Foraging</a>
+    <a href="sleep">Sleep</a>
+    <a href="tracking">Tracking</a>
+</div>
 
 ### Avalanche / Rock Slide
 [Home](home) > [Environment](environment) > Avalanche / Rock Slide {.small-text}

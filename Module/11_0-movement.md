@@ -1,7 +1,7 @@
 ---
 name: Movement
 slug: movement
-order: 10
+order: 11
 module-pagebreaks: h1, h2, h3, h4
 ---
 ## Movement

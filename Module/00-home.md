@@ -2,6 +2,7 @@
 name: Home
 slug: home
 order: 00
+module-pagebreaks: h1, h2
 ---
 ## DM Operations Center
 *Preview Release 0.1.0* {.small-text}
@@ -25,3 +26,5 @@ order: 00
 <div id="menu-container">
     <a href="character-name-generator">NPC Names</a>
 </div>
+
+

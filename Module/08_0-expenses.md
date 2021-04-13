@@ -1,7 +1,7 @@
 ---
 name: Expenses
 slug: expenses
-order: 10
+order: 08
 module-pagebreaks: h1, h2, h3, h4
 ---
 ## Expenses

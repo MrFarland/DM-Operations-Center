@@ -11,12 +11,10 @@
     <name>Generators</name>
     <slug>generators</slug>
   </group>
-  <page id="691547e4-6c44-5325-9655-dcd1a91cacc1" sort="0">
-    <name>Home</name>
-    <slug>home</slug>
-    <content>&lt;h2 id="dm-operations-center"&gt;&lt;a id="home-dm-operations-center"&gt;&lt;/a&gt;&lt;a id="dm-operations-center"&gt;&lt;/a&gt;DM Operations Center&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;em&gt;Preview Release 0.1.0&lt;/em&gt;&lt;/p&gt;
-&lt;div id="menu-container"&gt;
+  <page id="e6ec3901-6397-5b16-bcdd-a8d1f1638187" sort="0">
+    <name>DM Operations Center</name>
+    <slug>dm-operations-center</slug>
+    <content>&lt;h2 id="dm-operations-center"&gt;&lt;a id="dm-operations-center-dm-operations-center"&gt;&lt;/a&gt;&lt;a id="dm-operations-center"&gt;&lt;/a&gt;DM Operations Center&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;em&gt;Preview Release 0.1.0&lt;/em&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
     &lt;a href="abilities"&gt;Abilities&lt;/a&gt;
     &lt;a href="character"&gt;Character&lt;/a&gt;
     &lt;a href="combat"&gt;Combat&lt;/a&gt;
@@ -28,15 +26,11 @@
     &lt;a href="items"&gt;Items&lt;/a&gt;
     &lt;a href="movement"&gt;Movement&lt;/a&gt;
     &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;p&gt;&lt;strong&gt;Generators&lt;/strong&gt;&lt;/p&gt;
-&lt;div id="menu-container"&gt;
+&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Generators&lt;/strong&gt;&lt;/p&gt;&lt;div id="menu-container"&gt;
     &lt;a href="character-name-generator"&gt;NPC Names&lt;/a&gt;
-&lt;/div&gt;
-</content>
+&lt;/div&gt;</content>
   </page>
-  <page id="d5ba4333-a186-53e6-b389-543d9f21f561" sort="10">
+  <page id="d5ba4333-a186-53e6-b389-543d9f21f561" sort="1">
     <name>Abilities</name>
     <slug>abilities</slug>
     <content>&lt;h2 id="abilities"&gt;&lt;a id="abilities-abilities"&gt;&lt;/a&gt;&lt;a id="abilities"&gt;&lt;/a&gt;Abilities&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Abilities &lt;/p&gt;&lt;div id="menu-container"&gt;
@@ -1044,7 +1038,7 @@ Player&amp;#x2019;s Handbook, p. 174&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="ad1f02a9-57e5-5ee9-8a9f-b4fe56f697c3" sort="10">
+  <page id="ad1f02a9-57e5-5ee9-8a9f-b4fe56f697c3" sort="2">
     <name>Character</name>
     <slug>character</slug>
     <content>&lt;h2 id="character"&gt;&lt;a id="character-character"&gt;&lt;/a&gt;&lt;a id="character"&gt;&lt;/a&gt;Character&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Character&lt;/p&gt;&lt;div id="menu-container"&gt;
@@ -1381,7 +1375,7 @@ Player&amp;#x2019;s Handbook, p. 143&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="4ea8357c-70bf-5e52-8ed2-8a3fab816b91" sort="10">
+  <page id="4ea8357c-70bf-5e52-8ed2-8a3fab816b91" sort="3">
     <name>Combat</name>
     <slug>combat</slug>
     <content>&lt;h2 id="combat"&gt;&lt;a id="combat-combat"&gt;&lt;/a&gt;&lt;a id="combat"&gt;&lt;/a&gt;Combat&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Combat&lt;/p&gt;&lt;div id="menu-container"&gt;
@@ -1665,7 +1659,7 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="2e5061d8-871b-53bb-b7c7-80ed942b1a30" sort="10">
+  <page id="2e5061d8-871b-53bb-b7c7-80ed942b1a30" sort="4">
     <name>Conditions</name>
     <slug>conditions</slug>
     <content>&lt;h2 id="conditions"&gt;&lt;a id="conditions-conditions"&gt;&lt;/a&gt;&lt;a id="conditions"&gt;&lt;/a&gt;Conditions&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Conditions&lt;/p&gt;&lt;div id="menu-container"&gt;
@@ -2170,12 +2164,14 @@ Player&amp;#x2019;s Handbook, p. 292&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="233c2908-81c9-5d78-b291-ad3fa5386cb3" sort="10">
+  <page id="233c2908-81c9-5d78-b291-ad3fa5386cb3" sort="5">
     <name>Downtime</name>
     <slug>downtime</slug>
-    <content>&lt;h2 id="downtime"&gt;&lt;a id="downtime-downtime"&gt;&lt;/a&gt;&lt;a id="downtime"&gt;&lt;/a&gt;Downtime&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Downtime&lt;/p&gt;&lt;div id="menu-container"&gt;
+    <content>&lt;h2 id="downtime"&gt;&lt;a id="downtime-downtime"&gt;&lt;/a&gt;&lt;a id="downtime"&gt;&lt;/a&gt;Downtime&lt;/h2&gt;
+&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Downtime&lt;/p&gt;
+&lt;div id="menu-container"&gt;
     &lt;a href="brewing-potions"&gt;Brewing Potions&lt;/a&gt;
-    &lt;a href="buying-magic-items"&gt;Buying&lt;br&gt; Magic Items&lt;/a&gt;
+    &lt;a href="buying-magical-items"&gt;Buying&lt;br&gt; Magical Items&lt;/a&gt;
     &lt;a href="carousing"&gt;Carousing&lt;/a&gt;
     &lt;a href="crafting-items"&gt;Crafting&lt;br&gt; Items&lt;/a&gt;
     &lt;a href="crime"&gt;Crime&lt;/a&gt;
@@ -2188,46 +2184,85 @@ Player&amp;#x2019;s Handbook, p. 292&lt;/p&gt;
     &lt;a href="training"&gt;Training&lt;/a&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="59058f88-6bbc-5600-bdfb-c3f7737dcb53" sort="0" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+  <page id="d8982e23-8497-5b8a-ad7e-f4fa86d33643" sort="5" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Brewing Potions</name>
+    <slug>brewing-potions</slug>
+    <content>&lt;h3 id="brewing-potions"&gt;&lt;a id="brewing-potions-brewing-potions"&gt;&lt;/a&gt;&lt;a id="brewing-potions"&gt;&lt;/a&gt;Brewing Potions&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Brewing Potions&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="39b1bbb4-d8d2-507c-82ab-d876e3156cf4" sort="5" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Buying Magical Items</name>
+    <slug>buying-magical-items</slug>
+    <content>&lt;h3 id="buying-magical-items"&gt;&lt;a id="buying-magical-items-buying-magical-items"&gt;&lt;/a&gt;&lt;a id="buying-magical-items"&gt;&lt;/a&gt;Buying Magical items&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Buying Magical items&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="59058f88-6bbc-5600-bdfb-c3f7737dcb53" sort="5" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
     <name>Carousing</name>
     <slug>carousing</slug>
-    <content>&lt;h3 id="carousing"&gt;&lt;a id="carousing-carousing"&gt;&lt;/a&gt;&lt;a id="carousing"&gt;&lt;/a&gt;Carousing&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Carousing&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+    <content>&lt;h3 id="carousing"&gt;&lt;a id="carousing-carousing"&gt;&lt;/a&gt;&lt;a id="carousing"&gt;&lt;/a&gt;Carousing&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Carousing&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="33da68e6-8f7e-53fc-888b-c245f010adef" sort="1" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+  <page id="33da68e6-8f7e-53fc-888b-c245f010adef" sort="5" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
     <name>Crafting Items</name>
     <slug>crafting-items</slug>
-    <content>&lt;h3 id="crafting-items"&gt;&lt;a id="crafting-items-crafting-items"&gt;&lt;/a&gt;&lt;a id="crafting-items"&gt;&lt;/a&gt;Crafting Items&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Crafting Items&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+    <content>&lt;h3 id="crafting-items"&gt;&lt;a id="crafting-items-crafting-items"&gt;&lt;/a&gt;&lt;a id="crafting-items"&gt;&lt;/a&gt;Crafting Items&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Crafting Items&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="49151648-ba24-5e36-9d82-f4c7d456cec6" sort="2" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
-    <name>Crime</name>
-    <slug>crime</slug>
-    <content>&lt;h3 id="crime"&gt;&lt;a id="crime-crime"&gt;&lt;/a&gt;&lt;a id="crime"&gt;&lt;/a&gt;Crime&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Crime&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+  <page id="afc904d0-ec2c-52e6-bb6e-64765eddd62e" sort="5" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Criminal Activity</name>
+    <slug>criminal-activity</slug>
+    <content>&lt;h3 id="criminal-activity"&gt;&lt;a id="criminal-activity-criminal-activity"&gt;&lt;/a&gt;&lt;a id="criminal-activity"&gt;&lt;/a&gt;Criminal Activity&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Criminal Activity&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="a7737cdb-af8c-5f7a-995e-712ebf70443e" sort="3" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+  <page id="a7737cdb-af8c-5f7a-995e-712ebf70443e" sort="5" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
     <name>Enchanting Items</name>
     <slug>enchanting-items</slug>
-    <content>&lt;h3 id="enchanting-items"&gt;&lt;a id="enchanting-items-enchanting-items"&gt;&lt;/a&gt;&lt;a id="enchanting-items"&gt;&lt;/a&gt;Enchanting Items&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Enchanting Items&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+    <content>&lt;h3 id="enchanting-items"&gt;&lt;a id="enchanting-items-enchanting-items"&gt;&lt;/a&gt;&lt;a id="enchanting-items"&gt;&lt;/a&gt;Enchanting Items&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Enchanting Items&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="e7653548-104e-547c-8127-af1eef7b4712" sort="4" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+  <page id="e7653548-104e-547c-8127-af1eef7b4712" sort="5" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
     <name>Gambling</name>
     <slug>gambling</slug>
-    <content>&lt;h3 id="gambling"&gt;&lt;a id="gambling-gambling"&gt;&lt;/a&gt;&lt;a id="gambling"&gt;&lt;/a&gt;Gambling&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Gambling&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+    <content>&lt;h3 id="gambling"&gt;&lt;a id="gambling-gambling"&gt;&lt;/a&gt;&lt;a id="gambling"&gt;&lt;/a&gt;Gambling&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Gambling&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2236,81 +2271,64 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
   <page id="07eac368-736a-52d0-8a4a-1629bef08721" sort="5" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
     <name>Pit Fighting</name>
     <slug>pit-fighting</slug>
-    <content>&lt;h3 id="pit-fighting"&gt;&lt;a id="pit-fighting-pit-fighting"&gt;&lt;/a&gt;&lt;a id="pit-fighting"&gt;&lt;/a&gt;Pit Fighting&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Pit Fighting&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+    <content>&lt;h3 id="pit-fighting"&gt;&lt;a id="pit-fighting-pit-fighting"&gt;&lt;/a&gt;&lt;a id="pit-fighting"&gt;&lt;/a&gt;Pit Fighting&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Pit Fighting&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="c7ac67bc-b5af-5c52-a067-cc3001c896da" sort="6" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+  <page id="c7ac67bc-b5af-5c52-a067-cc3001c896da" sort="5" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
     <name>Practicing Profession</name>
     <slug>practicing-profession</slug>
-    <content>&lt;h3 id="practicing-profession"&gt;&lt;a id="practicing-profession-practicing-profession"&gt;&lt;/a&gt;&lt;a id="practicing-profession"&gt;&lt;/a&gt;Practicing Profession&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Practicing Profession&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+    <content>&lt;h3 id="practicing-profession"&gt;&lt;a id="practicing-profession-practicing-profession"&gt;&lt;/a&gt;&lt;a id="practicing-profession"&gt;&lt;/a&gt;Practicing Profession&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Practicing Profession&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="1c12f79d-11cd-562b-a324-fafcb229712c" sort="7" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+  <page id="1c12f79d-11cd-562b-a324-fafcb229712c" sort="5" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
     <name>Religious Service</name>
     <slug>religious-service</slug>
-    <content>&lt;h3 id="religious-service"&gt;&lt;a id="religious-service-religious-service"&gt;&lt;/a&gt;&lt;a id="religious-service"&gt;&lt;/a&gt;Religious Service&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Religious Service&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+    <content>&lt;h3 id="religious-service"&gt;&lt;a id="religious-service-religious-service"&gt;&lt;/a&gt;&lt;a id="religious-service"&gt;&lt;/a&gt;Religious Service&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Religious Service&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="b99d13bd-09b7-54e1-b896-683a36ef8bae" sort="8" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+  <page id="b99d13bd-09b7-54e1-b896-683a36ef8bae" sort="5" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
     <name>Researching</name>
     <slug>researching</slug>
-    <content>&lt;h3 id="researching"&gt;&lt;a id="researching-researching"&gt;&lt;/a&gt;&lt;a id="researching"&gt;&lt;/a&gt;Researching&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Researching&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+    <content>&lt;h3 id="researching"&gt;&lt;a id="researching-researching"&gt;&lt;/a&gt;&lt;a id="researching"&gt;&lt;/a&gt;Researching&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Researching&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="58a33505-252f-5b90-bdda-da17c5da24d2" sort="9" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
-    <name>Long Rest</name>
-    <slug>long-rest</slug>
-    <content>&lt;h3 id="long-rest"&gt;&lt;a id="long-rest-long-rest"&gt;&lt;/a&gt;&lt;a id="long-rest"&gt;&lt;/a&gt;Long Rest&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Long Rest&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;8 Hours&lt;/strong&gt;&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;Minimum of 6 hours of &lt;a href="sleeping"&gt;sleep&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;No more than 2 hours of light activity.&lt;/li&gt;
-&lt;li&gt;Must start over if interrupted &amp;gt; 1 hour.&lt;/li&gt;
-&lt;li&gt;Allowed only 1 long rest in 24H period.&lt;/li&gt;
-&lt;li&gt;Must have 1 &lt;a href="hit-points"&gt;HP&lt;/a&gt; to benefit from long rest.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Upon completion:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;Regain all &lt;a href="hit-points"&gt;HP&lt;/a&gt; up to character&amp;#x2019;s maximum.&lt;/li&gt;
-&lt;li&gt;Regain spent &lt;a href="hit-dice"&gt;HD&lt;/a&gt; = 1/2 character level.&lt;/li&gt;
-&lt;/ul&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 186&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="b9964122-b2ff-5545-afa5-061be38d06fd" sort="10" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
-    <name>Short Rest</name>
-    <slug>short-rest</slug>
-    <content>&lt;h3 id="short-rest"&gt;&lt;a id="short-rest-short-rest"&gt;&lt;/a&gt;&lt;a id="short-rest"&gt;&lt;/a&gt;Short Rest&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Short Rest&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;1 Hour&lt;/strong&gt;&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;Minimum of 1 hour of light activity.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Upon completion:&lt;/strong&gt;&lt;/p&gt;&lt;ul class="square"&gt;
-&lt;li&gt;May use &lt;a href="hit-dice"&gt;Hit Dice&lt;/a&gt; equal to character level.&lt;/li&gt;
-&lt;li&gt;Restore &lt;a href="hit-points"&gt;HP&lt;/a&gt; = &lt;a href="hit-dice"&gt;HD&lt;/a&gt; + &lt;a href="constitution"&gt;CON&lt;/a&gt; modifier per die.&lt;/li&gt;
-&lt;/ul&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 186&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="7a66a3ff-fd67-58b1-9699-cac27ad79698" sort="11" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+  <page id="7a66a3ff-fd67-58b1-9699-cac27ad79698" sort="5" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
     <name>Training</name>
     <slug>training</slug>
-    <content>&lt;h3 id="training"&gt;&lt;a id="training-training"&gt;&lt;/a&gt;&lt;a id="training"&gt;&lt;/a&gt;Training&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Training&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+    <content>&lt;h3 id="training"&gt;&lt;a id="training-training"&gt;&lt;/a&gt;&lt;a id="training"&gt;&lt;/a&gt;Training&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Training&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152" sort="10">
+  <page id="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152" sort="6">
     <name>Encounters</name>
     <slug>encounters</slug>
     <content>&lt;h2 id="encounters"&gt;&lt;a id="encounters-encounters"&gt;&lt;/a&gt;&lt;a id="encounters"&gt;&lt;/a&gt;Encounters&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Encounters&lt;/p&gt;&lt;div id="menu-container"&gt;
@@ -2943,7 +2961,7 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="b98b2811-89d6-532a-b4e6-31f0ed603a09" sort="10">
+  <page id="b98b2811-89d6-532a-b4e6-31f0ed603a09" sort="7">
     <name>Environment</name>
     <slug>environment</slug>
     <content>&lt;h2 id="environment"&gt;&lt;a id="environment-environment"&gt;&lt;/a&gt;&lt;a id="environment"&gt;&lt;/a&gt;Environment&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Environment&lt;/p&gt;&lt;div id="menu-container"&gt;
@@ -2971,6 +2989,11 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
     &lt;a href="spells-as-hazards"&gt;Spells as Hazards&lt;/a&gt;
     &lt;a href="link"&gt;Strong&lt;br&gt; Wind&lt;/a&gt;
     &lt;a href="link"&gt;Weather&lt;/a&gt;
+&lt;/div&gt;&lt;div id="menu-container"&gt;
+    &lt;a href="food-water"&gt;Food &amp;amp; Water&lt;/a&gt;
+    &lt;a href="foraging"&gt;Foraging&lt;/a&gt;
+    &lt;a href="sleep"&gt;Sleep&lt;/a&gt;
+    &lt;a href="tracking"&gt;Tracking&lt;/a&gt;
 &lt;/div&gt;</content>
   </page>
   <page id="1c59ec5b-45d2-521f-8b52-31624105553a" sort="0" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
@@ -3517,7 +3540,7 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="2575d579-2813-523a-a94b-53bd2cb5bc4b" sort="10">
+  <page id="2575d579-2813-523a-a94b-53bd2cb5bc4b" sort="08">
     <name>Expenses</name>
     <slug>expenses</slug>
     <content>&lt;h2 id="expenses"&gt;&lt;a id="expenses-expenses"&gt;&lt;/a&gt;&lt;a id="expenses"&gt;&lt;/a&gt;Expenses&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Expenses&lt;/p&gt;&lt;div id="menu-container"&gt;
@@ -3583,7 +3606,7 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="30e846d8-ee62-5bda-a139-3185f861729f" sort="10">
+  <page id="30e846d8-ee62-5bda-a139-3185f861729f" sort="09">
     <name>Items</name>
     <slug>items</slug>
     <content>&lt;h2 id="items"&gt;&lt;a id="items-items"&gt;&lt;/a&gt;&lt;a id="items"&gt;&lt;/a&gt;Items&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Items&lt;/p&gt;&lt;div id="menu-container"&gt;
@@ -3895,7 +3918,39 @@ Player&amp;#x2019;s Handbook, p. 198&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="6fcaabe9-874f-5d17-aec2-58e97be7d2f2" sort="10">
+  <page id="58a33505-252f-5b90-bdda-da17c5da24d2" sort="4" parent="ea1e3714-4a15-5fe3-a9a4-28ac697ae3bf">
+    <name>Long Rest</name>
+    <slug>long-rest</slug>
+    <content>&lt;h3 id="long-rest"&gt;&lt;a id="long-rest-long-rest"&gt;&lt;/a&gt;&lt;a id="long-rest"&gt;&lt;/a&gt;Long Rest&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Long Rest&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;8 Hours&lt;/strong&gt;&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;Minimum of 6 hours of &lt;a href="sleeping"&gt;sleep&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;No more than 2 hours of light activity.&lt;/li&gt;
+&lt;li&gt;Must start over if interrupted &amp;gt; 1 hour.&lt;/li&gt;
+&lt;li&gt;Allowed only 1 long rest in 24H period.&lt;/li&gt;
+&lt;li&gt;Must have 1 &lt;a href="hit-points"&gt;HP&lt;/a&gt; to benefit from long rest.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Upon completion:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Regain all &lt;a href="hit-points"&gt;HP&lt;/a&gt; up to character&amp;#x2019;s maximum.&lt;/li&gt;
+&lt;li&gt;Regain spent &lt;a href="hit-dice"&gt;HD&lt;/a&gt; = 1/2 character level.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 186&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="b9964122-b2ff-5545-afa5-061be38d06fd" sort="5" parent="ea1e3714-4a15-5fe3-a9a4-28ac697ae3bf">
+    <name>Short Rest</name>
+    <slug>short-rest</slug>
+    <content>&lt;h3 id="short-rest"&gt;&lt;a id="short-rest-short-rest"&gt;&lt;/a&gt;&lt;a id="short-rest"&gt;&lt;/a&gt;Short Rest&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Short Rest&lt;/p&gt;&lt;p class="text-center"&gt;&lt;strong&gt;1 Hour&lt;/strong&gt;&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;Minimum of 1 hour of light activity.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Upon completion:&lt;/strong&gt;&lt;/p&gt;&lt;ul class="square"&gt;
+&lt;li&gt;May use &lt;a href="hit-dice"&gt;Hit Dice&lt;/a&gt; equal to character level.&lt;/li&gt;
+&lt;li&gt;Restore &lt;a href="hit-points"&gt;HP&lt;/a&gt; = &lt;a href="hit-dice"&gt;HD&lt;/a&gt; + &lt;a href="constitution"&gt;CON&lt;/a&gt; modifier per die.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 186&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="6fcaabe9-874f-5d17-aec2-58e97be7d2f2" sort="11">
     <name>Movement</name>
     <slug>movement</slug>
     <content>&lt;h2 id="movement"&gt;&lt;a id="movement-movement"&gt;&lt;/a&gt;&lt;a id="movement"&gt;&lt;/a&gt;Movement&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Movement&lt;/p&gt;&lt;div id="menu-container"&gt;
@@ -3991,7 +4046,7 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3" sort="10">
+  <page id="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3" sort="12">
     <name>Spellcasting</name>
     <slug>spellcasting</slug>
     <content>&lt;h2 id="spellcasting"&gt;&lt;a id="spellcasting-spellcasting"&gt;&lt;/a&gt;&lt;a id="spellcasting"&gt;&lt;/a&gt;Spellcasting&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Spellcasting&lt;/p&gt;&lt;div id="menu-container"&gt;
@@ -4139,40 +4194,6 @@ Player&amp;#x2019;s Handbook, p. 201&lt;/p&gt;
     <content>&lt;h3 id="spell-targets"&gt;&lt;a id="spell-targets-spell-targets"&gt;&lt;/a&gt;&lt;a id="spell-targets"&gt;&lt;/a&gt;Spell Targets&lt;/h3&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Spell Targets&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. 204&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="4c968a91-8ca3-5daa-99f7-f84731c59ab7" sort="10">
-    <name>Survival</name>
-    <slug>survival-1</slug>
-    <content>&lt;h2 id="survival"&gt;&lt;a id="survival-1-survival"&gt;&lt;/a&gt;&lt;a id="survival"&gt;&lt;/a&gt;Survival&lt;/h2&gt;&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; Survival&lt;/p&gt;&lt;div id="menu-container"&gt;
-    &lt;a href="food-water"&gt;Food &amp;amp; Water&lt;/a&gt;
-    &lt;a href="foraging"&gt;Foraging&lt;/a&gt;
-    &lt;a href="sleep"&gt;Sleep&lt;/a&gt;
-    &lt;a href="tracking"&gt;Tracking&lt;/a&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="d8982e23-8497-5b8a-ad7e-f4fa86d33643" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
-    <name>Brewing Potions</name>
-    <slug>brewing-potions</slug>
-    <content>&lt;h3 id="brewing-potions"&gt;&lt;a id="brewing-potions-brewing-potions"&gt;&lt;/a&gt;&lt;a id="brewing-potions"&gt;&lt;/a&gt;Brewing Potions&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Brewing Potions&lt;/p&gt;
-&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="39b1bbb4-d8d2-507c-82ab-d876e3156cf4" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
-    <name>Buying Magical Items</name>
-    <slug>buying-magical-items</slug>
-    <content>&lt;h3 id="buying-magic-items"&gt;&lt;a id="buying-magical-items-buying-magic-items"&gt;&lt;/a&gt;&lt;a id="buying-magic-items"&gt;&lt;/a&gt;Buying Magic items&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="home"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Buying Magic items&lt;/p&gt;
-&lt;p class="text-center"&gt;&lt;strong&gt;COMING SOON&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>

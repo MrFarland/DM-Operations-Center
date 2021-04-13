@@ -1,7 +1,7 @@
 ---
 name: Conditions
 slug: conditions
-order: 10
+order: 04
 module-pagebreaks: h1, h2, h3, h4
 ---
 ## Conditions

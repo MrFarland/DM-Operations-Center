@@ -2,6 +2,7 @@
 name: Brewing Potions
 slug: brewing-potions
 parent: downtime
+order: 05
 ---
 ### Brewing Potions
 [Home](home) > [Downtime](downtime) > Brewing Potions {.small-text}

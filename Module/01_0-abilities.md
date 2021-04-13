@@ -1,7 +1,7 @@
 ---
 name: Abilities
 slug: abilities
-order: 10
+order: 01
 module-pagebreaks: h1, h2, h3, h4
 ---
 ## Abilities

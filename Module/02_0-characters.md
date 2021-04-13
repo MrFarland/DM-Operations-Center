@@ -1,7 +1,7 @@
 ---
 name: Character
 slug: character
-order: 10
+order: 02
 module-pagebreaks: h1, h2, h3, h4
 ---
 ## Character

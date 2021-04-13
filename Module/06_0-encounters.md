@@ -1,7 +1,7 @@
 ---
 name: Encounters
 slug: encounters
-order: 10
+order: 06
 module-pagebreaks: h1, h2, h3, h4
 ---
 ## Encounters
