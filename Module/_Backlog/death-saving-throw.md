@@ -4,7 +4,7 @@ slug: death-saving-throw
 parent: life-and-death
 ---
 ### Death Savings Throw
-[Home](home) > [Life & Death](life-and-death) > Death Savings Throw {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death) > Death Savings Throw {.small-text}
 
 A creature that starts it's turn with 0 [hit points](hit-points) and has **NOT** been [stabilized](stabilized) is dying and must make a **death savings throw**.
 

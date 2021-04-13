@@ -4,7 +4,7 @@ slug: climbing
 parent: movement
 ---
 ### Climbing
-[Home](home) > [Movement](movement) > Climbing {.small-text}
+[Home](dm-operations-center) > [Movement](movement) > Climbing {.small-text}
 
 **COMING SOON** {.text-center}
 

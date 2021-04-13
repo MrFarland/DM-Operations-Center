@@ -4,7 +4,7 @@ slug: survival
 parent: abilities
 ---
 ### Survival
-[Home](home) > [Abilities](abilities) > Survival {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Survival {.small-text}
 
 Ability to survive in the wilderness.
 

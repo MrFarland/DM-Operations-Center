@@ -4,5 +4,5 @@ slug: grassland-encounters
 parent: encounters
 ---
 ### Grassland Encounters
-[Home](home) > [Encounters](encounters) > Grassland Encounters {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters) > Grassland Encounters {.small-text}
 

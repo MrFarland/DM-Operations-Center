@@ -4,7 +4,7 @@ slug: treasure
 parent: items
 ---
 ### Treasure
-[Home](home) > [Items](items) > Treasure {.small-text}
+[Home](dm-operations-center) > [Items](items) > Treasure {.small-text}
 
 
 

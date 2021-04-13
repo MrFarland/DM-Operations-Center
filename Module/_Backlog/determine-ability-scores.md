@@ -1,5 +1,5 @@
 ### Determine Abilities
-[Home](home) > [Character](character) > Determine Abilities {.small-text}
+[Home](dm-operations-center) > [Character](character) > Determine Abilities {.small-text}
 
 **Rolling**<br/>
 Roll [4d6](/roll/4d6) and drop the lowest die and repeat 5 more times to generate an array of 6 scores

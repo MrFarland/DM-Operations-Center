@@ -4,7 +4,7 @@ slug: magical-items
 parent: items
 ---
 ### Blank
-[Home](home) > [Items](items) > Magical Items {.small-text}
+[Home](dm-operations-center) > [Items](items) > Magical Items {.small-text}
 
 
 

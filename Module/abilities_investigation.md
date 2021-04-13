@@ -4,7 +4,7 @@ slug: investigation
 parent: abilities
 ---
 ### Investigation
-[Home](home) > [Abilities](abilities) > [Intelligence](intelligence) > Investigation {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Intelligence](intelligence) > Investigation {.small-text}
 
 Ability to find clues and make deducations.
 

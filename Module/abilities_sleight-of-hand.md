@@ -4,7 +4,7 @@ slug: sleight-of-hand
 parent: abilities
 ---
 ### Sleight of Hand
-[Home](home) > [Abilities](abilities) > Sleight of Hand {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Sleight of Hand {.small-text}
 
 Perform manual trickery without being detected.
 

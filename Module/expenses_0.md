@@ -4,7 +4,7 @@ slug: expenses
 order: 08
 ---
 ## Expenses
-[Home](home) > Expenses {.small-text}
+[Home](dm-operations-center) > Expenses {.small-text}
 
 <div id="menu-container">
     <a href="food-drink">Food & Drink</a>

@@ -4,7 +4,7 @@ slug: lodging
 parent: expenses
 ---
 ### Lodging
-[Home](home) > [Expenses](expenses) > Lodging {.small-text}
+[Home](dm-operations-center) > [Expenses](expenses) > Lodging {.small-text}
 
 
 

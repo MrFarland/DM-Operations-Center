@@ -4,7 +4,7 @@ slug: crafting-items
 parent: downtime
 ---
 ### Crafting Items
-[Home](home) > [Downtime](downtime) > Crafting Items {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime) > Crafting Items {.small-text}
 
 **COMING SOON** {.text-center}
 

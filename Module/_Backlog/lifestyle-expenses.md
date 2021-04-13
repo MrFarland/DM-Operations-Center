@@ -4,7 +4,7 @@ slug: lifestyle-expenses
 parent: expenses
 ---
 ### Lifestyle Expenses
-[Home](home) > [Expenses](expenses) > Lifestyle Expenses {.small-text}
+[Home](dm-operations-center) > [Expenses](expenses) > Lifestyle Expenses {.small-text}
 
 
 

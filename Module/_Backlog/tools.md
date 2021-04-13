@@ -4,7 +4,7 @@ slug: tools
 parent: items
 ---
 ### Tools
-[Home](home) > [Items](items) > Tools {.small-text}
+[Home](dm-operations-center) > [Items](items) > Tools {.small-text}
 
 
 

@@ -4,7 +4,7 @@ slug: items
 order: 09
 ---
 ## Items
-[Home](home) > Items {.small-text}
+[Home](dm-operations-center) > Items {.small-text}
 
 <div id="menu-container">
     <a href="adventuring-gear">Adventuring Gear</a>

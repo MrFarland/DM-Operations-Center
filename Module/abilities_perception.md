@@ -4,7 +4,7 @@ slug: perception
 parent: abilities
 ---
 ### Perception
-[Home](home) > [Abilities](abilities) > Perception {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Perception {.small-text}
 
 Ability to spot, hear, or otherwise detect something.
 
