@@ -4,7 +4,7 @@ slug: contest-check
 parent: abilities
 ---
 ### Contest
-[Home](home) > [Abilities](abilities) > Contest {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Contest {.small-text}
 
 **Success = Initiator's Roll > Defender's Roll** {.text-center}
 

@@ -4,7 +4,7 @@ slug: gambling
 parent: downtime
 ---
 ### Gambling
-[Home](home) > [Downtime](downtime) > Gambling {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime) > Gambling {.small-text}
 
 **COMING SOON** {.text-center}
 

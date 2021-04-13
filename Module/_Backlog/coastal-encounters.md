@@ -4,5 +4,5 @@ slug: coastal-encounters
 parent: encounters
 ---
 ### Coastal Encounters
-[Home](home) > [Encounters](encounters) > Coastal Encounters {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters) > Coastal Encounters {.small-text}
 

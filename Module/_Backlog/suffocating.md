@@ -4,7 +4,7 @@ slug: suffocating
 parent: conditions
 ---
 ### Suffocating
-[Home](home) > [Conditions](conditions) > Suffocating {.small-text}
+[Home](dm-operations-center) > [Conditions](conditions) > Suffocating {.small-text}
 
 **COMING SOON** {.text-center}
 

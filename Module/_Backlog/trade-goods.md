@@ -4,7 +4,7 @@ slug: trade-goods
 parent: items
 ---
 ### Trade Goods
-[Home](home) > [Items](items) > Trade Goods {.small-text}
+[Home](dm-operations-center) > [Items](items) > Trade Goods {.small-text}
 
 
 

@@ -4,7 +4,7 @@ slug: prone
 parent: conditions
 ---
 ### Prone
- [Home](home) > [Conditions](conditions) > Prone {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions) > Prone {.small-text}
 - Only movement option is to [crawl](crawling).
 - [Disadvantage](advantage-disadvantage) on all attack rolls.
 - Ranged attacks against have [disadv.](disadvantage).

@@ -4,7 +4,7 @@ slug: coins
 parent: items
 ---
 ### Coins
-[Home](home) > [Items](items) > Coins {.small-text}
+[Home](dm-operations-center) > [Items](items) > Coins {.small-text}
 
 
 

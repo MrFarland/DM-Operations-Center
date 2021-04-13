@@ -4,7 +4,7 @@ slug: researching
 parent: downtime
 ---
 ### Researching
-[Home](home) > [Downtime](downtime) > Researching {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime) > Researching {.small-text}
 
 **COMING SOON** {.text-center}
 

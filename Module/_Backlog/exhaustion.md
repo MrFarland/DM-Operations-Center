@@ -4,7 +4,7 @@ slug: exhaustion
 parent: conditions
 ---
 ### Exhaustion
-[Home](home) > [Conditions](conditions) > Exhaustion {.small-text}
+[Home](dm-operations-center) > [Conditions](conditions) > Exhaustion {.small-text}
 
 |||
 |:---:|:--------------------------------|

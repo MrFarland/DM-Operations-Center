@@ -4,7 +4,7 @@ slug: restrained
 parent: conditions
 ---
 ### Restrained
- [Home](home) > [Conditions](conditions) > Restrained {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions) > Restrained {.small-text}
 
 - The creature's speed is 0.
 - Cannot benefit from any bonus to speed.

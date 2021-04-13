@@ -4,7 +4,7 @@ slug: stabilizing
 parent: life-and-death
 ---
 ### Blank
-[Home](home) > [Life & Death](life-and-death) > Stabilizing {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death) > Stabilizing {.small-text}
 
 
 

@@ -4,7 +4,7 @@ slug: armor-properties
 parent: items
 ---
 ### Armor Properties
-[Home](home) > [Items](items) > Armor Properties {.small-text}
+[Home](dm-operations-center) > [Items](items) > Armor Properties {.small-text}
 
 
 

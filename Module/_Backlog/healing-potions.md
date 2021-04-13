@@ -4,7 +4,7 @@ slug: healing-potions
 parent: life-and-death
 ---
 ### Blank
-[Home](home) > [Life & Death](life-and-death) > Healing Potions {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death) > Healing Potions {.small-text}
 
 
 

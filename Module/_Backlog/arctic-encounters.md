@@ -4,5 +4,5 @@ slug: arctic-encounters
 parent: encounters
 ---
 ### Arctic Encounters
-[Home](home) > [Encounters](encounters) > Arctic Encounters {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters) > Arctic Encounters {.small-text}
 

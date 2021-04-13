@@ -1,8 +1,7 @@
 ---
-name: Home
-slug: home
+name: DM Operations Center
+slug: dm-operations-center
 order: 00
-module-pagebreaks: h1, h2
 ---
 ## DM Operations Center
 *Preview Release 0.1.0* {.small-text}

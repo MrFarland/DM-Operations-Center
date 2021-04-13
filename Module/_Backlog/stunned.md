@@ -4,7 +4,7 @@ slug: stunned
 parent: conditions
 ---
 ### Stunned
- [Home](home) > [Conditions](conditions) > Stunned {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions) > Stunned {.small-text}
 
 - Creature is [incapacitated](incapacitated).
 - Cannot move, but can speak falteringly.

@@ -4,7 +4,7 @@ slug: character-name-generator
 parent: worldbuilding
 ---
 ### Character Name Generator</h3>
-[Home](home) > [Worldbuilding](worldbuilding) > Character Name Generator {.small-text}
+[Home](dm-operations-center) > [Worldbuilding](worldbuilding) > Character Name Generator {.small-text}
 
 <p>Use the following generator to quickly generate a few names based on the character's race (or culture) and gender identity.</p>
 

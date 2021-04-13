@@ -4,7 +4,7 @@ slug: character
 order: 02
 ---
 ## Character
-[Home](home) > Character {.small-text}
+[Home](dm-operations-center) > Character {.small-text}
 
 <div id="menu-container">
     <a href="advancement">Advancement</a>

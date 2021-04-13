@@ -4,7 +4,7 @@ slug: blinded
 parent: conditions
 ---
 ### Blinded
-[Home](home) > [Conditions](conditions) > Blinded {.small-text}
+[Home](dm-operations-center) > [Conditions](conditions) > Blinded {.small-text}
 
 - The creature cannot see.
 - All checks that rely on sight fail.

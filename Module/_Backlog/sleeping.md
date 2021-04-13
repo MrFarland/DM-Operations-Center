@@ -4,7 +4,7 @@ slug: sleeping
 parent: conditions
 ---
 ### Sleeping
-[Home](home) > [Conditions](conditions) > Sleeping {.small-text}
+[Home](dm-operations-center) > [Conditions](conditions) > Sleeping {.small-text}
 
 **COMING SOON** {.text-center}
 

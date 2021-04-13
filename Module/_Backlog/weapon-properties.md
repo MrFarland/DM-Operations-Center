@@ -4,7 +4,7 @@ slug: weapon-properties
 parent: items
 ---
 ### Weapon Properties
-[Home](home) > [Items](items) > Blank {.small-text}
+[Home](dm-operations-center) > [Items](items) > Blank {.small-text}
 
 
 

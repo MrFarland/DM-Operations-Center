@@ -4,7 +4,7 @@ slug: speed
 parent: home
 ---
 ### Speed
-[Home](home) > [Movement](movement) > Speed {.small-text}
+[Home](dm-operations-center) > [Movement](movement) > Speed {.small-text}
 
 **COMING SOON** {.text-center}
 

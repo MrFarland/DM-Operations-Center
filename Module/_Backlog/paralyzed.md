@@ -4,7 +4,7 @@ slug: paralyzed
 parent: conditions
 ---
 ### Paralyzed
- [Home](home) > [Conditions](conditions) > Paralyzed {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions) > Paralyzed {.small-text}
 
 - Creature is [incapacitated](incapacitated).
 - Can not move or speak.

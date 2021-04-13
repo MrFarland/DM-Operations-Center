@@ -4,7 +4,7 @@ slug: indefinite-madness
 parent: conditions
 ---
 ### Indefinite Madness
- [Home](home) > [Conditions](conditions) > Indefinite {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions) > Indefinite {.small-text}
 
 **Duration = Until Cured** {.text-center}
 

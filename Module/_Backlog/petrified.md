@@ -4,7 +4,7 @@ slug: petrified
 parent: conditions
 ---
 ### Petrified
- [Home](home) > [Conditions](conditions) > Petrified {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions) > Petrified {.small-text}
 
 - Transformed into a solid substance.
 - Mundane items are transformed too.

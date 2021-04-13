@@ -4,7 +4,7 @@ slug: insight
 parent: abilities
 ---
 ### Insight
-[Home](home) > [Abilities](abilities) > [Wisdom](wisdom) > Insight {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Wisdom](wisdom) > Insight {.small-text}
 
 Ability to determine the true intentions of a creature.
 

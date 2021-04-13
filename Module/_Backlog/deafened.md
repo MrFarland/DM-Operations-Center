@@ -4,7 +4,7 @@ slug: deafened
 parent: conditions
 ---
 ### Deafened
-[Home](home) > [Conditions](conditions) > Deafened {.small-text}
+[Home](dm-operations-center) > [Conditions](conditions) > Deafened {.small-text}
 
 - The creature cannot hear.
 - All checks based on hearing fail.

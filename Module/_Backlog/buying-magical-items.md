@@ -4,7 +4,7 @@ slug: buying-magical-items
 parent: downtime
 ---
 ### Buying Magical items
-[Home](home) > [Downtime](downtime) > Buying Magical items {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime) > Buying Magical items {.small-text}
 
 **COMING SOON** {.text-center}
 

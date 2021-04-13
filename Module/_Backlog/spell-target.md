@@ -4,7 +4,7 @@ slug: spell-target
 parent: spellcasting
 ---
 ### Spell Target
-[Home](home) > [Spellcasting](spellcasting) > Spell Target {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Target {.small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. 204

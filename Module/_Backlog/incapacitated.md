@@ -4,7 +4,7 @@ slug: incapacitated
 parent: conditions
 ---
  ### Incapacitated
- [Home](home) > [Conditions](conditions) > Incapacitated {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions) > Incapacitated {.small-text}
 
  - Cannot take any actions or reactions.
  {.square}

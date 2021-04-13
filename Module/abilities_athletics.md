@@ -4,7 +4,7 @@ slug: athletics
 parent: abilities
 ---
 ### Athletics
-[Home](home) > [Abilities](abilities) > [Strength](strength) > Athletics {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Strength](strength) > Athletics {.small-text}
 
 General athletic prowess when running, [jumping](jumping), [swimming](swimming), and [climbing](climbing).
 

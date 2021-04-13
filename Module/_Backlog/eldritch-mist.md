@@ -4,7 +4,7 @@ slug: eldritch-mist
 parent: environment
 ---
 ### Eldritch Mist
-[Home](home) > [Environment](environment) > Eldritch Mist {.small-text}
+[Home](dm-operations-center) > [Environment](environment) > Eldritch Mist {.small-text}
 
 
 

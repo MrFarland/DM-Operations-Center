@@ -4,5 +4,5 @@ slug: condition
 parent: combat
 ---
 ### Condition
-[Home](home) > [Combat](combat) > Condition {.small-text}
+[Home](dm-operations-center) > [Combat](combat) > Condition {.small-text}
 

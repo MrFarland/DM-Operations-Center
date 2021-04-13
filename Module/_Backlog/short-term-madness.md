@@ -4,7 +4,7 @@ slug: short-term-madness
 parent: conditions
 ---
 ### Short Term Madness
- [Home](home) > [Conditions](conditions) > Short Term Madness {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions) > Short Term Madness {.small-text}
 
 **Duration = [1d10](/roll/1d10) minutes** {.text-center}
 

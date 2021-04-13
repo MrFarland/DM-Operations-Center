@@ -4,7 +4,7 @@ slug: deception
 parent: abilities
 ---
 ### Deception
-[Home](home) > [Abilities](abilities) > [Charisma](charisma) > Deception {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Charisma](charisma) > Deception {.small-text}
 
 Ability to lie or otherwise hide the truth.
 

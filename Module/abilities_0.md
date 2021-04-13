@@ -4,7 +4,7 @@ slug: abilities
 order: 01
 ---
 ## Abilities
-[Home](home) > Abilities  {.small-text}
+[Home](dm-operations-center) > Abilities  {.small-text}
 
 #### Abilities
 <div id="menu-container">
