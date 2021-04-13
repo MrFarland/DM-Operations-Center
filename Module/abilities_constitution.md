@@ -1,6 +1,6 @@
 ---
-name: Ability Check
-slug: ability-check
+name: Constitution
+slug: constitution
 parent: abilities
 include-in: all
 ---

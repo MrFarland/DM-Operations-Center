@@ -1,6 +1,6 @@
 ---
-name: Ability Check
-slug: ability-check
+name: Contest Check
+slug: contest-check
 parent: abilities
 include-in: all
 ---

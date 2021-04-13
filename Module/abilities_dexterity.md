@@ -1,6 +1,6 @@
 ---
-name: Ability Check
-slug: ability-check
+name: Dexterity
+slug: dexterity
 parent: abilities
 include-in: all
 ---

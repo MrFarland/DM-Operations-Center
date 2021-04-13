@@ -1,6 +1,6 @@
 ---
-name: Ability Check
-slug: ability-check
+name: Charisma
+slug: charisma
 parent: abilities
 include-in: all
 ---
