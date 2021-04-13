@@ -47,6 +47,7 @@
     1. Determine Ability Scores
     1. Height & Weight
     1. Languages
+    1. Multiclassing
     1. Proficiency Bonus
     1. Starting Wealth
 - Combat
