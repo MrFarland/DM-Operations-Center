@@ -4,7 +4,7 @@ slug: armor-class
 parent: dexterity
 ---
 ### Armor Class
-[Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Armor Class {.small-text}
+[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > [Dexterity](dexterity) > Armor Class {.small-text}
 
 A creature's natural armor class is how hard they are to hit when **not** wearing [armor](armor).
 

@@ -1,10 +1,10 @@
 ---
-name: Abilities
-slug: abilities
+name: Abilities & Skills
+slug: abilities-and-skills
 order: 01
 ---
-## Abilities
-[Home](dm-operations-center) > Abilities  {.small-text}
+## Abilities & Skills
+[Home](dm-operations-center) > Abilities & Skills  {.small-text}
 
 #### Abilities
 <div id="menu-container">

@@ -1,10 +1,10 @@
 ---
 name: Acrobatics
 slug: acrobatics
-parent: abilities
+parent: abilities-and-skills
 ---
 ### Acrobatics
-[Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Acrobatics {.small-text}
+[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > [Dexterity](dexterity) > Acrobatics {.small-text}
 
 Acrobatics measures the ability to maintain balance, tumble, and perform tricks in the air.
 

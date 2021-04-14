@@ -1,10 +1,10 @@
 ---
 name: Performance
 slug: performance
-parent: abilities
+parent: abilities-and-skills
 ---
 ### Performance
-[Home](dm-operations-center) > [Abilities](abilities) > [Charisma](charisma) > Performance {.small-text}
+[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > [Charisma](charisma) > Performance {.small-text}
 
 How well you can entertain an audience.
 

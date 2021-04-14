@@ -1,10 +1,10 @@
 ---
 name: Intelligence
 slug: intelligence
-parent: abilities
+parent: abilities-and-skills
 ---
 ### Intelligence
-[Home](dm-operations-center) > [Abilities](abilities) > Intelligence {.small-text}
+[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Intelligence {.small-text}
 
 Mental acuity, recall, and ability to reason.
 

@@ -1,10 +1,10 @@
 ---
 name: Stealth
 slug: stealth
-parent: abilities
+parent: abilities-and-skills
 ---
 ### Stealth
-[Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Sleight of Hand {.small-text}
+[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > [Dexterity](dexterity) > Sleight of Hand {.small-text}
 
 Ability to move and hide without being detected
 

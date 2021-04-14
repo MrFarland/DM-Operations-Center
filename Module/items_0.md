@@ -1,10 +1,10 @@
 ---
-name: Items
-slug: items
+name: Equipment
+slug: equipment
 order: 09
 ---
-## Items
-[Home](dm-operations-center) > Items {.small-text}
+## Equipment
+[Home](dm-operations-center) > Equipment {.small-text}
 
 <div id="menu-container">
     <a href="adventuring-gear">Adventuring Gear</a>
@@ -19,7 +19,6 @@ order: 09
     <a href="magical-items">Magical Items</a>
     <a href="mounts-and-tack">Mounts & Tack</a>
     <a href="musical-intruments">Musical Instruments</a>
-    <a href="object-ac-and-hp">Object<br/> AC & HP</a>
     <a href="trade-goods">Trade<br/> Goods</a>
     <a href="treasure">Treasure</a>
     <a href="tools">Tools</a>

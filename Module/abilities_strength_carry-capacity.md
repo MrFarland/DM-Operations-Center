@@ -1,10 +1,10 @@
 ---
 name: Carry Capacity
 slug: carry-capacity
-parent: abilities
+parent: abilities-and-skills
 ---
 ### Carry Capacity
-[Home](dm-operations-center) > [Abilities](abilities) > [Strength](strength) > Carry Capacity {.small-text}
+[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > [Strength](strength) > Carry Capacity {.small-text}
 
 | Capacity by Creature Size||
 |:-----------|:--------------------|

@@ -1,21 +1,25 @@
 ---
-name: Encounters
-slug: encounters
+name: Encounters & Hooks
+slug: encounters-and-hooks
 order: 06
 ---
-## Encounters
+## Encounters & Hooks
 [Home](dm-operations-center) > Encounters {.small-text}
 
 <div id="menu-container">
-    <a href="arctic-encounters">Arctic</a>
-    <a href="coastal-encounters">Coastal</a>
-    <a href="desert-encounters">Desert</a>
-    <a href="forest-encounters">Forest</a>
-    <a href="grassland-encounters">Grassland</a>
-    <a href="hill-encounters">Hill</a>
-    <a href="mountain-encounters">Mountain</a>
-    <a href="swamp-encounters">Swamp</a>
-    <a href="underdark-encounters">Underdark</a>
-    <a href="underwater-encounters">Underwater</a>
-    <a href="urban-encounters">Urban</a>
+    <a href="combat-encounter">Combat Encounter</a>
+    <a href=".">-</a>
+    <a href="divination">Divination</a>
+    <a href="five-room-dungeon">Five Room Dungeon</a>
+    <a href=".">-</a>
+    <a href=".">-</a>
+    <a href=".">-</a>
+    <a href=".">-</a>
+    <a href="magical-mishap">Magical Mishap</a>
+    <a href="puzzle">Puzzle</a>
+    <a href="tavern-going">Tavern</a>
+    <a href="trap">Trap</a>
+    <a href=".">-</a>
+    <a href=".">-</a>
+    <a href=".">-</a>
 </div>

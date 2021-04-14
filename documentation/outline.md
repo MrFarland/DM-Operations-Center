@@ -117,44 +117,62 @@
     1. Running a Business
     1. Scribing Scolls
     1. Training
-- Encounters
+- Encounters & Hooks
+    1. Combat Encounter
+    1. Five Room Dungeon
+    1. Non-Combat Encounters
+    1. Tavern
+    1. Divinations
+    1. Sailing Ship
+    1. 
+    1. 
+    1. Puzzles
+    1. Traps
+    1. 
+    1. 
+    1. Mishaps
+    1. 
+    1. 
 - Environment
-    1. Avalanches & Rock Slides
     1. Desecrated Ground
     1. Eldritch Mist
-    1. Extreme Cold
-    1. Extreme Heat
     1. Falling
         1. Falling into Water
         1. Falling on a Creature
         1. Flying and Falling
         1. Rate of Falling
-    1. Frigid Water
-    1. Heavy Precipitation
     1. High Altitude
-    1. Ice (Slippery)
-    1. Ice (Thin)
-    1. Light
-    1. Light Sources
+    1. Light & Vision
+        1. Blindsight
+        1. Darkvision
+        1. Light Sources
+        1. Obscurity
+        1. Truesight
+        1. Vision
     1. Magical Phenomena
     1. Magical Storms
-    1. Obscurity
-    1. Ocean
+    1. Spells as Hazards
+    1. Supernatural Regions
+    1. Water Hazards
         1. Blue Holes
         1. Coral Reefs
         1. Currents
+        1. Frigid Water
+        1. Ice
         1. Kelp Forest
         1. Kraken's Grave
         1. Lure Lights
         1. Sandbars
         1. Sapping Snow
-    1. Quicksand
-    1. Razorvine
-    1. Spells as Hazards
-    1. Strong Wind
-    1. Supernatural Regions
-    1. Vision
     1. Weather
+        1. Extreme Cold
+        1. Extreme Heat
+        1. Heavy Precipitation
+        1. Strong Wind
+    1. Wilderness Hazards
+        1. Avalanches & Rock Slides
+        1. Quicksand
+        1. Razorvine
 - Expenses
     1. Food & Drink
     1. Lifestyle Expenses
@@ -171,7 +189,7 @@
     1. ?
     1. ?
     1. ?
-- Items
+- Equipment
     1. Adventuring Gear
     1. Armor
         1. Armor Properties
@@ -245,9 +263,13 @@
     1. 
 - Treasure
     1. Art
+    1. Bag of Holding
+    1. Books
     1. Coins
+    1. Desk Drawer
     1. Gems
     1. Magical Items
+    1. Pickpocket Loot
 - Worldbuilding
 - Unknown
     1. Cursed

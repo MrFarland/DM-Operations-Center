@@ -1,10 +1,10 @@
 ---
 name: Animal Handling
 slug: animal-handling
-parent: abilities
+parent: abilities-and-skills
 ---
 ### Animal Handling
-[Home](dm-operations-center) > [Abilities](abilities) > Animal Handling {.small-text}
+[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Animal Handling {.small-text}
 
 Ability to interact, control and understand animals.
 

@@ -7,7 +7,7 @@ order: 00
 *Preview Release 0.1.0* {.small-text}
 
 <div id="menu-container">
-    <a href="abilities">Abilities</a>
+    <a href="abilities-and-skills">Abilities<br/> & Skills</a>
     <a href="character">Character</a>
     <a href="combat">Combat</a>
     <a href="conditions">Conditions</a>

@@ -1,10 +1,10 @@
 ---
 name: Survival
 slug: survival
-parent: abilities
+parent: abilities-and-skills
 ---
 ### Survival
-[Home](dm-operations-center) > [Abilities](abilities) > Survival {.small-text}
+[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Survival {.small-text}
 
 Ability to survive in the wilderness.
 
