@@ -6,7 +6,6 @@ order: 01
 ## Abilities & Skills
 [Home](dm-operations-center) > Abilities & Skills  {.small-text}
 
-#### Abilities
 <div id="menu-container">
     <a href="strength">Strength</a>
     <a href="dexterity">Dexterity</a>

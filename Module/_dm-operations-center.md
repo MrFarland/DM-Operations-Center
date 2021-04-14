@@ -12,14 +12,14 @@ order: 00
     <a href="combat">Combat</a>
     <a href="conditions-and-effects">Conditions<br/> & Effects</a>
     <a href="downtime">Downtime</a>
-    <a href="encounters-and-hooks">Encounters<br/> & Hooks</a>
-    <a href="environment-and-hazards">Environment & Hazards</a>
-    <a href="expenses">Expenses</a>
-    <a href="items">Items</a>
-    <a href="life-and-death">Life & Death</a>
-    <a href="movement">Movement</a>
+    <a href="encounters-and-events">Encounters<br/> & Events</a>
+    <a href="environment-and-hazards">Environment<br/> & Hazards</a>
+    <a href="equipment">Items</a>
+    <a href="life-and-death">Life &<br/> Death</a>
+    <a href="movement-and-travel">Movement<br/> & Travel</a>
+    <a href="shopping-and-expenses">Shopping &<br/> Expenses</a>
     <a href="spellcasting">Spellcasting</a>
-    <a href="treasure">Treasure</a>
+    <a href="treasure-and-loot">Treasure<br/> & Loot</a>
     <a href="worldbuilding">Worldbuilding</a>
     <a href=".">-</a>
 </div>

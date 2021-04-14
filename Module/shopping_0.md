@@ -1,10 +1,10 @@
 ---
-name: Expenses
-slug: expenses
+name: Shopping & Expenses
+slug: shopping-and-expenses
 order: 08
 ---
-## Expenses
-[Home](dm-operations-center) > Expenses {.small-text}
+## Shopping & Expenses
+[Home](dm-operations-center) > Shopping & Expenses {.small-text}
 
 <div id="menu-container">
     <a href="food-drink">Food & Drink</a>
