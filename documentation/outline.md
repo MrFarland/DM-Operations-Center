@@ -111,8 +111,8 @@
     1. Gambling
     1. Pit Fighting
     1. Practicing a Profession
-    1. Religious Service
     1. Recuperating
+    1. Religious Service
     1. Researching
     1. Running a Business
     1. Scribing Scolls
