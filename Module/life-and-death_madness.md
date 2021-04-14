@@ -8,7 +8,7 @@ parent: life-and-death
 
 Various items, spells, and effects can cause a creature to suffer the effects of madness. The three types of madness are:
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="short-term-madness">Short Term</a>
     <a href="long-term-madness">Long Term</a>
     <a href="indefinite-madness">Indefinite</a>

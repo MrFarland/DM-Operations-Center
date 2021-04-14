@@ -6,7 +6,7 @@ order: 02
 ## Character
 [Home](dm-operations-center) > Character {.small-text}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="advancement">Advancement</a>
     <a href="alignment">Alignment</a>
     <a href="determine-abilities">Determine<br/> Abilities</a>

@@ -8,7 +8,7 @@ parent: environment-and-hazards
 
 **[1d6](/roll/1d6) per 10' and land [prone](prone) - Max [20d6](/roll/20d6)** {.text-center}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="falling-in-water">Falling<br/> in Water</a>
     <a href="falling-on-creatures">Falling on<br/> Creatures</a>
     <a href="flying-falling">Flying & Falling</a>

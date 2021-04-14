@@ -6,7 +6,7 @@ order: 08
 ## Shopping & Expenses
 [Home](dm-operations-center) > Shopping & Expenses {.small-text}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="food-drink">Food & Drink</a>
     <a href="lifestyle-expenses">Lifestyle<br/> Expenses</a>
     <a href="lodging">Lodging</a>

@@ -14,7 +14,7 @@ General awareness, perceptiveness and intuition.
 {.square}
 
 **Skills & Other Abilities**
-<div id="menu-container">
+<div class="menu-container">
     <a href="animal-handling">Animal Handling</a>
     <a href="insight">Insight</a>
     <a href="medicine">Medicine</a>

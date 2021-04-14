@@ -6,7 +6,7 @@ order: 01
 ## Abilities & Skills
 [Home](dm-operations-center) > Abilities & Skills  {.small-text}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="strength">Strength</a>
     <a href="dexterity">Dexterity</a>
     <a href="constitution">Constitution</a>
@@ -15,7 +15,7 @@ order: 01
     <a href="charisma">Charisma</a>
 </div>
 <hr/>
-<div id="menu-container">
+<div class="menu-container">
     <a href="ability-modifiers">Ability<br/> Modifiers</a>
     <a href="advantage-and-disadvantage">Advantage & Disadvantage</a>
     <a href="alternate-abilities">Alternate<br/> Abilities</a>

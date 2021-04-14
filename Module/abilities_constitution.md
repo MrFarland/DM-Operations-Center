@@ -15,7 +15,7 @@ Constitution skill checks are rare, with [savings throws](saving-throw) being mo
 {.square}
 
 **Skills & Other Abilities**
-<div id="menu-container">
+<div class="menu-container">
     <a href="hit-dice">Hit Dice</a>
     <a href="hit-points">Hit Points</a>
 </div>

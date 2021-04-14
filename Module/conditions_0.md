@@ -6,7 +6,7 @@ order: 04
 ## Conditions & Effects
 [Home](dm-operations-center) > Conditions & Effects {.small-text}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="blinded">Blinded</a>
     <a href="deafened">Deafened</a>
     <a href="exhaustion">Exhaustion</a>
@@ -24,7 +24,7 @@ order: 04
     <a href="unconcious">Unconcious</a>
 </div>
 <hr/>
-<div id="menu-container">
+<div class="menu-container">
     <a href="cursed">Cursed</a>
     <a href="diseased">Diseased</a>
     <a href="Madness">Madness</a>

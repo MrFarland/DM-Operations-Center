@@ -6,7 +6,7 @@ order: 03
 ### Actions in Combat
 [Home](dm-operations-center) > [Combat](combat) > Actions in Combat {.small-text}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="melee-attack">Attack<br/> (Melee)</a>
     <a href="ranged-attack">Attack<br/> (Ranged)</a>
     <a href="cast-spell">Cast<br/> Spell</a>

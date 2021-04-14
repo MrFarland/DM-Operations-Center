@@ -6,7 +6,7 @@ order: 09
 ## Equipment
 [Home](dm-operations-center) > Equipment {.small-text}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="adventuring-gear">Adventuring Gear</a>
     <a href="ammunition">Ammunition</a>
     <a href="armor">Armor</a>

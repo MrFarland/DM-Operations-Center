@@ -6,7 +6,7 @@ order: 00
 ## DM Operations Center
 *Preview Release 0.1.0* {.small-text}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="abilities-and-skills">Abilities<br/> & Skills</a>
     <a href="character">Character</a>
     <a href="combat">Combat</a>

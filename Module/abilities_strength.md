@@ -20,7 +20,7 @@ Athletic training and raw physical power.
 - [Ranged Attacks](ranged-attack) (w/ [Thrown Weapons](weapon-properties))
 
 **Skills & Other Abilities**
-<div id="menu-container">
+<div class="menu-container">
     <a href="athletics">Athletics</a>
     <a href="carry-capacity">Carry Capacity</a>
     <a href="jumping">Jumping</a>

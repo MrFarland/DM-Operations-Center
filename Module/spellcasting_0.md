@@ -6,7 +6,7 @@ order: 12
 ## Spellcasting
 [Home](dm-operations-center) > Spellcasting {.small-text}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="area-of-effect">Area of<br/> Effect</a>
     <a href="casting-time">Casting<br/> Time</a>
     <a href="combining-effects">Combining Effects</a>

@@ -6,7 +6,7 @@ order: 06
 ## Encounters & Events
 [Home](dm-operations-center) > Encounters & Events {.small-text}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="combat-encounter">Combat<br/> Encounter</a>
     <a href="divinations-and-dreams">Divinations<br/> & Dreams</a>
     <a href="festivals-and-faires">Festivals<br/> & Faires</a>

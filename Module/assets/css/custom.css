@@ -5,49 +5,50 @@
  custom styles & theme
  */
  
- #menu-container {
-    align-content:center;
-    align-items:center;
-    display:flex;
-    flex-flow:row wrap;
-    justify-content:center;
-    font-size:12px;
-    line-height:14px;
+ .menu-container {
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    font-size: 12px;
+    line-height: 14px;
  }
 
- #menu-container a {
-    background:#f2f2f2; 
-    border:1px solid #919191; 
-    border-radius:6px; 
-    flex:1; 
-    flex-basis:75px; 
-    height:30px;
-    margin:3px; 
-    padding:3px; 
-    text-align:center;
+ .menu-container a {
+    align-items: center;
+    background: #f2f2f2; 
+    border: 1px solid #919191; 
+    border-radius: 6px;
+    display: flex; 
+    flex: 1; 
+    flex-basis: 75px; 
+    height: 30px;
+    margin: 3px; 
+    padding: 3px;
+    justify-content: center;
  }
 
- #menu-container a:hover {
-    background:#58180d; 
-    color:#f2f2f2;
+ .menu-container a:hover {
+    background: #58180d; 
+    color: #f2f2f2;
  }
 
- #menu-container a:active {
-    background:#6b1b0c; 
-    color:#f2f2f2;
+ .menu-container a:active {
+    background: #6b1b0c; 
+    color: #f2f2f2;
  }
 
  #footer {
-     bottom:0;
-     padding:12px;
-     position:absolute;
-     text-align:center;
+     bottom: 0;
+     padding: 12px;
+     position: absolute;
+     text-align: center;
  }
 
  #legal {
-     color:#919191;
-     font-size:9px;
-     line-height:10px;
+     color: #919191;
+     font-size: 9px;
+     line-height: 10px;
  }
 
- .small-text {font-size:12px;line-height:12px;}
+ .small-text {font-size: 12px;line-height: 12px;}

@@ -6,7 +6,7 @@ order: 03
 ## Combat
 [Home](dm-operations-center) > Combat {.small-text}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="actions-in-combat">Actions<br/> in Combat</a>
     <a href="cover">Cover</a>
     <a href="damage">Damage</a>

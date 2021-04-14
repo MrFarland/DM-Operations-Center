@@ -6,7 +6,7 @@ order: 07
 ## Environment & Hazards
 [Home](dm-operations-center) > Environment & Hazards {.small-text}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="desecrated-ground">Desecrated<br/> Ground</a>
     <a href="eldritch-mist">Eldritch<br/> Mist</a>
     <a href="extreme-cold">Extreme<br/> Cold</a>
@@ -24,7 +24,7 @@ order: 07
 </div>
 
 <hr/>
-<div id="menu-container">
+<div class="menu-container">
     <a href="falling-into-water">Falling<br/> into Water</a>
     <a href="falling-on-a-creature">Falling on<br/> a Creature</a>
     <a href="flying-and-falling">Flying &<br/> Falling</a>
@@ -32,7 +32,7 @@ order: 07
 </div>
 
 <hr/>
-<div id="menu-container">
+<div class="menu-container">
     <a href="blindsight">Blindsight</a>
     <a href="darkvision">Darkvision</a>
     <a href="light-sources">Light<br/> Sources</a>
@@ -42,7 +42,7 @@ order: 07
 </div>
 
 <hr/>
-<div id="menu-container">
+<div class="menu-container">
     <a href="avalanches-and-rock-slides">Avalanches<br/> & Rock Slides</a>
     <a href="high-altitude">High<br/> Altitude</a>
     <a href="quicksand">Quicksand</a>

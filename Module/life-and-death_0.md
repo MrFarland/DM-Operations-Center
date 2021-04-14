@@ -6,7 +6,7 @@ order: 10
 ## Life & Death
 [Home](dm-operations-center) > Life & Death {.small-text}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="death-savings-throws">Death Saving Throws</a>
     <a href="healing-magic">Healing Magic</a>
     <a href="healing-potions">Healing Potions</a>

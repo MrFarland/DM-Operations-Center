@@ -16,7 +16,7 @@ Mental acuity, recall, and ability to reason.
 {.square}
 
 **Skills & Other Abilities**
-<div id="menu-container">
+<div class="menu-container">
     <a href="arcana">Arcana</a>
     <a href="history">History</a>
     <a href="investigation">Investigation</a>

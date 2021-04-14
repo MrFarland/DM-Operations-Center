@@ -6,7 +6,7 @@ order: 01
 ## Checks & Contests
 [Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Checks & Contests  {.small-text}
 
-<div id="menu-container">
+<div class="menu-container">
     <a href="ability-check">Ability Check</a>
     <a href="contest">Contest</a>
     <a href="group-check">Group Check</a>

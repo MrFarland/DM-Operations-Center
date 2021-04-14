@@ -21,7 +21,7 @@ Balance, agility, and general nimbleness
 {.square}
 
 **Skills & Other Abilities**
-<div id="menu-container">
+<div class="menu-container">
     <a href="acrobatics">Acrobatics</a>
     <a href="armor-class">Armor Class</a>
     <a href="initiative">Initiative</a>
