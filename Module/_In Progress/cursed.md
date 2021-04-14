@@ -1,10 +1,10 @@
 ---
 name: Cursed
 slug: cursed
-parent: conditions
+parent: conditions-and-effects
 ---
 ### Cursed
-[Home](home) > [Conditions](conditions) > Cursed {.small-text}
+[Home](home) > [Conditions & Effects](conditions-and-effects) > Cursed {.small-text}
 
 A cursed creature suffers the effects identified in the description of the item, spell, or other source. 
 

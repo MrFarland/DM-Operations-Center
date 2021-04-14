@@ -1,10 +1,10 @@
 ---
 name: Diseased
 slug: diseased
-parent: conditions
+parent: conditions-and-effects
 ---
 ### Diseased
-[Home](home) > [Conditions](conditions) > Diseased {.small-text}
+[Home](home) > [Conditions & Effects](conditions-and-effects) > Diseased {.small-text}
 
 A creature suffers the effects identified in the description of the disease.
 

@@ -1,10 +1,10 @@
 ---
-name: Conditions
-slug: conditions
+name: Conditions & Effects
+slug: conditions-and-effects
 order: 04
 ---
-## Conditions
-[Home](dm-operations-center) > Conditions {.small-text}
+## Conditions & Effects
+[Home](dm-operations-center) > Conditions & Effects {.small-text}
 
 <div id="menu-container">
     <a href="blinded">Blinded</a>
@@ -22,4 +22,10 @@ order: 04
     <a href="stunned">Stunned</a>
     <a href="surprised">Surprised</a>
     <a href="unconcious">Unconcious</a>
+</div>
+<hr/>
+<div id="menu-container">
+    <a href="cursed">Cursed</a>
+    <a href="diseased">Diseased</a>
+    <a href="Madness">Madness</a>
 </div>

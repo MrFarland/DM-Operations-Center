@@ -10,7 +10,7 @@ order: 00
     <a href="abilities-and-skills">Abilities<br/> & Skills</a>
     <a href="character">Character</a>
     <a href="combat">Combat</a>
-    <a href="conditions">Conditions</a>
+    <a href="conditions-and-effects">Conditions<br/> & Effects</a>
     <a href="downtime">Downtime</a>
     <a href="encounters">Encounters</a>
     <a href="environment">Environment</a>

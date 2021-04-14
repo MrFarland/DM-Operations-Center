@@ -1,10 +1,10 @@
 ---
 name: Exhaustion
 slug: exhaustion
-parent: conditions
+parent: conditions-and-effects
 ---
 ### Exhaustion
-[Home](dm-operations-center) > [Conditions](conditions) > Exhaustion {.small-text}
+[Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Exhaustion {.small-text}
 
 |||
 |:---:|:--------------------------------|

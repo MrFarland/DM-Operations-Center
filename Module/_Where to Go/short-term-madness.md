@@ -1,10 +1,10 @@
 ---
 name: Short Term Madness
 slug: short-term-madness
-parent: conditions
+parent: conditions-and-effects
 ---
 ### Short Term Madness
- [Home](dm-operations-center) > [Conditions](conditions) > Short Term Madness {.small-text}
+ [Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Short Term Madness {.small-text}
 
 **Duration = [1d10](/roll/1d10) minutes** {.text-center}
 

@@ -1,10 +1,10 @@
 ---
 name: Sleeping
 slug: sleeping
-parent: conditions
+parent: conditions-and-effects
 ---
 ### Sleeping
-[Home](dm-operations-center) > [Conditions](conditions) > Sleeping {.small-text}
+[Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Sleeping {.small-text}
 
 **COMING SOON** {.text-center}
 

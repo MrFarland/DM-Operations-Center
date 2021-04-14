@@ -1,10 +1,10 @@
 ---
 name: Suffocating
 slug: suffocating
-parent: conditions
+parent: conditions-and-effects
 ---
 ### Suffocating
-[Home](dm-operations-center) > [Conditions](conditions) > Suffocating {.small-text}
+[Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Suffocating {.small-text}
 
 **COMING SOON** {.text-center}
 

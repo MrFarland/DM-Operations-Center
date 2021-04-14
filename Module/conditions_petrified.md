@@ -1,10 +1,10 @@
 ---
 name: Petrified
 slug: petrified
-parent: conditions
+parent: conditions-and-effects
 ---
 ### Petrified
- [Home](dm-operations-center) > [Conditions](conditions) > Petrified {.small-text}
+ [Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Petrified {.small-text}
 
 - Transformed into a solid substance.
 - Mundane items are transformed too.

@@ -1,10 +1,10 @@
 ---
 name: Indefinite Madness
 slug: indefinite-madness
-parent: conditions
+parent: conditions-and-effects
 ---
 ### Indefinite Madness
- [Home](dm-operations-center) > [Conditions](conditions) > Indefinite {.small-text}
+ [Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Indefinite {.small-text}
 
 **Duration = Until Cured** {.text-center}
 

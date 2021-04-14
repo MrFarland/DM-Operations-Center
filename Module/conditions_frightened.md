@@ -1,10 +1,10 @@
 ---
 name: Frightened
 slug: frightened
-parent: conditions
+parent: conditions-and-effects
 ---
 ### Frightened
-[Home](dm-operations-center) > [Conditions](conditions) > Frightened {.small-text}
+[Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Frightened {.small-text}
 
 - Afraid of creature causing the effect.
 - [Disadvantage](disadvantage) on checks if source in sight.

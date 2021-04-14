@@ -1,10 +1,10 @@
 ---
 name: Poisoned
 slug: poisoned
-parent: conditions
+parent: conditions-and-effects
 ---
 ### Poisoned
- [Home](dm-operations-center) > [Conditions](conditions) > Poisoned {.small-text}
+ [Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Poisoned {.small-text}
 
 - [Disadvantage](advantage-disadvantage) on all attack rolls.
 - [Disadvantage](advantage-disadvantage) on all ability checks.
