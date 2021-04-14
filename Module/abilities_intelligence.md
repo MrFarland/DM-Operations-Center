@@ -8,7 +8,7 @@ parent: abilities
 
 Mental acuity, recall, and ability to reason.
 
-**[Ability Checks](ability-check)**<br/>
+**Ability Checks**<br/>
 - Communicate without a shared language.
 - Estimate the value of an item.
 - Recall lore about a craft or trade.

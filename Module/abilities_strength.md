@@ -8,7 +8,7 @@ parent: abilities
 
 Athletic training and raw physical power.
 
-**[Ability Checks](ability-check)**<br/>
+**Ability Checks**<br/>
 - [Lift](push-drag-lift) a very heavy object.
 - [Force](push-drag-lift) open a barricaded door.
 - [Carry](carry-capacity) something a long distance.

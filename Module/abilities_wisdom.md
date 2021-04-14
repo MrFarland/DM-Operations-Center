@@ -8,7 +8,7 @@ parent: abilities
 
 General awareness, perceptiveness and intuition.
 
-**[Ability Checks](ability-check)**<br/>
+**Ability Checks**<br/>
 - Get a gut feeling about a decision.
 - Determine if a creature is undead.
 {.square}

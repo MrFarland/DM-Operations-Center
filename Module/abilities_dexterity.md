@@ -8,14 +8,12 @@ parent: abilities
 
 Balance, agility, and general nimbleness
 
-**[Ability Checks](ability-check)**<br/>
+**Ability Checks**<br/>
 - Pick a lock or disable a trap.
 - Tie up a prisoner with some rope.
 - Wriggle free after being tied up.
 - Craft a small or detailed object.
 {.square}
-
-[Initiative](initiative) is a general dexterity check.
 
 **Attack & Damage Rolls**<br/>
 - [Melee Attacks](melee-attack) (w/ [Finesse Weapons](weapon-properties))
@@ -26,6 +24,7 @@ Balance, agility, and general nimbleness
 <div id="menu-container">
     <a href="acrobatics">Acrobatics</a>
     <a href="armor-class">Armor Class</a>
+    <a href="initiative">Initiative</a>
     <a href="sleight-of-hand">Sleight of Hand</a>
     <a href="stealth">Stealth</a>
 </div>
