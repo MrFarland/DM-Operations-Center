@@ -4,7 +4,7 @@ slug: encounters-and-hooks
 order: 06
 ---
 ## Encounters & Hooks
-[Home](dm-operations-center) > Encounters {.small-text}
+[Home](dm-operations-center) > Encounters & Hooks {.small-text}
 
 <div id="menu-container">
     <a href="combat-encounter">Combat Encounter</a>

@@ -12,7 +12,7 @@ order: 00
     <a href="combat">Combat</a>
     <a href="conditions-and-effects">Conditions<br/> & Effects</a>
     <a href="downtime">Downtime</a>
-    <a href="encounters">Encounters</a>
+    <a href="encounters-and-hooks">Encounters<br/> & Hooks</a>
     <a href="environment">Environment</a>
     <a href="expenses">Expenses</a>
     <a href="items">Items</a>
