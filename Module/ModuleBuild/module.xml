@@ -7,35 +7,12 @@
   <code>dm-operations-center</code>
   <category/>
   <image>assets/img/placeholder_1920x1080.jpg</image>
-  <page id="e6ec3901-6397-5b16-bcdd-a8d1f1638187" sort="0">
-    <name>DM Operations Center</name>
-    <slug>dm-operations-center</slug>
-    <content>&lt;h2 id="dm-operations-center"&gt;&lt;a id="dm-operations-center-dm-operations-center"&gt;&lt;/a&gt;&lt;a id="dm-operations-center"&gt;&lt;/a&gt;DM Operations Center&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;em&gt;Preview Release 0.1.0&lt;/em&gt;&lt;/p&gt;
-&lt;div id="menu-container"&gt;
-    &lt;a href="abilities"&gt;Abilities&lt;/a&gt;
-    &lt;a href="character"&gt;Character&lt;/a&gt;
-    &lt;a href="combat"&gt;Combat&lt;/a&gt;
-    &lt;a href="conditions"&gt;Conditions&lt;/a&gt;
-    &lt;a href="downtime"&gt;Downtime&lt;/a&gt;
-    &lt;a href="encounters"&gt;Encounters&lt;/a&gt;
-    &lt;a href="environment"&gt;Environment&lt;/a&gt;
-    &lt;a href="expenses"&gt;Expenses&lt;/a&gt;
-    &lt;a href="items"&gt;Items&lt;/a&gt;
-    &lt;a href="life-and-death"&gt;Life &amp;amp; Death&lt;/a&gt;
-    &lt;a href="movement"&gt;Movement&lt;/a&gt;
-    &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt;
-    &lt;a href="treasure"&gt;Treasure&lt;/a&gt;
-    &lt;a href="worldbuilding"&gt;Worldbuilding&lt;/a&gt;
-    &lt;a href="."&gt;-&lt;/a&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="d5ba4333-a186-53e6-b389-543d9f21f561" sort="1">
-    <name>Abilities</name>
-    <slug>abilities</slug>
-    <content>&lt;h2 id="abilities"&gt;&lt;a id="abilities-abilities"&gt;&lt;/a&gt;&lt;a id="abilities"&gt;&lt;/a&gt;Abilities&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Abilities &lt;/p&gt;
-&lt;h4 id="abilities-2"&gt;&lt;a id="abilities-abilities"&gt;&lt;/a&gt;&lt;a id="abilities"&gt;&lt;/a&gt;Abilities&lt;/h4&gt;
+  <page id="a84b2c6f-9817-5ea4-8b08-9695f36eea57" sort="1">
+    <name>Abilities &amp; Skills</name>
+    <slug>abilities-and-skills</slug>
+    <content>&lt;h2 id="abilities-%26-skills"&gt;&lt;a id="abilities-and-skills-abilities-and-skills"&gt;&lt;/a&gt;&lt;a id="abilities-and-skills"&gt;&lt;/a&gt;Abilities &amp;amp; Skills&lt;/h2&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Abilities &amp;amp; Skills &lt;/p&gt;
+&lt;h4 id="abilities"&gt;&lt;a id="abilities-and-skills-abilities"&gt;&lt;/a&gt;&lt;a id="abilities"&gt;&lt;/a&gt;Abilities&lt;/h4&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="strength"&gt;Strength&lt;/a&gt;
     &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt;
@@ -55,11 +32,11 @@
 &lt;/div&gt;
 </content>
   </page>
-  <page id="f200a128-0ce1-558b-9cc7-6217aa9fafeb" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="f200a128-0ce1-558b-9cc7-6217aa9fafeb" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Ability Modifiers</name>
     <slug>ability-modifiers</slug>
     <content>&lt;h3 id="ability-modifiers"&gt;&lt;a id="ability-modifiers-ability-modifiers"&gt;&lt;/a&gt;&lt;a id="ability-modifiers"&gt;&lt;/a&gt;Ability Modifiers&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Ability Modifiers&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Ability Modifiers&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -131,11 +108,11 @@ Player&amp;#x2019;s Handbook, p. 13, 173&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="79108df6-ace4-5dda-9b00-6ce45b075d08" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="79108df6-ace4-5dda-9b00-6ce45b075d08" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Advantage &amp; Disadvantage</name>
     <slug>advantage-and-disadvantage</slug>
     <content>&lt;h3 id="advantage-%26-disadvantage"&gt;&lt;a id="advantage-and-disadvantage-advantage-and-disadvantage"&gt;&lt;/a&gt;&lt;a id="advantage-and-disadvantage"&gt;&lt;/a&gt;Advantage &amp;amp; Disadvantage&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Advantage &amp;amp; Disadvantage&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Advantage &amp;amp; Disadvantage&lt;/p&gt;
 &lt;table class="gray"&gt;
 &lt;thead&gt;
 &lt;tr&gt;&lt;/tr&gt;
@@ -162,11 +139,11 @@ Player&amp;#x2019;s Handbook, p. 173&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="63454aed-5fde-5f33-83cc-15fb2ac29d1b" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="63454aed-5fde-5f33-83cc-15fb2ac29d1b" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Alternate Abilities</name>
     <slug>alternate-abilities</slug>
     <content>&lt;h3 id="alternate-abilities"&gt;&lt;a id="alternate-abilities-alternate-abilities"&gt;&lt;/a&gt;&lt;a id="alternate-abilities"&gt;&lt;/a&gt;Alternate Abilities&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Alternate Abilities&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Alternate Abilities&lt;/p&gt;
 &lt;p&gt;Depending on the situation, skills may be paired with alternate abilities from their base ability.&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
@@ -213,11 +190,11 @@ Player&amp;#x2019;s Handbook, p. 175&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="18ebed56-161c-55e3-8854-436d0d3632c1" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="18ebed56-161c-55e3-8854-436d0d3632c1" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Charisma</name>
     <slug>charisma</slug>
     <content>&lt;h3 id="charisma"&gt;&lt;a id="charisma-charisma"&gt;&lt;/a&gt;&lt;a id="charisma"&gt;&lt;/a&gt;Charisma&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Charisma&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Charisma&lt;/p&gt;
 &lt;p&gt;Charm, confidence, eloquence, and personality&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -238,11 +215,11 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="d149950d-0fa5-5677-b9fd-419ab438a61e" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="d149950d-0fa5-5677-b9fd-419ab438a61e" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Deception</name>
     <slug>deception</slug>
     <content>&lt;h3 id="deception"&gt;&lt;a id="deception-deception"&gt;&lt;/a&gt;&lt;a id="deception"&gt;&lt;/a&gt;Deception&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="charisma"&gt;Charisma&lt;/a&gt; &amp;gt; Deception&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="charisma"&gt;Charisma&lt;/a&gt; &amp;gt; Deception&lt;/p&gt;
 &lt;p&gt;Ability to lie or otherwise hide the truth.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -256,11 +233,11 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="0c690d89-2c5d-503c-8e26-300014d6ff39" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="0c690d89-2c5d-503c-8e26-300014d6ff39" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Intimidation</name>
     <slug>intimidation</slug>
     <content>&lt;h3 id="intimidation"&gt;&lt;a id="intimidation-intimidation"&gt;&lt;/a&gt;&lt;a id="intimidation"&gt;&lt;/a&gt;Intimidation&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="charisma"&gt;Charisma&lt;/a&gt; &amp;gt; Intimidation&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="charisma"&gt;Charisma&lt;/a&gt; &amp;gt; Intimidation&lt;/p&gt;
 &lt;p&gt;Influence others via threat or coercion.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -274,11 +251,11 @@ Player&amp;#x2019;s Handbook, p. 179&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="2c753b38-6802-5891-aa77-8948293da255" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="2c753b38-6802-5891-aa77-8948293da255" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Performance</name>
     <slug>performance</slug>
     <content>&lt;h3 id="performance"&gt;&lt;a id="performance-performance"&gt;&lt;/a&gt;&lt;a id="performance"&gt;&lt;/a&gt;Performance&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="charisma"&gt;Charisma&lt;/a&gt; &amp;gt; Performance&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="charisma"&gt;Charisma&lt;/a&gt; &amp;gt; Performance&lt;/p&gt;
 &lt;p&gt;How well you can entertain an audience.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -292,11 +269,11 @@ Player&amp;#x2019;s Handbook, p. 179&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="162f4496-ec6c-5da1-be4a-edceb4397210" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="162f4496-ec6c-5da1-be4a-edceb4397210" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Persuasion</name>
     <slug>persuasion</slug>
     <content>&lt;h3 id="persuasion"&gt;&lt;a id="persuasion-persuasion"&gt;&lt;/a&gt;&lt;a id="persuasion"&gt;&lt;/a&gt;Persuasion&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="charisma"&gt;Charisma&lt;/a&gt; &amp;gt; Persuasion&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="charisma"&gt;Charisma&lt;/a&gt; &amp;gt; Persuasion&lt;/p&gt;
 &lt;p&gt;Influence others with logic, tact or good nature.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -313,8 +290,8 @@ Player&amp;#x2019;s Handbook, p. 179&lt;/p&gt;
   <page id="0f5ceced-4217-5a5d-8285-7886f4a073b5" sort="1">
     <name>Checks &amp; Contests</name>
     <slug>checks-and-contests</slug>
-    <content>&lt;h2 id="abilities"&gt;&lt;a id="checks-and-contests-abilities"&gt;&lt;/a&gt;&lt;a id="abilities"&gt;&lt;/a&gt;Abilities&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Checks &amp;amp; Contests &lt;/p&gt;
+    <content>&lt;h2 id="checks-%26-contests"&gt;&lt;a id="checks-and-contests-checks-and-contests"&gt;&lt;/a&gt;&lt;a id="checks-and-contests"&gt;&lt;/a&gt;Checks &amp;amp; Contests&lt;/h2&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Checks &amp;amp; Contests &lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="ability-check"&gt;Ability Check&lt;/a&gt;
     &lt;a href="contest"&gt;Contest&lt;/a&gt;
@@ -328,7 +305,7 @@ Player&amp;#x2019;s Handbook, p. 179&lt;/p&gt;
     <name>Ability Check</name>
     <slug>ability-check</slug>
     <content>&lt;h3 id="ability-check"&gt;&lt;a id="ability-check-ability-check"&gt;&lt;/a&gt;&lt;a id="ability-check"&gt;&lt;/a&gt;Ability Check&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="checks-and-contests"&gt;Checks &amp;amp; Contests&lt;/a&gt; &amp;gt; Ability Check&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="checks-and-contests"&gt;Checks &amp;amp; Contests&lt;/a&gt; &amp;gt; Ability Check&lt;/p&gt;
 &lt;p class="text-center"&gt;&lt;strong&gt;Success = &lt;a href="/roll/1d20"&gt;1d20&lt;/a&gt; + &lt;a href="ability-modifier"&gt;Ability&lt;/a&gt; + (&lt;a href="proficiency-bonus"&gt;Prof.&lt;/a&gt;) &amp;#x2265; &lt;a href="difficulty-class"&gt;DC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In special circumstances a creature may have &lt;a href="advantage-disadvantage"&gt;advantage or disadvantage&lt;/a&gt; on the roll.&lt;/p&gt;
 &lt;p class="small-text"&gt;&lt;em&gt;&lt;strong&gt;*&lt;/strong&gt; The character must be &lt;a href="proficiency-bonus"&gt;proficient&lt;/a&gt; in a skill in order to add their &lt;a href="proficiency-bonus"&gt;proficiency bonus&lt;/a&gt; to the roll.&lt;/em&gt;&lt;/p&gt;
@@ -342,7 +319,7 @@ Player&amp;#x2019;s Handbook, p. 174&lt;/p&gt;
     <name>Contest Check</name>
     <slug>contest-check</slug>
     <content>&lt;h3 id="contest"&gt;&lt;a id="contest-check-contest"&gt;&lt;/a&gt;&lt;a id="contest"&gt;&lt;/a&gt;Contest&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="checks-and-contests"&gt;Checks &amp;amp; Contests&lt;/a&gt; &amp;gt; Contest&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="checks-and-contests"&gt;Checks &amp;amp; Contests&lt;/a&gt; &amp;gt; Contest&lt;/p&gt;
 &lt;p class="text-center"&gt;&lt;strong&gt;Success = Initiator&amp;#x2019;s Roll &amp;gt; Defender&amp;#x2019;s Roll&lt;/strong&gt;&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
@@ -380,7 +357,7 @@ Player&amp;#x2019;s Handbook, p. 174&lt;/p&gt;
     <name>Group Check</name>
     <slug>group-check</slug>
     <content>&lt;h3 id="group-check"&gt;&lt;a id="group-check-group-check"&gt;&lt;/a&gt;&lt;a id="group-check"&gt;&lt;/a&gt;Group Check&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="checks-and-contests"&gt;Checks &amp;amp; Contests&lt;/a&gt; &amp;gt; Group Check&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="checks-and-contests"&gt;Checks &amp;amp; Contests&lt;/a&gt; &amp;gt; Group Check&lt;/p&gt;
 &lt;p class="text-center"&gt;&lt;strong&gt;Success = 50% &amp;#x2265; Check &lt;a href="difficulty-class"&gt;DC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Use group checks when multiple characters are trying to do something as a group like:&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -402,7 +379,7 @@ Player&amp;#x2019;s Handbook, p. 175&lt;/p&gt;
     <name>Passive Check</name>
     <slug>passive-check</slug>
     <content>&lt;h3 id="passive-check"&gt;&lt;a id="passive-check-passive-check"&gt;&lt;/a&gt;&lt;a id="passive-check"&gt;&lt;/a&gt;Passive Check&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="checks-and-contests"&gt;Checks &amp;amp; Contests&lt;/a&gt; &amp;gt; Passive Check&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="checks-and-contests"&gt;Checks &amp;amp; Contests&lt;/a&gt; &amp;gt; Passive Check&lt;/p&gt;
 &lt;p class="text-center"&gt;&lt;strong&gt;Success = 10 + &lt;a href="ability-modifier"&gt;Ability&lt;/a&gt; + (&lt;a href="proficiency-bonus"&gt;Prof.&lt;/a&gt;)&lt;/strong&gt; &amp;#x2265; &lt;a href="difficulty-class"&gt;DC&lt;/a&gt;&lt;/p&gt;
 &lt;p class="small-text"&gt;&lt;em&gt;&lt;strong&gt;*&lt;/strong&gt; The character must be &lt;a href="proficiency-bonus"&gt;proficient&lt;/a&gt; in a skill in order to add their &lt;a href="proficiency-bonus"&gt;proficiency bonus&lt;/a&gt; to the roll.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Use passive checks to:&lt;/p&gt;
@@ -426,7 +403,7 @@ Player&amp;#x2019;s Handbook, p. 175&lt;/p&gt;
     <name>Saving Throw</name>
     <slug>saving-throw</slug>
     <content>&lt;h3 id="saving-throw"&gt;&lt;a id="saving-throw-saving-throw"&gt;&lt;/a&gt;&lt;a id="saving-throw"&gt;&lt;/a&gt;Saving Throw&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="checks-and-contests"&gt;Checks &amp;amp; Contests&lt;/a&gt; &amp;gt; Saving Throw&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="checks-and-contests"&gt;Checks &amp;amp; Contests&lt;/a&gt; &amp;gt; Saving Throw&lt;/p&gt;
 &lt;p class="text-center"&gt;&lt;strong&gt;Success = &lt;a href="/roll/1d20"&gt;1d20&lt;/a&gt; + &lt;a href="ability-modifier"&gt;Ability Mod&lt;/a&gt; + (&lt;a href="proficiency-bonus"&gt;Prof *&lt;/a&gt;)&lt;/strong&gt; &amp;#x2265; &lt;a href="difficulty-class"&gt;DC&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In special circumstances a creature may have &lt;a href="advantage-disadvantage"&gt;advantage or disadvantage&lt;/a&gt; on the roll.&lt;/p&gt;
 &lt;p class="small-text"&gt;&lt;em&gt;&lt;strong&gt;*&lt;/strong&gt; The character must be &lt;a href="proficiency-bonus"&gt;proficient&lt;/a&gt; in the saving throw in order to add their &lt;a href="proficiency-bonus"&gt;proficiency bonus&lt;/a&gt; to the roll.&lt;/em&gt;&lt;/p&gt;
@@ -488,11 +465,11 @@ Player&amp;#x2019;s Handbook, p. 45&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="5e49c775-4bfc-501d-8df1-8be4d217fe40" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="5e49c775-4bfc-501d-8df1-8be4d217fe40" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Constitution</name>
     <slug>constitution</slug>
     <content>&lt;h3 id="constitution"&gt;&lt;a id="constitution-constitution"&gt;&lt;/a&gt;&lt;a id="constitution"&gt;&lt;/a&gt;Constitution&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Constitution&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Constitution&lt;/p&gt;
 &lt;p&gt;General health, fortitude, and stamina.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
 Constitution skill checks are rare, with &lt;a href="saving-throw"&gt;savings throws&lt;/a&gt; being more common.&lt;/p&gt;
@@ -511,11 +488,92 @@ Player&amp;#x2019;s Handbook, p. 179&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="a0836f59-38a2-55af-92f6-7bc39e77b85e" parent="5e49c775-4bfc-501d-8df1-8be4d217fe40">
+    <name>Hit Dice</name>
+    <slug>hit-dice</slug>
+    <content>&lt;h3 id="hit-dice"&gt;&lt;a id="hit-dice-hit-dice"&gt;&lt;/a&gt;&lt;a id="hit-dice"&gt;&lt;/a&gt;Hit Dice&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="constitution"&gt;Constitution&lt;/a&gt; &amp;gt; Hit Points&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;&lt;a href="hit-points"&gt;HP&lt;/a&gt; Restored = Hit Die + &lt;a href="constitution"&gt;CON&lt;/a&gt; Mod&lt;/strong&gt;&lt;/p&gt;
+&lt;table class="gray small-text"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th colspan="2"&gt;Hit Die by Class&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Artificer&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&lt;a href="/roll/1d8"&gt;1d8&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Paladin&lt;/td&gt;
+&lt;td&gt;&lt;a href="/roll/1d10"&gt;1d10&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Barbarian&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&lt;a href="/roll/1d12"&gt;1d12&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ranger&lt;/td&gt;
+&lt;td&gt;&lt;a href="/roll/1d10"&gt;1d10&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bard&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&lt;a href="/roll/1d8"&gt;1d8&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Rogue&lt;/td&gt;
+&lt;td&gt;&lt;a href="/roll/1d8"&gt;1d8&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cleric&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&lt;a href="/roll/1d8"&gt;1d8&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Sorcerer&lt;/td&gt;
+&lt;td&gt;&lt;a href="/roll/1d6"&gt;1d6&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Druid&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&lt;a href="/roll/1d8"&gt;1d8&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Warlock&lt;/td&gt;
+&lt;td&gt;&lt;a href="/roll/1d8"&gt;1d8&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fighter&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&lt;a href="/roll/1d10"&gt;1d10&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Wizard&lt;/td&gt;
+&lt;td&gt;&lt;a href="/roll/1d6"&gt;1d6&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Monk&lt;/td&gt;
+&lt;td style="text-align:center"&gt;&lt;a href="/roll/1d8"&gt;1d8&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 12&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="a5dd378d-1aae-5426-9a40-ae8a4f6f0582" parent="5e49c775-4bfc-501d-8df1-8be4d217fe40">
+    <name>Hit Points</name>
+    <slug>hit-points</slug>
+    <content>&lt;h3 id="hit-points"&gt;&lt;a id="hit-points-hit-points"&gt;&lt;/a&gt;&lt;a id="hit-points"&gt;&lt;/a&gt;Hit Points&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="constitution"&gt;Constitution&lt;/a&gt; &amp;gt; Hit Points&lt;/p&gt;
+&lt;p&gt;Hit Points represent a character&amp;#x2019;s ability to fight as well as their physical health.&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;Max HP = (&lt;a href="hit-dice"&gt;Hit Die&lt;/a&gt; + CON) per level&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="square"&gt;
+&lt;li&gt;Total HP cannot exceed their Max HP.&lt;/li&gt;
+&lt;li&gt;0 HP - &lt;a href="unconcious"&gt;unconcious&lt;/a&gt; and/or &lt;a href="dying"&gt;dying&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Changes to &lt;a href="constitution"&gt;CON&lt;/a&gt; are &lt;strong&gt;retroactive&lt;/strong&gt;. Apply change to Max HP for each character level.&lt;/em&gt;&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Dexterity</name>
     <slug>dexterity</slug>
     <content>&lt;h3 id="dexterity"&gt;&lt;a id="dexterity-dexterity"&gt;&lt;/a&gt;&lt;a id="dexterity"&gt;&lt;/a&gt;Dexterity&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Dexterity&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Dexterity&lt;/p&gt;
 &lt;p&gt;Balance, agility, and general nimbleness&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -543,11 +601,11 @@ Player&amp;#x2019;s Handbook, p. 176&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="faf1df38-be8a-52b0-ac2a-2db0ba1f9a86" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="faf1df38-be8a-52b0-ac2a-2db0ba1f9a86" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Acrobatics</name>
     <slug>acrobatics</slug>
     <content>&lt;h3 id="acrobatics"&gt;&lt;a id="acrobatics-acrobatics"&gt;&lt;/a&gt;&lt;a id="acrobatics"&gt;&lt;/a&gt;Acrobatics&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; &amp;gt; Acrobatics&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; &amp;gt; Acrobatics&lt;/p&gt;
 &lt;p&gt;Acrobatics measures the ability to maintain balance, tumble, and perform tricks in the air.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -561,21 +619,36 @@ Player&amp;#x2019;s Handbook, p. 176&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="89361b56-0d6d-5513-aa31-f90b3aacea01">
-    <name>abilities_dexterity_armor-class.md</name>
-    <slug>abilitiesdexterityarmor-classmd</slug>
-    <content/>
+  <page id="e4b6e95d-af64-5a6c-aa36-0cf352531e85" parent="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe">
+    <name>Armor Class</name>
+    <slug>armor-class</slug>
+    <content>&lt;h3 id="armor-class"&gt;&lt;a id="armor-class-armor-class"&gt;&lt;/a&gt;&lt;a id="armor-class"&gt;&lt;/a&gt;Armor Class&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; &amp;gt; Armor Class&lt;/p&gt;
+&lt;p&gt;A creature&amp;#x2019;s natural armor class is how hard they are to hit when &lt;strong&gt;not&lt;/strong&gt; wearing &lt;a href="armor"&gt;armor&lt;/a&gt;.&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;Natural AC = 10 + &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; Modifier&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Wearing &lt;a href="armor"&gt;armor&lt;/a&gt; replaces a creature&amp;#x2019;s natural AC.&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
-  <page id="22055207-1fe2-57c7-b38a-72e072638dd2">
-    <name>abilities_dexterity_initiative.md</name>
-    <slug>abilitiesdexterityinitiativemd</slug>
-    <content/>
+  <page id="d8bfb975-c316-590d-856f-1576feac3beb" parent="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe">
+    <name>Initiative</name>
+    <slug>initiative</slug>
+    <content>&lt;h3 id="initiative"&gt;&lt;a id="initiative-initiative"&gt;&lt;/a&gt;&lt;a id="initiative"&gt;&lt;/a&gt;Initiative&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; &amp;gt; Initiative&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
-  <page id="e8e22df7-ca8e-5b54-9b62-d00c66e5e080" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="e8e22df7-ca8e-5b54-9b62-d00c66e5e080" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Sleight of Hand</name>
     <slug>sleight-of-hand</slug>
     <content>&lt;h3 id="sleight-of-hand"&gt;&lt;a id="sleight-of-hand-sleight-of-hand"&gt;&lt;/a&gt;&lt;a id="sleight-of-hand"&gt;&lt;/a&gt;Sleight of Hand&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; &amp;gt; Sleight of Hand&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; &amp;gt; Sleight of Hand&lt;/p&gt;
 &lt;p&gt;Perform manual trickery without being detected.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -589,11 +662,11 @@ Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="0f9293c1-9dcf-500a-8359-1f72159f933b" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="0f9293c1-9dcf-500a-8359-1f72159f933b" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Stealth</name>
     <slug>stealth</slug>
     <content>&lt;h3 id="stealth"&gt;&lt;a id="stealth-stealth"&gt;&lt;/a&gt;&lt;a id="stealth"&gt;&lt;/a&gt;Stealth&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; &amp;gt; Sleight of Hand&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="dexterity"&gt;Dexterity&lt;/a&gt; &amp;gt; Sleight of Hand&lt;/p&gt;
 &lt;p&gt;Ability to move and hide without being detected&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -607,11 +680,11 @@ Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="ff6d2839-1d32-5f95-8d18-1b377c2223df" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="ff6d2839-1d32-5f95-8d18-1b377c2223df" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Difficulty Class</name>
     <slug>difficulty-class</slug>
     <content>&lt;h3 id="difficulty-class"&gt;&lt;a id="difficulty-class-difficulty-class"&gt;&lt;/a&gt;&lt;a id="difficulty-class"&gt;&lt;/a&gt;Difficulty Class&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Difficulty Class&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Difficulty Class&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
 &lt;tr&gt;&lt;/tr&gt;
@@ -649,11 +722,11 @@ Player&amp;#x2019;s Handbook, p. 174&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Intelligence</name>
     <slug>intelligence</slug>
     <content>&lt;h3 id="intelligence"&gt;&lt;a id="intelligence-intelligence"&gt;&lt;/a&gt;&lt;a id="intelligence"&gt;&lt;/a&gt;Intelligence&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Intelligence&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Intelligence&lt;/p&gt;
 &lt;p&gt;Mental acuity, recall, and ability to reason.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -676,11 +749,11 @@ Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="cd764145-2ed7-56ec-944c-6c7178927695" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="cd764145-2ed7-56ec-944c-6c7178927695" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Arcana</name>
     <slug>arcana</slug>
     <content>&lt;h3 id="arcana"&gt;&lt;a id="arcana-arcana"&gt;&lt;/a&gt;&lt;a id="arcana"&gt;&lt;/a&gt;Arcana&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Arcana&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Arcana&lt;/p&gt;
 &lt;p&gt;Knowledge of all things magical and the planes.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -694,11 +767,11 @@ Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="349017aa-af6c-5ca1-b657-222f8fcf0694" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="349017aa-af6c-5ca1-b657-222f8fcf0694" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>History</name>
     <slug>history</slug>
     <content>&lt;h3 id="history"&gt;&lt;a id="history-history"&gt;&lt;/a&gt;&lt;a id="history"&gt;&lt;/a&gt;History&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="intelligence"&gt;Intelligence&lt;/a&gt; &amp;gt; History&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="intelligence"&gt;Intelligence&lt;/a&gt; &amp;gt; History&lt;/p&gt;
 &lt;p&gt;Knowledge of history, people, and things.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -713,11 +786,11 @@ Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="cce46f17-de41-59cc-917e-ae3d0958423c" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="cce46f17-de41-59cc-917e-ae3d0958423c" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Investigation</name>
     <slug>investigation</slug>
     <content>&lt;h3 id="investigation"&gt;&lt;a id="investigation-investigation"&gt;&lt;/a&gt;&lt;a id="investigation"&gt;&lt;/a&gt;Investigation&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="intelligence"&gt;Intelligence&lt;/a&gt; &amp;gt; Investigation&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="intelligence"&gt;Intelligence&lt;/a&gt; &amp;gt; Investigation&lt;/p&gt;
 &lt;p&gt;Ability to find clues and make deducations.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -732,11 +805,11 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="012a2f59-3996-5320-afe8-2ff8583d1099" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="012a2f59-3996-5320-afe8-2ff8583d1099" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Nature</name>
     <slug>nature</slug>
     <content>&lt;h3 id="nature"&gt;&lt;a id="nature-nature"&gt;&lt;/a&gt;&lt;a id="nature"&gt;&lt;/a&gt;Nature&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Nature&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Nature&lt;/p&gt;
 &lt;p&gt;Knowledge of the world, geography, and creatures.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -750,11 +823,11 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="ef69afe7-347f-5c62-80f4-091846c03996" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="ef69afe7-347f-5c62-80f4-091846c03996" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Religion</name>
     <slug>religion</slug>
     <content>&lt;h3 id="religion"&gt;&lt;a id="religion-religion"&gt;&lt;/a&gt;&lt;a id="religion"&gt;&lt;/a&gt;Religion&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Religion&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Religion&lt;/p&gt;
 &lt;p&gt;Knowledge of religions, gods, cults, and traditions.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -769,11 +842,11 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="94301409-f989-5a7c-a627-b49f7d782594" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="94301409-f989-5a7c-a627-b49f7d782594" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Strength</name>
     <slug>strength</slug>
     <content>&lt;h3 id="strength"&gt;&lt;a id="strength-strength"&gt;&lt;/a&gt;&lt;a id="strength"&gt;&lt;/a&gt;Strength&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Strength&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Strength&lt;/p&gt;
 &lt;p&gt;Athletic training and raw physical power.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -800,11 +873,11 @@ Player&amp;#x2019;s Handbook, p. 175&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="4b32f0e2-ba4b-5dd2-8150-302cf602a7a4" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="4b32f0e2-ba4b-5dd2-8150-302cf602a7a4" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Athletics</name>
     <slug>athletics</slug>
     <content>&lt;h3 id="athletics"&gt;&lt;a id="athletics-athletics"&gt;&lt;/a&gt;&lt;a id="athletics"&gt;&lt;/a&gt;Athletics&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="strength"&gt;Strength&lt;/a&gt; &amp;gt; Athletics&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="strength"&gt;Strength&lt;/a&gt; &amp;gt; Athletics&lt;/p&gt;
 &lt;p&gt;General athletic prowess when running, &lt;a href="jumping"&gt;jumping&lt;/a&gt;, &lt;a href="swimming"&gt;swimming&lt;/a&gt;, and &lt;a href="climbing"&gt;climbing&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -818,11 +891,11 @@ Player&amp;#x2019;s Handbook, p. 175&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="f800cb96-530e-5bb1-a444-9360b3907b64" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="f800cb96-530e-5bb1-a444-9360b3907b64" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Carry Capacity</name>
     <slug>carry-capacity</slug>
     <content>&lt;h3 id="carry-capacity"&gt;&lt;a id="carry-capacity-carry-capacity"&gt;&lt;/a&gt;&lt;a id="carry-capacity"&gt;&lt;/a&gt;Carry Capacity&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="strength"&gt;Strength&lt;/a&gt; &amp;gt; Carry Capacity&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="strength"&gt;Strength&lt;/a&gt; &amp;gt; Carry Capacity&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -925,11 +998,11 @@ Player&amp;#x2019;s Handbook, p. 176&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="cf3ec5ca-fc62-581f-90fc-dc893de1e448" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="cf3ec5ca-fc62-581f-90fc-dc893de1e448" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Push, Drag, Lift</name>
     <slug>push-drag-lift</slug>
     <content>&lt;h3 id="push%2C-drag%2C-lift"&gt;&lt;a id="push-drag-lift-push-drag-lift"&gt;&lt;/a&gt;&lt;a id="push-drag-lift"&gt;&lt;/a&gt;Push, Drag, Lift&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Push, Drag, Lift&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Push, Drag, Lift&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1032,11 +1105,11 @@ Player&amp;#x2019;s Handbook, p. 176&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="0d52bec9-cf7d-5205-8d3e-0eb89c14328b" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="0d52bec9-cf7d-5205-8d3e-0eb89c14328b" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Wisdom</name>
     <slug>wisdom</slug>
     <content>&lt;h3 id="wisdom"&gt;&lt;a id="wisdom-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Wisdom&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Wisdom&lt;/p&gt;
 &lt;p&gt;General awareness, perceptiveness and intuition.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -1057,11 +1130,11 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="2ccb2ca8-60f9-5229-b408-70c13a02f931" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="2ccb2ca8-60f9-5229-b408-70c13a02f931" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Animal Handling</name>
     <slug>animal-handling</slug>
     <content>&lt;h3 id="animal-handling"&gt;&lt;a id="animal-handling-animal-handling"&gt;&lt;/a&gt;&lt;a id="animal-handling"&gt;&lt;/a&gt;Animal Handling&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Animal Handling&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Animal Handling&lt;/p&gt;
 &lt;p&gt;Ability to interact, control and understand animals.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -1076,11 +1149,11 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="f8fb8e0d-c95b-57de-8fa3-caf7459237c1" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="f8fb8e0d-c95b-57de-8fa3-caf7459237c1" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Insight</name>
     <slug>insight</slug>
     <content>&lt;h3 id="insight"&gt;&lt;a id="insight-insight"&gt;&lt;/a&gt;&lt;a id="insight"&gt;&lt;/a&gt;Insight&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; &lt;a href="wisdom"&gt;Wisdom&lt;/a&gt; &amp;gt; Insight&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; &lt;a href="wisdom"&gt;Wisdom&lt;/a&gt; &amp;gt; Insight&lt;/p&gt;
 &lt;p&gt;Ability to determine the true intentions of a creature.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -1094,11 +1167,11 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="1553cfae-e2d7-5012-8392-e1f60cca9e81" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="1553cfae-e2d7-5012-8392-e1f60cca9e81" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Perception</name>
     <slug>perception</slug>
     <content>&lt;h3 id="perception"&gt;&lt;a id="perception-perception"&gt;&lt;/a&gt;&lt;a id="perception"&gt;&lt;/a&gt;Perception&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Perception&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Perception&lt;/p&gt;
 &lt;p&gt;Ability to spot, hear, or otherwise detect something.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -1112,11 +1185,11 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="8387e576-7d1b-5649-adcd-92d88d6b5f3a" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="8387e576-7d1b-5649-adcd-92d88d6b5f3a" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Survival</name>
     <slug>survival</slug>
     <content>&lt;h3 id="survival"&gt;&lt;a id="survival-survival"&gt;&lt;/a&gt;&lt;a id="survival"&gt;&lt;/a&gt;Survival&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Survival&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Survival&lt;/p&gt;
 &lt;p&gt;Ability to survive in the wilderness.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
@@ -1131,11 +1204,11 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="dfdb807f-c402-5f55-bf8f-49fe194903c2" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="dfdb807f-c402-5f55-bf8f-49fe194903c2" parent="a84b2c6f-9817-5ea4-8b08-9695f36eea57">
     <name>Working Together</name>
     <slug>working-together</slug>
     <content>&lt;h3 id="working-together"&gt;&lt;a id="working-together-working-together"&gt;&lt;/a&gt;&lt;a id="working-together"&gt;&lt;/a&gt;Working Together&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Working Together&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities-and-skills"&gt;Abilities &amp;amp; Skills&lt;/a&gt; &amp;gt; Working Together&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;PC leading the activity has &lt;a href="advantage-disadvantage"&gt;advantage&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Assistance must be practical for the task.&lt;/li&gt;
@@ -1147,6 +1220,21 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 Player&amp;#x2019;s Handbook, p. 174&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
+  </page>
+  <page id="ad1f02a9-57e5-5ee9-8a9f-b4fe56f697c3" sort="2">
+    <name>Character</name>
+    <slug>character</slug>
+    <content>&lt;h2 id="character"&gt;&lt;a id="character-character"&gt;&lt;/a&gt;&lt;a id="character"&gt;&lt;/a&gt;Character&lt;/h2&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Character&lt;/p&gt;
+&lt;div id="menu-container"&gt;
+    &lt;a href="advancement"&gt;Advancement&lt;/a&gt;
+    &lt;a href="alignment"&gt;Alignment&lt;/a&gt;
+    &lt;a href="determine-abilities"&gt;Determine&lt;br&gt; Abilities&lt;/a&gt;
+    &lt;a href="height-and-weight"&gt;Height &amp;amp;&lt;br&gt; Weight&lt;/a&gt;
+    &lt;a href="languages"&gt;Languages&lt;/a&gt;
+    &lt;a href="starting-wealth"&gt;Starting&lt;br&gt; Wealth&lt;/a&gt;
+&lt;/div&gt;
+&lt;br&gt;</content>
   </page>
   <page id="3b88f8b0-ab59-5d27-855a-0b8467a33c0c" parent="ad1f02a9-57e5-5ee9-8a9f-b4fe56f697c3">
     <name>Advancement</name>
@@ -1242,11 +1330,11 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="22c212c3-9e76-5ced-aec3-e4486069c150" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+  <page id="22c212c3-9e76-5ced-aec3-e4486069c150" parent="ad1f02a9-57e5-5ee9-8a9f-b4fe56f697c3">
     <name>Proficiency Bonus</name>
     <slug>proficiency-bonus</slug>
     <content>&lt;h3 id="proficiency-bonus"&gt;&lt;a id="proficiency-bonus-proficiency-bonus"&gt;&lt;/a&gt;&lt;a id="proficiency-bonus"&gt;&lt;/a&gt;Proficiency Bonus&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Proficiency Bonus&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="character"&gt;Character&lt;/a&gt; &amp;gt; Proficiency Bonus&lt;/p&gt;
 &lt;p&gt;Used in &lt;a href="saving-throw"&gt;saving throws&lt;/a&gt; and &lt;a href="skill-checks"&gt;skill checks&lt;/a&gt;, as well as related &lt;a href="ability-checks"&gt;ability checks&lt;/a&gt; when using &lt;a href="tools"&gt;tools&lt;/a&gt; for which the character is proficient.&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
@@ -1333,52 +1421,429 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="ad1f02a9-57e5-5ee9-8a9f-b4fe56f697c3" sort="2">
-    <name>Character</name>
-    <slug>character</slug>
-    <content>&lt;h2 id="character"&gt;&lt;a id="character-character"&gt;&lt;/a&gt;&lt;a id="character"&gt;&lt;/a&gt;Character&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Character&lt;/p&gt;
-&lt;div id="menu-container"&gt;
-    &lt;a href="advancement"&gt;Advancement&lt;/a&gt;
-    &lt;a href="alignment"&gt;Alignment&lt;/a&gt;
-    &lt;a href="determine-abilities"&gt;Determine&lt;br&gt; Abilities&lt;/a&gt;
-    &lt;a href="height-and-weight"&gt;Height &amp;amp;&lt;br&gt; Weight&lt;/a&gt;
-    &lt;a href="languages"&gt;Languages&lt;/a&gt;
-    &lt;a href="starting-wealth"&gt;Starting&lt;br&gt; Wealth&lt;/a&gt;
-&lt;/div&gt;
-&lt;br&gt;</content>
-  </page>
   <page id="4ea8357c-70bf-5e52-8ed2-8a3fab816b91" sort="3">
     <name>Combat</name>
     <slug>combat</slug>
     <content>&lt;h2 id="combat"&gt;&lt;a id="combat-combat"&gt;&lt;/a&gt;&lt;a id="combat"&gt;&lt;/a&gt;Combat&lt;/h2&gt;
 &lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Combat&lt;/p&gt;
 &lt;div id="menu-container"&gt;
-    &lt;a href="action"&gt;Action&lt;/a&gt;
-    &lt;a href="bonus-action"&gt;Bonus Action&lt;/a&gt;
+    &lt;a href="actions-in-combat"&gt;Actions&lt;br&gt; in Combat&lt;/a&gt;
     &lt;a href="cover"&gt;Cover&lt;/a&gt;
-    &lt;a href="critical-hit"&gt;Critical Hit&lt;/a&gt;
-    &lt;a href="damage-resistance"&gt;Damage Resistance&lt;/a&gt;
-    &lt;a href="damage-type"&gt;Damage Type&lt;/a&gt;
-    &lt;a href="extra-attack"&gt;Extra Attack&lt;/a&gt;
-    &lt;a href="free-action"&gt;Free Action&lt;/a&gt;
-    &lt;a href="grapple-and-shove"&gt;Grapple &amp;amp; Shove&lt;/a&gt;
-    &lt;a href="initiative"&gt;Initiative&lt;/a&gt;
-    &lt;a href="mounted-combat"&gt;Mounted Combat&lt;/a&gt;
-    &lt;a href="naval-combat"&gt;Naval Combat&lt;/a&gt;
-    &lt;a href="nonlethal-damage"&gt;Nonlethal Damage&lt;/a&gt;
-    &lt;a href="reaction"&gt;Reaction&lt;/a&gt;
-    &lt;a href="surprise"&gt;Surprise&lt;/a&gt;
-    &lt;a href="unarmed-combat"&gt;Unarmed Combat&lt;/a&gt;
-    &lt;a href="underwater-combat"&gt;Underwater Combat&lt;/a&gt;
+    &lt;a href="damage"&gt;Damage&lt;/a&gt;
+    &lt;a href="flanking"&gt;Flanking&lt;/a&gt;
+    &lt;a href="grapple-and-shove"&gt;Grapple&lt;br&gt; &amp;amp; Shove&lt;/a&gt;
+    &lt;a href="mounted-combat"&gt;Mounted&lt;br&gt; Combat&lt;/a&gt;
+    &lt;a href="naval-combat"&gt;Naval&lt;br&gt; Combat&lt;/a&gt;
+    &lt;a href="nonlethal-damage"&gt;Nonlethal&lt;br&gt; Damage&lt;/a&gt;
+    &lt;a href="object-ac-and-hp"&gt;Object&lt;br&gt; AC &amp;amp; HP&lt;/a&gt;
+    &lt;a href="order-of-combat"&gt;Order of&lt;br&gt; Combat&lt;/a&gt;
+    &lt;a href="two-weapon-fighting"&gt;Two Weapon&lt;br&gt; Fighting&lt;/a&gt;
+    &lt;a href="unarmed-combat"&gt;Unarmed&lt;br&gt; Combat&lt;/a&gt;
+    &lt;a href="underwater-combat"&gt;Underwater&lt;br&gt; Combat&lt;/a&gt;
+    &lt;a href="unseen-attackers"&gt;Unseen&lt;br&gt; Attackers&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
 &lt;/div&gt;
 </content>
   </page>
-  <page id="2e5061d8-871b-53bb-b7c7-80ed942b1a30" sort="4">
-    <name>Conditions</name>
-    <slug>conditions</slug>
-    <content>&lt;h2 id="conditions"&gt;&lt;a id="conditions-conditions"&gt;&lt;/a&gt;&lt;a id="conditions"&gt;&lt;/a&gt;Conditions&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Conditions&lt;/p&gt;
+  <page id="290064ac-fc68-545d-8d38-2effad6a3b00" sort="3">
+    <name>Actions in Combat</name>
+    <slug>actions-in-combat</slug>
+    <content>&lt;h3 id="actions-in-combat"&gt;&lt;a id="actions-in-combat-actions-in-combat"&gt;&lt;/a&gt;&lt;a id="actions-in-combat"&gt;&lt;/a&gt;Actions in Combat&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Actions in Combat&lt;/p&gt;
+&lt;div id="menu-container"&gt;
+    &lt;a href="melee-attack"&gt;Attack&lt;br&gt; (Melee)&lt;/a&gt;
+    &lt;a href="ranged-attack"&gt;Attack&lt;br&gt; (Ranged)&lt;/a&gt;
+    &lt;a href="cast-spell"&gt;Cast&lt;br&gt; Spell&lt;/a&gt;
+    &lt;a href="dash"&gt;Dash&lt;/a&gt;
+    &lt;a href="disengage"&gt;Disengage&lt;/a&gt;
+    &lt;a href="dodge"&gt;Dodge&lt;/a&gt;
+    &lt;a href="help"&gt;Help&lt;/a&gt;
+    &lt;a href="hide"&gt;Hide&lt;/a&gt;
+    &lt;a href="ready"&gt;Ready&lt;/a&gt;
+    &lt;a href="search"&gt;Search&lt;/a&gt;
+    &lt;a href="use-object"&gt;Use&lt;br&gt; Object&lt;/a&gt;
+    &lt;a href="bonus-action"&gt;Bonus&lt;br&gt; Action&lt;/a&gt;
+    &lt;a href="extra-attack"&gt;Extra&lt;br&gt; Attack&lt;/a&gt;
+    &lt;a href="free-action"&gt;Free&lt;br&gt; Action&lt;/a&gt;
+    &lt;a href="reaction"&gt;Reaction&lt;/a&gt;
+&lt;/div&gt;
+</content>
+  </page>
+  <page id="2cf3ab4b-772f-586b-959f-0fa8f0b6ad61" sort="3">
+    <name>Bonus Action</name>
+    <slug>bonus-action</slug>
+    <content>&lt;h3 id="bonus-action"&gt;&lt;a id="bonus-action-bonus-action"&gt;&lt;/a&gt;&lt;a id="bonus-action"&gt;&lt;/a&gt;Bonus Action&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Bonus Action&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="263cd613-edf8-5784-a1fb-ec8dcb12e4b2" sort="3">
+    <name>Cast Spell</name>
+    <slug>cast-spell</slug>
+    <content>&lt;h3 id="cast-spell"&gt;&lt;a id="cast-spell-cast-spell"&gt;&lt;/a&gt;&lt;a id="cast-spell"&gt;&lt;/a&gt;Cast Spell&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Cast Spell&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="0a592b7d-91fb-5fdf-9c30-5050284860a6" sort="3">
+    <name>Dash</name>
+    <slug>dash</slug>
+    <content>&lt;h3 id="dash"&gt;&lt;a id="dash-dash"&gt;&lt;/a&gt;&lt;a id="dash"&gt;&lt;/a&gt;Dash&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Dash&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="d272ced7-48db-5df5-b0eb-e489db2359aa" sort="3">
+    <name>Disengage</name>
+    <slug>disengage</slug>
+    <content>&lt;h3 id="disengage"&gt;&lt;a id="disengage-disengage"&gt;&lt;/a&gt;&lt;a id="disengage"&gt;&lt;/a&gt;Disengage&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Disengage&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="e16bb623-eec8-506c-9d13-cc3098a721ee" sort="3">
+    <name>Dodge</name>
+    <slug>dodge</slug>
+    <content>&lt;h3 id="dodge"&gt;&lt;a id="dodge-dodge"&gt;&lt;/a&gt;&lt;a id="dodge"&gt;&lt;/a&gt;Dodge&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Dodge&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="3184fae3-1d8e-5d6c-a5eb-91928dd16870" sort="3">
+    <name>Extra Attack</name>
+    <slug>extra-attack</slug>
+    <content>&lt;h3 id="extra-attack"&gt;&lt;a id="extra-attack-extra-attack"&gt;&lt;/a&gt;&lt;a id="extra-attack"&gt;&lt;/a&gt;Extra Attack&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Extra Attack&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="f4563759-99ac-5914-b924-13569b952ab1" sort="3">
+    <name>Free Action</name>
+    <slug>free-action</slug>
+    <content>&lt;h3 id="free-action"&gt;&lt;a id="free-action-free-action"&gt;&lt;/a&gt;&lt;a id="free-action"&gt;&lt;/a&gt;Free Action&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Free Action&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="1ed894b4-93a8-56a9-80df-d4b45b356761" sort="3">
+    <name>Help</name>
+    <slug>help</slug>
+    <content>&lt;h3 id="help"&gt;&lt;a id="help-help"&gt;&lt;/a&gt;&lt;a id="help"&gt;&lt;/a&gt;Help&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Help&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="6966dae0-cf56-53ce-a0ec-fb59f85dcdc2" sort="3">
+    <name>Hide</name>
+    <slug>hide</slug>
+    <content>&lt;h3 id="hide"&gt;&lt;a id="hide-hide"&gt;&lt;/a&gt;&lt;a id="hide"&gt;&lt;/a&gt;Hide&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Hide&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="38c4db35-9265-58d1-aa25-eb076276282f" sort="3">
+    <name>Melee Attack</name>
+    <slug>melee-attack</slug>
+    <content>&lt;h3 id="melee-attack"&gt;&lt;a id="melee-attack-melee-attack"&gt;&lt;/a&gt;&lt;a id="melee-attack"&gt;&lt;/a&gt;Melee Attack&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Melee Attack&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="3444cfe8-09d0-573e-a9a9-b188d2b63640" sort="3">
+    <name>Ranged Attack</name>
+    <slug>ranged-attack</slug>
+    <content>&lt;h3 id="ranged-attack"&gt;&lt;a id="ranged-attack-ranged-attack"&gt;&lt;/a&gt;&lt;a id="ranged-attack"&gt;&lt;/a&gt;Ranged Attack&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Ranged Attack&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="33c5f812-a751-5930-b4db-de2cf91e1ba8" sort="3">
+    <name>Reaction</name>
+    <slug>reaction</slug>
+    <content>&lt;h3 id="reaction"&gt;&lt;a id="reaction-reaction"&gt;&lt;/a&gt;&lt;a id="reaction"&gt;&lt;/a&gt;Reaction&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Reaction&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="b4ba162e-659c-5425-ae9b-ddaaff740034" sort="3">
+    <name>Ready</name>
+    <slug>ready</slug>
+    <content>&lt;h3 id="ready"&gt;&lt;a id="ready-ready"&gt;&lt;/a&gt;&lt;a id="ready"&gt;&lt;/a&gt;Ready&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Ready&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="2d4c3241-505f-5b68-a9f8-db4e1d8d14a7" sort="3">
+    <name>Search</name>
+    <slug>search</slug>
+    <content>&lt;h3 id="search"&gt;&lt;a id="search-search"&gt;&lt;/a&gt;&lt;a id="search"&gt;&lt;/a&gt;Search&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Search&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="2455c011-9454-5c69-8d91-9a3a73e59451" sort="3">
+    <name>Use Object</name>
+    <slug>use-object</slug>
+    <content>&lt;h3 id="use-object"&gt;&lt;a id="use-object-use-object"&gt;&lt;/a&gt;&lt;a id="use-object"&gt;&lt;/a&gt;Use Object&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="actions-in-combat"&gt;Actions in Combat&lt;/a&gt; &amp;gt; Use Object&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="a79b0e6b-c315-51bc-8bcf-eb1414560fd7" sort="3">
+    <name>Cover</name>
+    <slug>cover</slug>
+    <content>&lt;h3 id="cover"&gt;&lt;a id="cover-cover"&gt;&lt;/a&gt;&lt;a id="cover"&gt;&lt;/a&gt;Cover&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Cover&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="75ea93e7-276e-5c17-b1c3-07b3d071cbd1" sort="3">
+    <name>Damage</name>
+    <slug>damage</slug>
+    <content>&lt;h3 id="damage"&gt;&lt;a id="damage-damage"&gt;&lt;/a&gt;&lt;a id="damage"&gt;&lt;/a&gt;Damage&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Damage&lt;/p&gt;
+&lt;div id="menu-container"&gt;
+    &lt;a href="critical-hit-and-miss"&gt;Critical&lt;br&gt; Hit &amp;amp; Miss&lt;/a&gt;
+    &lt;a href="damage-type"&gt;Damage&lt;br&gt; Type&lt;/a&gt;
+    &lt;a href="improvised-damage"&gt;Improvised&lt;br&gt; Damage&lt;/a&gt;
+    &lt;a href="nonlethal-damage"&gt;Nonlethal&lt;br&gt; Damage&lt;/a&gt;
+    &lt;a href="resistance-and-vulnerability"&gt;Resistance&lt;br&gt; &amp;amp; Vulnerability&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+&lt;/div&gt;
+</content>
+  </page>
+  <page id="d6782577-3895-5cbd-8df4-5af53926d2e3" sort="3">
+    <name>Critical Hit &amp; Miss</name>
+    <slug>critical-hit-and-miss</slug>
+    <content>&lt;h2 id="critical-hit-%26-miss"&gt;&lt;a id="critical-hit-and-miss-critical-hit-and-miss"&gt;&lt;/a&gt;&lt;a id="critical-hit-and-miss"&gt;&lt;/a&gt;Critical Hit &amp;amp; Miss&lt;/h2&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="damage"&gt;Damage&lt;/a&gt; &amp;gt; Critical Hit &amp;amp; Miss&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="2b266b07-cf72-5316-96bc-cfec70b09f78" sort="3">
+    <name>Damage Type</name>
+    <slug>damage-type</slug>
+    <content>&lt;h3 id="damage-type"&gt;&lt;a id="damage-type-damage-type"&gt;&lt;/a&gt;&lt;a id="damage-type"&gt;&lt;/a&gt;Damage Type&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="damage"&gt;Damage&lt;/a&gt; &amp;gt; Damage Type&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="acfda1d7-88d7-5d58-944a-07a4f273c167" sort="3">
+    <name>Improvised Damage</name>
+    <slug>improvised-damage</slug>
+    <content>&lt;h3 id="improvised-damage"&gt;&lt;a id="improvised-damage-improvised-damage"&gt;&lt;/a&gt;&lt;a id="improvised-damage"&gt;&lt;/a&gt;Improvised Damage&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="damage"&gt;Damage&lt;/a&gt; &amp;gt; Improvised Damage&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="3475b03a-ba6f-533c-823a-7b8d6f645cf1" sort="3">
+    <name>Resistance &amp; Vulnerability</name>
+    <slug>resistance-and-vulnerability</slug>
+    <content>&lt;h3 id="resistance-%26-vulnerability"&gt;&lt;a id="resistance-and-vulnerability-resistance-and-vulnerability"&gt;&lt;/a&gt;&lt;a id="resistance-and-vulnerability"&gt;&lt;/a&gt;Resistance &amp;amp; Vulnerability&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="damage"&gt;Damage&lt;/a&gt; &amp;gt; Resistance &amp;amp; Vulnrability&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="f7851e5b-f335-51f0-a199-0f66142ae52c" sort="3">
+    <name>Nonlethal Damage</name>
+    <slug>nonlethal-damage</slug>
+    <content>&lt;h3 id="nonlethal-damage"&gt;&lt;a id="nonlethal-damage-nonlethal-damage"&gt;&lt;/a&gt;&lt;a id="nonlethal-damage"&gt;&lt;/a&gt;Nonlethal Damage&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; &lt;a href="damage"&gt;Damage&lt;/a&gt; &amp;gt; Nonlethal Damage&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="5e1e094c-eb8d-5f65-b9ae-d03817787ab1" sort="3">
+    <name>Flanking</name>
+    <slug>flanking</slug>
+    <content>&lt;h3 id="flanking"&gt;&lt;a id="flanking-flanking"&gt;&lt;/a&gt;&lt;a id="flanking"&gt;&lt;/a&gt;Flanking&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Flanking&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="4bff0b4d-3dda-53b0-8cf3-0506eae80bdf" sort="3">
+    <name>Grapple &amp; Shove</name>
+    <slug>grapple-and-shove</slug>
+    <content>&lt;h3 id="grapple-%26-shove"&gt;&lt;a id="grapple-and-shove-grapple-and-shove"&gt;&lt;/a&gt;&lt;a id="grapple-and-shove"&gt;&lt;/a&gt;Grapple &amp;amp; Shove&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Grapple &amp;amp; Shove&lt;/p&gt;
+&lt;div id="menu-container"&gt;
+    &lt;a href="critical-hit-and-miss"&gt;Critical&lt;br&gt; Hit &amp;amp; Miss&lt;/a&gt;
+    &lt;a href="damage-type"&gt;Damage&lt;br&gt; Type&lt;/a&gt;
+    &lt;a href="improvised-damage"&gt;Improvised&lt;br&gt; Damage&lt;/a&gt;
+    &lt;a href="nonlethal-damage"&gt;Nonlethal&lt;br&gt; Damage&lt;/a&gt;
+    &lt;a href="resistance-and-vulnerability"&gt;Resistance&lt;br&gt; &amp;amp; Vulnerability&lt;/a&gt;
+&lt;/div&gt;
+</content>
+  </page>
+  <page id="0821d882-6b5d-5708-80f6-8d8cc5e9ee19" sort="3">
+    <name>Mounted Combat</name>
+    <slug>mounted-combat</slug>
+    <content>&lt;h3 id="mounted-combat"&gt;&lt;a id="mounted-combat-mounted-combat"&gt;&lt;/a&gt;&lt;a id="mounted-combat"&gt;&lt;/a&gt;Mounted Combat&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Mounted Combat&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="db21b12f-18f6-5eec-a472-e04d355a30c0" sort="3">
+    <name>Naval Combat</name>
+    <slug>naval-combat</slug>
+    <content>&lt;h3 id="naval-combat"&gt;&lt;a id="naval-combat-naval-combat"&gt;&lt;/a&gt;&lt;a id="naval-combat"&gt;&lt;/a&gt;Naval Combat&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Naval Combat&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="61a1978e-abf4-5bac-982a-91499949614c" sort="3">
+    <name>Object AC &amp; HP</name>
+    <slug>object-ac-and-hp</slug>
+    <content>&lt;h3 id="object-ac-%26-hp"&gt;&lt;a id="object-ac-and-hp-object-ac-and-hp"&gt;&lt;/a&gt;&lt;a id="object-ac-and-hp"&gt;&lt;/a&gt;Object AC &amp;amp; HP&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Object AC &amp;amp; HP&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="3cbeee91-4bbf-560f-bd9b-74bd95ee5e1a" sort="3">
+    <name>Opportunity Attack</name>
+    <slug>opportunity-attack</slug>
+    <content>&lt;h3 id="opportunity-attack"&gt;&lt;a id="opportunity-attack-opportunity-attack"&gt;&lt;/a&gt;&lt;a id="opportunity-attack"&gt;&lt;/a&gt;Opportunity Attack&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Opportunity Attack&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="5bc832fc-ef1c-5c09-b4c8-0fd898163c06" sort="3">
+    <name>Order of Combat</name>
+    <slug>order-of-combat</slug>
+    <content>&lt;h3 id="order-of-combat"&gt;&lt;a id="order-of-combat-order-of-combat"&gt;&lt;/a&gt;&lt;a id="order-of-combat"&gt;&lt;/a&gt;Order of Combat&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Order of Combat&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="32330e85-6d64-5f92-9e6a-a25eedfabdbd" sort="3">
+    <name>Two Weapon Fighting</name>
+    <slug>two-weapon-fighting</slug>
+    <content>&lt;h3 id="two-weapon-fighting"&gt;&lt;a id="two-weapon-fighting-two-weapon-fighting"&gt;&lt;/a&gt;&lt;a id="two-weapon-fighting"&gt;&lt;/a&gt;Two Weapon Fighting&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Two Weapon Fighting&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="b4ef1a01-4ce0-5264-8694-56591b47e851" sort="3">
+    <name>Unarmed Combat</name>
+    <slug>unarmed-combat</slug>
+    <content>&lt;h3 id="unarmed-combat"&gt;&lt;a id="unarmed-combat-unarmed-combat"&gt;&lt;/a&gt;&lt;a id="unarmed-combat"&gt;&lt;/a&gt;Unarmed Combat&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Unarmed Combat&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="bcdf0d9e-a2b3-519b-b5be-c9dd02224779" sort="3">
+    <name>Underwater Combat</name>
+    <slug>underwater-combat</slug>
+    <content>&lt;h3 id="underwater-combat"&gt;&lt;a id="underwater-combat-underwater-combat"&gt;&lt;/a&gt;&lt;a id="underwater-combat"&gt;&lt;/a&gt;Underwater Combat&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Underwater Combat&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="7aceae21-ff61-5210-a244-e7d70da5889a" sort="3">
+    <name>Unseen Attacker</name>
+    <slug>unseen-attacker</slug>
+    <content>&lt;h3 id="unseen-attacker"&gt;&lt;a id="unseen-attacker-unseen-attacker"&gt;&lt;/a&gt;&lt;a id="unseen-attacker"&gt;&lt;/a&gt;Unseen Attacker&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Unseen Attacker&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="2124fe42-2fdd-5009-a963-3f8366450504" sort="4">
+    <name>Conditions &amp; Effects</name>
+    <slug>conditions-and-effects</slug>
+    <content>&lt;h2 id="conditions-%26-effects"&gt;&lt;a id="conditions-and-effects-conditions-and-effects"&gt;&lt;/a&gt;&lt;a id="conditions-and-effects"&gt;&lt;/a&gt;Conditions &amp;amp; Effects&lt;/h2&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Conditions &amp;amp; Effects&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="blinded"&gt;Blinded&lt;/a&gt;
     &lt;a href="deafened"&gt;Deafened&lt;/a&gt;
@@ -1395,13 +1860,19 @@ Player&amp;#x2019;s Handbook, p. 15&lt;/p&gt;
     &lt;a href="stunned"&gt;Stunned&lt;/a&gt;
     &lt;a href="surprised"&gt;Surprised&lt;/a&gt;
     &lt;a href="unconcious"&gt;Unconcious&lt;/a&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;div id="menu-container"&gt;
+    &lt;a href="cursed"&gt;Cursed&lt;/a&gt;
+    &lt;a href="diseased"&gt;Diseased&lt;/a&gt;
+    &lt;a href="Madness"&gt;Madness&lt;/a&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="4107493b-239a-58f0-80ed-c27deb8df4f5" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="4107493b-239a-58f0-80ed-c27deb8df4f5" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Blinded</name>
     <slug>blinded</slug>
     <content>&lt;h3 id="blinded"&gt;&lt;a id="blinded-blinded"&gt;&lt;/a&gt;&lt;a id="blinded"&gt;&lt;/a&gt;Blinded&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Blinded&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Blinded&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;The creature cannot see.&lt;/li&gt;
 &lt;li&gt;All checks that rely on sight fail.&lt;/li&gt;
@@ -1414,11 +1885,11 @@ Player&amp;#x2019;s Handbook, p. 290&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="c364e703-2c18-5f67-b0e3-b0b3325f2d67" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="c364e703-2c18-5f67-b0e3-b0b3325f2d67" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Deafened</name>
     <slug>deafened</slug>
     <content>&lt;h3 id="deafened"&gt;&lt;a id="deafened-deafened"&gt;&lt;/a&gt;&lt;a id="deafened"&gt;&lt;/a&gt;Deafened&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Deafened&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Deafened&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;The creature cannot hear.&lt;/li&gt;
 &lt;li&gt;All checks based on hearing fail.&lt;/li&gt;
@@ -1429,11 +1900,11 @@ Player&amp;#x2019;s Handbook, p. 290&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="5cfdce3c-e819-57d1-a2d2-c7acb3f35775" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="5cfdce3c-e819-57d1-a2d2-c7acb3f35775" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Exhaustion</name>
     <slug>exhaustion</slug>
     <content>&lt;h3 id="exhaustion"&gt;&lt;a id="exhaustion-exhaustion"&gt;&lt;/a&gt;&lt;a id="exhaustion"&gt;&lt;/a&gt;Exhaustion&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Exhaustion&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Exhaustion&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
 &lt;tr&gt;&lt;/tr&gt;
@@ -1477,11 +1948,11 @@ Player&amp;#x2019;s Handbook, p. 291&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="52935a28-640c-5caf-aba9-10418b4e3255" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="52935a28-640c-5caf-aba9-10418b4e3255" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Frightened</name>
     <slug>frightened</slug>
     <content>&lt;h3 id="frightened"&gt;&lt;a id="frightened-frightened"&gt;&lt;/a&gt;&lt;a id="frightened"&gt;&lt;/a&gt;Frightened&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Frightened&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Frightened&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;Afraid of creature causing the effect.&lt;/li&gt;
 &lt;li&gt;&lt;a href="disadvantage"&gt;Disadvantage&lt;/a&gt; on checks if source in sight.&lt;/li&gt;
@@ -1494,11 +1965,11 @@ Player&amp;#x2019;s Handbook, p. 290&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="afbf382f-2e21-5a25-9e66-b7d9b06745fa" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="afbf382f-2e21-5a25-9e66-b7d9b06745fa" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Grappled</name>
     <slug>grappled</slug>
     <content>&lt;h3 id="grappled"&gt;&lt;a id="grappled-grappled"&gt;&lt;/a&gt;&lt;a id="grappled"&gt;&lt;/a&gt;Grappled&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Grappled&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Grappled&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;The grappled creature&amp;#x2019;s speed is 0.&lt;/li&gt;
 &lt;li&gt;Cannot benefit from any bonus to speed.&lt;/li&gt;
@@ -1514,11 +1985,11 @@ Player&amp;#x2019;s Handbook, p. 290&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="8431b253-f233-5dd1-a33f-42f938d24a4e" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="8431b253-f233-5dd1-a33f-42f938d24a4e" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Incapacitated</name>
     <slug>incapacitated</slug>
     <content>&lt;h3 id="incapacitated"&gt;&lt;a id="incapacitated-incapacitated"&gt;&lt;/a&gt;&lt;a id="incapacitated"&gt;&lt;/a&gt;Incapacitated&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Incapacitated&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Incapacitated&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;Cannot take any actions or reactions.&lt;/li&gt;
 &lt;/ul&gt;
@@ -1528,11 +1999,11 @@ Player&amp;#x2019;s Handbook, p. 290&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="dc823821-f256-5f47-b782-626c37300c72" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="dc823821-f256-5f47-b782-626c37300c72" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Invisible</name>
     <slug>invisible</slug>
     <content>&lt;h3 id="invisible"&gt;&lt;a id="invisible-invisible"&gt;&lt;/a&gt;&lt;a id="invisible"&gt;&lt;/a&gt;Invisible&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Invisible&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Invisible&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;Only visible with magic or special &lt;a href="sight"&gt;sight&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Considered &lt;a href="obscured"&gt;heavily obscured&lt;/a&gt; for &lt;a href="hiding"&gt;hiding&lt;/a&gt;.&lt;/li&gt;
@@ -1546,11 +2017,11 @@ Player&amp;#x2019;s Handbook, p. 291&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="fc112b05-8388-5447-92c2-129cfda65987" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="fc112b05-8388-5447-92c2-129cfda65987" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Paralyzed</name>
     <slug>paralyzed</slug>
     <content>&lt;h3 id="paralyzed"&gt;&lt;a id="paralyzed-paralyzed"&gt;&lt;/a&gt;&lt;a id="paralyzed"&gt;&lt;/a&gt;Paralyzed&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Paralyzed&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Paralyzed&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;Creature is &lt;a href="incapacitated"&gt;incapacitated&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Can not move or speak.&lt;/li&gt;
@@ -1564,11 +2035,11 @@ Player&amp;#x2019;s Handbook, p. 291&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="89f1b94b-a710-5e69-86bc-f22be8a33ac1" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="89f1b94b-a710-5e69-86bc-f22be8a33ac1" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Petrified</name>
     <slug>petrified</slug>
     <content>&lt;h3 id="petrified"&gt;&lt;a id="petrified-petrified"&gt;&lt;/a&gt;&lt;a id="petrified"&gt;&lt;/a&gt;Petrified&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Petrified&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Petrified&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;Transformed into a solid substance.&lt;/li&gt;
 &lt;li&gt;Mundane items are transformed too.&lt;/li&gt;
@@ -1587,11 +2058,11 @@ Player&amp;#x2019;s Handbook, p. 291&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="7a8c2337-2906-5744-acf8-fdefd03aeac1" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="7a8c2337-2906-5744-acf8-fdefd03aeac1" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Poisoned</name>
     <slug>poisoned</slug>
     <content>&lt;h3 id="poisoned"&gt;&lt;a id="poisoned-poisoned"&gt;&lt;/a&gt;&lt;a id="poisoned"&gt;&lt;/a&gt;Poisoned&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Poisoned&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Poisoned&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;&lt;a href="advantage-disadvantage"&gt;Disadvantage&lt;/a&gt; on all attack rolls.&lt;/li&gt;
 &lt;li&gt;&lt;a href="advantage-disadvantage"&gt;Disadvantage&lt;/a&gt; on all ability checks.&lt;/li&gt;
@@ -1602,11 +2073,11 @@ Player&amp;#x2019;s Handbook, p. 292&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="c2897676-7460-5fba-866e-1aa143ecfa2c" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="c2897676-7460-5fba-866e-1aa143ecfa2c" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Prone</name>
     <slug>prone</slug>
     <content>&lt;h3 id="prone"&gt;&lt;a id="prone-prone"&gt;&lt;/a&gt;&lt;a id="prone"&gt;&lt;/a&gt;Prone&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Prone&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Prone&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;Only movement option is to &lt;a href="crawling"&gt;crawl&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href="advantage-disadvantage"&gt;Disadvantage&lt;/a&gt; on all attack rolls.&lt;/li&gt;
@@ -1620,11 +2091,11 @@ Player&amp;#x2019;s Handbook, p. 292&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="2ebe19f0-8565-5da9-81de-2284c755afad" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="2ebe19f0-8565-5da9-81de-2284c755afad" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Restrained</name>
     <slug>restrained</slug>
     <content>&lt;h3 id="restrained"&gt;&lt;a id="restrained-restrained"&gt;&lt;/a&gt;&lt;a id="restrained"&gt;&lt;/a&gt;Restrained&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Restrained&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Restrained&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;The creature&amp;#x2019;s speed is 0.&lt;/li&gt;
 &lt;li&gt;Cannot benefit from any bonus to speed.&lt;/li&gt;
@@ -1638,11 +2109,11 @@ Player&amp;#x2019;s Handbook, p. 292&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="383219e4-4b51-5b3a-ba3d-004618f09f9c" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="383219e4-4b51-5b3a-ba3d-004618f09f9c" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Stunned</name>
     <slug>stunned</slug>
     <content>&lt;h3 id="stunned"&gt;&lt;a id="stunned-stunned"&gt;&lt;/a&gt;&lt;a id="stunned"&gt;&lt;/a&gt;Stunned&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Stunned&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Stunned&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;Creature is &lt;a href="incapacitated"&gt;incapacitated&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Cannot move, but can speak falteringly.&lt;/li&gt;
@@ -1662,11 +2133,11 @@ Player&amp;#x2019;s Handbook, p. 292&lt;/p&gt;
 &lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Condition&lt;/p&gt;
 </content>
   </page>
-  <page id="ac65fd4c-d2a5-56f8-80a3-ba3acfe66a8a" parent="2e5061d8-871b-53bb-b7c7-80ed942b1a30">
+  <page id="ac65fd4c-d2a5-56f8-80a3-ba3acfe66a8a" parent="2124fe42-2fdd-5009-a963-3f8366450504">
     <name>Unconcious</name>
     <slug>unconcious</slug>
     <content>&lt;h3 id="unconcious"&gt;&lt;a id="unconcious-unconcious"&gt;&lt;/a&gt;&lt;a id="unconcious"&gt;&lt;/a&gt;Unconcious&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions"&gt;Conditions&lt;/a&gt; &amp;gt; Unconcious&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="conditions-and-effects"&gt;Conditions &amp;amp; Effects&lt;/a&gt; &amp;gt; Unconcious&lt;/p&gt;
 &lt;ul class="square"&gt;
 &lt;li&gt;Creature is &lt;a href="incapacitated"&gt;incapacitated&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Cannot move or speak.&lt;/li&gt;
@@ -1686,39 +2157,321 @@ Player&amp;#x2019;s Handbook, p. 292&lt;/p&gt;
     <name>Downtime</name>
     <slug>downtime</slug>
     <content>&lt;h2 id="downtime"&gt;&lt;a id="downtime-downtime"&gt;&lt;/a&gt;&lt;a id="downtime"&gt;&lt;/a&gt;Downtime&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Downtime&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Downtime&lt;br&gt;&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="brewing-potions"&gt;Brewing Potions&lt;/a&gt;
     &lt;a href="buying-magical-items"&gt;Buying&lt;br&gt; Magical Items&lt;/a&gt;
     &lt;a href="carousing"&gt;Carousing&lt;/a&gt;
     &lt;a href="crafting-items"&gt;Crafting&lt;br&gt; Items&lt;/a&gt;
-    &lt;a href="crime"&gt;Crime&lt;/a&gt;
+    &lt;a href="criminal-activity"&gt;Criminal&lt;br&gt; Activity&lt;/a&gt;
     &lt;a href="enchanting-items"&gt;Enchanting&lt;br&gt; Items&lt;/a&gt;
     &lt;a href="gambling"&gt;Gambling&lt;/a&gt;
     &lt;a href="pit-fighting"&gt;Pit&lt;br&gt; Fighting&lt;/a&gt;
-    &lt;a href="practicing-profession"&gt;Practicing&lt;br&gt; Profession&lt;/a&gt;
+    &lt;a href="practicing-a-profession"&gt;Practicing a&lt;br&gt; Profession&lt;/a&gt;
+    &lt;a href="recuperating"&gt;Recuperating&lt;/a&gt;
     &lt;a href="religious-service"&gt;Religious&lt;br&gt; Service&lt;/a&gt;
     &lt;a href="researching"&gt;Researching&lt;/a&gt;
+    &lt;a href="running-a-business"&gt;Running a&lt;br&gt; Business&lt;/a&gt;
+    &lt;a href="scribing-scrolls"&gt;Scribing&lt;br&gt; Scrolls&lt;/a&gt;
     &lt;a href="training"&gt;Training&lt;/a&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152" sort="6">
-    <name>Encounters</name>
-    <slug>encounters</slug>
-    <content>&lt;h2 id="encounters"&gt;&lt;a id="encounters-encounters"&gt;&lt;/a&gt;&lt;a id="encounters"&gt;&lt;/a&gt;Encounters&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Encounters&lt;/p&gt;
+  <page id="d8982e23-8497-5b8a-ad7e-f4fa86d33643" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Brewing Potions</name>
+    <slug>brewing-potions</slug>
+    <content>&lt;h3 id="brewing-potions"&gt;&lt;a id="brewing-potions-brewing-potions"&gt;&lt;/a&gt;&lt;a id="brewing-potions"&gt;&lt;/a&gt;Brewing Potions&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Brewing Potions&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="39b1bbb4-d8d2-507c-82ab-d876e3156cf4" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Buying Magical Items</name>
+    <slug>buying-magical-items</slug>
+    <content>&lt;h3 id="buying-magical-items"&gt;&lt;a id="buying-magical-items-buying-magical-items"&gt;&lt;/a&gt;&lt;a id="buying-magical-items"&gt;&lt;/a&gt;Buying Magical Items&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Buying Magical Items&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="59058f88-6bbc-5600-bdfb-c3f7737dcb53" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Carousing</name>
+    <slug>carousing</slug>
+    <content>&lt;h3 id="carousing"&gt;&lt;a id="carousing-carousing"&gt;&lt;/a&gt;&lt;a id="carousing"&gt;&lt;/a&gt;Carousing&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Carousing&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="33da68e6-8f7e-53fc-888b-c245f010adef" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Crafting Items</name>
+    <slug>crafting-items</slug>
+    <content>&lt;h3 id="crafting-items"&gt;&lt;a id="crafting-items-crafting-items"&gt;&lt;/a&gt;&lt;a id="crafting-items"&gt;&lt;/a&gt;Crafting Items&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Crafting Items&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="afc904d0-ec2c-52e6-bb6e-64765eddd62e" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Criminal Activity</name>
+    <slug>criminal-activity</slug>
+    <content>&lt;h3 id="criminal-activity"&gt;&lt;a id="criminal-activity-criminal-activity"&gt;&lt;/a&gt;&lt;a id="criminal-activity"&gt;&lt;/a&gt;Criminal Activity&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Criminal Activity&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="a7737cdb-af8c-5f7a-995e-712ebf70443e" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Enchanting Items</name>
+    <slug>enchanting-items</slug>
+    <content>&lt;h3 id="enchanting-items"&gt;&lt;a id="enchanting-items-enchanting-items"&gt;&lt;/a&gt;&lt;a id="enchanting-items"&gt;&lt;/a&gt;Enchanting Items&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Enchanting Items&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="e7653548-104e-547c-8127-af1eef7b4712" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Gambling</name>
+    <slug>gambling</slug>
+    <content>&lt;h3 id="gambling"&gt;&lt;a id="gambling-gambling"&gt;&lt;/a&gt;&lt;a id="gambling"&gt;&lt;/a&gt;Gambling&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Gambling&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="07eac368-736a-52d0-8a4a-1629bef08721" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Pit Fighting</name>
+    <slug>pit-fighting</slug>
+    <content>&lt;h3 id="pit-fighting"&gt;&lt;a id="pit-fighting-pit-fighting"&gt;&lt;/a&gt;&lt;a id="pit-fighting"&gt;&lt;/a&gt;Pit Fighting&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Pit Fighting&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="de1a6986-6324-530f-a0ac-751c5e49ced6" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Practicing a Profession</name>
+    <slug>practicing-a-profession</slug>
+    <content>&lt;h3 id="practicing-a-profession"&gt;&lt;a id="practicing-a-profession-practicing-a-profession"&gt;&lt;/a&gt;&lt;a id="practicing-a-profession"&gt;&lt;/a&gt;Practicing a Profession&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Practicing a Profession&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="723905d5-11a1-5c02-8766-c780937b0956" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Recuperating</name>
+    <slug>recuperating</slug>
+    <content>&lt;h3 id="recuperating"&gt;&lt;a id="recuperating-recuperating"&gt;&lt;/a&gt;&lt;a id="recuperating"&gt;&lt;/a&gt;Recuperating&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Recuperating&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="1c12f79d-11cd-562b-a324-fafcb229712c" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Religious Service</name>
+    <slug>religious-service</slug>
+    <content>&lt;h3 id="religious-service"&gt;&lt;a id="religious-service-religious-service"&gt;&lt;/a&gt;&lt;a id="religious-service"&gt;&lt;/a&gt;Religious Service&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Religious Service&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="b99d13bd-09b7-54e1-b896-683a36ef8bae" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Researching</name>
+    <slug>researching</slug>
+    <content>&lt;h3 id="researching"&gt;&lt;a id="researching-researching"&gt;&lt;/a&gt;&lt;a id="researching"&gt;&lt;/a&gt;Researching&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Researching&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="8ded423d-e78b-55bb-9963-58303c482edb" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Running a Business</name>
+    <slug>running-a-business</slug>
+    <content>&lt;h3 id="running-a-business"&gt;&lt;a id="running-a-business-running-a-business"&gt;&lt;/a&gt;&lt;a id="running-a-business"&gt;&lt;/a&gt;Running a Business&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Running a Business&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="a82f0c7a-d86a-53e7-a8be-e33a64d4e3d2" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Scribing Scrolls</name>
+    <slug>scribing-scrolls</slug>
+    <content>&lt;h3 id="scribing-scrolls"&gt;&lt;a id="scribing-scrolls-scribing-scrolls"&gt;&lt;/a&gt;&lt;a id="scribing-scrolls"&gt;&lt;/a&gt;Scribing Scrolls&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Scribing Scrolls&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="7a66a3ff-fd67-58b1-9699-cac27ad79698" parent="233c2908-81c9-5d78-b291-ad3fa5386cb3">
+    <name>Training</name>
+    <slug>training</slug>
+    <content>&lt;h3 id="training"&gt;&lt;a id="training-training"&gt;&lt;/a&gt;&lt;a id="training"&gt;&lt;/a&gt;Training&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="downtime"&gt;Downtime&lt;/a&gt; &amp;gt; Training&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="76fdd976-e6b6-5c91-b9d8-61b953f5cb51" sort="6">
+    <name>Encounters &amp; Events</name>
+    <slug>encounters-and-events</slug>
+    <content>&lt;h2 id="encounters-%26-events"&gt;&lt;a id="encounters-and-events-encounters-and-events"&gt;&lt;/a&gt;&lt;a id="encounters-and-events"&gt;&lt;/a&gt;Encounters &amp;amp; Events&lt;/h2&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Encounters &amp;amp; Events&lt;/p&gt;
 &lt;div id="menu-container"&gt;
-    &lt;a href="arctic-encounters"&gt;Arctic&lt;/a&gt;
-    &lt;a href="coastal-encounters"&gt;Coastal&lt;/a&gt;
-    &lt;a href="desert-encounters"&gt;Desert&lt;/a&gt;
-    &lt;a href="forest-encounters"&gt;Forest&lt;/a&gt;
-    &lt;a href="grassland-encounters"&gt;Grassland&lt;/a&gt;
-    &lt;a href="hill-encounters"&gt;Hill&lt;/a&gt;
-    &lt;a href="mountain-encounters"&gt;Mountain&lt;/a&gt;
-    &lt;a href="swamp-encounters"&gt;Swamp&lt;/a&gt;
-    &lt;a href="underdark-encounters"&gt;Underdark&lt;/a&gt;
-    &lt;a href="underwater-encounters"&gt;Underwater&lt;/a&gt;
-    &lt;a href="urban-encounters"&gt;Urban&lt;/a&gt;
+    &lt;a href="combat-encounter"&gt;Combat&lt;br&gt; Encounter&lt;/a&gt;
+    &lt;a href="divinations-and-dreams"&gt;Divinations&lt;br&gt; &amp;amp; Dreams&lt;/a&gt;
+    &lt;a href="festivals-and-faires"&gt;Festivals&lt;br&gt; &amp;amp; Faires&lt;/a&gt;
+    &lt;a href="five-room-dungeon"&gt;Five Room&lt;br&gt; Dungeon&lt;/a&gt;
+    &lt;a href="magical-mishap"&gt;Magical&lt;br&gt; Mishap&lt;/a&gt;
+    &lt;a href="naval-encounter"&gt;Naval&lt;br&gt; Encounter&lt;/a&gt;
+    &lt;a href="noncombat-encounter"&gt;Noncombat Encounter&lt;/a&gt;
+    &lt;a href="puzzle-builder"&gt;Puzzle&lt;br&gt; Builder&lt;/a&gt;
+    &lt;a href="tavern-goings-on"&gt;Tavern&lt;br&gt; Goings On&lt;/a&gt;
+    &lt;a href="trap-builder"&gt;Trap&lt;br&gt; Builder&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="ac1b97f1-441f-5d10-8eed-17d3286434f9" parent="76fdd976-e6b6-5c91-b9d8-61b953f5cb51">
+    <name>Combat Encounter</name>
+    <slug>combat-encounter</slug>
+    <content>&lt;h3 id="combat-encounter"&gt;&lt;a id="combat-encounter-combat-encounter"&gt;&lt;/a&gt;&lt;a id="combat-encounter"&gt;&lt;/a&gt;Combat Encounter&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters-and-events"&gt;Encounters &amp;amp; Events&lt;/a&gt; &amp;gt; Combat Encounter&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="f83b3287-1c15-51e0-bd8f-fbab3a92708f" parent="76fdd976-e6b6-5c91-b9d8-61b953f5cb51">
+    <name>Divinations &amp; Dreams</name>
+    <slug>divinations-and-dreams</slug>
+    <content>&lt;h3 id="divinations-%26-dreams"&gt;&lt;a id="divinations-and-dreams-divinations-and-dreams"&gt;&lt;/a&gt;&lt;a id="divinations-and-dreams"&gt;&lt;/a&gt;Divinations &amp;amp; Dreams&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters-and-events"&gt;Encounters &amp;amp; Events&lt;/a&gt; &amp;gt; Divinations &amp;amp; Dreams&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="02595124-aef2-5919-95ab-bddcca5c8cb9" parent="76fdd976-e6b6-5c91-b9d8-61b953f5cb51">
+    <name>Festivals &amp; Faires</name>
+    <slug>festivals-and-faires</slug>
+    <content>&lt;h3 id="festivals-%26-faires"&gt;&lt;a id="festivals-and-faires-festivals-and-faires"&gt;&lt;/a&gt;&lt;a id="festivals-and-faires"&gt;&lt;/a&gt;Festivals &amp;amp; Faires&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters-and-events"&gt;Encounters &amp;amp; Events&lt;/a&gt; &amp;gt; Festivals &amp;amp; Faires&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="ced7a7ab-0b09-574a-934d-27b4bb36d8b0" parent="76fdd976-e6b6-5c91-b9d8-61b953f5cb51">
+    <name>Five Room Dungeon</name>
+    <slug>five-room-dungeon</slug>
+    <content>&lt;h3 id="five-room-dungeon"&gt;&lt;a id="five-room-dungeon-five-room-dungeon"&gt;&lt;/a&gt;&lt;a id="five-room-dungeon"&gt;&lt;/a&gt;Five Room Dungeon&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters-and-events"&gt;Encounters &amp;amp; Events&lt;/a&gt; &amp;gt; Five Room Dungeon&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="84bbf853-57b6-5f16-8350-39135c424471" parent="76fdd976-e6b6-5c91-b9d8-61b953f5cb51">
+    <name>Magical Mishap</name>
+    <slug>magical-mishap</slug>
+    <content>&lt;h3 id="magical-mishap"&gt;&lt;a id="magical-mishap-magical-mishap"&gt;&lt;/a&gt;&lt;a id="magical-mishap"&gt;&lt;/a&gt;Magical Mishap&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters-and-events"&gt;Encounters &amp;amp; Events&lt;/a&gt; &amp;gt; Magical Mishap&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="9ce4bd13-a5f5-5926-9cf9-e8a9a58eb474" parent="76fdd976-e6b6-5c91-b9d8-61b953f5cb51">
+    <name>Naval Encounter</name>
+    <slug>naval-encounter</slug>
+    <content>&lt;h3 id="naval-encounter"&gt;&lt;a id="naval-encounter-naval-encounter"&gt;&lt;/a&gt;&lt;a id="naval-encounter"&gt;&lt;/a&gt;Naval Encounter&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters-and-events"&gt;Encounters &amp;amp; Events&lt;/a&gt; &amp;gt; Naval Encounter&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="39fe191d-1c75-5deb-9129-b353e6207a9e" parent="76fdd976-e6b6-5c91-b9d8-61b953f5cb51">
+    <name>Noncombat Encounter</name>
+    <slug>Noncombat-encounter</slug>
+    <content>&lt;h3 id="noncombat-encounter"&gt;&lt;a id="Noncombat-encounter-noncombat-encounter"&gt;&lt;/a&gt;&lt;a id="noncombat-encounter"&gt;&lt;/a&gt;Noncombat Encounter&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters-and-events"&gt;Encounters &amp;amp; Events&lt;/a&gt; &amp;gt; Noncombat Encounter&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="8d512178-bcfd-527f-a2bf-92569203d3b0" parent="76fdd976-e6b6-5c91-b9d8-61b953f5cb51">
+    <name>Puzzle Builder</name>
+    <slug>puzzle-builder</slug>
+    <content>&lt;h3 id="puzzle-builder"&gt;&lt;a id="puzzle-builder-puzzle-builder"&gt;&lt;/a&gt;&lt;a id="puzzle-builder"&gt;&lt;/a&gt;Puzzle Builder&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters-and-events"&gt;Encounters &amp;amp; Events&lt;/a&gt; &amp;gt; Puzzle Builder&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="a2b57eb0-e820-5af7-b62e-a8102356316b" parent="76fdd976-e6b6-5c91-b9d8-61b953f5cb51">
+    <name>Tavern Goings On</name>
+    <slug>tavern-goings-on</slug>
+    <content>&lt;h3 id="tavern-goings-on"&gt;&lt;a id="tavern-goings-on-tavern-goings-on"&gt;&lt;/a&gt;&lt;a id="tavern-goings-on"&gt;&lt;/a&gt;Tavern Goings On&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters-and-events"&gt;Encounters &amp;amp; Events&lt;/a&gt; &amp;gt; Tavern Goings On&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="28a43384-47e4-50e7-9d07-3e245df6aab5" parent="76fdd976-e6b6-5c91-b9d8-61b953f5cb51">
+    <name>Trap Builder</name>
+    <slug>trap-builder</slug>
+    <content>&lt;h3 id="trap-builder"&gt;&lt;a id="trap-builder-trap-builder"&gt;&lt;/a&gt;&lt;a id="trap-builder"&gt;&lt;/a&gt;Trap Builder&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters-and-events"&gt;Encounters &amp;amp; Events&lt;/a&gt; &amp;gt; Trap Builder&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
   <page id="b98b2811-89d6-532a-b4e6-31f0ed603a09" sort="7">
@@ -1773,11 +2526,11 @@ Player&amp;#x2019;s Handbook, p. 292&lt;/p&gt;
     &lt;a href="upkeep"&gt;Upkeep&lt;/a&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="30e846d8-ee62-5bda-a139-3185f861729f" sort="09">
-    <name>Items</name>
-    <slug>items</slug>
-    <content>&lt;h2 id="items"&gt;&lt;a id="items-items"&gt;&lt;/a&gt;&lt;a id="items"&gt;&lt;/a&gt;Items&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Items&lt;/p&gt;
+  <page id="6f32c0a9-961c-5fa2-8cd0-0482bef434bf" sort="09">
+    <name>Equipment</name>
+    <slug>equipment</slug>
+    <content>&lt;h2 id="equipment"&gt;&lt;a id="equipment-equipment"&gt;&lt;/a&gt;&lt;a id="equipment"&gt;&lt;/a&gt;Equipment&lt;/h2&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Equipment&lt;/p&gt;
 &lt;div id="menu-container"&gt;
     &lt;a href="adventuring-gear"&gt;Adventuring Gear&lt;/a&gt;
     &lt;a href="ammunition"&gt;Ammunition&lt;/a&gt;
@@ -1791,7 +2544,6 @@ Player&amp;#x2019;s Handbook, p. 292&lt;/p&gt;
     &lt;a href="magical-items"&gt;Magical Items&lt;/a&gt;
     &lt;a href="mounts-and-tack"&gt;Mounts &amp;amp; Tack&lt;/a&gt;
     &lt;a href="musical-intruments"&gt;Musical Instruments&lt;/a&gt;
-    &lt;a href="object-ac-and-hp"&gt;Object&lt;br&gt; AC &amp;amp; HP&lt;/a&gt;
     &lt;a href="trade-goods"&gt;Trade&lt;br&gt; Goods&lt;/a&gt;
     &lt;a href="treasure"&gt;Treasure&lt;/a&gt;
     &lt;a href="tools"&gt;Tools&lt;/a&gt;
@@ -2031,5 +2783,28 @@ Player&amp;#x2019;s Handbook, p. 203&lt;/p&gt;
     const TieflingMale = ["Abad","Ahrim","Akmen","Amnon","Andram","Astar","Balam","Barakas","Bathin","Caim","Chem","Cimer","Cressel","Damakos","Ekemon","Euron","Fenriz","Forcas","Habor","Iados","Kairon","Leucis","Mamnen","Mantus","Marbas","Melech","Merihim","Modean","Mordai","Mormo","Morthos","Nicor","Nirgel","Oriax","Paymon","Pelaios","Purson","Qemuel","Raam","Rimmon","Sammal","Skamos","Tethren","Thamuz","Therai","Valafar","Vassago","Xappan","Zepar","Zephan"];
     const TieflingFamily = ["Ambition","Art","Carrion","Chant","Creed","Death","Debauchery","Despair","Doom","Doubt","Dread","Ecstasy","Ennui","Entropy","Excellence","Fear","Glory","Gluttony","Grief","Hate","Hope","Horror","Ideal","Ignominy","Laughter","Love","Lust","Mayhem","Mockery","Murder","Muse","Music","Mystery","Nowhere","Open","Pain","Passion","Poetry","Quest","Random","Reverence","Revulsion","Sorrow","Temerity","Torment","Tragedy","Vice","Virtue","Weary","Wit"];
 &lt;/script&gt; </content>
+  </page>
+  <page id="e6ec3901-6397-5b16-bcdd-a8d1f1638187" sort="0">
+    <name>DM Operations Center</name>
+    <slug>dm-operations-center</slug>
+    <content>&lt;h2 id="dm-operations-center"&gt;&lt;a id="dm-operations-center-dm-operations-center"&gt;&lt;/a&gt;&lt;a id="dm-operations-center"&gt;&lt;/a&gt;DM Operations Center&lt;/h2&gt;
+&lt;p class="small-text"&gt;&lt;em&gt;Preview Release 0.1.0&lt;/em&gt;&lt;/p&gt;
+&lt;div id="menu-container"&gt;
+    &lt;a href="abilities-and-skills"&gt;Abilities&lt;br&gt; &amp;amp; Skills&lt;/a&gt;
+    &lt;a href="character"&gt;Character&lt;/a&gt;
+    &lt;a href="combat"&gt;Combat&lt;/a&gt;
+    &lt;a href="conditions-and-effects"&gt;Conditions&lt;br&gt; &amp;amp; Effects&lt;/a&gt;
+    &lt;a href="downtime"&gt;Downtime&lt;/a&gt;
+    &lt;a href="encounters-and-hooks"&gt;Encounters&lt;br&gt; &amp;amp; Hooks&lt;/a&gt;
+    &lt;a href="environment"&gt;Environment&lt;/a&gt;
+    &lt;a href="expenses"&gt;Expenses&lt;/a&gt;
+    &lt;a href="items"&gt;Items&lt;/a&gt;
+    &lt;a href="life-and-death"&gt;Life &amp;amp; Death&lt;/a&gt;
+    &lt;a href="movement"&gt;Movement&lt;/a&gt;
+    &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt;
+    &lt;a href="treasure"&gt;Treasure&lt;/a&gt;
+    &lt;a href="worldbuilding"&gt;Worldbuilding&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+&lt;/div&gt;</content>
   </page>
 </module>
