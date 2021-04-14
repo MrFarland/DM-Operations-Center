@@ -1,24 +1,24 @@
 ---
-name: Encounters & Hooks
-slug: encounters-and-hooks
+name: Encounters & Events
+slug: encounters-and-events
 order: 06
 ---
-## Encounters & Hooks
-[Home](dm-operations-center) > Encounters & Hooks {.small-text}
+## Encounters & Events
+[Home](dm-operations-center) > Encounters & Events {.small-text}
 
 <div id="menu-container">
-    <a href="combat-encounter">Combat Encounter</a>
+    <a href="combat-encounter">Combat<br/> Encounter</a>
+    <a href="divinations-and-dreams">Divinations<br/> & Dreams</a>
+    <a href="festivals-and-faires">Festivals<br/> & Faires</a>
+    <a href="five-room-dungeon">Five Room<br/> Dungeon</a>
+    <a href="magical-mishap">Magical<br/> Mishap</a>
+    <a href="naval-encounter">Naval<br/> Encounter</a>
+    <a href="noncombat-encounter">Noncombat Encounter</a>
+    <a href="puzzle-builder">Puzzle<br/> Builder</a>
+    <a href="tavern-goings-on">Tavern<br/> Goings On</a>
+    <a href="trap-builder">Trap<br/> Builder</a>
     <a href=".">-</a>
-    <a href="divination">Divination</a>
-    <a href="five-room-dungeon">Five Room Dungeon</a>
     <a href=".">-</a>
-    <a href=".">-</a>
-    <a href=".">-</a>
-    <a href=".">-</a>
-    <a href="magical-mishap">Magical Mishap</a>
-    <a href="puzzle">Puzzle</a>
-    <a href="tavern-going">Tavern</a>
-    <a href="trap">Trap</a>
     <a href=".">-</a>
     <a href=".">-</a>
     <a href=".">-</a>

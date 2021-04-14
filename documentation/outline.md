@@ -117,20 +117,20 @@
     1. Running a Business
     1. Scribing Scolls
     1. Training
-- Encounters & Hooks
+- Encounters & Events
     1. Combat Encounter
+    2. Divinations & Dreams
+    1. Festivals & Faires
     1. Five Room Dungeon
-    1. Non-Combat Encounters
-    1. Tavern
-    1. Divinations
-    1. Sailing Ship
+    1. Magical Mishap
+    1. Naval Encounter
+    1. NonCombat Encounter
+    1. Puzzle Builder
+    1. Tavern Goings On
+    1. Trap Builder
     1. 
     1. 
-    1. Puzzles
-    1. Traps
     1. 
-    1. 
-    1. Mishaps
     1. 
     1. 
 - Environment
