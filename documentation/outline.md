@@ -199,8 +199,6 @@
     1. Foraging
     1. Healing Magic
     1. Healing Potions
-    1. Hit Dice
-    1. Hit Points
     1. Instant Death
     1. Madness
         1. Short Term Madness

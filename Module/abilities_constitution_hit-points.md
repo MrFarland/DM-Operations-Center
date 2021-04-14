@@ -1,10 +1,10 @@
 ---
 name: Hit Points
 slug: hit-points
-parent: life-and-death
+parent: constitution
 ---
 ### Hit Points
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Hit Points {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Constitution](constitution) > Hit Points {.small-text}
 
 Hit Points represent a character's ability to fight as well as their physical health.
 

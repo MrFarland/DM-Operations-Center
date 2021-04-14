@@ -1,10 +1,10 @@
 ---
 name: Hit Dice
 slug: hit-dice
-parent: life-and-death
+parent: constitution
 ---
 ### Hit Dice
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Hit Dice {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Constitution](constitution) > Hit Points {.small-text}
 
 **[HP](hit-points) Restored = Hit Die + [CON](constitution) Mod** {.text-center}
 
