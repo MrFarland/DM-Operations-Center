@@ -1,10 +1,10 @@
 ---
 name: Diseased
 slug: diseased
-parent: conditions-and-effects
+parent: life-and-death
 ---
 ### Diseased
-[Home](home) > [Conditions & Effects](conditions-and-effects) > Diseased {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death) > Diseased {.small-text}
 
 A creature suffers the effects identified in the description of the disease.
 

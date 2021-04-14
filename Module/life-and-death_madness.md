@@ -1,10 +1,10 @@
 ---
 name: Madness
 slug: madness
-parent: conditions-and-effects
+parent: life-and-death
 ---
 ### Madness
-[Home](home) > [Conditions & Effects](conditions-and-effects) > Madness {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death) > Madness {.small-text}
 
 Various items, spells, and effects can cause a creature to suffer the effects of madness. The three types of madness are:
 

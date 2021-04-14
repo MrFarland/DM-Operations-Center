@@ -13,7 +13,7 @@ order: 00
     <a href="conditions-and-effects">Conditions<br/> & Effects</a>
     <a href="downtime">Downtime</a>
     <a href="encounters-and-hooks">Encounters<br/> & Hooks</a>
-    <a href="environment">Environment</a>
+    <a href="environment-and-hazards">Environment & Hazards</a>
     <a href="expenses">Expenses</a>
     <a href="items">Items</a>
     <a href="life-and-death">Life & Death</a>

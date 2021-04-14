@@ -1,10 +1,10 @@
 ---
 name: Spells as Hazards
 slug: spells-as-hazards
-parent: environment
+parent: environment-and-hazards
 ---
 ### Spells as Hazards
-[Home](dm-operations-center) > [Environment](environment) > Spells as Hazards {.small-text}
+[Home](dm-operations-center) > [Environment & Hazards](environment-and-hazards) > Spells as Hazards {.small-text}
 
 | ||
 |--------------------|--------------------------------------|

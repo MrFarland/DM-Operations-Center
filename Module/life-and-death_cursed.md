@@ -1,10 +1,10 @@
 ---
 name: Cursed
 slug: cursed
-parent: conditions-and-effects
+parent: life-and-death
 ---
 ### Cursed
-[Home](home) > [Conditions & Effects](conditions-and-effects) > Cursed {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death) > Cursed {.small-text}
 
 A cursed creature suffers the effects identified in the description of the item, spell, or other source. 
 

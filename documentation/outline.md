@@ -101,6 +101,12 @@
     1. Stunned
     1. Surprised
     1. Unconcious
+    1. Cursed
+    1. Diseased
+    1. Madness
+        1. Short Term Madness
+        1. Long Term Madness
+        1. Indefinite Madness
 - Downtime
     1. Brewing Potions
     1. Buying Magical Items
@@ -122,7 +128,6 @@
     2. Divinations & Dreams
     1. Festivals & Faires
     1. Five Room Dungeon
-    1. Magical Mishap
     1. Naval Encounter
     1. NonCombat Encounter
     1. Puzzle Builder
@@ -133,44 +138,45 @@
     1. 
     1. 
     1. 
-- Environment
+    1. 
+- Environment & Hazards
     1. Desecrated Ground
     1. Eldritch Mist
+    1. Extreme Cold
+    1. Extreme Heat
     1. Falling
         1. Falling into Water
         1. Falling on a Creature
         1. Flying and Falling
         1. Rate of Falling
-    1. High Altitude
+    1. Heavy Precipitation
     1. Light & Vision
         1. Blindsight
         1. Darkvision
         1. Light Sources
         1. Obscurity
         1. Truesight
-        1. Vision
     1. Magical Phenomena
     1. Magical Storms
     1. Spells as Hazards
+    1. Strong Wind
     1. Supernatural Regions
     1. Water Hazards
         1. Blue Holes
         1. Coral Reefs
         1. Currents
         1. Frigid Water
-        1. Ice
+        1. Ice (Slippery)
+        1. Ice (Thin)
         1. Kelp Forest
         1. Kraken's Grave
         1. Lure Lights
         1. Sandbars
         1. Sapping Snow
     1. Weather
-        1. Extreme Cold
-        1. Extreme Heat
-        1. Heavy Precipitation
-        1. Strong Wind
     1. Wilderness Hazards
         1. Avalanches & Rock Slides
+        1. High Altitude
         1. Quicksand
         1. Razorvine
 - Expenses
@@ -212,11 +218,12 @@
     1. Weapons
         1. Weapon Properties
 - Life & Death
+    1. Cursed
     1. Death Saving Throw
+    1. Disease
     1. Food & Water
     1. Foraging
     1. Healing Magic
-    1. Healing Potions
     1. Instant Death
     1. Madness
         1. Short Term Madness
@@ -228,7 +235,7 @@
     1. Rest (Long)
     1. Rest (Short)
     1. Resurrection
-    1. Sleep
+    1. Sleep    1. 
 - Movement
     1. Climbing
     1. Crawling

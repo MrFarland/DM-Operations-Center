@@ -1,10 +1,10 @@
 ---
 name: Tracking
 slug: tracking
-parent: environment
+parent: environment-and-hazards
 ---
 ### Tracking
-[Home](dm-operations-center) > [Environment](environment) > Tracking {.small-text}
+[Home](dm-operations-center) > [Environment & Hazards](environment-and-hazards) > Tracking {.small-text}
 
 | Surface~ | DC |
 |---------|:--:|

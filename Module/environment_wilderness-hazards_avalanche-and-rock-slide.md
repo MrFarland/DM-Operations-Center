@@ -1,10 +1,10 @@
 ---
 name: Avalanche & Rock Slide
 slug: avalanche-and-rock-slide
-parent: environment
+parent: environment-and-hazards
 ---
 ### Avalanche & Rock Slide
-[Home](dm-operations-center) > [Environment](environment) > Avalanche & Rock Slide {.small-text}
+[Home](dm-operations-center) > [Environment & Hazards](environment-and-hazards) > [Wilderness Hazards](wilderness-hazards) > Avalanche & Rock Slide {.small-text}
 
 **300' Wide, 150' Long, 30' Thick** {.text-center}
 

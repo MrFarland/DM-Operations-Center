@@ -1,10 +1,10 @@
 ---
 name: Long Term Madness
 slug: long-term-madness
-parent: conditions-and-effects
+parent: madness
 ---
 ### Long Term Madness
- [Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Long Term Madness {.small-text}
+ [Home](dm-operations-center) > [Life & Death](life-and-death) > [Madness](madness)  > Long Term {.small-text}
 
 **Duration = [1d10](/roll/1d10) x 10 hours** {.text-center}
 

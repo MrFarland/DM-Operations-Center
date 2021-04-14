@@ -1,10 +1,10 @@
 ---
 name: Foraging
 slug: foraging
-parent: environment
+parent: environment-and-hazards
 ---
 ### Foraging
-[Home](dm-operations-center) > [Environment](environment) > Foraging {.small-text}
+[Home](dm-operations-center) > [Environment & Hazards](environment-and-hazards) > Foraging {.small-text}
 | Availability | DC |
 |----------|:--:|
 | Abundant | 10 |
