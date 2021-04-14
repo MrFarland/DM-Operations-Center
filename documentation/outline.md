@@ -63,29 +63,28 @@
         1. Ready
         1. Search
         1. Use Object
-        1. Bonus Actions
+        1. Bonus Action
         1. Extra Attack
-        1. Free Actions
-        1. Reactions
+        1. Free Action
+        1. Reaction
     1. Cover
     1. Damage
-        1. Critical Hits
-        1. Damage Types
-        1. Resistance & Vulnerability
+        1. Critical Hit
+        1. Damage Type
+        1. Improvised Damage
         1. Nonlethal Damage
-        1. Sneak Attack Damage
+        1. Resistance & Vulnerability
     1. Flanking
-    1. Initiative
     1. Grapple & Shove
     1. Mounted Combat
     1. Naval Combat
-    1. Objects AC & HP
+    1. Object AC & HP
+    1. Opportunity Attack
     1. Order of Combat
-    1. Surprise
     1. Two Weapon Fighting
+    1. Unarmed Combat
     1. Underwater Combat
-    1. Unseen Attackers
-    1. ?
+    1. Unseen Attacker
 - Conditions
     1. Blinded
     1. Deafened

@@ -3,7 +3,7 @@ name: Checks & Contests
 slug: checks-and-contests
 order: 01
 ---
-## Abilities
+## Checks & Contests
 [Home](dm-operations-center) > [Abilities](abilities) > Checks & Contests  {.small-text}
 
 <div id="menu-container">

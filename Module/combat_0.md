@@ -7,22 +7,20 @@ order: 03
 [Home](dm-operations-center) > Combat {.small-text}
 
 <div id="menu-container">
-    <a href="action">Action</a>
-    <a href="bonus-action">Bonus Action</a>
+    <a href="actions-in-combat">Actions<br/> in Combat</a>
     <a href="cover">Cover</a>
-    <a href="critical-hit">Critical Hit</a>
-    <a href="damage-resistance">Damage Resistance</a>
-    <a href="damage-type">Damage Type</a>
-    <a href="extra-attack">Extra Attack</a>
-    <a href="free-action">Free Action</a>
-    <a href="grapple-and-shove">Grapple & Shove</a>
-    <a href="initiative">Initiative</a>
-    <a href="mounted-combat">Mounted Combat</a>
-    <a href="naval-combat">Naval Combat</a>
-    <a href="nonlethal-damage">Nonlethal Damage</a>
-    <a href="reaction">Reaction</a>
-    <a href="surprise">Surprise</a>
-    <a href="unarmed-combat">Unarmed Combat</a>
-    <a href="underwater-combat">Underwater Combat</a>
+    <a href="damage">Damage</a>
+    <a href="flanking">Flanking</a>
+    <a href="grapple-and-shove">Grapple<br/> & Shove</a>
+    <a href="mounted-combat">Mounted<br/> Combat</a>
+    <a href="naval-combat">Naval<br/> Combat</a>
+    <a href="nonlethal-damage">Nonlethal<br/> Damage</a>
+    <a href="object-ac-and-hp">Object<br/> AC & HP</a>
+    <a href="order-of-combat">Order of<br/> Combat</a>
+    <a href="two-weapon-fighting">Two Weapon<br/> Fighting</a>
+    <a href="unarmed-combat">Unarmed<br/> Combat</a>
+    <a href="underwater-combat">Underwater<br/> Combat</a>
+    <a href="unseen-attackers">Unseen<br/> Attackers</a>
+    <a href=".">-</a>
 </div>
 
