@@ -17,10 +17,10 @@ order: 09
     <a href="poisons">Poisons</a>
     <a href="musical-intruments">Musical Instruments</a>
     <a href="trade-goods">Trade<br/> Goods</a>
-    <a href="treasure">Treasure</a>
     <a href="trinkets">Trinkets</a>
     <a href="tools">Tools</a>
     <a href="vehicles">Vehicles</a>
     <a href="weapons">Weapons</a>
+    <a href=".">-</a>
 </div>
 <hr/>
