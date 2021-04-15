@@ -1,10 +1,10 @@
 ---
-name: Suffocating
-slug: suffocating
+name: Resurrection
+slug: resurrection
 parent: life-and-death
 ---
-### Suffocating
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Suffocating {.small-text}
+### Resurrection
+[Home](dm-operations-center) > [Life & Death](life-and-death) > Resurrection {.small-text}
 
 
 

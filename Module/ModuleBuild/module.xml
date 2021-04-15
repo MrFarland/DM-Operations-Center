@@ -3985,7 +3985,7 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Life &amp;amp; Death&lt;/p&gt;
 &lt;div class="menu-container"&gt;
     &lt;a href="cursed"&gt;Cursed&lt;/a&gt;
-    &lt;a href="death-savings-throw"&gt;Death Saving Throw&lt;/a&gt;
+    &lt;a href="death-saving-throw"&gt;Death Saving Throw&lt;/a&gt;
     &lt;a href="diseased"&gt;Diseased&lt;/a&gt;
     &lt;a href="food-and-water"&gt;Food &amp;amp; Water&lt;/a&gt;
     &lt;a href="healing"&gt;Healing&lt;/a&gt;
@@ -4023,6 +4023,17 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Dungeon Master&amp;#x2019;s Guide, p. 139&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="dacb5ace-dd74-5f1d-8197-1909e7b91be5" parent="ea1e3714-4a15-5fe3-a9a4-28ac697ae3bf">
+    <name>Death Saving Throw</name>
+    <slug>death-saving-throw</slug>
+    <content>&lt;h3 id="death-saving-throw"&gt;&lt;a id="death-saving-throw-death-saving-throw"&gt;&lt;/a&gt;&lt;a id="death-saving-throw"&gt;&lt;/a&gt;Death Saving Throw&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="life-and-death"&gt;Life &amp;amp; Death&lt;/a&gt; &amp;gt; Death Saving Throw&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Dungeon Master&amp;#x2019;s Guide, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
@@ -4355,6 +4366,17 @@ Dungeon Master&amp;#x2019;s Guide, p. 259&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
+  <page id="ff86b20c-857b-527b-9ce5-3c4751eb73ff" parent="ea1e3714-4a15-5fe3-a9a4-28ac697ae3bf">
+    <name>Resurrection</name>
+    <slug>resurrection</slug>
+    <content>&lt;h3 id="resurrection"&gt;&lt;a id="resurrection-resurrection"&gt;&lt;/a&gt;&lt;a id="resurrection"&gt;&lt;/a&gt;Resurrection&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="life-and-death"&gt;Life &amp;amp; Death&lt;/a&gt; &amp;gt; Resurrection&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Dungeon Master&amp;#x2019;s Guide, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
   <page id="b9964122-b2ff-5545-afa5-061be38d06fd" parent="ea1e3714-4a15-5fe3-a9a4-28ac697ae3bf">
     <name>Short Rest</name>
     <slug>short-rest</slug>
@@ -4431,20 +4453,21 @@ Player&amp;#x2019;s Handbook, p. 198&lt;/p&gt;
     <slug>loot</slug>
     <content>&lt;h2 id="loot"&gt;&lt;a id="loot-loot"&gt;&lt;/a&gt;&lt;a id="loot"&gt;&lt;/a&gt;Loot&lt;/h2&gt;
 &lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Loot&lt;/p&gt;
+&lt;p&gt;None working yet.&lt;/p&gt;
 &lt;div class="menu-container"&gt;
     &lt;a href="."&gt;Bookcase&lt;/a&gt;
     &lt;a href="."&gt;Desk&lt;/a&gt;
+    &lt;a href="."&gt;Backpack&lt;/a&gt;
+    &lt;a href="."&gt;Magical&lt;br&gt; Item&lt;/a&gt;
+    &lt;a href="."&gt;Party&lt;br&gt; Loot&lt;/a&gt;
+    &lt;a href="."&gt;Pickpocket&lt;br&gt; Loot&lt;/a&gt;
+    &lt;a href="."&gt;Spellbook&lt;br&gt; Generator&lt;/a&gt;
+    &lt;a href="."&gt;Treasure&lt;br&gt; Generator&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
-    &lt;a href="."&gt;Magical Item&lt;/a&gt;
-    &lt;a href="."&gt;Party Loot&lt;/a&gt;
-    &lt;a href="."&gt;Pickpocket&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
-    &lt;a href="."&gt;-&lt;/a&gt;
-    &lt;a href="."&gt;Spellbook Generator&lt;/a&gt;
-    &lt;a href="."&gt;Treasure Generator&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
 &lt;/div&gt;
@@ -4456,19 +4479,19 @@ Player&amp;#x2019;s Handbook, p. 198&lt;/p&gt;
     <content>&lt;h2 id="movement"&gt;&lt;a id="movement-movement"&gt;&lt;/a&gt;&lt;a id="movement"&gt;&lt;/a&gt;Movement&lt;/h2&gt;
 &lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Movement&lt;/p&gt;
 &lt;div class="menu-container"&gt;
-    &lt;a href="carry-capacity"&gt;Carry Capacity&lt;/a&gt;
+    &lt;a href="carry-capacity"&gt;Carry&lt;br&gt; Capacity&lt;/a&gt;
     &lt;a href="climbing"&gt;Climbing&lt;/a&gt;
     &lt;a href="crawling"&gt;Crawling&lt;/a&gt;
-    &lt;a href="difficult-terrain"&gt;Difficult Terrain&lt;/a&gt;
+    &lt;a href="difficult-terrain"&gt;Difficult&lt;br&gt; Terrain&lt;/a&gt;
     &lt;a href="flying"&gt;Flying&lt;/a&gt;
-    &lt;a href="forced-march"&gt;Forced March&lt;/a&gt;
+    &lt;a href="forced-march"&gt;Forced&lt;br&gt; March&lt;/a&gt;
     &lt;a href="jumping"&gt;Jumping&lt;/a&gt;
-    &lt;a href="push-drag-lift"&gt;Push, Drag, Lift&lt;/a&gt;
+    &lt;a href="push-drag-lift"&gt;Push, Drag,&lt;br&gt; Lift&lt;/a&gt;
     &lt;a href="size-and-space"&gt;Size &amp;amp; Space&lt;/a&gt;
     &lt;a href="speed"&gt;Speed&lt;/a&gt;
     &lt;a href="swimming"&gt;Swimming&lt;/a&gt;
     &lt;a href="tracking"&gt;Tracking&lt;/a&gt;
-    &lt;a href="travel-speed"&gt;Travel Speed&lt;/a&gt;
+    &lt;a href="travel-speed"&gt;Travel&lt;br&gt; Speed&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
 &lt;/div&gt;
