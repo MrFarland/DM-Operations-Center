@@ -1,7 +1,7 @@
 ---
 name: Acrobatics
 slug: acrobatics
-parent: abilities
+parent: dexterity
 ---
 ### Acrobatics
 [Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Acrobatics {.small-text}

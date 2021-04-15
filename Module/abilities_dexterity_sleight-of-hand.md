@@ -1,7 +1,7 @@
 ---
 name: Sleight of Hand
 slug: sleight-of-hand
-parent: abilities
+parent: dexterity
 ---
 ### Sleight of Hand
 [Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Sleight of Hand {.small-text}

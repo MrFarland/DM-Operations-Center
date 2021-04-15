@@ -1,7 +1,7 @@
 ---
 name: Stealth
 slug: stealth
-parent: abilities
+parent: dexterity
 ---
 ### Stealth
 [Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Sleight of Hand {.small-text}
