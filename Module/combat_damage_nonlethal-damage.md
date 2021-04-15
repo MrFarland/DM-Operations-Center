@@ -1,10 +1,10 @@
 ---
-name: Resistance & Vulnerability
-slug: resistance-and-vulnerability
+name: Nonlethal Damage
+slug: nonlethal-damage
 order: 03
 ---
-### Resistance & Vulnerability
-[Home](dm-operations-center) > [Combat](combat) > [Damage](damage) > Resistance & Vulnrability {.small-text}
+### Nonlethal Damage
+[Home](dm-operations-center) > [Combat](combat) > [Damage](damage) > Nonlethal Damage {.small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. xxx
