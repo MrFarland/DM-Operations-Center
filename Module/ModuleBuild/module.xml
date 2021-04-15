@@ -3848,7 +3848,7 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
     &lt;a href="store-generator"&gt;Store Generator&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="menu-container"&gt;
-    &lt;a href="food-drink"&gt;Food &amp;amp; Drink&lt;/a&gt;
+    &lt;a href="food-and-drink"&gt;Food &amp;amp; Drink&lt;/a&gt;
     &lt;a href="lifestyle"&gt;Lifestyle&lt;/a&gt;
     &lt;a href="lodging"&gt;Lodging&lt;/a&gt;
     &lt;a href="services"&gt;Services&lt;/a&gt;
@@ -3897,11 +3897,11 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="d5cd27a0-1bc3-5eff-a202-6b77d851150b" parent="2575d579-2813-523a-a94b-53bd2cb5bc4b">
-    <name>Serivces</name>
-    <slug>serivces</slug>
-    <content>&lt;h3 id="serivces"&gt;&lt;a id="serivces-serivces"&gt;&lt;/a&gt;&lt;a id="serivces"&gt;&lt;/a&gt;Serivces&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Expenses&lt;/a&gt; &amp;gt; Serivces&lt;/p&gt;
+  <page id="986fe134-ca5b-55fd-a3d1-23c15caba575" parent="2575d579-2813-523a-a94b-53bd2cb5bc4b">
+    <name>Services</name>
+    <slug>services</slug>
+    <content>&lt;h3 id="services"&gt;&lt;a id="services-services"&gt;&lt;/a&gt;&lt;a id="services"&gt;&lt;/a&gt;Services&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="expenses"&gt;Expenses&lt;/a&gt; &amp;gt; Services&lt;/p&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
