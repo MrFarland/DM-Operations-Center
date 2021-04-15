@@ -6,17 +6,15 @@ parent: abilities
 ### Advantage & Disadvantage
 [Home](dm-operations-center) > [Abilities](abilities) > Advantage & Disadvantage {.small-text}
 
-|||
-|:-----------------|:-----------------------------------------------|
-| **Advantage**    | Roll [2d20](/roll/2d20) and take the **higher** of the two rolls. |
-| **Disdvantage**  | Roll [2d20](/roll/2d20) and take the **lower** of the two rolls.  |
+| Advantage | Disadvantage | 
+|:---:|:---:|
+| Roll [2d20](/roll/2d20) & take the **higher** of the two. | Roll [2d20](/roll/2d20) & take the **lower** of the two. |
 {.gray}
 
-- No double advantage or disadvantage.
-- A creature with both has neither.
+- A creature cannot have **double** advantage or disadvantage. Can only have one or the other.
+- A creature with advantage & disadvantage, regardless of how many times has neither.
+- If something grants a creature the ability to reroll a die, they choose which die to reroll.
 {.square}
-
-***Note**: If something grants a creature the ability to reroll a die, they choose which one to reroll.*
 
 > **Sources** <br/>
 > Player's Handbook, p. 173

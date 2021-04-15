@@ -7,7 +7,7 @@ order: 05
 [Home](dm-operations-center) > Downtime<br/> {.small-text}
 
 <div class="menu-container">
-    <a href="brewing-potions">Brewing Potions</a>
+    <a href="brewing-potions">Brewing<br/> Potions</a>
     <a href="buying-magical-items">Buying<br/> Magical Items</a>
     <a href="carousing">Carousing</a>
     <a href="crafting-items">Crafting<br/> Items</a>
