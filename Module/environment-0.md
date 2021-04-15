@@ -19,7 +19,7 @@ order: 07
     <a href="spells-as-hazards">Spells as<br/> Hazards</a>
     <a href="supernatural-regions">Supernatural<br/> Regions</a>
     <a href="water-hazards">Water<br/> Hazards</a>
-    <a href="weather-machine">Weather<br/> Machine</a>
+    <a href="weather">Weather</a>
     <a href="wilderness-hazards">Wilderness<br/> Hazards</a>
     <a href=".">-</a>
 </div>

@@ -3053,16 +3053,12 @@ Xanathar&amp;#x2019;s Guide to Everything, p. 77&lt;br&gt;
 &lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Falling&lt;/p&gt;
 &lt;p class="text-center"&gt;&lt;strong&gt;&lt;a href="/roll/1d6"&gt;1d6&lt;/a&gt; per 10&amp;#x2019; and land &lt;a href="prone"&gt;prone&lt;/a&gt; - Max &lt;a href="/roll/20d6"&gt;20d6&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="menu-container"&gt;
-    &lt;a href="falling-into-water"&gt;Falling&lt;br&gt; into Water&lt;/a&gt;
+    &lt;a href="falling-in-water"&gt;Falling&lt;br&gt; in Water&lt;/a&gt;
     &lt;a href="falling-on-a-creature"&gt;Falling on&lt;br&gt; a Creature&lt;/a&gt;
     &lt;a href="flying-and-falling"&gt;Flying &amp;amp;&lt;br&gt; Falling&lt;/a&gt;
     &lt;a href="rate-of-falling"&gt;Rate of&lt;br&gt; Falling&lt;/a&gt;
 &lt;/div&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
+&lt;hr&gt;</content>
   </page>
   <page id="fa8062c9-adc5-5f4e-b90e-61d2c43d1649" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
     <name>Heavy Precipitation</name>
@@ -3074,6 +3070,87 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
+  </page>
+  <page id="9ea47859-8a66-57f3-b0ca-ce8f7b8a4ea5" parent="61c84511-abe1-59fc-bff6-c1dfa4e39b9e">
+    <name>Blindsight</name>
+    <slug>blindsight</slug>
+    <content>&lt;h3 id="blindsight"&gt;&lt;a id="blindsight-blindsight"&gt;&lt;/a&gt;&lt;a id="blindsight"&gt;&lt;/a&gt;Blindsight&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; &lt;a href="light-and-vision"&gt;Light &amp;amp; Vision&lt;/a&gt; &amp;gt; Blindsight&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="bc6b640d-6c5d-5da5-a3f6-81ada1b0a1e5" parent="61c84511-abe1-59fc-bff6-c1dfa4e39b9e">
+    <name>Darkvision</name>
+    <slug>darkvision</slug>
+    <content>&lt;h3 id="darkvision"&gt;&lt;a id="darkvision-darkvision"&gt;&lt;/a&gt;&lt;a id="darkvision"&gt;&lt;/a&gt;Darkvision&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; &lt;a href="light-and-vision"&gt;Light &amp;amp; Vision&lt;/a&gt; &amp;gt; Darkvision&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="ff6cd501-5b97-5b45-8a52-f833b663805a" parent="61c84511-abe1-59fc-bff6-c1dfa4e39b9e">
+    <name>Lightly Obscured</name>
+    <slug>lightly-obscured</slug>
+    <content>&lt;h3 id="lightly-obscured"&gt;&lt;a id="lightly-obscured-lightly-obscured"&gt;&lt;/a&gt;&lt;a id="lightly-obscured"&gt;&lt;/a&gt;Lightly Obscured&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; &lt;a href="light-and-vision"&gt;Light &amp;amp; Vision&lt;/a&gt; &amp;gt; Lightly Obscured&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="a01456e0-9556-5ade-bb87-7e52bd402c79" parent="61c84511-abe1-59fc-bff6-c1dfa4e39b9e">
+    <name>Light Sources</name>
+    <slug>light-sources</slug>
+    <content>&lt;h3 id="light-sources"&gt;&lt;a id="light-sources-light-sources"&gt;&lt;/a&gt;&lt;a id="light-sources"&gt;&lt;/a&gt;Light Sources&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; &lt;a href="light-and-vision"&gt;Light &amp;amp; Vision&lt;/a&gt; &amp;gt; Light Sources&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="1ef84e19-35cf-55eb-a79b-cc6f2c6a1282" parent="61c84511-abe1-59fc-bff6-c1dfa4e39b9e">
+    <name>Heavily Obscured</name>
+    <slug>heavily-obscured</slug>
+    <content>&lt;h3 id="heavily-obscured"&gt;&lt;a id="heavily-obscured-heavily-obscured"&gt;&lt;/a&gt;&lt;a id="heavily-obscured"&gt;&lt;/a&gt;Heavily Obscured&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; &lt;a href="light-and-vision"&gt;Light &amp;amp; Vision&lt;/a&gt; &amp;gt; Heavily Obscured&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="725a8655-2318-5447-831f-71ae03eb1085" parent="61c84511-abe1-59fc-bff6-c1dfa4e39b9e">
+    <name>Truesight</name>
+    <slug>truesight</slug>
+    <content>&lt;h3 id="truesight"&gt;&lt;a id="truesight-truesight"&gt;&lt;/a&gt;&lt;a id="truesight"&gt;&lt;/a&gt;Truesight&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; &lt;a href="light-and-vision"&gt;Light &amp;amp; Vision&lt;/a&gt; &amp;gt; Truesight&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="61c84511-abe1-59fc-bff6-c1dfa4e39b9e" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Light &amp; Vision</name>
+    <slug>light-and-vision</slug>
+    <content>&lt;h3 id="light-%26-vision"&gt;&lt;a id="light-and-vision-light-and-vision"&gt;&lt;/a&gt;&lt;a id="light-and-vision"&gt;&lt;/a&gt;Light &amp;amp; Vision&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Light &amp;amp; Vision&lt;/p&gt;
+&lt;div class="menu-container"&gt;
+    &lt;a href="blindsight"&gt;Blindsight&lt;/a&gt;
+    &lt;a href="darkvision"&gt;Darkvision&lt;/a&gt;
+    &lt;a href="light-sources"&gt;Light&lt;br&gt; Sources&lt;/a&gt;
+    &lt;a href="heavily-obscured"&gt;Obscured&lt;br&gt; (Heavily)&lt;/a&gt;
+    &lt;a href="lightly-obscured"&gt;Obscured&lt;br&gt; (Lightly)&lt;/a&gt;
+    &lt;a href="truesight"&gt;Truesight&lt;/a&gt;
+&lt;/div&gt;
+&lt;hr&gt;</content>
   </page>
   <page id="4322a4a0-c137-5d20-886d-e1313fdac6df" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
     <name>Magical Phenomena</name>
@@ -3231,91 +3308,6 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="9ea47859-8a66-57f3-b0ca-ce8f7b8a4ea5" parent="006df6fd-0d9e-5739-8579-d67d3ee0ca7e">
-    <name>Blindsight</name>
-    <slug>blindsight</slug>
-    <content>&lt;h3 id="blindsight"&gt;&lt;a id="blindsight-blindsight"&gt;&lt;/a&gt;&lt;a id="blindsight"&gt;&lt;/a&gt;Blindsight&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; &lt;a href="vision"&gt;Vision&lt;/a&gt; &amp;gt; Blindsight&lt;/p&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="bc6b640d-6c5d-5da5-a3f6-81ada1b0a1e5" parent="006df6fd-0d9e-5739-8579-d67d3ee0ca7e">
-    <name>Darkvision</name>
-    <slug>darkvision</slug>
-    <content>&lt;h3 id="darkvision"&gt;&lt;a id="darkvision-darkvision"&gt;&lt;/a&gt;&lt;a id="darkvision"&gt;&lt;/a&gt;Darkvision&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; &lt;a href="vision"&gt;Vision&lt;/a&gt; &amp;gt; Darkvision&lt;/p&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="ff6cd501-5b97-5b45-8a52-f833b663805a" parent="006df6fd-0d9e-5739-8579-d67d3ee0ca7e">
-    <name>Lightly Obscured</name>
-    <slug>lightly-obscured</slug>
-    <content>&lt;h3 id="lightly-obscured"&gt;&lt;a id="lightly-obscured-lightly-obscured"&gt;&lt;/a&gt;&lt;a id="lightly-obscured"&gt;&lt;/a&gt;Lightly Obscured&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; &lt;a href="vision"&gt;Vision&lt;/a&gt; &amp;gt; Lightly Obscured&lt;/p&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="a01456e0-9556-5ade-bb87-7e52bd402c79" parent="006df6fd-0d9e-5739-8579-d67d3ee0ca7e">
-    <name>Light Sources</name>
-    <slug>light-sources</slug>
-    <content>&lt;h3 id="light-sources"&gt;&lt;a id="light-sources-light-sources"&gt;&lt;/a&gt;&lt;a id="light-sources"&gt;&lt;/a&gt;Light Sources&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; &lt;a href="vision"&gt;Vision&lt;/a&gt; &amp;gt; Light Sources&lt;/p&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="1ef84e19-35cf-55eb-a79b-cc6f2c6a1282" parent="006df6fd-0d9e-5739-8579-d67d3ee0ca7e">
-    <name>Heavily Obscured</name>
-    <slug>heavily-obscured</slug>
-    <content>&lt;h3 id="heavily-obscured"&gt;&lt;a id="heavily-obscured-heavily-obscured"&gt;&lt;/a&gt;&lt;a id="heavily-obscured"&gt;&lt;/a&gt;Heavily Obscured&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; &lt;a href="vision"&gt;Vision&lt;/a&gt; &amp;gt; Heavily Obscured&lt;/p&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="725a8655-2318-5447-831f-71ae03eb1085" parent="006df6fd-0d9e-5739-8579-d67d3ee0ca7e">
-    <name>Truesight</name>
-    <slug>truesight</slug>
-    <content>&lt;h3 id="truesight"&gt;&lt;a id="truesight-truesight"&gt;&lt;/a&gt;&lt;a id="truesight"&gt;&lt;/a&gt;Truesight&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; &lt;a href="vision"&gt;Vision&lt;/a&gt; &amp;gt; Truesight&lt;/p&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="006df6fd-0d9e-5739-8579-d67d3ee0ca7e" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
-    <name>Vision</name>
-    <slug>vision</slug>
-    <content>&lt;h3 id="vision"&gt;&lt;a id="vision-vision"&gt;&lt;/a&gt;&lt;a id="vision"&gt;&lt;/a&gt;Vision&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Vision&lt;/p&gt;
-&lt;div class="menu-container"&gt;
-    &lt;a href="blindsight"&gt;Blindsight&lt;/a&gt;
-    &lt;a href="darkvision"&gt;Darkvision&lt;/a&gt;
-    &lt;a href="light-sources"&gt;Light&lt;br&gt; Sources&lt;/a&gt;
-    &lt;a href="heavily-obscured"&gt;Obscured&lt;br&gt; (Heavily)&lt;/a&gt;
-    &lt;a href="lightly-obscured"&gt;Obscured&lt;br&gt; (Lightly)&lt;/a&gt;
-    &lt;a href="truesight"&gt;Truesight&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
   <page id="b02c5a02-dd4a-5a54-aee0-f1eb88c8ed2a" parent="b3d796ab-ee65-50c0-b46a-0efcb514dab9">
     <name>Blue Hole</name>
     <slug>blue-hole</slug>
@@ -3456,11 +3448,8 @@ Ghosts of Saltmarsh, p. xxx&lt;/p&gt;
     &lt;a href="sapping-snow"&gt;Sapping Snow&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
 &lt;/div&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
+&lt;hr&gt;
+</content>
   </page>
   <page id="26919d1f-9f77-5b2c-8af2-114f1196d1a0" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
     <name>Weather</name>
@@ -3606,11 +3595,8 @@ Dungeon Master&amp;#x2019;s Guide, p. xxx&lt;/p&gt;
     &lt;a href="quicksand"&gt;Quicksand&lt;/a&gt;
     &lt;a href="razorvine"&gt;Razorvine&lt;/a&gt;
 &lt;/div&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
+&lt;hr&gt;
+</content>
   </page>
   <page id="6f32c0a9-961c-5fa2-8cd0-0482bef434bf" sort="09">
     <name>Equipment</name>
@@ -3628,11 +3614,11 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
     &lt;a href="poisons"&gt;Poisons&lt;/a&gt;
     &lt;a href="musical-intruments"&gt;Musical Instruments&lt;/a&gt;
     &lt;a href="trade-goods"&gt;Trade&lt;br&gt; Goods&lt;/a&gt;
-    &lt;a href="treasure"&gt;Treasure&lt;/a&gt;
     &lt;a href="trinkets"&gt;Trinkets&lt;/a&gt;
     &lt;a href="tools"&gt;Tools&lt;/a&gt;
     &lt;a href="vehicles"&gt;Vehicles&lt;/a&gt;
     &lt;a href="weapons"&gt;Weapons&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
 &lt;/div&gt;
 &lt;hr&gt;</content>
   </page>
@@ -3754,7 +3740,7 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
   <page id="68954148-5f70-5536-86c1-3d1185a8d4f3" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
     <name>Musical Instruments</name>
     <slug>musical-instruments</slug>
-    <content>&lt;h3 id="firearms"&gt;&lt;a id="musical-instruments-firearms"&gt;&lt;/a&gt;&lt;a id="firearms"&gt;&lt;/a&gt;Firearms&lt;/h3&gt;
+    <content>&lt;h3 id="musical-instruments"&gt;&lt;a id="musical-instruments-musical-instruments"&gt;&lt;/a&gt;&lt;a id="musical-instruments"&gt;&lt;/a&gt;Musical Instruments&lt;/h3&gt;
 &lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="equipment"&gt;Equipment&lt;/a&gt; &amp;gt; Musical Instruments&lt;/p&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
