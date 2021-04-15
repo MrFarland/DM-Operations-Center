@@ -20,8 +20,5 @@ parent: environment
     <a href="sapping-snow">Sapping Snow</a>
     <a href=".">-</a>
 </div>
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx<br/>
-{.read .small-text}
+<hr/>
 

@@ -12,8 +12,5 @@ parent: environment
     <a href="quicksand">Quicksand</a>
     <a href="razorvine">Razorvine</a>
 </div>
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx<br/>
-{.read .small-text}
+<hr/>
 

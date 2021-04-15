@@ -14,8 +14,4 @@ parent: environment
     <a href="lightly-obscured">Obscured<br/> (Lightly)</a>
     <a href="truesight">Truesight</a>
 </div>
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx<br/>
-{.read .small-text}
-
+<hr/>

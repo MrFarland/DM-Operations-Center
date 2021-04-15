@@ -14,8 +14,4 @@ parent: environment
     <a href="flying-and-falling">Flying &<br/> Falling</a>
     <a href="rate-of-falling">Rate of<br/> Falling</a>
 </div>
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx<br/>
-{.read .small-text}
-
+<hr/>
