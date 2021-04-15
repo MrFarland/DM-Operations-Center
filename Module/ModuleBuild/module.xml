@@ -251,7 +251,7 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="d149950d-0fa5-5677-b9fd-419ab438a61e">
+  <page id="d149950d-0fa5-5677-b9fd-419ab438a61e" parent="18ebed56-161c-55e3-8854-436d0d3632c1">
     <name>Deception</name>
     <slug>deception</slug>
     <content>&lt;h3 id="deception"&gt;&lt;a id="deception-deception"&gt;&lt;/a&gt;&lt;a id="deception"&gt;&lt;/a&gt;Deception&lt;/h3&gt;
@@ -3462,11 +3462,11 @@ Ghosts of Saltmarsh, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="26919d1f-9f77-5b2c-8af2-114f1196d1a0">
+  <page id="26919d1f-9f77-5b2c-8af2-114f1196d1a0" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
     <name>Weather</name>
     <slug>weather</slug>
     <content>&lt;h3 id="weather"&gt;&lt;a id="weather-weather"&gt;&lt;/a&gt;&lt;a id="weather"&gt;&lt;/a&gt;Weather&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment-and-hazards"&gt;Environment &amp;amp; Hazards&lt;/a&gt; &amp;gt; Weather&lt;/p&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Weather&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Temperature&lt;/strong&gt;&lt;/p&gt;
 &lt;table class="gray small-text"&gt;
 &lt;thead&gt;
@@ -4648,11 +4648,11 @@ Dungeon Master&amp;#x2019;s Guide, p. xxx&lt;/p&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="a0ddddf2-515c-517a-854d-11818b3b1c1b" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
-    <name>Area of Effects</name>
-    <slug>area-of-effects</slug>
-    <content>&lt;h3 id="area-of-effects"&gt;&lt;a id="area-of-effects-area-of-effects"&gt;&lt;/a&gt;&lt;a id="area-of-effects"&gt;&lt;/a&gt;Area of Effects&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Area of Effects&lt;/p&gt;
+  <page id="a0a52231-3ac6-5164-baac-c07069a4c573" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
+    <name>Area of Effect</name>
+    <slug>area-of-effect</slug>
+    <content>&lt;h3 id="area-of-effect"&gt;&lt;a id="area-of-effect-area-of-effect"&gt;&lt;/a&gt;&lt;a id="area-of-effect"&gt;&lt;/a&gt;Area of Effect&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Area of Effect&lt;/p&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
