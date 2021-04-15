@@ -1,7 +1,7 @@
 ---
 name: History
 slug: history
-parent: abilities
+parent: intelligence
 ---
 ### History
 [Home](dm-operations-center) > [Abilities](abilities) > [Intelligence](intelligence) > History {.small-text}

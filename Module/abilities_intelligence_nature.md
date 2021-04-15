@@ -1,10 +1,10 @@
 ---
 name: Nature
 slug: nature
-parent: abilities
+parent: intelligence
 ---
 ### Nature
-[Home](dm-operations-center) > [Abilities](abilities) > Nature {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Intelligence](intelligence) > Nature {.small-text}
 
 Knowledge of the world, geography, and creatures.
 

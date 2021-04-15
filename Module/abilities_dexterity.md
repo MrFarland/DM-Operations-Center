@@ -15,17 +15,14 @@ Balance, agility, and general nimbleness
 - Craft a small or detailed object.
 {.square}
 
-**Attack & Damage Rolls**<br/>
-- [Melee Attacks](melee-attack) (w/ [Finesse Weapons](weapon-properties))
-- [Ranged Attacks](ranged-attack)
-{.square}
-
 **Skills & Other Abilities**
 <div class="menu-container">
     <a href="acrobatics">Acrobatics</a>
-    <a href="armor-class">Armor Class</a>
+    <a href="melee-attack">Attack<br/> (Melee)</a>
+    <a href="ranged-attack">Attack (Ranged)</a>
+    <a href="armor-class">Armor<br/> Class</a>
     <a href="initiative">Initiative</a>
-    <a href="sleight-of-hand">Sleight of Hand</a>
+    <a href="sleight-of-hand">Sleight<br/> of Hand</a>
     <a href="stealth">Stealth</a>
 </div>
 

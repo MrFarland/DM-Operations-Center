@@ -9,7 +9,7 @@ parent: abilities
 Mental acuity, recall, and ability to reason.
 
 **Ability Checks**<br/>
-- Communicate without a shared language.
+- Communicate without a shared [language](languages).
 - Estimate the value of an item.
 - Recall lore about a craft or trade.
 - Win a game of skill, like chess
@@ -22,6 +22,8 @@ Mental acuity, recall, and ability to reason.
     <a href="investigation">Investigation</a>
     <a href="nature">Nature</a>
     <a href="religion">Religion</a>
+    <a href="spell-attack-bonus">Spell Attack</a>
+    <a href="spell-save-dc">Spell Save DC</a>
 </div>
 
 > **Sources** <br/>

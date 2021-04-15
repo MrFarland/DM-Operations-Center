@@ -1,7 +1,7 @@
 ---
 name: Investigation
 slug: investigation
-parent: abilities
+parent: intelligence
 ---
 ### Investigation
 [Home](dm-operations-center) > [Abilities](abilities) > [Intelligence](intelligence) > Investigation {.small-text}
