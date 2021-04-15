@@ -1,10 +1,10 @@
 ---
-name: Checks & Contests
-slug: checks-and-contests
+name: Checks
+slug: checks
 order: 01
 ---
-## Checks & Contests
-[Home](dm-operations-center) > [Abilities](abilities) > Checks & Contests  {.small-text}
+## Checks
+[Home](dm-operations-center) > [Abilities](abilities) > Checks  {.small-text}
 
 <div class="menu-container">
     <a href="ability-check">Ability Check</a>

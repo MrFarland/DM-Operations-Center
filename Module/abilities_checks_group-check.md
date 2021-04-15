@@ -1,10 +1,10 @@
 ---
 name: Group Check
 slug: group-check
-parent: checks-and-contests
+parent: checks
 ---
 ### Group Check
-[Home](dm-operations-center) > [Abilities](abilities) > [Checks & Contests](checks-and-contests) > Group Check {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Checks](checks) > Group Check {.small-text}
 
 **Success = 50% ≥ Check [DC](difficulty-class)** {.text-center}
 

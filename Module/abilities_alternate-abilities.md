@@ -8,7 +8,7 @@ parent: abilities
 
 Depending on the situation, skills may be paired with alternate abilities from their base ability.
 
-| Examples|||
+| Examples |||
 |:---------------------------------------|:--------------------|:----------------------------------------------------|
 | **[Animal Handling](animal-handling)** | [STR](strength)     | Attempting to subdue an animal with brute strength. |
 | **[Athletics](athletics)**             | [DEX](dexterity)    | An athletic feat, that requires agility more than strength. |

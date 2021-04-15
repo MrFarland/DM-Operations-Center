@@ -1,10 +1,10 @@
 ---
-name: Contest Check
-slug: contest-check
-parent: checks-and-contests
+name: Contest
+slug: contest
+parent: checks
 ---
 ### Contest
-[Home](dm-operations-center) > [Abilities](abilities) > [Checks & Contests](checks-and-contests) > Contest {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Checks](checks) > Contest {.small-text}
 
 **Success = Initiator's Roll > Defender's Roll** {.text-center}
 

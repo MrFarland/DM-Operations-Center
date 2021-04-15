@@ -32,7 +32,7 @@
     1. Ability Modifiers
     1. Advantage & Disadvantage
     1. Alternate Abilities
-    1. Checks & Contests
+    1. Checks
         1. Ability Checks
         1. Contest
         1. Group Check

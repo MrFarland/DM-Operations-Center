@@ -1,10 +1,10 @@
 ---
 name: Ability Check
 slug: ability-check
-parent: checks-and-contests
+parent: checks
 ---
 ### Ability Check
-[Home](dm-operations-center) > [Abilities](abilities) > [Checks & Contests](checks-and-contests) > Ability Check {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Checks](checks) > Ability Check {.small-text}
 
 **Success = [1d20](/roll/1d20) + [Ability](ability-modifier) + ([Prof.](proficiency-bonus)) ≥ [DC](difficulty-class)** {.text-center}
 

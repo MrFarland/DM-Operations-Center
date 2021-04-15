@@ -19,9 +19,7 @@ order: 01
     <a href="ability-modifiers">Ability<br/> Modifiers</a>
     <a href="advantage-and-disadvantage">Advantage & Disadvantage</a>
     <a href="alternate-abilities">Alternate<br/> Abilities</a>
-    <a href="checks-and-contests">Checks & Contests</a>
+    <a href="checks">Checks</a>
     <a href="difficulty-class">Difficulty<br/> Class</a>
     <a href="working-together">Working<br/> Together</a>
 </div>
-
-
