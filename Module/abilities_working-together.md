@@ -1,10 +1,10 @@
 ---
 name: Working Together
 slug: working-together
-parent: abilities-and-skills
+parent: abilities
 ---
 ### Working Together
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Working Together {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Working Together {.small-text}
 
 - PC leading the activity has [advantage](advantage-disadvantage).
 - Assistance must be practical for the task.

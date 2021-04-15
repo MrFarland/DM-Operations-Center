@@ -1,10 +1,10 @@
 ---
 name: Incapacitated
 slug: incapacitated
-parent: conditions-and-effects
+parent: conditions
 ---
  ### Incapacitated
- [Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Incapacitated {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions) > Incapacitated {.small-text}
 
  - Cannot take any actions or reactions.
  {.square}

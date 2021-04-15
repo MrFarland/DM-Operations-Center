@@ -1,10 +1,10 @@
 ---
 name: Difficulty Class
 slug: difficulty-class
-parent: abilities-and-skills
+parent: abilities
 ---
 ### Difficulty Class
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Difficulty Class {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Difficulty Class {.small-text}
 
 |||
 |:----------|:--:|

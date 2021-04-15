@@ -4,7 +4,7 @@ slug: saving-throw
 parent: checks-and-contests
 ---
 ### Saving Throw
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > [Checks & Contests](checks-and-contests) > Saving Throw {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Checks & Contests](checks-and-contests) > Saving Throw {.small-text}
 
 **Success = [1d20](/roll/1d20) + [Ability Mod](ability-modifier) + ([Prof \*](proficiency-bonus))** ≥ [DC](difficulty-class) {.text-center}
 

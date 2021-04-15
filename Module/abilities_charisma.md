@@ -1,10 +1,10 @@
 ---
 name: Charisma
 slug: charisma
-parent: abilities-and-skills
+parent: abilities
 ---
 ### Charisma
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Charisma {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Charisma {.small-text}
 
 Charm, confidence, eloquence, and personality
     

@@ -1,10 +1,10 @@
 ---
 name: Tavern Goings On
 slug: tavern-goings-on
-parent: encounters-and-events
+parent: encounters
 ---
 ### Tavern Goings On
-[Home](dm-operations-center) > [Encounters & Events](encounters-and-events) > Tavern Goings On {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters) > Tavern Goings On {.small-text}
 
 
 

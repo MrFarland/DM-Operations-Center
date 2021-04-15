@@ -123,7 +123,7 @@
     1. Running a Business
     1. Scribing Scolls
     1. Training
-- Encounters & Events
+- Encounters
     1. Combat Encounter
     2. Divinations & Dreams
     1. Festivals & Faires
@@ -139,7 +139,7 @@
     1. 
     1. 
     1. 
-- Environment & Hazards
+- Environment
     1. Desecrated Ground
     1. Eldritch Mist
     1. Extreme Cold

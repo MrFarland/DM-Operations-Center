@@ -1,10 +1,10 @@
 ---
-name: Encounters & Events
-slug: encounters-and-events
+name: Encounters
+slug: encounters
 order: 06
 ---
-## Encounters & Events
-[Home](dm-operations-center) > Encounters & Events {.small-text}
+## Encounters
+[Home](dm-operations-center) > Encounters {.small-text}
 
 <div class="menu-container">
     <a href="combat-encounter">Combat<br/> Encounter</a>

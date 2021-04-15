@@ -1,10 +1,10 @@
 ---
 name: Arcana
 slug: arcana
-parent: abilities-and-skills
+parent: abilities
 ---
 ### Arcana
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Arcana {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Arcana {.small-text}
 
 Knowledge of all things magical and the planes.
 

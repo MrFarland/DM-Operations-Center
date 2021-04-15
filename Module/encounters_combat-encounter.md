@@ -1,10 +1,10 @@
 ---
 name: Combat Encounter
 slug: combat-encounter
-parent: encounters-and-events
+parent: encounters
 ---
 ### Combat Encounter
-[Home](dm-operations-center) > [Encounters & Events](encounters-and-events) > Combat Encounter {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters) > Combat Encounter {.small-text}
 
 
 

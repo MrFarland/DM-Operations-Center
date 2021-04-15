@@ -4,7 +4,7 @@ slug: hit-dice
 parent: constitution
 ---
 ### Hit Dice
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > [Constitution](constitution) > Hit Points {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Constitution](constitution) > Hit Points {.small-text}
 
 **[HP](hit-points) Restored = Hit Die + [CON](constitution) Mod** {.text-center}
 

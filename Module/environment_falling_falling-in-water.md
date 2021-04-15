@@ -1,10 +1,10 @@
 ---
 name: Falling in Water
 slug: falling-in-water
-parent: environment-and-hazards
+parent: environment
 ---
 ### Falling in Water
-[Home](dm-operations-center) > [Environment & Hazards](environment-and-hazards) > [Falling](falling)  > Falling in Water {.small-text}
+[Home](dm-operations-center) > [Environment](environment) > [Falling](falling)  > Falling in Water {.small-text}
 
 A creature may use their [reaction](reaction) to try and hit head or feet first.
 

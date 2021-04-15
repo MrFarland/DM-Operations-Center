@@ -1,10 +1,10 @@
 ---
 name: Puzzle Builder
 slug: puzzle-builder
-parent: encounters-and-events
+parent: encounters
 ---
 ### Puzzle Builder
-[Home](dm-operations-center) > [Encounters & Events](encounters-and-events) > Puzzle Builder {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters) > Puzzle Builder {.small-text}
 
 
 

@@ -1,10 +1,10 @@
 ---
 name: Noncombat Encounter
 slug: Noncombat-encounter
-parent: encounters-and-events
+parent: encounters
 ---
 ### Noncombat Encounter
-[Home](dm-operations-center) > [Encounters & Events](encounters-and-events) > Noncombat Encounter {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters) > Noncombat Encounter {.small-text}
 
 
 

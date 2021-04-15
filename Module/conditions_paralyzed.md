@@ -1,10 +1,10 @@
 ---
 name: Paralyzed
 slug: paralyzed
-parent: conditions-and-effects
+parent: conditions
 ---
 ### Paralyzed
- [Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Paralyzed {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions) > Paralyzed {.small-text}
 
 - Creature is [incapacitated](incapacitated).
 - Can not move or speak.

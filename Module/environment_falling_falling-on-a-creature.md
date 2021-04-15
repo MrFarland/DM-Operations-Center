@@ -1,10 +1,10 @@
 ---
 name: Falling on a Creatures
 slug: falling-on-a-creature
-parent: environment-and-hazards
+parent: environment
 ---
 ### Falling on a Creature
-[Home](dm-operations-center) > [Environment & Hazards](environment-and-hazards) > [Falling](falling) > Falling on a Creature {.small-text}
+[Home](dm-operations-center) > [Environment](environment) > [Falling](falling) > Falling on a Creature {.small-text}
 A creature about to be landed on may attempt to avoid being hit by the falling creature.
 
 **[DC](difficulty-class)15 [DEX](dexterity) saving throw** {.text-center}

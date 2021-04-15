@@ -1,10 +1,10 @@
 ---
 name: Unconcious
 slug: unconcious
-parent: conditions-and-effects
+parent: conditions
 ---
 ### Unconcious
- [Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Unconcious {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions) > Unconcious {.small-text}
 
 - Creature is [incapacitated](incapacitated).
 - Cannot move or speak.

@@ -1,10 +1,10 @@
 ---
 name: Wisdom
 slug: wisdom
-parent: abilities-and-skills
+parent: abilities
 ---
 ### Wisdom
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Wisdom {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Wisdom {.small-text}
 
 General awareness, perceptiveness and intuition.
 

@@ -1,10 +1,10 @@
 ---
 name: Religion
 slug: religion
-parent: abilities-and-skills
+parent: abilities
 ---
 ### Religion
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Religion {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Religion {.small-text}
 
 Knowledge of religions, gods, cults, and traditions.
 

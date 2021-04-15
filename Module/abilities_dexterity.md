@@ -1,10 +1,10 @@
 ---
 name: Dexterity
 slug: dexterity
-parent: abilities-and-skills
+parent: abilities
 ---
 ### Dexterity
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Dexterity {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Dexterity {.small-text}
 
 Balance, agility, and general nimbleness
 

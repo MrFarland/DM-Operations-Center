@@ -4,7 +4,7 @@ slug: passive-check
 parent: checks-and-contests
 ---
 ### Passive Check
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > [Checks & Contests](checks-and-contests) > Passive Check {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Checks & Contests](checks-and-contests) > Passive Check {.small-text}
 
 **Success = 10 + [Ability](ability-modifier) + ([Prof.](proficiency-bonus))** ≥ [DC](difficulty-class) {.text-center}
 

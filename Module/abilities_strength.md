@@ -1,10 +1,10 @@
 ---
 name: Strength
 slug: strength
-parent: abilities-and-skills
+parent: abilities
 ---
 ### Strength
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Strength {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Strength {.small-text}
 
 Athletic training and raw physical power.
 

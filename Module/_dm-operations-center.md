@@ -7,19 +7,19 @@ order: 00
 *Preview Release 0.1.0* {.small-text}
 
 <div class="menu-container">
-    <a href="abilities-and-skills">Abilities<br/> & Skills</a>
+    <a href="abilities">Abilities</a>
     <a href="character">Character</a>
     <a href="combat">Combat</a>
-    <a href="conditions-and-effects">Conditions<br/> & Effects</a>
+    <a href="conditions">Conditions</a>
     <a href="downtime">Downtime</a>
-    <a href="encounters-and-events">Encounters<br/> & Events</a>
-    <a href="environment-and-hazards">Environment<br/> & Hazards</a>
-    <a href="equipment">Items</a>
-    <a href="life-and-death">Life &<br/> Death</a>
-    <a href="movement-and-travel">Movement<br/> & Travel</a>
-    <a href="shopping-and-expenses">Shopping &<br/> Expenses</a>
+    <a href="encounters">Encounters</a>
+    <a href="environment">Environment</a>
+    <a href="equipment">Equipment</a>
+    <a href="expenses">Expenses</a>
+    <a href="life-and-death">Life & Death</a>
+    <a href="loot">Loot</a>
+    <a href="movement">Movement</a>
     <a href="spellcasting">Spellcasting</a>
-    <a href="treasure-and-loot">Treasure<br/> & Loot</a>
     <a href="worldbuilding">Worldbuilding</a>
     <a href=".">-</a>
 </div>

@@ -1,10 +1,10 @@
 ---
 name: Constitution
 slug: constitution
-parent: abilities-and-skills
+parent: abilities
 ---
 ### Constitution
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Constitution {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Constitution {.small-text}
 
 General health, fortitude, and stamina.
 

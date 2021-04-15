@@ -1,10 +1,10 @@
 ---
 name: Invisible
 slug: invisible
-parent: conditions-and-effects
+parent: conditions
 ---
 ### Invisible
- [Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Invisible {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions) > Invisible {.small-text}
 
 - Only visible with magic or special [sight](sight).
 - Considered [heavily obscured](obscured) for [hiding](hiding).

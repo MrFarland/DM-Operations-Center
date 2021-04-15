@@ -4,7 +4,7 @@ slug: hit-points
 parent: constitution
 ---
 ### Hit Points
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > [Constitution](constitution) > Hit Points {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Constitution](constitution) > Hit Points {.small-text}
 
 Hit Points represent a character's ability to fight as well as their physical health.
 

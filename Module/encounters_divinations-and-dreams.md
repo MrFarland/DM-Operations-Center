@@ -1,10 +1,10 @@
 ---
 name: Divinations & Dreams
 slug: divinations-and-dreams
-parent: encounters-and-events
+parent: encounters
 ---
 ### Divinations & Dreams
-[Home](dm-operations-center) > [Encounters & Events](encounters-and-events) > Divinations & Dreams {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters) > Divinations & Dreams {.small-text}
 
 
 

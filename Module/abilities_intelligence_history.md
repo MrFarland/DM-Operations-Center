@@ -1,10 +1,10 @@
 ---
 name: History
 slug: history
-parent: abilities-and-skills
+parent: abilities
 ---
 ### History
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > [Intelligence](intelligence) > History {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Intelligence](intelligence) > History {.small-text}
 
 Knowledge of history, people, and things.
 

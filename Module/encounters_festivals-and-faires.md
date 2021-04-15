@@ -1,10 +1,10 @@
 ---
 name: Festivals & Faires
 slug: festivals-and-faires
-parent: encounters-and-events
+parent: encounters
 ---
 ### Festivals & Faires
-[Home](dm-operations-center) > [Encounters & Events](encounters-and-events) > Festivals & Faires {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters) > Festivals & Faires {.small-text}
 
 
 

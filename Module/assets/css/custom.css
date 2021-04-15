@@ -39,6 +39,14 @@
     color: #f2f2f2;
  }
 
+.more {
+   font-size: 8px;
+   margin: 4px;
+   text-align: center;
+}
+
+
+
  #footer {
      bottom: 0;
      padding: 12px;

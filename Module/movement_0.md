@@ -1,10 +1,10 @@
 ---
-name: Movement & Travel
-slug: movement-and-travel
+name: Movement
+slug: movement
 order: 11
 ---
-## Movement & Travel
-[Home](dm-operations-center) > Movement & Travel {.small-text}
+## Movement
+[Home](dm-operations-center) > Movement {.small-text}
 
 <div class="menu-container">
     <a href="link">Climbing</a>

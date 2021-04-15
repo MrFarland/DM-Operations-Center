@@ -1,10 +1,10 @@
 ---
 name: Naval Encounter
 slug: naval-encounter
-parent: encounters-and-events
+parent: encounters
 ---
 ### Naval Encounter
-[Home](dm-operations-center) > [Encounters & Events](encounters-and-events) > Naval Encounter {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters) > Naval Encounter {.small-text}
 
 
 

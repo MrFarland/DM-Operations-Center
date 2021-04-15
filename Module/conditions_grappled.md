@@ -1,10 +1,10 @@
 ---
 name: Grappled
 slug: grappled
-parent: conditions-and-effects
+parent: conditions
 ---
 ### Grappled
-[Home](dm-operations-center) > [Conditions & Effects](conditions-and-effects) > Grappled {.small-text}
+[Home](dm-operations-center) > [Conditions](conditions) > Grappled {.small-text}
 
 - The grappled creature's speed is 0.
 - Cannot benefit from any bonus to speed.

@@ -1,10 +1,10 @@
 ---
 name: Trap Builder
 slug: trap-builder
-parent: encounters-and-events
+parent: encounters
 ---
 ### Trap Builder
-[Home](dm-operations-center) > [Encounters & Events](encounters-and-events) > Trap Builder {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters) > Trap Builder {.small-text}
 
 
 

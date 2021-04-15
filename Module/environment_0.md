@@ -1,10 +1,10 @@
 ---
-name: Environment & Hazards
-slug: environment-and-hazards
+name: Environment
+slug: environment
 order: 07
 ---
-## Environment & Hazards
-[Home](dm-operations-center) > Environment & Hazards {.small-text}
+## Environment
+[Home](dm-operations-center) > Environment {.small-text}
 
 <div class="menu-container">
     <a href="desecrated-ground">Desecrated<br/> Ground</a>

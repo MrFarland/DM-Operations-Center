@@ -1,10 +1,10 @@
 ---
 name: Five Room Dungeon
 slug: five-room-dungeon
-parent: encounters-and-events
+parent: encounters
 ---
 ### Five Room Dungeon
-[Home](dm-operations-center) > [Encounters & Events](encounters-and-events) > Five Room Dungeon {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters) > Five Room Dungeon {.small-text}
 
 
 

@@ -1,10 +1,10 @@
 ---
 name: Ability Modifiers
 slug: ability-modifiers
-parent: abilities-and-skills
+parent: abilities
 ---
 ### Ability Modifiers
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Ability Modifiers {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Ability Modifiers {.small-text}
 
 | Score |+/- | Score |+/- |
 |:-----:|:--:|:-----:|:--:|

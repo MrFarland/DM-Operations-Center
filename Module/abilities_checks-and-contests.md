@@ -4,7 +4,7 @@ slug: checks-and-contests
 order: 01
 ---
 ## Checks & Contests
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Checks & Contests  {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Checks & Contests  {.small-text}
 
 <div class="menu-container">
     <a href="ability-check">Ability Check</a>

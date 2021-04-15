@@ -1,10 +1,10 @@
 ---
 name: Advantage & Disadvantage
 slug: advantage-and-disadvantage
-parent: abilities-and-skills
+parent: abilities
 ---
 ### Advantage & Disadvantage
-[Home](dm-operations-center) > [Abilities & Skills](abilities-and-skills) > Advantage & Disadvantage {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Advantage & Disadvantage {.small-text}
 
 |||
 |:-----------------|:-----------------------------------------------|
