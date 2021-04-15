@@ -1,7 +1,7 @@
 ---
 name: Athletics
 slug: athletics
-parent: abilities
+parent: strength
 ---
 ### Athletics
 [Home](dm-operations-center) > [Abilities](abilities) > [Strength](strength) > Athletics {.small-text}

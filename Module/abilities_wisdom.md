@@ -19,6 +19,8 @@ General awareness, perceptiveness and intuition.
     <a href="insight">Insight</a>
     <a href="medicine">Medicine</a>
     <a href="perception">Perception</a>
+    <a href="spell-attack-bonus">Spell Attack</a>
+    <a href="spell-save-dc">Spell Save DC</a>
     <a href="survival">Survival</a>
 </div>
 

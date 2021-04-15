@@ -15,15 +15,13 @@ Athletic training and raw physical power.
 - Break [something](objects) with brute strength.
 {.square}
 
-**Attack & Damage Rolls**<br/>
-- [Melee Attacks](melee-attack)
-- [Ranged Attacks](ranged-attack) (w/ [Thrown Weapons](weapon-properties))
-
 **Skills & Other Abilities**
 <div class="menu-container">
+    <a href="melee-attack">Attack<br/> (Melee)</a>
+    <a href="ranged-attack">Attack (Ranged)</a>
     <a href="athletics">Athletics</a>
-    <a href="carry-capacity">Carry Capacity</a>
-    <a href="jumping">Jumping</a>
+    <a href="carry-capacity">Carry<br/> Capacity</a>
+    <a href="jump">Jump</a>
     <a href="push-drag-lift">Push, Drag, Lift</a>
 </div>
 

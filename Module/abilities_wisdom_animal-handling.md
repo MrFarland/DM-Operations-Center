@@ -1,7 +1,7 @@
 ---
 name: Animal Handling
 slug: animal-handling
-parent: abilities
+parent: wisdom
 ---
 ### Animal Handling
 [Home](dm-operations-center) > [Abilities](abilities) > Animal Handling {.small-text}

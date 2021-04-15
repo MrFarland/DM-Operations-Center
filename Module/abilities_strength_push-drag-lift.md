@@ -1,10 +1,10 @@
 ---
 name: Push, Drag, Lift
 slug: push-drag-lift
-parent: abilities
+parent: strength
 ---
 ### Push, Drag, Lift
-[Home](dm-operations-center) > [Abilities](abilities) > Push, Drag, Lift {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > [Strength](strength) > Push, Drag, Lift {.small-text}
 
 | Limits by Creature Size ||
 |:-----------|:--------------------|

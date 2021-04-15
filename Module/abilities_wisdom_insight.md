@@ -1,7 +1,7 @@
 ---
 name: Insight
 slug: insight
-parent: abilities
+parent: wisdom
 ---
 ### Insight
 [Home](dm-operations-center) > [Abilities](abilities) > [Wisdom](wisdom) > Insight {.small-text}
