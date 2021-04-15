@@ -10,7 +10,7 @@ order: 08
     <a href="store-generator">Store Generator</a>
 </div>
 <div class="menu-container">
-    <a href="food-drink">Food & Drink</a>
+    <a href="food-and-drink">Food & Drink</a>
     <a href="lifestyle">Lifestyle</a>
     <a href="lodging">Lodging</a>
     <a href="services">Services</a>

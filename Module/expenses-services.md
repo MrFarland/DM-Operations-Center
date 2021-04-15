@@ -1,10 +1,10 @@
 ---
-name: Serivces
-slug: serivces
+name: Services
+slug: services
 parent: expenses
 ---
-### Serivces
-[Home](dm-operations-center) > [Expenses](expenses) > Serivces {.small-text}
+### Services
+[Home](dm-operations-center) > [Expenses](expenses) > Services {.small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. xxx
