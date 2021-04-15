@@ -9,4 +9,3 @@ parent: expenses
 > **Sources** <br/>
 > Player's Handbook, p. xxx
 {.read .small-text}
-
