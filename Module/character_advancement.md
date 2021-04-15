@@ -1,10 +1,10 @@
 ---
 name: Advancement
 slug: advancement
-parent: character
+parent: characters
 ---
 ### Advancement
-[Home](dm-operations-center) > [Character](character) > Advancement {.small-text}
+[Home](dm-operations-center) > [Characters](characters) > Advancement {.small-text}
 
 | L      | XP      | | L      | XP      |
 |:------:|--------:|-|:------:|--------:|

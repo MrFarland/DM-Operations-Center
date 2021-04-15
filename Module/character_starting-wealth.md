@@ -1,9 +1,11 @@
-
-
-
-
+---
+name: Starting Wealth
+slug: starting-wealth
+parent: characters
+order: 02
+---
 ### Starting Wealth
-[Home](dm-operations-center) > [Character](character) > Starting Wealth {.small-text}
+[Home](dm-operations-center) > [Characters](characters) > Starting Wealth {.small-text}
 
 | Class | Funds |
 |-------|------:|

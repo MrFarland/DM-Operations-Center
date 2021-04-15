@@ -44,11 +44,16 @@
     1. Advancement
     1. Alignment
     1. Age
+    1. Backgrounds
+    1. Classes
+    1. Custom Ancestry
     1. Determine Ability Scores
+    1. Feats
     1. Height & Weight
     1. Languages
     1. Multiclassing
     1. Proficiency Bonus
+    1. Races
     1. Starting Wealth
 - Combat
     1. Actions in Combat

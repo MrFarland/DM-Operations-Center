@@ -1,8 +1,11 @@
-
-
-
+---
+name: Languages
+slug: languages
+parent: characters
+order: 02
+---
 ### Languages
-[Home](dm-operations-center) > [Character](character) > Languages {.small-text}
+[Home](dm-operations-center) > [Characters](characters) > Languages {.small-text}
 
 | Language    | Script     | Speakers |
 |-------------|------------|----------|
