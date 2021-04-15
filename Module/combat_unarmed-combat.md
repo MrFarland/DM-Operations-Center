@@ -1,6 +1,7 @@
 ---
 name: Unarmed Combat
 slug: unarmed-combat
+parent: combat
 order: 03
 ---
 ### Unarmed Combat

@@ -1,6 +1,7 @@
 ---
 name: Damage Type
 slug: damage-type
+parent: damage
 order: 03
 ---
 ### Damage Type

@@ -1,6 +1,7 @@
 ---
 name: Order of Combat
 slug: order-of-combat
+parent: combat
 order: 03
 ---
 ### Order of Combat

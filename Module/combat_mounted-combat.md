@@ -1,6 +1,7 @@
 ---
 name: Mounted Combat
 slug: mounted-combat
+parent: combat
 order: 03
 ---
 ### Mounted Combat

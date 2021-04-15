@@ -1,6 +1,7 @@
 ---
 name: Cover
 slug: cover
+parent: combat
 order: 03
 ---
 ### Cover

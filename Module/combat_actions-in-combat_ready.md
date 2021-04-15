@@ -1,6 +1,7 @@
 ---
 name: Ready
 slug: ready
+parent: actions-in-combat
 order: 03
 ---
 ### Ready

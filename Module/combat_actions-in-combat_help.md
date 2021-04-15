@@ -1,6 +1,7 @@
 ---
 name: Help
 slug: help
+parent: actions-in-combat
 order: 03
 ---
 ### Help

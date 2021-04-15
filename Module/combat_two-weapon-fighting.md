@@ -1,6 +1,7 @@
 ---
 name: Two Weapon Fighting
 slug: two-weapon-fighting
+parent: combat
 order: 03
 ---
 ### Two Weapon Fighting

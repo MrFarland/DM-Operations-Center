@@ -1,6 +1,7 @@
 ---
 name: Unseen Attacker
 slug: unseen-attacker
+parent: combat
 order: 03
 ---
 ### Unseen Attacker

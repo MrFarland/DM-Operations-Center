@@ -1,6 +1,7 @@
 ---
 name: Ranged Attack
 slug: ranged-attack
+parent: actions-in-combat
 order: 03
 ---
 ### Ranged Attack

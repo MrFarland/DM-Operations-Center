@@ -1,6 +1,7 @@
 ---
 name: Search
 slug: search
+parent: actions-in-combat
 order: 03
 ---
 ### Search

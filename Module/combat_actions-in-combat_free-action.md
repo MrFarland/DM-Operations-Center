@@ -1,6 +1,7 @@
 ---
 name: Free Action
 slug: free-action
+parent: actions-in-combat
 order: 03
 ---
 ### Free Action

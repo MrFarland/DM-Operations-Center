@@ -1,6 +1,7 @@
 ---
 name: Nonlethal Damage
 slug: nonlethal-damage
+parent: damage
 order: 03
 ---
 ### Nonlethal Damage

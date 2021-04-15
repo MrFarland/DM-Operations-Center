@@ -1,6 +1,7 @@
 ---
 name: Naval Combat
 slug: naval-combat
+parent: combat
 order: 03
 ---
 ### Naval Combat

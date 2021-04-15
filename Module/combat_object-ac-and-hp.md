@@ -1,6 +1,7 @@
 ---
 name: Object AC & HP
 slug: object-ac-and-hp
+parent: combat
 order: 03
 ---
 ### Object AC & HP

@@ -1,6 +1,7 @@
 ---
 name: Opportunity Attack
 slug: opportunity-attack
+parent: combat
 order: 03
 ---
 ### Opportunity Attack

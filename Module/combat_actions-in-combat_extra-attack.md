@@ -1,6 +1,7 @@
 ---
 name: Extra Attack
 slug: extra-attack
+parent: actions-in-combat
 order: 03
 ---
 ### Extra Attack

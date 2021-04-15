@@ -1,6 +1,7 @@
 ---
 name: Dash
 slug: dash
+parent: actions-in-combat
 order: 03
 ---
 ### Dash

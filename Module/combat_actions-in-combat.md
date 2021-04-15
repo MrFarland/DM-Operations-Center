@@ -1,6 +1,7 @@
 ---
 name: Actions in Combat
 slug: actions-in-combat
+parent: combat
 order: 03
 ---
 ### Actions in Combat

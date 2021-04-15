@@ -1,6 +1,7 @@
 ---
 name: Use Object
 slug: use-object
+parent: actions-in-combat
 order: 03
 ---
 ### Use Object

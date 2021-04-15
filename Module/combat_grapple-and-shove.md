@@ -1,6 +1,7 @@
 ---
 name: Grapple & Shove
 slug: grapple-and-shove
+parent: combat
 order: 03
 ---
 ### Grapple & Shove

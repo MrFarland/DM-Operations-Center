@@ -1,6 +1,7 @@
 ---
 name: Reaction
 slug: reaction
+parent: actions-in-combat
 order: 03
 ---
 ### Reaction

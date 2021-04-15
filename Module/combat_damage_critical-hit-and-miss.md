@@ -1,6 +1,7 @@
 ---
 name: Critical Hit & Miss
 slug: critical-hit-and-miss
+parent: damage
 order: 03
 ---
 ## Critical Hit & Miss

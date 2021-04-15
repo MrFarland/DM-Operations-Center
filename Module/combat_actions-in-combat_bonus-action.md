@@ -1,6 +1,7 @@
 ---
 name: Bonus Action
 slug: bonus-action
+parent: actions-in-combat
 order: 03
 ---
 ### Bonus Action

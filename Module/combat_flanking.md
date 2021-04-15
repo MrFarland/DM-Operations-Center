@@ -1,6 +1,7 @@
 ---
 name: Flanking
 slug: flanking
+parent: combat
 order: 03
 ---
 ### Flanking

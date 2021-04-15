@@ -1,6 +1,7 @@
 ---
 name: Damage
 slug: damage
+parent: combat
 order: 03
 ---
 ### Damage

@@ -1,6 +1,7 @@
 ---
 name: Underwater Combat
 slug: underwater-combat
+parent: combat
 order: 03
 ---
 ### Underwater Combat

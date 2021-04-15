@@ -1,6 +1,7 @@
 ---
 name: Hide
 slug: hide
+parent: actions-in-combat
 order: 03
 ---
 ### Hide

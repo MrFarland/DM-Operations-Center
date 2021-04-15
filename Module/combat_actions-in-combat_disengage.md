@@ -1,6 +1,7 @@
 ---
 name: Disengage
 slug: disengage
+parent: actions-in-combat
 order: 03
 ---
 ### Disengage

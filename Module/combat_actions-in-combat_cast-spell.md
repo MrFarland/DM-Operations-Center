@@ -1,6 +1,7 @@
 ---
 name: Cast Spell
 slug: cast-spell
+parent: actions-in-combat
 order: 03
 ---
 ### Cast Spell

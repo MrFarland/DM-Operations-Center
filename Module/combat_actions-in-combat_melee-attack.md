@@ -1,6 +1,7 @@
 ---
 name: Melee Attack
 slug: melee-attack
+parent: actions-in-combat
 order: 03
 ---
 ### Melee Attack

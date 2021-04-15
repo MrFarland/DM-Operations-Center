@@ -1,6 +1,7 @@
 ---
 name: Improvised Damage
 slug: improvised-damage
+parent: damage
 order: 03
 ---
 ### Improvised Damage
