@@ -8,7 +8,7 @@ order: 10
 
 <div class="menu-container">
     <a href="cursed">Cursed</a>
-    <a href="death-savings-throw">Death Saving Throw</a>
+    <a href="death-saving-throw">Death Saving Throw</a>
     <a href="diseased">Diseased</a>
     <a href="food-and-water">Food & Water</a>
     <a href="healing">Healing</a>

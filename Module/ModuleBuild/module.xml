@@ -4664,11 +4664,24 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
     <slug>casting-spells</slug>
     <content>&lt;h3 id="casting-spells"&gt;&lt;a id="casting-spells-casting-spells"&gt;&lt;/a&gt;&lt;a id="casting-spells"&gt;&lt;/a&gt;Casting Spells&lt;/h3&gt;
 &lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Casting Spells&lt;/p&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
+&lt;div class="menu-container"&gt;
+    &lt;a href="casting-time"&gt;Casting&lt;br&gt; Time&lt;/a&gt;
+    &lt;a href="spell-attack-bonus"&gt;Spell Attack Bonus&lt;/a&gt;
+    &lt;a href="spell-components"&gt;Spell Components&lt;/a&gt;
+    &lt;a href="spell-duration"&gt;Spell&lt;br&gt; Duration&lt;/a&gt;
+    &lt;a href="spell-levels-and-slots"&gt;Spell Levels&lt;br&gt; &amp;amp; Slots&lt;/a&gt;
+    &lt;a href="spell-range"&gt;Spell&lt;br&gt; Range&lt;/a&gt;
+    &lt;a href="spell-save-dc"&gt;Spell Save DC&lt;/a&gt;
+    &lt;a href="spell-target"&gt;Spell&lt;br&gt; Target&lt;/a&gt;
+    &lt;a href="spellcasting-focus"&gt;Spellcasting&lt;br&gt; Focus&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+&lt;/div&gt;
+&lt;hr&gt;</content>
   </page>
   <page id="f68afb1c-c50c-58b7-bc26-87c0809c4793" parent="4ab3ef39-6093-52c4-9233-c21d1229a493">
     <name>Casting Time</name>

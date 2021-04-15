@@ -6,20 +6,22 @@ order: 10
 ## Loot
 [Home](dm-operations-center) > Loot {.small-text}
 
+None working yet.
+
 <div class="menu-container">
     <a href=".">Bookcase</a>
     <a href=".">Desk</a>
+    <a href=".">Backpack</a>
+    <a href=".">Magical<br/> Item</a>
+    <a href=".">Party<br/> Loot</a>
+    <a href=".">Pickpocket<br/> Loot</a>
+    <a href=".">Spellbook<br/> Generator</a>
+    <a href=".">Treasure<br/> Generator</a>
     <a href=".">-</a>
-    <a href=".">Magical Item</a>
-    <a href=".">Party Loot</a>
-    <a href=".">Pickpocket</a>
     <a href=".">-</a>
     <a href=".">-</a>
     <a href=".">-</a>
     <a href=".">-</a>
-    <a href=".">-</a>
-    <a href=".">Spellbook Generator</a>
-    <a href=".">Treasure Generator</a>
     <a href=".">-</a>
     <a href=".">-</a>
 </div>
