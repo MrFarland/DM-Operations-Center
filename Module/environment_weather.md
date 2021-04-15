@@ -1,10 +1,10 @@
 ---
 name: Weather
 slug: weather
-parent: environment
+parent: environment-and-hazards
 ---
 ### Weather
-[Home](dm-operations-center) > [Environment](environment) > Weather {.small-text}
+[Home](dm-operations-center) > [Environment & Hazards](environment-and-hazards) > Weather {.small-text}
 
 **Temperature**
 |||

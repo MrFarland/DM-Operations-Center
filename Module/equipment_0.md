@@ -8,7 +8,6 @@ order: 09
 
 <div class="menu-container">
     <a href="adventuring-gear">Adventuring Gear</a>
-    <a href="ammunition">Ammunition</a>
     <a href="armor">Armor</a>
     <a href="armor-properties">Armor Properties</a>
     <a href="coins">Coins</a>
