@@ -2741,12 +2741,12 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
     &lt;a href="divinations-and-dreams"&gt;Divinations&lt;br&gt; &amp;amp; Dreams&lt;/a&gt;
     &lt;a href="festivals-and-faires"&gt;Festivals&lt;br&gt; &amp;amp; Faires&lt;/a&gt;
     &lt;a href="five-room-dungeon"&gt;Five Room&lt;br&gt; Dungeon&lt;/a&gt;
-    &lt;a href="magical-mishap"&gt;Magical&lt;br&gt; Mishap&lt;/a&gt;
     &lt;a href="naval-encounter"&gt;Naval&lt;br&gt; Encounter&lt;/a&gt;
     &lt;a href="notice-board"&gt;Notice Board&lt;/a&gt;
     &lt;a href="puzzle-builder"&gt;Puzzle&lt;br&gt; Builder&lt;/a&gt;
     &lt;a href="tavern-goings-on"&gt;Tavern&lt;br&gt; Goings On&lt;/a&gt;
     &lt;a href="trap-builder"&gt;Trap&lt;br&gt; Builder&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
@@ -2844,6 +2844,17 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
+  <page id="e8ff89b0-47bb-5f62-b866-a54b4ab390ad" parent="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152">
+    <name>Notice Board</name>
+    <slug>notice-board</slug>
+    <content>&lt;h3 id="notice-board"&gt;&lt;a id="notice-board-notice-board"&gt;&lt;/a&gt;&lt;a id="notice-board"&gt;&lt;/a&gt;Notice Board&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="encounters"&gt;Encounters&lt;/a&gt; &amp;gt; Notice Board&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
   <page id="8d512178-bcfd-527f-a2bf-92569203d3b0" parent="9b9e0dc8-eab4-5a39-99ab-bbbb54c37152">
     <name>Puzzle Builder</name>
     <slug>puzzle-builder</slug>
@@ -2895,7 +2906,7 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
     &lt;a href="spells-as-hazards"&gt;Spells as&lt;br&gt; Hazards&lt;/a&gt;
     &lt;a href="supernatural-regions"&gt;Supernatural&lt;br&gt; Regions&lt;/a&gt;
     &lt;a href="water-hazards"&gt;Water&lt;br&gt; Hazards&lt;/a&gt;
-    &lt;a href="weather-machine"&gt;Weather&lt;br&gt; Machine&lt;/a&gt;
+    &lt;a href="weather"&gt;Weather&lt;/a&gt;
     &lt;a href="wilderness-hazards"&gt;Wilderness&lt;br&gt; Hazards&lt;/a&gt;
     &lt;a href="."&gt;-&lt;/a&gt;
 &lt;/div&gt;
@@ -3590,7 +3601,7 @@ Dungeon Master&amp;#x2019;s Guide, p. xxx&lt;/p&gt;
     <content>&lt;h3 id="wilderness-hazards"&gt;&lt;a id="wilderness-hazards-wilderness-hazards"&gt;&lt;/a&gt;&lt;a id="wilderness-hazards"&gt;&lt;/a&gt;Wilderness Hazards&lt;/h3&gt;
 &lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Wilderness Hazards&lt;/p&gt;
 &lt;div class="menu-container"&gt;
-    &lt;a href="avalanches-and-rock-slides"&gt;Avalanches &amp;amp; Rock Slides&lt;/a&gt;
+    &lt;a href="avalanche-and-rock-slide"&gt;Avalanche &amp;amp; Rock Slide&lt;/a&gt;
     &lt;a href="high-altitude"&gt;High Altitude&lt;/a&gt;
     &lt;a href="quicksand"&gt;Quicksand&lt;/a&gt;
     &lt;a href="razorvine"&gt;Razorvine&lt;/a&gt;
