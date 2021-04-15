@@ -1,10 +1,10 @@
 ---
-name: Vision
-slug: vision
+name: Light & Vision
+slug: light-and-vision
 parent: environment
 ---
-### Vision
-[Home](dm-operations-center) > [Environment](environment) > Vision {.small-text}
+### Light & Vision
+[Home](dm-operations-center) > [Environment](environment) > Light & Vision {.small-text}
 
 <div class="menu-container">
     <a href="blindsight">Blindsight</a>
