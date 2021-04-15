@@ -178,22 +178,6 @@
         1. High Altitude
         1. Quicksand
         1. Razorvine
-- Expenses
-    1. Food & Drink
-    1. Lifestyle Expenses
-    1. Lodging
-    1. Services
-    1. Spellcasting Services
-    1. Upkeep
-    1. ?
-    1. ?
-    1. ?
-    1. ?
-    1. ?
-    1. ?
-    1. ?
-    1. ?
-    1. ?
 - Equipment
     1. Adventuring Gear
     1. Armor
@@ -216,6 +200,22 @@
         1. Water
     1. Weapons
         1. Weapon Properties
+- Expenses
+    1. Food & Drink
+    1. Lifestyle Expenses
+    1. Lodging
+    1. Services
+    1. Spellcasting Services
+    1. Upkeep
+    1. ?
+    1. ?
+    1. ?
+    1. ?
+    1. ?
+    1. ?
+    1. ?
+    1. ?
+    1. ?
 - Life & Death
     1. Cursed
     1. Death Saving Throw
