@@ -23,4 +23,4 @@ order: 02
     <a href="starting-wealth">Starting<br/> Wealth</a>
     <a href=".">-</a>
 </div>
-<br/>
+<hr/>

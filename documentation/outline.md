@@ -106,12 +106,6 @@
     1. Stunned
     1. Surprised
     1. Unconcious
-    1. Cursed
-    1. Diseased
-    1. Madness
-        1. Short Term Madness
-        1. Long Term Madness
-        1. Indefinite Madness
 - Downtime
     1. Brewing Potions
     1. Buying Magical Items

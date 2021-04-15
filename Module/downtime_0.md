@@ -23,3 +23,4 @@ order: 05
     <a href="scribing-scrolls">Scribing<br/> Scrolls</a>
     <a href="training">Training</a>
 </div>
+<hr/>

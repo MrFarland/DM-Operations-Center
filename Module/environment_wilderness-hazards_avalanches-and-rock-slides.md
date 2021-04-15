@@ -1,7 +1,7 @@
 ---
 name: Avalanche & Rock Slide
 slug: avalanche-and-rock-slide
-parent: environment
+parent: wilderness-hazards
 ---
 ### Avalanche & Rock Slide
 [Home](dm-operations-center) > [Environment](environment) > [Wilderness Hazards](wilderness-hazards) > Avalanche & Rock Slide {.small-text}

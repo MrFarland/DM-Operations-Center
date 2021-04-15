@@ -23,4 +23,5 @@ order: 03
     <a href="underwater-combat">Underwater<br/> Combat</a>
     <a href="unseen-attackers">Unseen<br/> Attackers</a>
 </div>
+<hr/>
 

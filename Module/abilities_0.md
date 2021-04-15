@@ -14,7 +14,7 @@ order: 01
     <a href="wisdom">Wisdom</a>
     <a href="charisma">Charisma</a>
 </div>
-<hr/>
+<br/>
 <div class="menu-container">
     <a href="ability-modifiers">Ability<br/> Modifiers</a>
     <a href="advantage-and-disadvantage">Advantage & Disadvantage</a>
@@ -23,3 +23,4 @@ order: 01
     <a href="difficulty-class">Difficulty<br/> Class</a>
     <a href="working-together">Working<br/> Together</a>
 </div>
+<hr/>

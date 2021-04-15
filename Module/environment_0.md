@@ -19,29 +19,12 @@ order: 07
     <a href="spells-as-hazards">Spells as<br/> Hazards</a>
     <a href="supernatural-regions">Supernatural<br/> Regions</a>
     <a href="water-hazards">Water<br/> Hazards</a>
-    <a href="weather">Weather</a>
+    <a href="weather-machine">Weather<br/> Machine</a>
     <a href="wilderness-hazards">Wilderness<br/> Hazards</a>
+    <a href=".">-</a>
 </div>
-
 <hr/>
-<div class="menu-container">
-    <a href="falling-into-water">Falling<br/> into Water</a>
-    <a href="falling-on-a-creature">Falling on<br/> a Creature</a>
-    <a href="flying-and-falling">Flying &<br/> Falling</a>
-    <a href="rate-of-falling">Rate of<br/> Falling</a>
-</div>
 
-<hr/>
-<div class="menu-container">
-    <a href="blindsight">Blindsight</a>
-    <a href="darkvision">Darkvision</a>
-    <a href="light-sources">Light<br/> Sources</a>
-    <a href="obscured-heavily">Obscured<br/> (Heavily)</a>
-    <a href="obscured-lightly">Obscured<br/> (Lightly)</a>
-    <a href="truesight">Truesight</a>
-</div>
-
-<hr/>
 <div class="menu-container">
     <a href="avalanches-and-rock-slides">Avalanches<br/> & Rock Slides</a>
     <a href="high-altitude">High<br/> Altitude</a>

@@ -31,3 +31,4 @@ order: 04
     <a href="diseased">Diseased</a>
     <a href="Madness">Madness</a>
 </div>
+<hr/>
