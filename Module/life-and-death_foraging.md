@@ -1,10 +1,11 @@
 ---
 name: Foraging
 slug: foraging
-parent: environment
+parent: life-and-death
 ---
 ### Foraging
-[Home](dm-operations-center) > [Environment](environment) > Foraging {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death) > Foraging {.small-text}
+
 | Availability | DC |
 |----------|:--:|
 | Abundant | 10 |
@@ -15,4 +16,3 @@ parent: environment
 > **Sources** <br/>
 > Player's Handbook, p. xxx
 {.read .small-text}
-

@@ -234,7 +234,8 @@
     1. Rest (Long)
     1. Rest (Short)
     1. Resurrection
-    1. Sleep    1. 
+    1. Sleep
+    1. 
 - Movement
     1. Climbing
     1. Crawling
