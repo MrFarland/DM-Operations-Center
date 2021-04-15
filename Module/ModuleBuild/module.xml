@@ -224,33 +224,6 @@ Player&amp;#x2019;s Handbook, p. 175&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="18ebed56-161c-55e3-8854-436d0d3632c1" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
-    <name>Charisma</name>
-    <slug>charisma</slug>
-    <content>&lt;h3 id="charisma"&gt;&lt;a id="charisma-charisma"&gt;&lt;/a&gt;&lt;a id="charisma"&gt;&lt;/a&gt;Charisma&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Charisma&lt;/p&gt;
-&lt;p&gt;Charm, confidence, eloquence, and personality&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
-&lt;ul class="square"&gt;
-&lt;li&gt;Mingle at party or ball.&lt;/li&gt;
-&lt;li&gt;Gather rumors or news in a tavern.&lt;/li&gt;
-&lt;li&gt;Develop a rapport with an individual.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Other Abilities&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="menu-container"&gt;
-    &lt;a href="deception"&gt;Deception&lt;/a&gt;
-    &lt;a href="intimidation"&gt;Intimidation&lt;/a&gt;
-    &lt;a href="performance"&gt;Performance&lt;/a&gt;
-    &lt;a href="persuasion"&gt;Persuasion&lt;/a&gt;
-    &lt;a href="spell-attack-bonus"&gt;Spell Attack&lt;/a&gt;
-    &lt;a href="spell-save-dc"&gt;Spell Save DC&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
   <page id="d149950d-0fa5-5677-b9fd-419ab438a61e" parent="18ebed56-161c-55e3-8854-436d0d3632c1">
     <name>Deception</name>
     <slug>deception</slug>
@@ -323,19 +296,32 @@ Player&amp;#x2019;s Handbook, p. 179&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="b50a9d51-67a9-5efd-815d-27750621cac3" sort="1">
-    <name>Checks</name>
-    <slug>checks</slug>
-    <content>&lt;h2 id="checks"&gt;&lt;a id="checks-checks"&gt;&lt;/a&gt;&lt;a id="checks"&gt;&lt;/a&gt;Checks&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Checks &lt;/p&gt;
+  <page id="18ebed56-161c-55e3-8854-436d0d3632c1" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+    <name>Charisma</name>
+    <slug>charisma</slug>
+    <content>&lt;h3 id="charisma"&gt;&lt;a id="charisma-charisma"&gt;&lt;/a&gt;&lt;a id="charisma"&gt;&lt;/a&gt;Charisma&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Charisma&lt;/p&gt;
+&lt;p&gt;Charm, confidence, eloquence, and personality&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul class="square"&gt;
+&lt;li&gt;Mingle at party or ball.&lt;/li&gt;
+&lt;li&gt;Gather rumors or news in a tavern.&lt;/li&gt;
+&lt;li&gt;Develop a rapport with an individual.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Other Abilities&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="menu-container"&gt;
-    &lt;a href="ability-check"&gt;Ability Check&lt;/a&gt;
-    &lt;a href="contest"&gt;Contest&lt;/a&gt;
-    &lt;a href="group-check"&gt;Group Check&lt;/a&gt;
-    &lt;a href="passive-check"&gt;Passive Check&lt;/a&gt;
-    &lt;a href="saving-throw"&gt;Saving Throw&lt;/a&gt;
+    &lt;a href="deception"&gt;Deception&lt;/a&gt;
+    &lt;a href="intimidation"&gt;Intimidation&lt;/a&gt;
+    &lt;a href="performance"&gt;Performance&lt;/a&gt;
+    &lt;a href="persuasion"&gt;Persuasion&lt;/a&gt;
+    &lt;a href="spell-attack-bonus"&gt;Spell Attack&lt;/a&gt;
+    &lt;a href="spell-save-dc"&gt;Spell Save DC&lt;/a&gt;
 &lt;/div&gt;
-</content>
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
   <page id="fadf6227-dbb5-53cd-bbef-2239356e454c" parent="b50a9d51-67a9-5efd-815d-27750621cac3">
     <name>Ability Check</name>
@@ -501,29 +487,19 @@ Player&amp;#x2019;s Handbook, p. 45&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="5e49c775-4bfc-501d-8df1-8be4d217fe40" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
-    <name>Constitution</name>
-    <slug>constitution</slug>
-    <content>&lt;h3 id="constitution"&gt;&lt;a id="constitution-constitution"&gt;&lt;/a&gt;&lt;a id="constitution"&gt;&lt;/a&gt;Constitution&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Constitution&lt;/p&gt;
-&lt;p&gt;General health, fortitude, and stamina.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
-Constitution skill checks are rare, with &lt;a href="saving-throw"&gt;savings throws&lt;/a&gt; being more common.&lt;/p&gt;
-&lt;ul class="square"&gt;
-&lt;li&gt;Perform a repetitive task for a long time.&lt;/li&gt;
-&lt;li&gt;Keep down a terrible meal or ale.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Other Abilities&lt;/strong&gt;&lt;/p&gt;
+  <page id="b50a9d51-67a9-5efd-815d-27750621cac3" sort="1">
+    <name>Checks</name>
+    <slug>checks</slug>
+    <content>&lt;h2 id="checks"&gt;&lt;a id="checks-checks"&gt;&lt;/a&gt;&lt;a id="checks"&gt;&lt;/a&gt;Checks&lt;/h2&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Checks &lt;/p&gt;
 &lt;div class="menu-container"&gt;
-    &lt;a href="hit-dice"&gt;Hit Dice&lt;/a&gt;
-    &lt;a href="hit-points"&gt;Hit Points&lt;/a&gt;
-    &lt;a href="suffocating"&gt;Hold Breath&lt;/a&gt;
+    &lt;a href="ability-check"&gt;Ability Check&lt;/a&gt;
+    &lt;a href="contest"&gt;Contest&lt;/a&gt;
+    &lt;a href="group-check"&gt;Group Check&lt;/a&gt;
+    &lt;a href="passive-check"&gt;Passive Check&lt;/a&gt;
+    &lt;a href="saving-throw"&gt;Saving Throw&lt;/a&gt;
 &lt;/div&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 179&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
+</content>
   </page>
   <page id="a0836f59-38a2-55af-92f6-7bc39e77b85e" parent="5e49c775-4bfc-501d-8df1-8be4d217fe40">
     <name>Hit Dice</name>
@@ -606,32 +582,27 @@ Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
-    <name>Dexterity</name>
-    <slug>dexterity</slug>
-    <content>&lt;h3 id="dexterity"&gt;&lt;a id="dexterity-dexterity"&gt;&lt;/a&gt;&lt;a id="dexterity"&gt;&lt;/a&gt;Dexterity&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Dexterity&lt;/p&gt;
-&lt;p&gt;Balance, agility, and general nimbleness&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+  <page id="5e49c775-4bfc-501d-8df1-8be4d217fe40" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+    <name>Constitution</name>
+    <slug>constitution</slug>
+    <content>&lt;h3 id="constitution"&gt;&lt;a id="constitution-constitution"&gt;&lt;/a&gt;&lt;a id="constitution"&gt;&lt;/a&gt;Constitution&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Constitution&lt;/p&gt;
+&lt;p&gt;General health, fortitude, and stamina.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Skill Checks&lt;/strong&gt;&lt;br&gt;
+Constitution skill checks are rare, with &lt;a href="saving-throw"&gt;savings throws&lt;/a&gt; being more common.&lt;/p&gt;
 &lt;ul class="square"&gt;
-&lt;li&gt;Pick a lock or disable a trap.&lt;/li&gt;
-&lt;li&gt;Tie up a prisoner with some rope.&lt;/li&gt;
-&lt;li&gt;Wriggle free after being tied up.&lt;/li&gt;
-&lt;li&gt;Craft a small or detailed object.&lt;/li&gt;
+&lt;li&gt;Perform a repetitive task for a long time.&lt;/li&gt;
+&lt;li&gt;Keep down a terrible meal or ale.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Skills &amp;amp; Other Abilities&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="menu-container"&gt;
-    &lt;a href="acrobatics"&gt;Acrobatics&lt;/a&gt;
-    &lt;a href="melee-attack"&gt;Attack&lt;br&gt; (Melee)&lt;/a&gt;
-    &lt;a href="ranged-attack"&gt;Attack (Ranged)&lt;/a&gt;
-    &lt;a href="armor-class"&gt;Armor&lt;br&gt; Class&lt;/a&gt;
-    &lt;a href="initiative"&gt;Initiative&lt;/a&gt;
-    &lt;a href="sleight-of-hand"&gt;Sleight&lt;br&gt; of Hand&lt;/a&gt;
-    &lt;a href="stealth"&gt;Stealth&lt;/a&gt;
+    &lt;a href="hit-dice"&gt;Hit Dice&lt;/a&gt;
+    &lt;a href="hit-points"&gt;Hit Points&lt;/a&gt;
+    &lt;a href="suffocating"&gt;Hold Breath&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 176&lt;/p&gt;
+Player&amp;#x2019;s Handbook, p. 179&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
@@ -714,6 +685,35 @@ Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
+  <page id="b66c3f8a-fe5d-5d53-ada6-d68eb60eafbe" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+    <name>Dexterity</name>
+    <slug>dexterity</slug>
+    <content>&lt;h3 id="dexterity"&gt;&lt;a id="dexterity-dexterity"&gt;&lt;/a&gt;&lt;a id="dexterity"&gt;&lt;/a&gt;Dexterity&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Dexterity&lt;/p&gt;
+&lt;p&gt;Balance, agility, and general nimbleness&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul class="square"&gt;
+&lt;li&gt;Pick a lock or disable a trap.&lt;/li&gt;
+&lt;li&gt;Tie up a prisoner with some rope.&lt;/li&gt;
+&lt;li&gt;Wriggle free after being tied up.&lt;/li&gt;
+&lt;li&gt;Craft a small or detailed object.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Other Abilities&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="menu-container"&gt;
+    &lt;a href="acrobatics"&gt;Acrobatics&lt;/a&gt;
+    &lt;a href="melee-attack"&gt;Attack&lt;br&gt; (Melee)&lt;/a&gt;
+    &lt;a href="ranged-attack"&gt;Attack (Ranged)&lt;/a&gt;
+    &lt;a href="armor-class"&gt;Armor&lt;br&gt; Class&lt;/a&gt;
+    &lt;a href="initiative"&gt;Initiative&lt;/a&gt;
+    &lt;a href="sleight-of-hand"&gt;Sleight&lt;br&gt; of Hand&lt;/a&gt;
+    &lt;a href="stealth"&gt;Stealth&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 176&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
   <page id="ff6d2839-1d32-5f95-8d18-1b377c2223df" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
     <name>Difficulty Class</name>
     <slug>difficulty-class</slug>
@@ -753,35 +753,6 @@ Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. 174&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
-    <name>Intelligence</name>
-    <slug>intelligence</slug>
-    <content>&lt;h3 id="intelligence"&gt;&lt;a id="intelligence-intelligence"&gt;&lt;/a&gt;&lt;a id="intelligence"&gt;&lt;/a&gt;Intelligence&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Intelligence&lt;/p&gt;
-&lt;p&gt;Mental acuity, recall, and ability to reason.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
-&lt;ul class="square"&gt;
-&lt;li&gt;Communicate without a shared &lt;a href="languages"&gt;language&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Estimate the value of an item.&lt;/li&gt;
-&lt;li&gt;Recall lore about a craft or trade.&lt;/li&gt;
-&lt;li&gt;Win a game of skill, like chess&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Other Abilities&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="menu-container"&gt;
-    &lt;a href="arcana"&gt;Arcana&lt;/a&gt;
-    &lt;a href="history"&gt;History&lt;/a&gt;
-    &lt;a href="investigation"&gt;Investigation&lt;/a&gt;
-    &lt;a href="nature"&gt;Nature&lt;/a&gt;
-    &lt;a href="religion"&gt;Religion&lt;/a&gt;
-    &lt;a href="spell-attack-bonus"&gt;Spell Attack&lt;/a&gt;
-    &lt;a href="spell-save-dc"&gt;Spell Save DC&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
@@ -878,31 +849,32 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="94301409-f989-5a7c-a627-b49f7d782594" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
-    <name>Strength</name>
-    <slug>strength</slug>
-    <content>&lt;h3 id="strength"&gt;&lt;a id="strength-strength"&gt;&lt;/a&gt;&lt;a id="strength"&gt;&lt;/a&gt;Strength&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Strength&lt;/p&gt;
-&lt;p&gt;Athletic training and raw physical power.&lt;/p&gt;
+  <page id="0b2ef0f8-8fae-5e43-bfa8-6ebf1fbc9c85" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+    <name>Intelligence</name>
+    <slug>intelligence</slug>
+    <content>&lt;h3 id="intelligence"&gt;&lt;a id="intelligence-intelligence"&gt;&lt;/a&gt;&lt;a id="intelligence"&gt;&lt;/a&gt;Intelligence&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Intelligence&lt;/p&gt;
+&lt;p&gt;Mental acuity, recall, and ability to reason.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
-&lt;li&gt;&lt;a href="push-drag-lift"&gt;Lift&lt;/a&gt; a very heavy object.&lt;/li&gt;
-&lt;li&gt;&lt;a href="push-drag-lift"&gt;Force&lt;/a&gt; open a barricaded door.&lt;/li&gt;
-&lt;li&gt;&lt;a href="carry-capacity"&gt;Carry&lt;/a&gt; something a long distance.&lt;/li&gt;
-&lt;li&gt;Break &lt;a href="objects"&gt;something&lt;/a&gt; with brute strength.&lt;/li&gt;
+&lt;li&gt;Communicate without a shared &lt;a href="languages"&gt;language&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Estimate the value of an item.&lt;/li&gt;
+&lt;li&gt;Recall lore about a craft or trade.&lt;/li&gt;
+&lt;li&gt;Win a game of skill, like chess&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Skills &amp;amp; Other Abilities&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="menu-container"&gt;
-    &lt;a href="melee-attack"&gt;Attack&lt;br&gt; (Melee)&lt;/a&gt;
-    &lt;a href="ranged-attack"&gt;Attack (Ranged)&lt;/a&gt;
-    &lt;a href="athletics"&gt;Athletics&lt;/a&gt;
-    &lt;a href="carry-capacity"&gt;Carry&lt;br&gt; Capacity&lt;/a&gt;
-    &lt;a href="jump"&gt;Jump&lt;/a&gt;
-    &lt;a href="push-drag-lift"&gt;Push, Drag, Lift&lt;/a&gt;
+    &lt;a href="arcana"&gt;Arcana&lt;/a&gt;
+    &lt;a href="history"&gt;History&lt;/a&gt;
+    &lt;a href="investigation"&gt;Investigation&lt;/a&gt;
+    &lt;a href="nature"&gt;Nature&lt;/a&gt;
+    &lt;a href="religion"&gt;Religion&lt;/a&gt;
+    &lt;a href="spell-attack-bonus"&gt;Spell Attack&lt;/a&gt;
+    &lt;a href="spell-save-dc"&gt;Spell Save DC&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 175&lt;/p&gt;
+Player&amp;#x2019;s Handbook, p. 177&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
@@ -1138,30 +1110,31 @@ Player&amp;#x2019;s Handbook, p. 176&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="0d52bec9-cf7d-5205-8d3e-0eb89c14328b" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
-    <name>Wisdom</name>
-    <slug>wisdom</slug>
-    <content>&lt;h3 id="wisdom"&gt;&lt;a id="wisdom-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Wisdom&lt;/p&gt;
-&lt;p&gt;General awareness, perceptiveness and intuition.&lt;/p&gt;
+  <page id="94301409-f989-5a7c-a627-b49f7d782594" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+    <name>Strength</name>
+    <slug>strength</slug>
+    <content>&lt;h3 id="strength"&gt;&lt;a id="strength-strength"&gt;&lt;/a&gt;&lt;a id="strength"&gt;&lt;/a&gt;Strength&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Strength&lt;/p&gt;
+&lt;p&gt;Athletic training and raw physical power.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul class="square"&gt;
-&lt;li&gt;Get a gut feeling about a decision.&lt;/li&gt;
-&lt;li&gt;Determine if a creature is undead.&lt;/li&gt;
+&lt;li&gt;&lt;a href="push-drag-lift"&gt;Lift&lt;/a&gt; a very heavy object.&lt;/li&gt;
+&lt;li&gt;&lt;a href="push-drag-lift"&gt;Force&lt;/a&gt; open a barricaded door.&lt;/li&gt;
+&lt;li&gt;&lt;a href="carry-capacity"&gt;Carry&lt;/a&gt; something a long distance.&lt;/li&gt;
+&lt;li&gt;Break &lt;a href="objects"&gt;something&lt;/a&gt; with brute strength.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Skills &amp;amp; Other Abilities&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="menu-container"&gt;
-    &lt;a href="animal-handling"&gt;Animal Handling&lt;/a&gt;
-    &lt;a href="insight"&gt;Insight&lt;/a&gt;
-    &lt;a href="medicine"&gt;Medicine&lt;/a&gt;
-    &lt;a href="perception"&gt;Perception&lt;/a&gt;
-    &lt;a href="spell-attack-bonus"&gt;Spell Attack&lt;/a&gt;
-    &lt;a href="spell-save-dc"&gt;Spell Save DC&lt;/a&gt;
-    &lt;a href="survival"&gt;Survival&lt;/a&gt;
+    &lt;a href="melee-attack"&gt;Attack&lt;br&gt; (Melee)&lt;/a&gt;
+    &lt;a href="ranged-attack"&gt;Attack (Ranged)&lt;/a&gt;
+    &lt;a href="athletics"&gt;Athletics&lt;/a&gt;
+    &lt;a href="carry-capacity"&gt;Carry&lt;br&gt; Capacity&lt;/a&gt;
+    &lt;a href="jump"&gt;Jump&lt;/a&gt;
+    &lt;a href="push-drag-lift"&gt;Push, Drag, Lift&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
+Player&amp;#x2019;s Handbook, p. 175&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
@@ -1233,6 +1206,33 @@ Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
 &lt;li&gt;Avoid natural hazards.&lt;/li&gt;
 &lt;li&gt;Find a path through rough terrain.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="0d52bec9-cf7d-5205-8d3e-0eb89c14328b" parent="d5ba4333-a186-53e6-b389-543d9f21f561">
+    <name>Wisdom</name>
+    <slug>wisdom</slug>
+    <content>&lt;h3 id="wisdom"&gt;&lt;a id="wisdom-wisdom"&gt;&lt;/a&gt;&lt;a id="wisdom"&gt;&lt;/a&gt;Wisdom&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="abilities"&gt;Abilities&lt;/a&gt; &amp;gt; Wisdom&lt;/p&gt;
+&lt;p&gt;General awareness, perceptiveness and intuition.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ability Checks&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul class="square"&gt;
+&lt;li&gt;Get a gut feeling about a decision.&lt;/li&gt;
+&lt;li&gt;Determine if a creature is undead.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Other Abilities&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="menu-container"&gt;
+    &lt;a href="animal-handling"&gt;Animal Handling&lt;/a&gt;
+    &lt;a href="insight"&gt;Insight&lt;/a&gt;
+    &lt;a href="medicine"&gt;Medicine&lt;/a&gt;
+    &lt;a href="perception"&gt;Perception&lt;/a&gt;
+    &lt;a href="spell-attack-bonus"&gt;Spell Attack&lt;/a&gt;
+    &lt;a href="spell-save-dc"&gt;Spell Save DC&lt;/a&gt;
+    &lt;a href="survival"&gt;Survival&lt;/a&gt;
+&lt;/div&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. 178&lt;/p&gt;
@@ -1819,30 +1819,6 @@ Player&amp;#x2019;s Handbook, p. 143&lt;/p&gt;
 &lt;hr&gt;
 </content>
   </page>
-  <page id="290064ac-fc68-545d-8d38-2effad6a3b00" sort="3" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
-    <name>Actions in Combat</name>
-    <slug>actions-in-combat</slug>
-    <content>&lt;h3 id="actions-in-combat"&gt;&lt;a id="actions-in-combat-actions-in-combat"&gt;&lt;/a&gt;&lt;a id="actions-in-combat"&gt;&lt;/a&gt;Actions in Combat&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Actions in Combat&lt;/p&gt;
-&lt;div class="menu-container"&gt;
-    &lt;a href="melee-attack"&gt;Attack&lt;br&gt; (Melee)&lt;/a&gt;
-    &lt;a href="ranged-attack"&gt;Attack&lt;br&gt; (Ranged)&lt;/a&gt;
-    &lt;a href="cast-spell"&gt;Cast&lt;br&gt; Spell&lt;/a&gt;
-    &lt;a href="dash"&gt;Dash&lt;/a&gt;
-    &lt;a href="disengage"&gt;Disengage&lt;/a&gt;
-    &lt;a href="dodge"&gt;Dodge&lt;/a&gt;
-    &lt;a href="help"&gt;Help&lt;/a&gt;
-    &lt;a href="hide"&gt;Hide&lt;/a&gt;
-    &lt;a href="ready"&gt;Ready&lt;/a&gt;
-    &lt;a href="search"&gt;Search&lt;/a&gt;
-    &lt;a href="use-object"&gt;Use&lt;br&gt; Object&lt;/a&gt;
-    &lt;a href="bonus-action"&gt;Bonus&lt;br&gt; Action&lt;/a&gt;
-    &lt;a href="extra-attack"&gt;Extra&lt;br&gt; Attack&lt;/a&gt;
-    &lt;a href="free-action"&gt;Free&lt;br&gt; Action&lt;/a&gt;
-    &lt;a href="reaction"&gt;Reaction&lt;/a&gt;
-&lt;/div&gt;
-</content>
-  </page>
   <page id="2cf3ab4b-772f-586b-959f-0fa8f0b6ad61" sort="3" parent="290064ac-fc68-545d-8d38-2effad6a3b00">
     <name>Bonus Action</name>
     <slug>bonus-action</slug>
@@ -2008,6 +1984,30 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
+  <page id="290064ac-fc68-545d-8d38-2effad6a3b00" sort="3" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Actions in Combat</name>
+    <slug>actions-in-combat</slug>
+    <content>&lt;h3 id="actions-in-combat"&gt;&lt;a id="actions-in-combat-actions-in-combat"&gt;&lt;/a&gt;&lt;a id="actions-in-combat"&gt;&lt;/a&gt;Actions in Combat&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Actions in Combat&lt;/p&gt;
+&lt;div class="menu-container"&gt;
+    &lt;a href="melee-attack"&gt;Attack&lt;br&gt; (Melee)&lt;/a&gt;
+    &lt;a href="ranged-attack"&gt;Attack&lt;br&gt; (Ranged)&lt;/a&gt;
+    &lt;a href="cast-spell"&gt;Cast&lt;br&gt; Spell&lt;/a&gt;
+    &lt;a href="dash"&gt;Dash&lt;/a&gt;
+    &lt;a href="disengage"&gt;Disengage&lt;/a&gt;
+    &lt;a href="dodge"&gt;Dodge&lt;/a&gt;
+    &lt;a href="help"&gt;Help&lt;/a&gt;
+    &lt;a href="hide"&gt;Hide&lt;/a&gt;
+    &lt;a href="ready"&gt;Ready&lt;/a&gt;
+    &lt;a href="search"&gt;Search&lt;/a&gt;
+    &lt;a href="use-object"&gt;Use&lt;br&gt; Object&lt;/a&gt;
+    &lt;a href="bonus-action"&gt;Bonus&lt;br&gt; Action&lt;/a&gt;
+    &lt;a href="extra-attack"&gt;Extra&lt;br&gt; Attack&lt;/a&gt;
+    &lt;a href="free-action"&gt;Free&lt;br&gt; Action&lt;/a&gt;
+    &lt;a href="reaction"&gt;Reaction&lt;/a&gt;
+&lt;/div&gt;
+</content>
+  </page>
   <page id="a79b0e6b-c315-51bc-8bcf-eb1414560fd7" sort="3" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
     <name>Cover</name>
     <slug>cover</slug>
@@ -2018,21 +2018,6 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
-  </page>
-  <page id="75ea93e7-276e-5c17-b1c3-07b3d071cbd1" sort="3" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
-    <name>Damage</name>
-    <slug>damage</slug>
-    <content>&lt;h3 id="damage"&gt;&lt;a id="damage-damage"&gt;&lt;/a&gt;&lt;a id="damage"&gt;&lt;/a&gt;Damage&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Damage&lt;/p&gt;
-&lt;div class="menu-container"&gt;
-    &lt;a href="critical-hit-and-miss"&gt;Critical&lt;br&gt; Hit &amp;amp; Miss&lt;/a&gt;
-    &lt;a href="damage-type"&gt;Damage&lt;br&gt; Type&lt;/a&gt;
-    &lt;a href="improvised-damage"&gt;Improvised&lt;br&gt; Damage&lt;/a&gt;
-    &lt;a href="nonlethal-damage"&gt;Nonlethal&lt;br&gt; Damage&lt;/a&gt;
-    &lt;a href="resistance-and-vulnerability"&gt;Resistance&lt;br&gt; &amp;amp; Vulnerability&lt;/a&gt;
-    &lt;a href="."&gt;-&lt;/a&gt;
-&lt;/div&gt;
-</content>
   </page>
   <page id="d6782577-3895-5cbd-8df4-5af53926d2e3" sort="3" parent="75ea93e7-276e-5c17-b1c3-07b3d071cbd1">
     <name>Critical Hit &amp; Miss</name>
@@ -2088,6 +2073,21 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
+  </page>
+  <page id="75ea93e7-276e-5c17-b1c3-07b3d071cbd1" sort="3" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
+    <name>Damage</name>
+    <slug>damage</slug>
+    <content>&lt;h3 id="damage"&gt;&lt;a id="damage-damage"&gt;&lt;/a&gt;&lt;a id="damage"&gt;&lt;/a&gt;Damage&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="combat"&gt;Combat&lt;/a&gt; &amp;gt; Damage&lt;/p&gt;
+&lt;div class="menu-container"&gt;
+    &lt;a href="critical-hit-and-miss"&gt;Critical&lt;br&gt; Hit &amp;amp; Miss&lt;/a&gt;
+    &lt;a href="damage-type"&gt;Damage&lt;br&gt; Type&lt;/a&gt;
+    &lt;a href="improvised-damage"&gt;Improvised&lt;br&gt; Damage&lt;/a&gt;
+    &lt;a href="nonlethal-damage"&gt;Nonlethal&lt;br&gt; Damage&lt;/a&gt;
+    &lt;a href="resistance-and-vulnerability"&gt;Resistance&lt;br&gt; &amp;amp; Vulnerability&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+&lt;/div&gt;
+</content>
   </page>
   <page id="5e1e094c-eb8d-5f65-b9ae-d03817787ab1" sort="3" parent="4ea8357c-70bf-5e52-8ed2-8a3fab816b91">
     <name>Flanking</name>
@@ -2952,24 +2952,6 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="7865149e-90c0-5dd4-9692-c9772f993c61" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
-    <name>Falling</name>
-    <slug>falling</slug>
-    <content>&lt;h3 id="falling"&gt;&lt;a id="falling-falling"&gt;&lt;/a&gt;&lt;a id="falling"&gt;&lt;/a&gt;Falling&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Falling&lt;/p&gt;
-&lt;p class="text-center"&gt;&lt;strong&gt;&lt;a href="/roll/1d6"&gt;1d6&lt;/a&gt; per 10&amp;#x2019; and land &lt;a href="prone"&gt;prone&lt;/a&gt; - Max &lt;a href="/roll/20d6"&gt;20d6&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="menu-container"&gt;
-    &lt;a href="falling-into-water"&gt;Falling&lt;br&gt; into Water&lt;/a&gt;
-    &lt;a href="falling-on-a-creature"&gt;Falling on&lt;br&gt; a Creature&lt;/a&gt;
-    &lt;a href="flying-and-falling"&gt;Flying &amp;amp;&lt;br&gt; Falling&lt;/a&gt;
-    &lt;a href="rate-of-falling"&gt;Rate of&lt;br&gt; Falling&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
   <page id="27e419ed-54bd-5edd-949c-31c71c90aa8f" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
     <name>Falling in Water</name>
     <slug>falling-in-water</slug>
@@ -3061,6 +3043,24 @@ Xanathar&amp;#x2019;s Guide to Everything, p. 77&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Xanathar&amp;#x2019;s Guide to Everything, p. 77&lt;br&gt;
 &lt;a href="http://www.greenharbor.com/fffolder/speedtime.pdf"&gt;Green Harbor - Speed &amp;amp; Time Fallen&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="7865149e-90c0-5dd4-9692-c9772f993c61" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Falling</name>
+    <slug>falling</slug>
+    <content>&lt;h3 id="falling"&gt;&lt;a id="falling-falling"&gt;&lt;/a&gt;&lt;a id="falling"&gt;&lt;/a&gt;Falling&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Falling&lt;/p&gt;
+&lt;p class="text-center"&gt;&lt;strong&gt;&lt;a href="/roll/1d6"&gt;1d6&lt;/a&gt; per 10&amp;#x2019; and land &lt;a href="prone"&gt;prone&lt;/a&gt; - Max &lt;a href="/roll/20d6"&gt;20d6&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="menu-container"&gt;
+    &lt;a href="falling-into-water"&gt;Falling&lt;br&gt; into Water&lt;/a&gt;
+    &lt;a href="falling-on-a-creature"&gt;Falling on&lt;br&gt; a Creature&lt;/a&gt;
+    &lt;a href="flying-and-falling"&gt;Flying &amp;amp;&lt;br&gt; Falling&lt;/a&gt;
+    &lt;a href="rate-of-falling"&gt;Rate of&lt;br&gt; Falling&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
@@ -3231,25 +3231,6 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="006df6fd-0d9e-5739-8579-d67d3ee0ca7e" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
-    <name>Vision</name>
-    <slug>vision</slug>
-    <content>&lt;h3 id="vision"&gt;&lt;a id="vision-vision"&gt;&lt;/a&gt;&lt;a id="vision"&gt;&lt;/a&gt;Vision&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Vision&lt;/p&gt;
-&lt;div class="menu-container"&gt;
-    &lt;a href="blindsight"&gt;Blindsight&lt;/a&gt;
-    &lt;a href="darkvision"&gt;Darkvision&lt;/a&gt;
-    &lt;a href="light-sources"&gt;Light&lt;br&gt; Sources&lt;/a&gt;
-    &lt;a href="heavily-obscured"&gt;Obscured&lt;br&gt; (Heavily)&lt;/a&gt;
-    &lt;a href="lightly-obscured"&gt;Obscured&lt;br&gt; (Lightly)&lt;/a&gt;
-    &lt;a href="truesight"&gt;Truesight&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
   <page id="9ea47859-8a66-57f3-b0ca-ce8f7b8a4ea5" parent="006df6fd-0d9e-5739-8579-d67d3ee0ca7e">
     <name>Blindsight</name>
     <slug>blindsight</slug>
@@ -3316,24 +3297,18 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="b3d796ab-ee65-50c0-b46a-0efcb514dab9" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
-    <name>Water Hazards</name>
-    <slug>water-hazards</slug>
-    <content>&lt;h3 id="water-hazards"&gt;&lt;a id="water-hazards-water-hazards"&gt;&lt;/a&gt;&lt;a id="water-hazards"&gt;&lt;/a&gt;Water Hazards&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Water Hazards&lt;/p&gt;
+  <page id="006df6fd-0d9e-5739-8579-d67d3ee0ca7e" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Vision</name>
+    <slug>vision</slug>
+    <content>&lt;h3 id="vision"&gt;&lt;a id="vision-vision"&gt;&lt;/a&gt;&lt;a id="vision"&gt;&lt;/a&gt;Vision&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Vision&lt;/p&gt;
 &lt;div class="menu-container"&gt;
-    &lt;a href="blue-hole"&gt;Blue Hole&lt;/a&gt;
-    &lt;a href="coral-reef"&gt;Coral Reef&lt;/a&gt;
-    &lt;a href="current"&gt;Current&lt;/a&gt;
-    &lt;a href="frigid-water"&gt;Frigid Water&lt;/a&gt;
-    &lt;a href="slippery-ice"&gt;Ice (Slippery)&lt;/a&gt;
-    &lt;a href="thin-ice"&gt;Ice (Thin)&lt;/a&gt;
-    &lt;a href="kelp-forest"&gt;Kelp Forest&lt;/a&gt;
-    &lt;a href="krakens-grave"&gt;Kraken&amp;apos;s Grave&lt;/a&gt;
-    &lt;a href="lure-lights"&gt;Lure Lights&lt;/a&gt;
-    &lt;a href="sandbar"&gt;Sandbar&lt;/a&gt;
-    &lt;a href="sapping-snow"&gt;Sapping Snow&lt;/a&gt;
-    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="blindsight"&gt;Blindsight&lt;/a&gt;
+    &lt;a href="darkvision"&gt;Darkvision&lt;/a&gt;
+    &lt;a href="light-sources"&gt;Light&lt;br&gt; Sources&lt;/a&gt;
+    &lt;a href="heavily-obscured"&gt;Obscured&lt;br&gt; (Heavily)&lt;/a&gt;
+    &lt;a href="lightly-obscured"&gt;Obscured&lt;br&gt; (Lightly)&lt;/a&gt;
+    &lt;a href="truesight"&gt;Truesight&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
@@ -3462,6 +3437,31 @@ Ghosts of Saltmarsh, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
+  <page id="b3d796ab-ee65-50c0-b46a-0efcb514dab9" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Water Hazards</name>
+    <slug>water-hazards</slug>
+    <content>&lt;h3 id="water-hazards"&gt;&lt;a id="water-hazards-water-hazards"&gt;&lt;/a&gt;&lt;a id="water-hazards"&gt;&lt;/a&gt;Water Hazards&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Water Hazards&lt;/p&gt;
+&lt;div class="menu-container"&gt;
+    &lt;a href="blue-hole"&gt;Blue Hole&lt;/a&gt;
+    &lt;a href="coral-reef"&gt;Coral Reef&lt;/a&gt;
+    &lt;a href="current"&gt;Current&lt;/a&gt;
+    &lt;a href="frigid-water"&gt;Frigid Water&lt;/a&gt;
+    &lt;a href="slippery-ice"&gt;Ice (Slippery)&lt;/a&gt;
+    &lt;a href="thin-ice"&gt;Ice (Thin)&lt;/a&gt;
+    &lt;a href="kelp-forest"&gt;Kelp Forest&lt;/a&gt;
+    &lt;a href="krakens-grave"&gt;Kraken&amp;apos;s Grave&lt;/a&gt;
+    &lt;a href="lure-lights"&gt;Lure Lights&lt;/a&gt;
+    &lt;a href="sandbar"&gt;Sandbar&lt;/a&gt;
+    &lt;a href="sapping-snow"&gt;Sapping Snow&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
   <page id="26919d1f-9f77-5b2c-8af2-114f1196d1a0" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
     <name>Weather</name>
     <slug>weather</slug>
@@ -3534,23 +3534,6 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="3983328e-1f56-5c79-a0a2-64da830bb488" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
-    <name>Wilderness Hazards</name>
-    <slug>wilderness-hazards</slug>
-    <content>&lt;h3 id="wilderness-hazards"&gt;&lt;a id="wilderness-hazards-wilderness-hazards"&gt;&lt;/a&gt;&lt;a id="wilderness-hazards"&gt;&lt;/a&gt;Wilderness Hazards&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Wilderness Hazards&lt;/p&gt;
-&lt;div class="menu-container"&gt;
-    &lt;a href="avalanches-and-rock-slides"&gt;Avalanches &amp;amp; Rock Slides&lt;/a&gt;
-    &lt;a href="high-altitude"&gt;High Altitude&lt;/a&gt;
-    &lt;a href="quicksand"&gt;Quicksand&lt;/a&gt;
-    &lt;a href="razorvine"&gt;Razorvine&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
   <page id="429d5873-3d46-5c85-b160-ebbc5e08a562" parent="3983328e-1f56-5c79-a0a2-64da830bb488">
     <name>Avalanche &amp; Rock Slide</name>
     <slug>avalanche-and-rock-slide</slug>
@@ -3612,6 +3595,23 @@ Dungeon Master&amp;#x2019;s Guide, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
+  <page id="3983328e-1f56-5c79-a0a2-64da830bb488" parent="b98b2811-89d6-532a-b4e6-31f0ed603a09">
+    <name>Wilderness Hazards</name>
+    <slug>wilderness-hazards</slug>
+    <content>&lt;h3 id="wilderness-hazards"&gt;&lt;a id="wilderness-hazards-wilderness-hazards"&gt;&lt;/a&gt;&lt;a id="wilderness-hazards"&gt;&lt;/a&gt;Wilderness Hazards&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="environment"&gt;Environment&lt;/a&gt; &amp;gt; Wilderness Hazards&lt;/p&gt;
+&lt;div class="menu-container"&gt;
+    &lt;a href="avalanches-and-rock-slides"&gt;Avalanches &amp;amp; Rock Slides&lt;/a&gt;
+    &lt;a href="high-altitude"&gt;High Altitude&lt;/a&gt;
+    &lt;a href="quicksand"&gt;Quicksand&lt;/a&gt;
+    &lt;a href="razorvine"&gt;Razorvine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
   <page id="6f32c0a9-961c-5fa2-8cd0-0482bef434bf" sort="09">
     <name>Equipment</name>
     <slug>equipment</slug>
@@ -3641,22 +3641,6 @@ Dungeon Master&amp;#x2019;s Guide, p. xxx&lt;/p&gt;
     <slug>adventuring-gear</slug>
     <content>&lt;h3 id="adventuring-gear"&gt;&lt;a id="adventuring-gear-adventuring-gear"&gt;&lt;/a&gt;&lt;a id="adventuring-gear"&gt;&lt;/a&gt;Adventuring Gear&lt;/h3&gt;
 &lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="equipment"&gt;Equipment&lt;/a&gt; &amp;gt; Adventuring Gear&lt;/p&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
-  <page id="25b906b8-8ab5-57b4-a54b-f92e830cdfb5" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
-    <name>Armor</name>
-    <slug>armor</slug>
-    <content>&lt;h3 id="armor"&gt;&lt;a id="armor-armor"&gt;&lt;/a&gt;&lt;a id="armor"&gt;&lt;/a&gt;Armor&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="equipment"&gt;Equipment&lt;/a&gt; &amp;gt; Armor&lt;/p&gt;
-&lt;div class="menu-container"&gt;
-    &lt;a href="armor-properties"&gt;Armor Properties&lt;/a&gt;
-    &lt;a href="casting-in-armor"&gt;Casting in Armor&lt;/a&gt;
-    &lt;a href="don-doff-armor"&gt;Don/Doff Armor&lt;/a&gt;
-&lt;/div&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
@@ -3693,6 +3677,22 @@ Ghosts of Saltmarsh, p. xxx&lt;/p&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Ghosts of Saltmarsh, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="25b906b8-8ab5-57b4-a54b-f92e830cdfb5" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
+    <name>Armor</name>
+    <slug>armor</slug>
+    <content>&lt;h3 id="armor"&gt;&lt;a id="armor-armor"&gt;&lt;/a&gt;&lt;a id="armor"&gt;&lt;/a&gt;Armor&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="equipment"&gt;Equipment&lt;/a&gt; &amp;gt; Armor&lt;/p&gt;
+&lt;div class="menu-container"&gt;
+    &lt;a href="armor-properties"&gt;Armor Properties&lt;/a&gt;
+    &lt;a href="casting-in-armor"&gt;Casting in Armor&lt;/a&gt;
+    &lt;a href="don-doff-armor"&gt;Don/Doff Armor&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
@@ -3817,17 +3817,6 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="5e4fa346-62a5-5487-980c-60a6e1cc381d" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
-    <name>Weapons</name>
-    <slug>weapons</slug>
-    <content>&lt;h3 id="weapons"&gt;&lt;a id="weapons-weapons"&gt;&lt;/a&gt;&lt;a id="weapons"&gt;&lt;/a&gt;Weapons&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="equipment"&gt;Equipment&lt;/a&gt; &amp;gt; Weapons&lt;/p&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
   <page id="28bf0051-fe0f-5b48-9ad6-33dd3e4309a6" parent="25b906b8-8ab5-57b4-a54b-f92e830cdfb5">
     <name>Weapon Properties</name>
     <slug>weapon-properties</slug>
@@ -3836,6 +3825,17 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Ghosts of Saltmarsh, p. xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="5e4fa346-62a5-5487-980c-60a6e1cc381d" parent="6f32c0a9-961c-5fa2-8cd0-0482bef434bf">
+    <name>Weapons</name>
+    <slug>weapons</slug>
+    <content>&lt;h3 id="weapons"&gt;&lt;a id="weapons-weapons"&gt;&lt;/a&gt;&lt;a id="weapons"&gt;&lt;/a&gt;Weapons&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="equipment"&gt;Equipment&lt;/a&gt; &amp;gt; Weapons&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
@@ -4149,30 +4149,6 @@ Player&amp;#x2019;s Handbook, p. 186&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="626a3b88-a682-5fa3-98e6-62bf3d64d08e" parent="ea1e3714-4a15-5fe3-a9a4-28ac697ae3bf">
-    <name>Madness</name>
-    <slug>madness</slug>
-    <content>&lt;h3 id="madness"&gt;&lt;a id="madness-madness"&gt;&lt;/a&gt;&lt;a id="madness"&gt;&lt;/a&gt;Madness&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="life-and-death"&gt;Life &amp;amp; Death&lt;/a&gt; &amp;gt; Madness&lt;/p&gt;
-&lt;p&gt;Various items, spells, and effects can cause a creature to suffer the effects of madness. The three types of madness are:&lt;/p&gt;
-&lt;div class="menu-container"&gt;
-    &lt;a href="short-term-madness"&gt;Short Term&lt;/a&gt;
-    &lt;a href="long-term-madness"&gt;Long Term&lt;/a&gt;
-    &lt;a href="indefinite-madness"&gt;Indefinite&lt;/a&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;p&gt;&lt;strong&gt;Curing Madness&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="/spell/calm-emotions"&gt;Calm Emotions&lt;/a&gt; (Suppress Only)&lt;/li&gt;
-&lt;li&gt;&lt;a href="/spell/lesser-restoration"&gt;Lesser Restoration&lt;/a&gt; (&lt;a href="short-term-madness"&gt;Short&lt;/a&gt; &amp;amp; &lt;a href="long-term-madness"&gt;Long&lt;/a&gt; only)&lt;/li&gt;
-&lt;li&gt;&lt;a href="/spell/greater-restoration"&gt;Greater Restoration&lt;/a&gt; (&lt;a href="indefinite-madness"&gt;Indefinite&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
-&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
-Dungeon Master&amp;#x2019;s Guide, p. 258&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;</content>
-  </page>
   <page id="b9927ca1-d4ad-519d-8067-30070ab4e386" parent="626a3b88-a682-5fa3-98e6-62bf3d64d08e">
     <name>Indefinite Madness</name>
     <slug>indefinite-madness</slug>
@@ -4363,6 +4339,30 @@ Dungeon Master&amp;#x2019;s Guide, p. 260&lt;/p&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Dungeon Master&amp;#x2019;s Guide, p. 259&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="626a3b88-a682-5fa3-98e6-62bf3d64d08e" parent="ea1e3714-4a15-5fe3-a9a4-28ac697ae3bf">
+    <name>Madness</name>
+    <slug>madness</slug>
+    <content>&lt;h3 id="madness"&gt;&lt;a id="madness-madness"&gt;&lt;/a&gt;&lt;a id="madness"&gt;&lt;/a&gt;Madness&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="life-and-death"&gt;Life &amp;amp; Death&lt;/a&gt; &amp;gt; Madness&lt;/p&gt;
+&lt;p&gt;Various items, spells, and effects can cause a creature to suffer the effects of madness. The three types of madness are:&lt;/p&gt;
+&lt;div class="menu-container"&gt;
+    &lt;a href="short-term-madness"&gt;Short Term&lt;/a&gt;
+    &lt;a href="long-term-madness"&gt;Long Term&lt;/a&gt;
+    &lt;a href="indefinite-madness"&gt;Indefinite&lt;/a&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Curing Madness&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/spell/calm-emotions"&gt;Calm Emotions&lt;/a&gt; (Suppress Only)&lt;/li&gt;
+&lt;li&gt;&lt;a href="/spell/lesser-restoration"&gt;Lesser Restoration&lt;/a&gt; (&lt;a href="short-term-madness"&gt;Short&lt;/a&gt; &amp;amp; &lt;a href="long-term-madness"&gt;Long&lt;/a&gt; only)&lt;/li&gt;
+&lt;li&gt;&lt;a href="/spell/greater-restoration"&gt;Greater Restoration&lt;/a&gt; (&lt;a href="indefinite-madness"&gt;Indefinite&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
+Dungeon Master&amp;#x2019;s Guide, p. 258&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
@@ -4682,30 +4682,6 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="4ab3ef39-6093-52c4-9233-c21d1229a493" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
-    <name>Casting Spells</name>
-    <slug>casting-spells</slug>
-    <content>&lt;h3 id="casting-spells"&gt;&lt;a id="casting-spells-casting-spells"&gt;&lt;/a&gt;&lt;a id="casting-spells"&gt;&lt;/a&gt;Casting Spells&lt;/h3&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Casting Spells&lt;/p&gt;
-&lt;div class="menu-container"&gt;
-    &lt;a href="casting-time"&gt;Casting&lt;br&gt; Time&lt;/a&gt;
-    &lt;a href="spell-attack-bonus"&gt;Spell Attack Bonus&lt;/a&gt;
-    &lt;a href="spell-components"&gt;Spell Components&lt;/a&gt;
-    &lt;a href="spell-duration"&gt;Spell&lt;br&gt; Duration&lt;/a&gt;
-    &lt;a href="spell-levels-and-slots"&gt;Spell Levels&lt;br&gt; &amp;amp; Slots&lt;/a&gt;
-    &lt;a href="spell-range"&gt;Spell&lt;br&gt; Range&lt;/a&gt;
-    &lt;a href="spell-save-dc"&gt;Spell Save DC&lt;/a&gt;
-    &lt;a href="spell-target"&gt;Spell&lt;br&gt; Target&lt;/a&gt;
-    &lt;a href="spellcasting-focus"&gt;Spellcasting&lt;br&gt; Focus&lt;/a&gt;
-    &lt;a href="."&gt;-&lt;/a&gt;
-    &lt;a href="."&gt;-&lt;/a&gt;
-    &lt;a href="."&gt;-&lt;/a&gt;
-    &lt;a href="."&gt;-&lt;/a&gt;
-    &lt;a href="."&gt;-&lt;/a&gt;
-    &lt;a href="."&gt;-&lt;/a&gt;
-&lt;/div&gt;
-&lt;hr&gt;</content>
-  </page>
   <page id="f68afb1c-c50c-58b7-bc26-87c0809c4793" parent="4ab3ef39-6093-52c4-9233-c21d1229a493">
     <name>Casting Time</name>
     <slug>casting-time</slug>
@@ -4804,6 +4780,30 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
+  </page>
+  <page id="4ab3ef39-6093-52c4-9233-c21d1229a493" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
+    <name>Casting Spells</name>
+    <slug>casting-spells</slug>
+    <content>&lt;h3 id="casting-spells"&gt;&lt;a id="casting-spells-casting-spells"&gt;&lt;/a&gt;&lt;a id="casting-spells"&gt;&lt;/a&gt;Casting Spells&lt;/h3&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt; &amp;gt; Casting Spells&lt;/p&gt;
+&lt;div class="menu-container"&gt;
+    &lt;a href="casting-time"&gt;Casting&lt;br&gt; Time&lt;/a&gt;
+    &lt;a href="spell-attack-bonus"&gt;Spell Attack Bonus&lt;/a&gt;
+    &lt;a href="spell-components"&gt;Spell Components&lt;/a&gt;
+    &lt;a href="spell-duration"&gt;Spell&lt;br&gt; Duration&lt;/a&gt;
+    &lt;a href="spell-levels-and-slots"&gt;Spell Levels&lt;br&gt; &amp;amp; Slots&lt;/a&gt;
+    &lt;a href="spell-range"&gt;Spell&lt;br&gt; Range&lt;/a&gt;
+    &lt;a href="spell-save-dc"&gt;Spell Save DC&lt;/a&gt;
+    &lt;a href="spell-target"&gt;Spell&lt;br&gt; Target&lt;/a&gt;
+    &lt;a href="spellcasting-focus"&gt;Spellcasting&lt;br&gt; Focus&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+&lt;/div&gt;
+&lt;hr&gt;</content>
   </page>
   <page id="69243821-9b77-5d96-84ac-354107d13790" parent="23fb5a57-4d2b-5df3-bfe2-ebd25c8605c3">
     <name>Combining Effects</name>
