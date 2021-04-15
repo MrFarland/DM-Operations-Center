@@ -1,7 +1,7 @@
 ---
 name: Persuasion
 slug: persuasion
-parent: abilities
+parent: charisma
 ---
 ### Persuasion
 [Home](dm-operations-center) > [Abilities](abilities) > [Charisma](charisma) > Persuasion {.small-text}

@@ -1,7 +1,7 @@
 ---
 name: Deception
 slug: deception
-parent: abilities
+parent: abilitcharismaies
 ---
 ### Deception
 [Home](dm-operations-center) > [Abilities](abilities) > [Charisma](charisma) > Deception {.small-text}

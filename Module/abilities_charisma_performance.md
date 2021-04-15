@@ -1,7 +1,7 @@
 ---
 name: Performance
 slug: performance
-parent: abilities
+parent: charisma
 ---
 ### Performance
 [Home](dm-operations-center) > [Abilities](abilities) > [Charisma](charisma) > Performance {.small-text}

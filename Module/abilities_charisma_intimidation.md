@@ -1,7 +1,7 @@
 ---
 name: Intimidation
 slug: intimidation
-parent: abilities
+parent: charisma
 ---
 ### Intimidation
 [Home](dm-operations-center) > [Abilities](abilities) > [Charisma](charisma) > Intimidation {.small-text}
