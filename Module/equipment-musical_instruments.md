@@ -3,7 +3,7 @@ name: Musical Instruments
 slug: musical-instruments
 parent: equipment
 ---
-### Firearms
+### Musical Instruments
 [Home](dm-operations-center) > [Equipment](equipment) > Musical Instruments {.small-text}
 
 > **Sources** <br/>
