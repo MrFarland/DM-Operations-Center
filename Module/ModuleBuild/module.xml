@@ -7,6 +7,30 @@
   <code>dm-operations-center</code>
   <category/>
   <image>assets/img/placeholder_1920x1080.jpg</image>
+  <page id="e6ec3901-6397-5b16-bcdd-a8d1f1638187" sort="0">
+    <name>DM Operations Center</name>
+    <slug>dm-operations-center</slug>
+    <content>&lt;h2 id="dm-operations-center"&gt;&lt;a id="dm-operations-center-dm-operations-center"&gt;&lt;/a&gt;&lt;a id="dm-operations-center"&gt;&lt;/a&gt;DM Operations Center&lt;/h2&gt;
+&lt;p class="small-text"&gt;&lt;em&gt;Preview Release 0.1.0&lt;/em&gt;&lt;/p&gt;
+&lt;div class="menu-container"&gt;
+    &lt;a href="abilities"&gt;Abilities&lt;/a&gt;
+    &lt;a href="characters"&gt;Characters&lt;/a&gt;
+    &lt;a href="combat"&gt;Combat&lt;/a&gt;
+    &lt;a href="conditions"&gt;Conditions&lt;/a&gt;
+    &lt;a href="downtime"&gt;Downtime&lt;/a&gt;
+    &lt;a href="encounters"&gt;Encounters&lt;/a&gt;
+    &lt;a href="environment"&gt;Environment&lt;/a&gt;
+    &lt;a href="equipment"&gt;Equipment&lt;/a&gt;
+    &lt;a href="expenses"&gt;Expenses&lt;/a&gt;
+    &lt;a href="life-and-death"&gt;Life &amp;amp; Death&lt;/a&gt;
+    &lt;a href="loot"&gt;Loot&lt;/a&gt;
+    &lt;a href="movement"&gt;Movement&lt;/a&gt;
+    &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt;
+    &lt;a href="worldbuilding"&gt;Worldbuilding&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+&lt;/div&gt;
+&lt;hr&gt;</content>
+  </page>
   <page id="d5ba4333-a186-53e6-b389-543d9f21f561" sort="1">
     <name>Abilities</name>
     <slug>abilities</slug>
@@ -1232,30 +1256,6 @@ Player&amp;#x2019;s Handbook, p. 174&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
-  <page id="bf9f3e0e-61a4-54fc-8783-7e91d036f340" sort="2">
-    <name>Characters</name>
-    <slug>characters</slug>
-    <content>&lt;h2 id="characters"&gt;&lt;a id="characters-characters"&gt;&lt;/a&gt;&lt;a id="characters"&gt;&lt;/a&gt;Characters&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Character&lt;/p&gt;
-&lt;div class="menu-container"&gt;
-    &lt;a href="advancement"&gt;Advancement&lt;/a&gt;
-    &lt;a href="alignment"&gt;Alignment&lt;/a&gt;
-    &lt;a href="age"&gt;Age&lt;/a&gt;
-    &lt;a href="backgrounds"&gt;Backgrounds&lt;/a&gt;
-    &lt;a href="classes"&gt;Classes&lt;/a&gt;
-    &lt;a href="custom-ancestry"&gt;Custom Ancestry&lt;/a&gt;
-    &lt;a href="determine-abilities"&gt;Determine&lt;br&gt; Abilities&lt;/a&gt;
-    &lt;a href="feats"&gt;Feats&lt;/a&gt;
-    &lt;a href="height-and-weight"&gt;Height &amp;amp;&lt;br&gt; Weight&lt;/a&gt;
-    &lt;a href="languages"&gt;Languages&lt;/a&gt;
-    &lt;a href="multiclassing"&gt;Multiclassing&lt;/a&gt;
-    &lt;a href="proficiency-bonus"&gt;Proficiency Bonus&lt;/a&gt;
-    &lt;a href="races"&gt;Races&lt;/a&gt;
-    &lt;a href="starting-wealth"&gt;Starting&lt;br&gt; Wealth&lt;/a&gt;
-    &lt;a href="."&gt;-&lt;/a&gt;
-&lt;/div&gt;
-&lt;hr&gt;</content>
-  </page>
   <page id="3b88f8b0-ab59-5d27-855a-0b8467a33c0c" parent="bf9f3e0e-61a4-54fc-8783-7e91d036f340">
     <name>Advancement</name>
     <slug>advancement</slug>
@@ -1769,6 +1769,30 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
 Player&amp;#x2019;s Handbook, p. 143&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
+  </page>
+  <page id="bf9f3e0e-61a4-54fc-8783-7e91d036f340" sort="2">
+    <name>Characters</name>
+    <slug>characters</slug>
+    <content>&lt;h2 id="characters"&gt;&lt;a id="characters-characters"&gt;&lt;/a&gt;&lt;a id="characters"&gt;&lt;/a&gt;Characters&lt;/h2&gt;
+&lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; Character&lt;/p&gt;
+&lt;div class="menu-container"&gt;
+    &lt;a href="advancement"&gt;Advancement&lt;/a&gt;
+    &lt;a href="alignment"&gt;Alignment&lt;/a&gt;
+    &lt;a href="age"&gt;Age&lt;/a&gt;
+    &lt;a href="backgrounds"&gt;Backgrounds&lt;/a&gt;
+    &lt;a href="classes"&gt;Classes&lt;/a&gt;
+    &lt;a href="custom-ancestry"&gt;Custom Ancestry&lt;/a&gt;
+    &lt;a href="determine-abilities"&gt;Determine&lt;br&gt; Abilities&lt;/a&gt;
+    &lt;a href="feats"&gt;Feats&lt;/a&gt;
+    &lt;a href="height-and-weight"&gt;Height &amp;amp;&lt;br&gt; Weight&lt;/a&gt;
+    &lt;a href="languages"&gt;Languages&lt;/a&gt;
+    &lt;a href="multiclassing"&gt;Multiclassing&lt;/a&gt;
+    &lt;a href="proficiency-bonus"&gt;Proficiency Bonus&lt;/a&gt;
+    &lt;a href="races"&gt;Races&lt;/a&gt;
+    &lt;a href="starting-wealth"&gt;Starting&lt;br&gt; Wealth&lt;/a&gt;
+    &lt;a href="."&gt;-&lt;/a&gt;
+&lt;/div&gt;
+&lt;hr&gt;</content>
   </page>
   <page id="4ea8357c-70bf-5e52-8ed2-8a3fab816b91" sort="3">
     <name>Combat</name>
@@ -4554,6 +4578,36 @@ Dungeon Master&amp;#x2019;s Guide, p. xxx&lt;/p&gt;
     <slug>tracking</slug>
     <content>&lt;h3 id="tracking"&gt;&lt;a id="tracking-tracking"&gt;&lt;/a&gt;&lt;a id="tracking"&gt;&lt;/a&gt;Tracking&lt;/h3&gt;
 &lt;p class="small-text"&gt;&lt;a href="dm-operations-center"&gt;Home&lt;/a&gt; &amp;gt; &lt;a href="movement"&gt;Movement&lt;/a&gt; &amp;gt; Tracking&lt;/p&gt;
+&lt;table class="gray small-text"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Surface&lt;/th&gt;
+&lt;th style="text-align:center"&gt;DC&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Soft surfaces like mud, sand, and snow.&lt;/td&gt;
+&lt;td style="text-align:center"&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Firm surfaces like dirt and grass.&lt;/td&gt;
+&lt;td style="text-align:center"&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hard surfaces like floors and stone.&lt;/td&gt;
+&lt;td style="text-align:center"&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Each day since creature passed.&lt;/td&gt;
+&lt;td style="text-align:center"&gt;+5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Creature is leaving a trail (ie Blood, etc).&lt;/td&gt;
+&lt;td style="text-align:center"&gt;+5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read small-text"&gt;
 &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; &lt;br&gt;
 Dungeon Master&amp;#x2019;s Guide, p. xxx&lt;/p&gt;
@@ -4977,29 +5031,5 @@ Player&amp;#x2019;s Handbook, p. xxx&lt;/p&gt;
     const TieflingMale = ["Abad","Ahrim","Akmen","Amnon","Andram","Astar","Balam","Barakas","Bathin","Caim","Chem","Cimer","Cressel","Damakos","Ekemon","Euron","Fenriz","Forcas","Habor","Iados","Kairon","Leucis","Mamnen","Mantus","Marbas","Melech","Merihim","Modean","Mordai","Mormo","Morthos","Nicor","Nirgel","Oriax","Paymon","Pelaios","Purson","Qemuel","Raam","Rimmon","Sammal","Skamos","Tethren","Thamuz","Therai","Valafar","Vassago","Xappan","Zepar","Zephan"];
     const TieflingFamily = ["Ambition","Art","Carrion","Chant","Creed","Death","Debauchery","Despair","Doom","Doubt","Dread","Ecstasy","Ennui","Entropy","Excellence","Fear","Glory","Gluttony","Grief","Hate","Hope","Horror","Ideal","Ignominy","Laughter","Love","Lust","Mayhem","Mockery","Murder","Muse","Music","Mystery","Nowhere","Open","Pain","Passion","Poetry","Quest","Random","Reverence","Revulsion","Sorrow","Temerity","Torment","Tragedy","Vice","Virtue","Weary","Wit"];
 &lt;/script&gt; </content>
-  </page>
-  <page id="e6ec3901-6397-5b16-bcdd-a8d1f1638187" sort="0">
-    <name>DM Operations Center</name>
-    <slug>dm-operations-center</slug>
-    <content>&lt;h2 id="dm-operations-center"&gt;&lt;a id="dm-operations-center-dm-operations-center"&gt;&lt;/a&gt;&lt;a id="dm-operations-center"&gt;&lt;/a&gt;DM Operations Center&lt;/h2&gt;
-&lt;p class="small-text"&gt;&lt;em&gt;Preview Release 0.1.0&lt;/em&gt;&lt;/p&gt;
-&lt;div class="menu-container"&gt;
-    &lt;a href="abilities"&gt;Abilities&lt;/a&gt;
-    &lt;a href="characters"&gt;Characters&lt;/a&gt;
-    &lt;a href="combat"&gt;Combat&lt;/a&gt;
-    &lt;a href="conditions"&gt;Conditions&lt;/a&gt;
-    &lt;a href="downtime"&gt;Downtime&lt;/a&gt;
-    &lt;a href="encounters"&gt;Encounters&lt;/a&gt;
-    &lt;a href="environment"&gt;Environment&lt;/a&gt;
-    &lt;a href="equipment"&gt;Equipment&lt;/a&gt;
-    &lt;a href="expenses"&gt;Expenses&lt;/a&gt;
-    &lt;a href="life-and-death"&gt;Life &amp;amp; Death&lt;/a&gt;
-    &lt;a href="loot"&gt;Loot&lt;/a&gt;
-    &lt;a href="movement"&gt;Movement&lt;/a&gt;
-    &lt;a href="spellcasting"&gt;Spellcasting&lt;/a&gt;
-    &lt;a href="worldbuilding"&gt;Worldbuilding&lt;/a&gt;
-    &lt;a href="."&gt;-&lt;/a&gt;
-&lt;/div&gt;
-&lt;hr&gt;</content>
   </page>
 </module>
