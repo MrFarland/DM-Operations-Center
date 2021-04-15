@@ -260,6 +260,7 @@
         1. Spell Save DC
         1. Spell Target
         1. Spellcasting Focus
+    1. Combining Effects
     1. Concentration
     1. Counterspell
     1. Dispel Magic
