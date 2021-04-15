@@ -236,6 +236,15 @@
     1. Resurrection
     1. Sleep
     1. 
+- Loot
+    1. Art
+    1. Bag of Holding
+    1. Books
+    1. Coins
+    1. Desk Drawer
+    1. Gems
+    1. Magical Items
+    1. Pickpocket Loot
 - Movement
     1. Climbing
     1. Crawling
@@ -269,15 +278,6 @@
     1. Ritual Casting
     1. Schools of Magic
     1. 
-- Treasure
-    1. Art
-    1. Bag of Holding
-    1. Books
-    1. Coins
-    1. Desk Drawer
-    1. Gems
-    1. Magical Items
-    1. Pickpocket Loot
 - Worldbuilding
 - Unknown
     1. Cursed

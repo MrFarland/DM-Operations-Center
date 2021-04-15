@@ -54,14 +54,10 @@
    padding: 3px;
  }
 
-
-
-
- #footer {
-     bottom: 0;
-     padding: 12px;
-     position: absolute;
-     text-align: center;
+ .footer {
+   bottom: 0;
+   position: absolute;
+   text-align: center;
  }
 
  #legal {

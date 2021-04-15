@@ -15,10 +15,10 @@ order: 06
     <a href="five-room-dungeon">Five Room<br/> Dungeon</a>
     <a href="magical-mishap">Magical<br/> Mishap</a>
     <a href="naval-encounter">Naval<br/> Encounter</a>
+    <a href="notice-board">Notice Board</a>
     <a href="puzzle-builder">Puzzle<br/> Builder</a>
     <a href="tavern-goings-on">Tavern<br/> Goings On</a>
     <a href="trap-builder">Trap<br/> Builder</a>
-    <a href=".">-</a>
     <a href=".">-</a>
     <a href=".">-</a>
     <a href=".">-</a>
