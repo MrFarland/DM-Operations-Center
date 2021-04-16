@@ -4,7 +4,7 @@ slug: dm-operations-center
 order: 00
 ---
 ## DM Operations Center
-*Preview Release 0.1.0* {.small-text}
+*Preview Release 0.3.0* {.small-text}
 
 <div class="menu-container">
     <a href="abilities">Abilities</a>
