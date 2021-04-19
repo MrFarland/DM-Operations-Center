@@ -12,6 +12,7 @@ order: 03
     <a href="damage">Damage</a>
     <a href="flanking">Flanking</a>
     <a href="grapple-and-shove">Grapple<br/> & Shove</a>
+    <a href="improvised-weapon">Improvised<br/> Weapon</a>
     <a href="mounted-combat">Mounted<br/> Combat</a>
     <a href="naval-combat">Naval<br/> Combat</a>
     <a href="object-ac-and-hp">Object<br/> AC & HP</a>
@@ -19,9 +20,9 @@ order: 03
     <a href="order-of-combat">Order of<br/> Combat</a>
     <a href="sneak-attack">Sneak<br/> Attack</a>
     <a href="two-weapon-fighting">Two Weapon<br/> Fighting</a>
-    <a href="unarmed-combat">Unarmed<br/> Combat</a>
+    <a href="unarmed-strike">Unarmed<br/> Strike</a>
     <a href="underwater-combat">Underwater<br/> Combat</a>
-    <a href="unseen-attackers">Unseen<br/> Attackers</a>
+    <a href="unseen-attacker">Unseen<br/> Attacker</a>
 </div>
 <hr/>
 
