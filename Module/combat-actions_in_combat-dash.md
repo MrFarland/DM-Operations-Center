@@ -13,5 +13,5 @@ order: 03
 {.square}
 
 > **Sources** <br/>
-> Player's Handbook, p. 189
+> Player's Handbook, p. 192
 {.read .small-text}
