@@ -28,7 +28,9 @@ order: 07
 <div class="menu-container">
     <a href="avalanches-and-rock-slides">Avalanches<br/> & Rock Slides</a>
     <a href="high-altitude">High<br/> Altitude</a>
+    <a href="lava">Lava</a>
     <a href="quicksand">Quicksand</a>
     <a href="razorvine">razorvine</a>
+    <a href=".">-</a>
 </div>
     
