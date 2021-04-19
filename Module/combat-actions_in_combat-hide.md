@@ -7,12 +7,8 @@ order: 03
 ### Hide
 [Home](dm-operations-center) > [Combat](combat) > [Actions in Combat](actions-in-combat) > Hide {.small-text}
 
-**Make a [dexterity](dexterity) ([Stealth](stealth)) check to hide.** {.text-center}
-
-**Gain the benefits of an [unseen-attacker](unseen-attacker).** {.text-center}
-
-- You cannot hide in plain sight.
+**Attempt to [hide](hiding) and gain the benefits<br/> of being an [unseen-attacker](unseen-attacker)** {.text-center}
 
 > **Sources** <br/>
-> Player's Handbook, p. xxx
+> Player's Handbook, p. 192
 {.read .small-text}
