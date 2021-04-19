@@ -10,7 +10,7 @@ parent: checks
 
 In special circumstances a creature may have [advantage or disadvantage](advantage-disadvantage) on the roll.
 
-***\*** The character must be [proficient](proficiency-bonus) in a skill in order to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
+***\*** The character must be [proficient](proficiency-bonus) in a skill or [tool](tool) in order to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. 174

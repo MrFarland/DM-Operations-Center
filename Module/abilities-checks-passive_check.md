@@ -8,7 +8,7 @@ parent: checks
 
 **Success = 10 + [Ability](ability-modifier) + ([Prof.](proficiency-bonus))** ≥ [DC](difficulty-class) {.text-center}
 
-***\*** The character must be [proficient](proficiency-bonus) in a skill in order to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
+***\*** The character must be [proficient](proficiency-bonus) in a skill or [tool](tool) in order to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
 
 Use passive checks to:
 - Determine a character's baseline ability.
