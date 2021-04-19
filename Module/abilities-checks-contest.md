@@ -6,7 +6,7 @@ parent: checks
 ### Contest
 [Home](dm-operations-center) > [Abilities](abilities) > [Checks](checks) > Contest {.small-text}
 
-**Success = Initiator's Roll > Defender's Roll** {.text-center}
+**Success = Initiator's [Check](ability-check) > Defender's [Check](ability-check)** {.text-center}
 
 | Example    | Initiator               | Defender |
 |:-----------|:-----------------------|:---------|
