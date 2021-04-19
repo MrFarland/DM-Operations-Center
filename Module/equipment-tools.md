@@ -1,10 +1,10 @@
 ---
-name: Musical Instruments
-slug: musical-instruments
+name: Tools
+slug: tools
 parent: equipment
 ---
-### Musical Instruments
-[Home](dm-operations-center) > [Equipment](equipment) > Musical Instruments {.small-text}
+### Tools
+[Home](dm-operations-center) > [Equipment](equipment) > Tools {.small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. xxx
