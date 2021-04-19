@@ -9,7 +9,7 @@ order: 03
 
 **Cast any spell with a [casting time](casting-time) of 1 action.** {.text-center}
 
-- If the character cast a [bonus action](bonus-action) spell, the action spell **MUST** be a cantrip.
+***Note**: If a character casts a [bonus action](bonus-action) spell, any spell cast using their action **MUST** be a cantrip.*
 {.square}
 
 > **Sources** <br/>

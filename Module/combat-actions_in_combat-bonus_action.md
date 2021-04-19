@@ -9,12 +9,11 @@ order: 03
 
 Only available if a special ability, spell, or other feature explicitly states you may use a bonus action.
 
-**Can occur at any point in character's turn.** {.text-center}
+**Can occur at any point in a character's turn.** {.text-center}
 
-**Example Bonus Actions**
+**Common Bonus Actions**
 - Attack with off-hand. ([two-weapon fighting](two-weapon-fighting))
-- Cast [Healing Word](/spell/healing-word) (Bard, Sorcerer, Wizard)
-- Cast [Hex](/spell/hex) or [Hunter's Mark](hunters-mark) (Warlock, Ranger)
+- Cast [Healing Word](/spell/healing-word), [Hex](/spell/hex) or [Hunter's Mark](/spell/hunters-mark)
 - [Dash](dash), [disengage](disengage), or [dodge](dodge) (Rogues only)
 - Wild Shape (Circle of the Moon Druid)
 
