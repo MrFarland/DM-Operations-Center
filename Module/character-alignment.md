@@ -1,13 +1,12 @@
 ---
-name: Age
-slug: age
+name: Alignment
+slug: alignment
 parent: characters
 order: 02
 ---
-### Age
-[Home](dm-operations-center) > [Characters](characters) > Age {.small-text}
+### Alignment
+[Home](dm-operations-center) > [Characters](characters) > Alignment {.small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. xxx
 {.read .small-text}
-

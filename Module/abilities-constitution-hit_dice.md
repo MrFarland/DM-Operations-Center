@@ -8,6 +8,8 @@ parent: constitution
 
 **[HP](hit-points) Restored = Hit Die + [CON](constitution) Mod** {.text-center}
 
+A creature may use a number of hit dice equal to its level to restore [hit points](hit-points) during a [short rest](short-rest).
+
 | Hit Die by Class ||
 |-----------|:---:|
 | Artificer | [1d8](/roll/1d8)   | Paladin   | [1d10](/roll/1d10) |

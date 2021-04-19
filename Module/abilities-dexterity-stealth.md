@@ -9,7 +9,7 @@ parent: dexterity
 Ability to move and hide without being detected
 
 **Skill Checks**<br/>
-- Attempt to [hide](hide) from enemies.
+- Attempt to [hide](hiding) from enemies.
 - Sneak up behind a guard to [knock them out](nonlethal-damage).
 - Slip away without being noticed.
 {.square}

@@ -16,7 +16,7 @@ parent: strength
 {.gray .small-text}
 
 **Carry Capacity by Creature Size**
-|    |   S/M  |    L   |
+| [STR](strength)   |   S/M  |    L   |
 |:--:|:------:|:------:|
 | 10 | 150 lb | 300 lb |
 | 11 | 165 lb | 330 lb |

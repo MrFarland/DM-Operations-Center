@@ -6,18 +6,18 @@ parent: dexterity
 ### Hiding
 [Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Hiding {.small-text}
 
-**Hider's [stealth](stealth) -v- searcher's [perception](perception).** {.text-center}
+**Hider's [Stealth](stealth) > Creature's [Perception](perception)** {.text-center}
 
-**DM decides when conditions are appropriate.** {.text-center}
+- DM decides when circumstances permit.
+- Hidden until detected or stop hiding.
+- Cannot hide from creature that can see you.
+- Noise & tracks can give away position.
+- [Invisible](invisible) creatures can always attempt.
+{.square}
 
-**Cannot hide from creature that can see you.** {.text-center}
+**Active -v- Passive Perception**
 
-**Noise and tracks can give hider away.** {.text-center}
-
-**[Invisible](invisible) creatures can always attempt to hide.** {.text-center}
-
-**** {.text-center}
-
+A creature's [passive](passive) perception should be used if the creature is not alerted to the hider's presence.
 
 > **Sources** <br/>
 > Player's Handbook, p. 177

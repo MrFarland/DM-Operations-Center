@@ -23,8 +23,8 @@ In special circumstances a creature may have [advantage or disadvantage](advanta
 | Monk      | [ST](strength), [DX](dexterity)    | - | - |
 {.gray .small-text}
 
-***See also**: [Death Savings Throws](death-saving-throws).*
+***See also**: [Death Saving Throw](death-saving-throw).*
+
 > **Sources** <br/>
 > Player's Handbook, p. 45
 {.read .small-text}
-

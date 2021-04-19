@@ -16,7 +16,7 @@ parent: strength
 {.gray .small-text}
 
 **Push, Drag, Lift by Creature Size**
-|    |   S/M  |    L   |
+|  [STR](strength) |   S/M  |    L   |
 |:--:|:------:|:------:|
 | 10 | 300 lb | 600 lb |
 | 11 | 330 lb | 660 lb |

@@ -6,9 +6,9 @@ parent: checks
 ### Group Check
 [Home](dm-operations-center) > [Abilities](abilities) > [Checks](checks) > Group Check {.small-text}
 
-**Success = 50% ≥ Check [DC](difficulty-class)** {.text-center}
+**Success = 50% of party ≥ Check [DC](difficulty-class)** {.text-center}
 
-Use group checks when multiple characters are trying to do something as a group like:
+Use group checks when multiple characters are trying to do something as a group.
 - Sneak past a guard outpost. ([stealth](stealth))
 - Navigate a dense jungle. ([survival](survival))
 - Identify the intentions of a mob. ([insight](insight))

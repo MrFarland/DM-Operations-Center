@@ -15,8 +15,9 @@ parent: dexterity
 {.square}
 
 **Common House Rules**
-- Creature with the highest [dexterity](dexterity) modifier.
-- Tying creatures roll [1d20](/roll/1d20), highest goes first.
+1. Creature with highest initiative bonus.
+2. Creature with highest [dexterity](dexterity) bonus.
+3. Roll [1d20](/roll/1d20), highest goes
 
 > **Sources** <br/>
 > Player's Handbook, p. 177, 189
