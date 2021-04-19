@@ -16,7 +16,7 @@ Use group checks when multiple characters are trying to do something as a group 
 
 > **MrFarland House Rule**<br/>
 > Natural 20 = 2 successes;<br/> Natural 1 = 2 failures.
-{.flavortext}
+{.paper}
 
 > **Sources** <br/>
 > Player's Handbook, p. 175

@@ -14,7 +14,7 @@ If successful, falling damage is halved.
 
 > **MrFarland House Rule**<br/>
 > The first 10 feet are free, I drop the number of damage dice by 1.
-{.flavortext}
+{.paper}
 
 > **Sources** <br/>
 > Tasha's Cauldron of Everything, p. 170
