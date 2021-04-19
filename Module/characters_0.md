@@ -8,8 +8,8 @@ order: 02
 
 <div class="menu-container">
     <a href="advancement">Advancement</a>
-    <a href="alignment">Alignment</a>
     <a href="age">Age</a>
+    <a href="alignment">Alignment</a>
     <a href="backgrounds">Backgrounds</a>
     <a href="classes">Classes</a>
     <a href="custom-ancestry">Custom Ancestry</a>
