@@ -17,6 +17,11 @@ Only available if a special ability, spell, or other feature explicitly states y
 - [Dash](dash), [disengage](disengage), or [dodge](dodge) (Rogues only)
 - Wild Shape (Circle of the Moon Druid)
 
+> **MrFarland House Rule**<br/>
+> Drinking a [healing potion](healing) is a bonus action, but feeding one to someone else requires using an [action](actions-in-combat).
+{.paper}
+
+
 > **Sources** <br/>
 > Player's Handbook, p. 189
 {.read .small-text}

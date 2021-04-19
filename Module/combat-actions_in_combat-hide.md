@@ -9,6 +9,7 @@ order: 03
 
 **Attempt to [hide](hiding) and gain the benefits<br/> of being an [unseen-attacker](unseen-attacker)** {.text-center}
 
+
 > **Sources** <br/>
 > Player's Handbook, p. 192
 {.read .small-text}

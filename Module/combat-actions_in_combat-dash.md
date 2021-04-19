@@ -7,9 +7,9 @@ order: 03
 ### Dash
 [Home](dm-operations-center) > [Combat](combat) > [Actions in Combat](actions-in-combat) > Dash {.small-text}
 
-**May move up to their base [speed](speed).** {.text-center}
+Use an action to move up to the creature's normal movement [speed](speed).
 
-***Note**: Increases or decreases to base speed also affect the character's dash [speed](speed).*
+***Note**: Increases or decreases to the creature's normal movement speed also affect the character's dash [speed](speed).*
 {.square}
 
 > **Sources** <br/>

@@ -22,7 +22,7 @@ order: 03
     <a href="two-weapon-fighting">Two Weapon<br/> Fighting</a>
     <a href="unarmed-strike">Unarmed<br/> Strike</a>
     <a href="underwater-combat">Underwater<br/> Combat</a>
-    <a href="unseen-attacker">Unseen<br/> Attacker</a>
+    <a href="unseen-attacker-and-target">Unseen<br/> Attacker</a>
 </div>
 <hr/>
 
