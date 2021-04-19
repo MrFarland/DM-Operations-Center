@@ -13,9 +13,9 @@ order: 09
     <a href="equipment-packs">Equipment Packs</a>
     <a href="explosives">Explosives</a>
     <a href="firearms">Firearms</a>
-    <a href="mounts-and-tack">Mounts & Tack</a>
-    <a href="poisons">Poisons</a>
+    <a href="mounts-and-tack">Mounts<br/> & Tack</a>
     <a href="musical-intruments">Musical Instruments</a>
+    <a href="poisons">Poisons</a>
     <a href="trade-goods">Trade<br/> Goods</a>
     <a href="trinkets">Trinkets</a>
     <a href="tools">Tools</a>

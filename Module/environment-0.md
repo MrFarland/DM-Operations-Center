@@ -20,17 +20,8 @@ order: 07
     <a href="supernatural-regions">Supernatural<br/> Regions</a>
     <a href="water-hazards">Water<br/> Hazards</a>
     <a href="weather">Weather</a>
-    <a href="wilderness-hazards">Wilderness<br/> Hazards</a>
+    <a href="wilderness-hazards">Wilderness Hazards</a>
     <a href=".">-</a>
 </div>
 <hr/>
-
-<div class="menu-container">
-    <a href="avalanches-and-rock-slides">Avalanches<br/> & Rock Slides</a>
-    <a href="high-altitude">High<br/> Altitude</a>
-    <a href="lava">Lava</a>
-    <a href="quicksand">Quicksand</a>
-    <a href="razorvine">razorvine</a>
-    <a href=".">-</a>
-</div>
     
