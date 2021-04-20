@@ -16,10 +16,10 @@ order: 11
     <a href="jumping">Jumping</a>
     <a href="push-drag-lift">Push, Drag,<br/> Lift</a>
     <a href="size-and-space">Size & Space</a>
-    <a href="speed">Speed</a>
     <a href="swimming">Swimming</a>
     <a href="tracking">Tracking</a>
-    <a href="travel-speed">Travel<br/> Speed</a>
+    <a href="trave-activities">Travel Activities</a>
+    <a href="travel-pace">Travel<br/> Pace</a>
     <a href=".">-</a>
     <a href=".">-</a>
 </div>
