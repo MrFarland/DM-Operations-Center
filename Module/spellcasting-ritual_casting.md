@@ -6,7 +6,25 @@ parent: spellcasting
 ### Ritual Casting
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Ritual Casting {.small-text}
 
+**[Casting Time](casting-time) + 10 minutes = No [Spell Slot](spell-levels-and-slots)** {.text-center}
+
+- The spell must have the **ritual** tag.
+- The spell cannot be cast at a higher [level](spell-levels-and-slots).
+
+| Ritual Casters ||||
+|-----------|-----|-----|-----|
+| Artificer | Yes | Paladin   | No |
+| Bard      | Yes | Ranger    | No |
+| Cleric    | Yes | Rogue (AT)| No |
+| Druid     | Yes | Sorcerer  | No |
+| Fighter (EK) |No| Warlock   | No |
+| Monk      | No  | Wizard    | Yes |
+{.gray .small-text}
+
+*\* The **Ritual Caster** feat allows a character to cast ritual spells regardless of class.*
+
 
 > **Sources** <br/>
-> Player's Handbook, p. xxx
+> System Reference Document 5.1, p. 101<br/>
+> Player's Handbook, p. 201
 {.read .small-text}
