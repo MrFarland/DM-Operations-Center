@@ -21,7 +21,9 @@ parent: spellcasting
 | Monk      | No  | Wizard    | Yes |
 {.gray .small-text}
 
-*\* The **Ritual Caster** feat allows a character to cast ritual spells regardless of class.*
+***Note**: The **Ritual Caster** feat allows a character to cast ritual spells from a specific class.*
+
+*Some classes grant the ability to cast specific spells as a ritual, independent of these rules.*
 
 
 > **Sources** <br/>
