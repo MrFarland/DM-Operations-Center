@@ -14,6 +14,7 @@ order: 10
     <a href="healing">Healing</a>
     <a href="instant-death">Instant Death</a>
     <a href="madness">Madness</a>
+    <a href="madness-2">Madness 2</a>
     <a href="stabilizing">Stabilizing</a>
     <a href="suffocating">Suffocating</a>
     <a href="recuperating">Recuperating</a>
