@@ -42,7 +42,7 @@ parent: worldbuilding
         <option value="Male">Male</option>
     </select>
     <button id="buttonGenerateName" onclick="generateName()"> 
-        Generate Name 
+        Generate 
     </button> 
 </div>
 
