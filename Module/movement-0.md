@@ -18,7 +18,6 @@ order: 11
     <a href="size-and-space">Size & Space</a>
     <a href="swimming">Swimming</a>
     <a href="tracking">Tracking</a>
-    <a href="trave-activities">Travel Activities</a>
     <a href="travel-pace">Travel<br/> Pace</a>
     <a href=".">-</a>
     <a href=".">-</a>
