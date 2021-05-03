@@ -1,6 +1,6 @@
 ---
 name: Dunamancy
-slug: divination
+slug: dunamancy
 parent: schools-of-magic
 ---
 ### Dunamancy
