@@ -16,6 +16,11 @@ parent: abilities
 | Near Impossible | 30 |
 {.gray .small-text}
 
+> **MrFarland Tip**<br/>
+> Don't make all your DCs multiples of 5, it is a big jump. Especially for low-level PCs.
+{.paper}
+
+
 > **Sources** <br/>
 > Player's Handbook, p. 174
 {.read .small-text}
