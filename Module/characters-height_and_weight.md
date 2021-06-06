@@ -11,7 +11,7 @@ The following table is just a guide for typical height and weight by race. These
 
 | Race            | Height        | Weight    |
 |:----------------|:-------------:|:---------:|
-| Aarakocra*      | 5' | 80 - 100 |
+| Aarakocra*      | 5'            | 80 - 100  |
 | Aasimar         | 4'10" - 6'4"  | 114 - 270 |
 | Bugbear         | 6'2" - 8'0"   | 204 - 488 |
 | Centaur         | 6'1" - 6'10"  | 602 - 720 |
