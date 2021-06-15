@@ -14,10 +14,11 @@ parent: dexterity
 - DM decides between monsters.
 {.square}
 
-**Common House Rules**
-1. Creature with highest initiative bonus.
-2. Creature with highest [dexterity](dexterity) bonus.
-3. Roll [1d20](/roll/1d20), highest goes
+> **Additional Tiebreaker Houserules**<br/>
+> 1\. Higher initiative bonus.<br/>
+> 2\. Higher [dexterity](dexterity) bonus.<br/>
+> 3\. Roll [d20](/roll/1d20), highest goes first.
+{.paper}
 
 > **Sources** <br/>
 > Player's Handbook, p. 177, 189
