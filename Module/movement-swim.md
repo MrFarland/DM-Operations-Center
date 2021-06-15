@@ -1,10 +1,10 @@
 ---
-name: Swimming
-slug: swimming
+name: Swim
+slug: swim
 parent: movement
 ---
 ### Swimming
-[Home](dm-operations-center) > [Movement](movement) > Swimming {.small-text}
+[Home](dm-operations-center) > [Movement](movement) > Swim {.small-text}
 
 
 

@@ -9,7 +9,7 @@ order: 03
 
 **Hit = [1d20](/roll/1d20) + [Ability](ability-modifier) + ([Prof.](proficiency-bonus)) ≥ [Target AC](armor-class)** {.text-center}
 
-- Ranged weapon and spell attacks may only be made against targets that are within the weapon or spell's range.
+- Ranged weapon & spell attacks may only be made against targets within the weapon or spell's range.
 - Targets beyond a weapon's normal range, but below it's long range are made with [disadvantage](advantage-and-disadvantage).
 - Ranged attacks against targets within melee range are made with [disadvantage](advantage-and-disadvantage).
 

@@ -6,12 +6,12 @@ parent: strength
 ### Athletics
 [Home](dm-operations-center) > [Abilities](abilities) > [Strength](strength) > Athletics {.small-text}
 
-General athletic prowess when running, [jumping](jumping), [swimming](swimming), and [climbing](climbing).
+General athletic prowess when running, [jumping](jump), [swimming](swim), and [climbing](climb).
 
 **Skill Checks**<br/>
-- Attemping to [climb](climbing) a cliff or rope.
-- Trying to [jump](jumping) very high or far.
-- [Swimming](swimming) against a strong current.
+- Attemping to [climb](climb) a cliff or rope.
+- Trying to [jump](jump) very high or far.
+- [Swim](swim) against a strong current.
 {.square}
 
 > **Sources** <br/>

@@ -1,10 +1,10 @@
 ---
-name: Tracking
-slug: tracking
+name: Track
+slug: track
 parent: movement
 ---
-### Tracking
-[Home](dm-operations-center) > [Movement](movement) > Tracking {.small-text}
+### Track
+[Home](dm-operations-center) > [Movement](movement) > Track {.small-text}
 
 | Surface | DC |
 |---------|:--:|

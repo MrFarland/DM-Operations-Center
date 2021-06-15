@@ -3,7 +3,7 @@ name: Jump
 slug: jump
 parent: movement
 ---
-### Jumping
+### Jump
 [Home](dm-operations-center) > [Movement](movement) > Jump {.small-text}
 
 
