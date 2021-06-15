@@ -1,10 +1,10 @@
 ---
-name: Jumping
-slug: jumping
+name: Jump
+slug: jump
 parent: movement
 ---
 ### Jumping
-[Home](dm-operations-center) > [Movement](movement) > Jumping {.small-text}
+[Home](dm-operations-center) > [Movement](movement) > Jump {.small-text}
 
 
 

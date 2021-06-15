@@ -7,6 +7,14 @@ order: 03
 ### Ranged Attack
 [Home](dm-operations-center) > [Combat](combat) > [Actions in Combat](actions-in-combat) > Ranged Attack {.small-text}
 
+**Hit = [1d20](/roll/1d20) + [Ability](ability-modifier) + ([Prof.](proficiency-bonus)) ≥ [Target AC](armor-class)** {.text-center}
+
+- Ranged weapon and spell attacks may only be made against targets that are within the weapon or spell's range.
+- Targets beyond a weapon's normal range, but below it's long range are made with [disadvantage](advantage-and-disadvantage).
+- Ranged attacks against targets within melee range are made with [disadvantage](advantage-and-disadvantage).
+
+***\*** The character must be [proficient](proficiency-bonus) with the [weapon](weapons) being used in order to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
+
 > **Sources** <br/>
-> Player's Handbook, p. xxx
+> Player's Handbook, p. 195
 {.read .small-text}
