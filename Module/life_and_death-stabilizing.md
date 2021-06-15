@@ -1,13 +1,13 @@
 ---
-name: Suffocating
-slug: suffocating
+name: Stabilizing
+slug: stabilizing
 parent: life-and-death
 ---
-### Suffocating
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Suffocating {.small-text}
+### Stabilizing
+[Home](dm-operations-center) > [Life & Death](life-and-death) > Stabilizing {.small-text}
 
 
 
 > **Sources** <br/>
-> Dungeon Master's Guide, p. xxx
+> Player's Handbook, p. 183
 {.read .small-text}

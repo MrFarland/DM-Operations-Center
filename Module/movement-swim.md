@@ -3,7 +3,7 @@ name: Swim
 slug: swim
 parent: movement
 ---
-### Swimming
+### Swim
 [Home](dm-operations-center) > [Movement](movement) > Swim {.small-text}
 
 
