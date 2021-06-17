@@ -26,7 +26,7 @@ The following table is just a guide for typical height and weight by race. These
 | Elf, Shadar-kai | 4'10" - 6'0"  | 92 - 154  |
 | Elf, Wood       | 4'8" - 6'2"   | 102 - 180 |
 | Firbolg         | 6'4" - 8'2"   | 179 - 463 |
-| Genasi          | *See base race (human, elf, etc)* ||
+| Genasi          | *Use character's visible race.* ||
 | Gith, Githyanki | 5'2" - 7'0"   | 104 - 292 |
 | Gith, Githzerai | 5'1 - 6'11"   | 92 - 186  |
 | Gnome           | 3'1" - 3'7"   | 37 - 43   |
@@ -49,7 +49,7 @@ The following table is just a guide for typical height and weight by race. These
 | Orc             | 5'6" - 6'8"   | 179 - 367 |
 | Satyr*          | 5'0" | 170 |
 | Shifter*        | 5'0" - 7'0"   | 130-180   |
-| Simic Hybrid    | *See base race (human, elf, etc)* ||
+| Simic Hybrid    | *Use character's visible race.* ||
 | Tabaxi          | 5'0" - 6'6"   | 94 - 250  |
 | Tiefling        | 4'11" - 6'1"  | 114 - 238 |
 | Tortle*         | 5' - 6' | 450 |
@@ -60,7 +60,7 @@ The following table is just a guide for typical height and weight by race. These
 | Yuan-Ti         | 4'10" - 6'4"  | 114 - 270 |
 {.gray .small-text}
 
-*\*These are not based on roll tables, yet.*
+*\*These are not based on the official roll tables, yet.*
 
 > **Sources** <br/>
 > Player's Handbook, p. xxx

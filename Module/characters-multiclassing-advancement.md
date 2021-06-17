@@ -6,4 +6,4 @@ order: 02
 ---
 
 ### Multiclassing Advancement
-[Home](dm-operations-center) > [Characters](characters) > [Multiclassing] > Advancement {.small-text}
+[Home](dm-operations-center) > [Characters](characters) > [Multiclassing](multiclassing) > Advancement {.small-text}

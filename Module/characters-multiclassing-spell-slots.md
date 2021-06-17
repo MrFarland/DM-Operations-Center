@@ -6,4 +6,4 @@ order: 02
 ---
 
 ### Multiclassing Spell Slots
-[Home](dm-operations-center) > [Characters](characters) > [Multiclassing] > Spell Slots{.small-text}
+[Home](dm-operations-center) > [Characters](characters) > [Multiclassing](multiclassing) > Spell Slots{.small-text}

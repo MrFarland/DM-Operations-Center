@@ -8,13 +8,14 @@ order: 02
 [Home](dm-operations-center) > [Characters](characters) > Custom Origin {.small-text}
 
 **Ability Score Improvement**
-- You can assign standard ASIs to any ability.
-- You can not stack ASIs on the same ability.
-- You cannot exceed 20 in any one ability.
+- Can assign standard ASIs to any ability.
+- Can not stack ASIs on the same ability.
+- Cannot exceed 20 in any one ability.
 {.square}
 
-**Proficiencies**
-| | |
+**Proficiencies**<br/>
+Proficiencies with an [armor](armor), [language](languages), skill, [tool](tools), or [weapon](weapons) may be substituted using the following guide:
+| Original | Alternate |
 |-|-|
 | Armor   | Simple/Martial Weapon or Tool |
 | Language| Language |

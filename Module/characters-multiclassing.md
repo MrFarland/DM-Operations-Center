@@ -9,10 +9,10 @@ order: 02
 
 <div class="menu-container">
     <a href="multiclass-advancement">Advancement</a>
-    <a href="multiclass-class-features">Class Features</a>
+    <a href="multiclass-class-features">Class<br/> Features</a>
     <a href="multiclass-hit-dice">Hit<br/> Dice</a>
     <a href="multiclass-prerequisites">Prerequisites</a>
     <a href="multiclass-proficiences">Proficiencies</a>
-    <a href="multiclass-spell-slots">Spell Slots</a>
+    <a href="multiclass-spell-slots">Spell<br/> Slots</a>
 </div>
 <hr/>

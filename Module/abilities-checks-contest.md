@@ -12,6 +12,7 @@ parent: checks
 |:-----------|:-----------------------|:---------|
 | Hide            | [Stealth](stealth)     | [Perception](perception)                          |
 | Grapple & Shove | [Athletics](athletics) | [Athletics](athletics) / [Acrobatics](acrobatics) |
+| Pickpocket | [Sleight of Hand](sleight-of-hand) | [Perception](perception) |
 | Untie Knot      | [Sleight of Hand](sleight-of-hand) | [Sleight of Hand](sleight-of-hand)    |
 {.gray .small-text}
 
