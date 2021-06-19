@@ -1,10 +1,11 @@
 ---
 name: Multiclassing Prerequisites
-slug: multiclassing-perquisites
+slug: multiclassing-prerequisites
 parent: characters-multiclassing
 order: 02
 ---
 ### Multiclassing Prerequisites
+
 [Home](dm-operations-center) > [Characters](characters) > [Multiclassing](multiclassing) > Prerequisites {.small-text}
 
 | | |

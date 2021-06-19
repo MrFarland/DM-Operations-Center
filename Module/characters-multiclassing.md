@@ -13,9 +13,9 @@ order: 02
 {.square}  
 
 <div class="menu-container">
-    <a href="multiclass-class-features">Class<br/> Features</a>
-    <a href="multiclass-prerequisites">Class <br/>Prerequisites</a>
-    <a href="multiclass-proficiencies">Class <br/>Proficiencies</a>
-    <a href="multiclass-spellcasting">Multiclass<br/> Spellcasting</a>
+    <a href="multiclassing-class-features">Class<br/> Features</a>
+    <a href="multiclassing-prerequisites">Class <br/>Prerequisites</a>
+    <a href="multiclassing-proficiencies">Class <br/>Proficiencies</a>
+    <a href="multiclassing-spellcasting">Multiclass<br/> Spellcasting</a>
 </div>
 <hr/>

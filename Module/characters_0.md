@@ -8,7 +8,7 @@ order: 02
 
 <div class="menu-container">
     <a href="advancement">Advancement</a>
-    <a href="custom-ancestry">Custom<br/> Ancestry</a>
+    <a href="custom-origin">Custom<br/> Origin</a>
     <a href="determine-abilities">Determine<br/> Abilities</a>
     <a href="height-and-weight">Height &<br/> Weight</a>
     <a href="languages">Languages</a>
