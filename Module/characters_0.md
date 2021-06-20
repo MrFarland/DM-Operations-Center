@@ -14,6 +14,7 @@ order: 02
     <a href="languages">Languages</a>
     <a href="multiclassing">Multiclassing</a>
     <a href="proficiency-bonus">Proficiency<br/> Bonus</a>
+    <a href="special-abilities">Special<br/> Abilities</a>
     <a href="starting-wealth">Starting<br/> Wealth</a>
 </div>
 <hr/>

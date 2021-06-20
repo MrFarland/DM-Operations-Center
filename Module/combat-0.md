@@ -18,7 +18,6 @@ order: 03
     <a href="object-ac-and-hp">Object<br/> AC & HP</a>
     <a href="opportunity-attack">Opportunity<br/> Attack</a>
     <a href="order-of-combat">Order of<br/> Combat</a>
-    <a href="sneak-attack">Sneak<br/> Attack</a>
     <a href="two-weapon-fighting">Two Weapon<br/> Fighting</a>
     <a href="unarmed-strike">Unarmed<br/> Strike</a>
     <a href="underwater-combat">Underwater<br/> Combat</a>
