@@ -18,7 +18,7 @@ Only available if a special ability, spell, or other feature explicitly states y
 - Wild Shape (Circle of the Moon Druid)
 
 > **MrFarland House Rule**<br/>
-> Drinking a [healing potion](healing) is a bonus action, but feeding one to someone else requires using an [action](actions-in-combat).
+> Drinking a regular [healing potion](healing) is a bonus action, but taking a greater, superior, or supreme requires an [action](use-object).
 {.paper}
 
 

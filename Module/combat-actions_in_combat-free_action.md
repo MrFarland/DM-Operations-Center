@@ -31,7 +31,7 @@ Simple tasks may be performed without having to use an [action](actions-in-comba
 - turn a key in a lock
 - tap the floor with a l0-foot pole 
 - hand an item to another character 
-
+{.square}
 
 > **Sources** <br/>
 > Player's Handbook, p. xxx
