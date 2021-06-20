@@ -7,9 +7,9 @@ order: 02
 ### Multiclassing
 [Home](dm-operations-center) > [Characters](characters) > Multiclassing {.small-text}
 
-- At level up, a character may take a level in a different class, provided they meet the class [prerequisites](multiclass-prerequisites).
-- The character gains [HP](hit-points) based on the [hit die](hit-dice) of the new class. *(ie. 2 d10s Fighter, 1 d8 Rogue)*
-- The character's [proficiency bonus](proficiency-bonus) is determined by their character level **NOT** their class level.
+When taking a level in a different class, they:
+- must satisfy [prerequisites](multiclass-prerequisites) for that class,
+- gain [HP](hit-points) based on the [hit die](hit-dice) of that class,
 {.square}  
 
 <div class="menu-container">

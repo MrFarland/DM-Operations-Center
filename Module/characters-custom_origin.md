@@ -14,7 +14,7 @@ order: 02
 {.square}
 
 **Proficiencies**<br/>
-Proficiencies with an [armor](armor), [language](languages), skill, [tool](tools), or [weapon](weapons) may be substituted using the following guide:
+Proficiencies with an [armor](armor), [language](languages), skill, [tool](tools), or [weapon](weapons) may be substituted using the following:
 | Original | Alternate |
 |-|-|
 | Armor   | Simple/Martial Weapon or Tool |
