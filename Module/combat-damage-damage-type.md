@@ -22,6 +22,7 @@ order: 03
 | Radiant   | Damage from divine, holy energy, weapons, and spells. |
 | Slashing  | Damage from slicing weapons like swords, axes, and claws. |
 | Thunder   | Damage from the concussive force of thunder and air. |
+{.gray .small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. 196
