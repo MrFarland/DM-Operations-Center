@@ -10,7 +10,7 @@ order: 03
 | Attacker || Defender |
 |:-:|:-:|:-:|
 | [Athletics](athletics) | > | [Athletics](athletics) OR [Acrobatics](acrobatics)
-{.gray small-text}
+{.gray .small-text}
 
 If successful, the target creature is [grappled](grappled).
 
@@ -23,7 +23,7 @@ If successful, the target creature is [grappled](grappled).
 A creature's speed is halved when dragging or carrying [grappled](grappled) creature, unless it is two or more sizes smaller.
 
 **Shoving**<br/>
-If successful the target is knocked [prone](prone) or pushed 5 feet away from the attacker.
+If successful the target is knocked [prone](prone) **OR** pushed 5' from the attacker.
 
 > **Sources** <br/>
 > Player's Handbook, p. 195

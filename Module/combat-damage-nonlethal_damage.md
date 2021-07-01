@@ -11,6 +11,8 @@ An attacker can opt to "knock out" a creature by choosing to do so the **instant
 
 The creature is [unconcious](unconcious) and [stabilized](stabilizing).
 
+***Note:** It does not matter how much damage is dealt, the target is "knocked out".*
+
 > **Sources** <br/>
 > Player's Handbook, p. 198
 {.read .small-text}
