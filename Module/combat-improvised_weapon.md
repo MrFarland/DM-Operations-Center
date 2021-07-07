@@ -9,6 +9,7 @@ order: 03
 
 - Use the stats for an existing, comparable [weapon](weapons).
 - If no comprable weapon exists, it does [1d4](/roll/1d4).
+- Add [proficiency](proficiency-bonus) if similar to a proficient [weapon](weapons).
 - The DM determines the appropriate [damage type](damage-type).
 - [Thrown](weapon-properties) weapons w/o the property do [1d4](/roll/1d4)
 - Non-[Thrown](weapon-properties) weapons have a range of 20/60
