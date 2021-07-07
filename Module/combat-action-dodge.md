@@ -1,11 +1,11 @@
 ---
 name: Dodge
 slug: dodge
-parent: actions-in-combat
+parent: action
 order: 03
 ---
 ### Dodge
-[Home](dm-operations-center) > [Combat](combat) > [Actions in Combat](actions-in-combat) > Dodge {.small-text}
+[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Dodge {.small-text}
 
 Attackers, the creature can see, have [disadvantage](advantage-and-disadvantage) on attacks against it until the start of the creature's **next** turn.
 

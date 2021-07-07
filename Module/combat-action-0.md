@@ -1,11 +1,11 @@
 ---
-name: Actions in Combat
-slug: actions-in-combat
+name: Action
+slug: action
 parent: combat
 order: 03
 ---
-### Actions in Combat
-[Home](dm-operations-center) > [Combat](combat) > Actions in Combat {.small-text}
+### Action
+[Home](dm-operations-center) > [Combat](combat) > Action {.small-text}
 
 <div class="menu-container">
     <a href="melee-attack">Attack<br/> (Melee)</a>
@@ -14,13 +14,10 @@ order: 03
     <a href="dash">Dash</a>
     <a href="disengage">Disengage</a>
     <a href="dodge">Dodge</a>
+    <a href="extra-attack">Extra<br/> Attack</a>
     <a href="help">Help</a>
     <a href="hide">Hide</a>
     <a href="ready">Ready</a>
     <a href="search">Search</a>
     <a href="use-object">Use<br/> Object</a>
-    <a href="bonus-action">Bonus<br/> Action</a>
-    <a href="extra-attack">Extra<br/> Attack</a>
-    <a href="free-action">Free<br/> Action</a>
-    <a href="reaction">Reaction</a>
 </div>

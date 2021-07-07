@@ -1,11 +1,11 @@
 ---
 name: Ranged Attack
 slug: ranged-attack
-parent: actions-in-combat
+parent: action
 order: 03
 ---
 ### Ranged Attack
-[Home](dm-operations-center) > [Combat](combat) > [Actions in Combat](actions-in-combat) > Ranged Attack {.small-text}
+[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Ranged Attack {.small-text}
 
 **Hit = [1d20](/roll/1d20) + [Ability](ability-modifier) + ([Prof.](proficiency-bonus)) ≥ [Target AC](armor-class)** {.text-center}
 

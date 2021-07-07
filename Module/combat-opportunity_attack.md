@@ -16,7 +16,7 @@ order: 03
 
 > You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your [reaction](reaction) to make one melee attack against the provoking creature. The attack occurs right before the creature leaves your reach. 
 > 
-> You can avoid provoking an opportunity attack by taking the [Disengage](disengage) action. You also don’t provoke an opportunity attack when you teleport or when someone or something moves you without using your [movement](movement), [action](actions-in-combat), or [reaction](reaction). 
+> You can avoid provoking an opportunity attack by taking the [Disengage](disengage) action. You also don’t provoke an opportunity attack when you teleport or when someone or something moves you without using your [movement](movement), [action](actions), or [reaction](reaction). 
 >
 > **Sources** <br/>
 > System Reference Document, p. 95<br/>

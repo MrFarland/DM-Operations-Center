@@ -1,11 +1,11 @@
 ---
 name: Search
 slug: search
-parent: actions-in-combat
+parent: action
 order: 03
 ---
 ### Search
-[Home](dm-operations-center) > [Combat](combat) > [Actions in Combat](actions-in-combat) > Search {.small-text}
+[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Search {.small-text}
 
 - Actively search for something using the [perception](perception) or [investigation](investigation) skill.
 {.square}

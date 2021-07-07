@@ -1,11 +1,11 @@
 ---
 name: Help
 slug: help
-parent: actions-in-combat
+parent: action
 order: 03
 ---
 ### Help
-[Home](dm-operations-center) > [Combat](combat) > [Actions in Combat](actions-in-combat) > Help {.small-text}
+[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Help {.small-text}
 
 A creature may give a creature [advantage](advantage-and-disadvantage) on it's next [ability check](ability-check) or attack.
 

@@ -56,7 +56,7 @@
     1. Races
     1. Starting Wealth
 - Combat
-    1. Actions in Combat
+    1. Actions
         1. Attack (Melee)
         1. Attack (Ranged))
         1. Cast Spell

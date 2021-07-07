@@ -68,7 +68,7 @@ parent: home
 - [Starting Wealth](starting-wealth)
 
 #### [Combat](combat)
-- [Actions in Combat](actions-in-combat)
+- [Actions](actions)
     - [Attack (Melee)](melee-attack)
     - [Attack (Ranged)](ranged-attack)
     - [Bonus Action](bonus-action)

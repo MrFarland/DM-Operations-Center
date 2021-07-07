@@ -25,7 +25,7 @@ If the mount is knocked [prone](prone), the rider may use their reaction to land
 | Type | Init | Actions |
 |-|-|
 | **Controlled**: Domesticated, unintelligent creatures. | Rider's | [Dash](dash), [Disengage](disengage), [Dodge](dodge)
-| **Independent**: Intelligent, sentient creatures. | Mount's | No restrictions on [actions](actions-in-combat)
+| **Independent**: Intelligent, sentient creatures. | Mount's | No restrictions on [actions](actions)
 {.gray .small-text}
 
 If the mount provokes and [attack of opportunity](opportunity-attack), the attacker may target the mount or the rider.
@@ -45,7 +45,7 @@ If the mount provokes and [attack of opportunity](opportunity-attack), the attac
 > 
 > You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training. The [initiative](initiative) of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: [Dash](dash), [Disengage](disengage), and [Dodge](dodge). A controlled mount can move and act even on the turn that you mount it. 
 >
-> An independent mount retains its place in the The [initiative](initiative) order. Bearing a rider puts no restrictions on the [actions](actions-in-combat) the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes. 
+> An independent mount retains its place in the The [initiative](initiative) order. Bearing a rider puts no restrictions on the [actions](actions) the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes. 
 >
 > In either case, if the mount provokes an [opportunity attack](opportunity-attack) while you're on it, the attacker can target you or the mount.
 > 
