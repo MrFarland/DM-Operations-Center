@@ -7,6 +7,16 @@ order: 03
 ### Order of Combat
 [Home](dm-operations-center) > [Combat](combat) > Order of Combat {.small-text}
 
+1. DM determines if anyone is [surprised](surprised).
+2. DM determines where characters & monsters are.
+3. Everyone rolls [initiative](initiative).
+4. Each participant takes a turn in [initiative](initiative) order.
+5. When everyone has had a turn, the round ends.
+6. Repeat step 4 until the fighting stops.
+
+> A round represents about 6 seconds in the game world. During a round, each participant in a battle takes a turn. The order of turns is determined at the beginning of a combat encounter, when everyone rolls [initiative](initiative). Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
+>
 > **Sources** <br/>
-> Player's Handbook, p. xxx
+> System Reference Document, p. 90  
+> Player's Handbook, p. 189
 {.read .small-text}

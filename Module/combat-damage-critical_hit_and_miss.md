@@ -18,11 +18,11 @@ Roll the damage dice once and double it. {.text-center}
 **Critical Miss**. An automatic miss regardless of modifiers and the target's [armor class](armor-class).
 
 > **MrFarland House Rule**<br/>
-> Damage Roll + Maximum Damage
+> Maximum Damage + Damage Roll
 >
 > (ie. Longsword (1d8) = 8 + 1d8)
 >
-> Critical hits pack a lot more punch and combat is deadlier than ever. Be careful when building encounters.
+> Critical hits pack a lot more punch and combat is deadlier than ever. Be careful when building encounters!
 {.paper}
 
 > **Sources** <br/>

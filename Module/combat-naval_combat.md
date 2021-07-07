@@ -7,6 +7,8 @@ order: 03
 ### Naval Combat
 [Home](dm-operations-center) > [Combat](combat) > Naval Combat {.small-text}
 
+**Future Release** {.text-center}
+
 > **Sources** <br/>
-> Player's Handbook, p. xxx
+> Ghosts of Saltmarsh, p. xxx
 {.read .small-text}

@@ -14,6 +14,7 @@ order: 11
     <a href="fly">Fly</a>
     <a href="forced-march">Forced<br/> March</a>
     <a href="jump">Jump</a>
+    <a href="mounted-combat">Mount</a>
     <a href="push-drag-lift">Push, Drag,<br/> Lift</a>
     <a href="size-and-space">Size & Space</a>
     <a href="swim">Swim</a>
