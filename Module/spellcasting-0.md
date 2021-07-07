@@ -17,9 +17,9 @@ order: 12
     <a href="known-and-prepared-spells">Known & Prepared</a>
     <a href="ritual-casting">Ritual<br/> Casting</a>
     <a href="schools-of-magic">Schools<br/> of Magic</a>
+    <a href="cast-spell-scroll">Spell Scroll<br/> (Cast)</a>
+    <a href="copy-spell-scroll">Spell Scroll<br/> (Copy)</a>
     <a href="spellcasting-ability">Spellcasting<br/> Ability</a>
-    <a href="use-spell-scroll">Use Spell<br/> Scroll</a>
-    <a href=".">-</a>
     <a href=".">-</a>
     <a href=".">-</a>
 </div>

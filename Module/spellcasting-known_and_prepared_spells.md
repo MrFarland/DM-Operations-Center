@@ -10,8 +10,7 @@ parent: spellcasting
 |:-|:-|
 | **Known**    | Fixed in memory, can change spells when leveling up. |
 | **Prepared** | Prepared daily and may change spells following any [long rest](long-rest). |
-{.gray}
-
+{.gray .small-text}
 
 | Class        |K/P| # of Spells |
 |--------------|:-:|-------------------------------------|

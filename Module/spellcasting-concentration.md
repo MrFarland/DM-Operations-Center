@@ -12,8 +12,7 @@ A caster loses **concentration** when they:
 - takes damage from an attack or effect.
 {.square}
 
- **[CON](constitution) DC = Higher of (10 or ^1^/~2~ DMG)** {.text-center}
-
 > **Sources** <br/>
+> System Reference Document, p. 102<br/>
 > Player's Handbook, p. 203
 {.read .small-text}

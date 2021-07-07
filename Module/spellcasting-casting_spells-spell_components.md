@@ -9,5 +9,6 @@ parent: casting-spells
 
 
 > **Sources** <br/>
-> Player's Handbook, p. xxx
+> System Reference Document, p. 102<br/>
+> Player's Handbook, p. 203
 {.read .small-text}

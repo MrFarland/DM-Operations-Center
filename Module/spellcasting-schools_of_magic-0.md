@@ -6,6 +6,8 @@ parent: spellcasting
 ### Schools of Magic
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Schools of Magic {.small-text}
 
+The schools of magic help describe spells; they have no rules of their own, although some rules refer to the schools.
+
 <div class="menu-container">
     <a href="abjuration">Abjuration</a>
     <a href="conjuration">Conjuration</a>
@@ -20,5 +22,8 @@ parent: spellcasting
 <br/>
 
 *\* [Dunamancy](dunamancy) is a school of magic in Exandria.* {.small-text}
-<hr/>
 
+> **Sources** <br/>
+> System Reference Document 5.1, p. 103<br/>
+> Player's Handbook, p. 203
+{.read .small-text}

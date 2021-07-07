@@ -10,6 +10,7 @@ parent: spellcasting
 
 - The spell must have the **ritual** tag.
 - The spell cannot be cast at a higher [level](spell-levels-and-slots).
+- Must be [known or prepared](known-and-prepared). (Not Wizard)
 
 | Ritual Casters ||||
 |-----------|-----|-----|-----|
@@ -24,7 +25,6 @@ parent: spellcasting
 ***Note**: The **Ritual Caster** feat allows a character to cast ritual spells from a specific class.*
 
 *Some classes grant the ability to cast specific spells as a ritual, independent of these rules.*
-
 
 > **Sources** <br/>
 > System Reference Document 5.1, p. 101<br/>

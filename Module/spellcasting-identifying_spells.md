@@ -12,7 +12,6 @@ A character may use their [reaction](reaction) to identify a spell being cast or
 
 [Advantage](advantage-and-disadvantage) if cast in the same class as observer. {.text-center .small-text}
 
-
 > **Sources** <br/>
 > Xanathar's Guide to Everything, p. 85
 {.read .small-text}
