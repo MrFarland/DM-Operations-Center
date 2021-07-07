@@ -13,5 +13,6 @@ Cast a spell with a [casting time](casting-time) of 1 action.
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. <br/>
 > Player's Handbook, p. 192
 {.read .small-text}

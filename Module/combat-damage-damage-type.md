@@ -25,5 +25,6 @@ order: 03
 {.gray .small-text}
 
 > **Sources** <br/>
+> System Reference Document, p. 97<br/>
 > Player's Handbook, p. 196
 {.read .small-text}

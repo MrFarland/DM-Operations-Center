@@ -15,5 +15,6 @@ Extra Attack cannot be used:
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. <br/>
 > Player's Handbook, p. 49, 147
 {.read .small-text}

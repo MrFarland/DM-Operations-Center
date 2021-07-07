@@ -23,5 +23,6 @@ Only available if a special ability, spell, or feature explicitly states you may
 {.paper}
 
 > **Sources** <br/>
+> System Reference Document, p. <br/>
 > Player's Handbook, p. 189
 {.read .small-text}

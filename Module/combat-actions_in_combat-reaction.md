@@ -17,5 +17,6 @@ order: 03
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. <br/>
 > Player's Handbook, p. 190
 {.read .small-text}

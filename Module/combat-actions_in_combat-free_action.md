@@ -34,5 +34,6 @@ Simple tasks may be performed without having to use an [action](actions-in-comba
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. <br/>
 > Player's Handbook, p. xxx
 {.read .small-text}

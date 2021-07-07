@@ -16,5 +16,6 @@ order: 03
 ***\*** The character must be [proficient](proficiency-bonus) with the [weapon](weapons) being used in order to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
 
 > **Sources** <br/>
+> System Reference Document, p. <br/>
 > Player's Handbook, p. 195
 {.read .small-text}

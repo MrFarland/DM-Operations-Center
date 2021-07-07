@@ -12,5 +12,6 @@ order: 03
 *See: [hiding](hiding)*
 
 > **Sources** <br/>
+> System Reference Document, p. <br/>
 > Player's Handbook, p. 192
 {.read .small-text}
