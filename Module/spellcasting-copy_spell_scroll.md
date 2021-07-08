@@ -8,7 +8,7 @@ parent: spellcasting
 
 **[Intelligence](intelligence) ([Arcana](arcana)) [DC](difficulty-class) = 10 + Spell Level** {.text-center}
 - Copying takes 2 hours & 50gp per level
-- Scroll is destroyed regardless of outcome.
+- Scroll is destroyed regardless of roll.
 {.square}
 
 > **Sources** <br/>

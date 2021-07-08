@@ -1,0 +1,42 @@
+{
+    "ShortTermMadness": [
+        { "lo":"01","hi":"20","html":"The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage." },
+        { "lo":"21","hi":"30","html":"The character becomes incapacitated and spends the duration screaming, laughing, or weeping." },
+        { "lo":"31","hi":"40","html":"The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear." },
+        { "lo":"41","hi":"50","html":"The character begins babbling and is incapable of normal speech or spellcasting." },
+        { "lo":"51","hi":"60","html":"The character must use his or her action each round to attack the nearest creature." },
+        { "lo":"61","hi":"70","html":"The character experiences vivid hallucinations and has disadvantage on ability checks." },
+        { "lo":"71","hi":"75","html":"The character does whatever anyone tells him or her to do that isn't obviously self-destructive." },
+        { "lo":"76","hi":"80","html":"The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal." },
+        { "lo":"81","hi":"90","html":"The character is stunned." },
+        { "lo":"91","hi":"100","html":"The character falls unconscious." }
+    ],
+    "LongTermMadness": [
+        { "lo":"01","hi":"10","html":"The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins." },
+        { "lo":"11","hi":"20","html":"The character experiences vivid hallucinations and has disadvantage on ability checks." },
+        { "lo":"21","hi":"30","html":"The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks." },
+        { "lo":"31","hi":"40","html":"The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the antipathy/sympathy spell." },
+        { "lo":"41","hi":"45","html":"The character experiences a powerful delusion. Choose a potion. The character imagines that he or she is under its effects." },
+        { "lo":"46","hi":"55","html":"The character becomes attached to a \"lucky charm,\" such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it." },
+        { "lo":"56","hi":"65","html":"The character is blinded (25%) or deafened (75%)." },
+        { "lo":"66","hi":"75","html":"The character experiences uncontrollable tremors or tics, which impose disadvantage on attack rolls, ability checks, and saving th rows that involve Strength or Dexterity." },
+        { "lo":"76","hi":"85","html":"The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn't recognize other people or remember anything that happened before the madness took effect." },
+        { "lo":"86","hi":"90","html":"Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the confusion spell. The confusion effect lasts for l minute." },
+        { "lo":"91","hi":"95","html":"The character loses the ability to speak." },
+        { "lo":"96","hi":"100","html":"The character falls unconscious. No amount of jostling or damage can wake the character." }
+    ],
+    "IndefiniteMadness": [
+        { "lo":"01","hi":"15","html":"Being drunk keeps me sane." },
+        { "lo":"16","hi":"25","html":"I keep whatever I find." },
+        { "lo":"26","hi":"30","html":"I try to be like someone I know, their style of dress, mannerisms, and name." },
+        { "lo":"31","hi":"35","html":"I bend the truth, exaggerate, or outright lie to be interesting to other people." },
+        { "lo":"36","hi":"45","html":"My goals are the only thing of interest to me, and I'll ignore everything else." },
+        { "lo":"46","hi":"50","html":"I find it hard to care about anything that goes on around me." },
+        { "lo":"51","hi":"55","html":"I don't like the way people judge me all the time." },
+        { "lo":"56","hi":"70","html":"I am the smartest, wisest, strongest, fastest, most beautiful person I know." },
+        { "lo":"71","hi":"80","html":"Powerful enemies are hunting me, and their agents are everywhere. I am sure they're watching me all the time." },
+        { "lo":"81","hi":"85","html":"There's only one person I can trust. And only I can see this special friend." },
+        { "lo":"86","hi":"95","html":"I can't take anything seriously. The more serious it is, the funnier I find it." },
+        { "lo":"96","hi":"100","html":"I really like killing people." }
+    ]
+}
