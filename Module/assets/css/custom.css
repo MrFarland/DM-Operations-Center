@@ -94,3 +94,9 @@
 }
 
  .small-text {font-size: 12px;line-height: 12px;}
+
+ a {
+   color: #58180d;
+   text-decoration: none;
+   font-weight: bold;
+ }
