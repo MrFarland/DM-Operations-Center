@@ -1,15 +1,17 @@
 ---
 name: Contest
 slug: contest
-parent: checks
+parent: abilities
 ---
 ### Contest
-[Home](dm-operations-center) > [Abilities](abilities) > [Checks](checks) > Contest {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Contest {.small-text}
+
+A contest is a special [ability check](ability-check) where the initiator of an action is pitted directly against another creature.
 
 **Success = Initiator's [Check](ability-check) > Defender's [Check](ability-check)** {.text-center}
 
-| Example    | Initiator               | Defender |
-|:-----------|:-----------------------|:---------|
+| ~Example~  | ~Initiator~            | ~Defender~ |
+|:-----------|:-----------------------|:-----------|
 | Hide            | [Stealth](stealth)     | [Perception](perception)                          |
 | Grapple & Shove | [Athletics](athletics) | [Athletics](athletics) / [Acrobatics](acrobatics) |
 | Pickpocket | [Sleight of Hand](sleight-of-hand) | [Perception](perception) |
@@ -17,6 +19,7 @@ parent: checks
 {.gray .small-text}
 
 > **Sources** <br/>
+> System Reference Document, p. 77<br/>
 > Player's Handbook, p. 174
 {.read .small-text}
 

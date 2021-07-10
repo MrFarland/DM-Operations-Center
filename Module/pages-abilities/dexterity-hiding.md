@@ -20,5 +20,6 @@ parent: dexterity
 A creature's [passive](passive) perception should be used if the creature is not alerted to the hider's presence.
 
 > **Sources** <br/>
+> System Reference Document, p. 80<br/>
 > Player's Handbook, p. 177
 {.read .small-text}

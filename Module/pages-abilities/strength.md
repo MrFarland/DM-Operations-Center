@@ -18,7 +18,7 @@ Athletic training and raw physical power.
 **Skills & Other Abilities**
 <div class="menu-container">
     <a href="melee-attack">Attack<br/> (Melee)</a>
-    <a href="ranged-attack">Attack (Ranged)</a>
+    <a href="ranged-attack">Attack<br/> (Ranged)</a>
     <a href="athletics">Athletics</a>
     <a href="carry-capacity">Carry<br/> Capacity</a>
     <a href="jump">Jump</a>
@@ -26,6 +26,7 @@ Athletic training and raw physical power.
 </div>
 
 > **Sources** <br/>
+> System Reference Document, p. 79<br/>
 > Player's Handbook, p. 175
 {.read .small-text}
 

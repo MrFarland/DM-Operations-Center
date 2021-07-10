@@ -1,11 +1,11 @@
 ---
 name: Extra Attack
 slug: extra-attack
-parent: action
+parent: characters
 order: 03
 ---
 ### Extra Attack
-[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Extra Attack {.small-text}
+[Home](dm-operations-center) > [Characters](characters) > Extra Attack {.small-text}
 
 A creaature with this feature may make a second [melee](melee-attack) or [ranged](ranged-attack) whenever they use their [action](actions) to make an attack.
 
@@ -15,6 +15,6 @@ Extra Attack cannot be used:
 {.square}
 
 > **Sources** <br/>
-> System Reference Document, p. <br/>
+> System Reference Document, p. 93<br/>
 > Player's Handbook, p. 49, 147
 {.read .small-text}

@@ -15,7 +15,7 @@ order: 02
 
 **Proficiencies**<br/>
 Proficiencies with an [armor](armor), [language](languages), skill, [tool](tools), or [weapon](weapons) may be substituted using the following:
-| Original | Alternate |
+| ~Original~ | ~Alternate~ |
 |-|-|
 | Armor   | Simple/Martial Weapon or Tool |
 | Language| Language |

@@ -16,6 +16,7 @@ Knowledge of religions, gods, cults, and traditions.
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 81<br/>
 > Player's Handbook, p. 178
 {.read .small-text}
 

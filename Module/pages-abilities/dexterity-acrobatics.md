@@ -15,6 +15,7 @@ Acrobatics measures the ability to maintain balance, tumble, and perform tricks 
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 80<br/>
 > Player's Handbook, p. 176
 {.read .small-text}
 

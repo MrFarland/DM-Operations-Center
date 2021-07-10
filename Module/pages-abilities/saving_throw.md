@@ -1,10 +1,10 @@
 ---
 name: Saving Throw
 slug: saving-throw
-parent: checks
+parent: abilities
 ---
 ### Saving Throw
-[Home](dm-operations-center) > [Abilities](abilities) > [Checks](checks) > Saving Throw {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities) > Saving Throw {.small-text}
 
 **Success = [1d20](/roll/1d20) + [Ability Mod](ability-modifier) + ([Prof \*](proficiency-bonus))** ≥ [DC](difficulty-class) {.text-center}
 
@@ -12,8 +12,8 @@ In special circumstances a creature may have [advantage or disadvantage](advanta
 
 ***\*** The character must be [proficient](proficiency-bonus) in the saving throw in order to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
 
-| Proficiencies by Class||
-|-----------|:---:|
+| Proficiencies by Class ||
+|-----------|:---:|-----------|:---:|
 | Artificer | [CN](constitution), [IN](intelligence) | Paladin   | [WS](wisdom), [CH](charisma) |
 | Barbarian | [ST](strength), [CN](constitution) | Ranger    | [ST](strength), [DX](dexterity) |
 | Bard      | [DX](dexterity), [CH](charisma)    | Rogue     | [DX](dexterity), [IN](intelligence) |
@@ -26,5 +26,6 @@ In special circumstances a creature may have [advantage or disadvantage](advanta
 ***See also**: [Death Saving Throw](death-saving-throw).*
 
 > **Sources** <br/>
-> Player's Handbook, p. 45
+> System Reference Document, p. 83<br/>
+> Player's Handbook, p. 45, 180
 {.read .small-text}

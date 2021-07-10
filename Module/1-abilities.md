@@ -15,13 +15,16 @@ order: 01
     <a href="charisma">Charisma</a>
 </div>
 <br/>
-<br/>
 <div class="menu-container">
-    <a href="ability-modifiers">Ability<br/> Modifiers</a>
+    <a href="ability-check">Ability<br/> Check</a>
+    <a href="ability-modifier">Ability<br/> Modifier</a>
     <a href="advantage-and-disadvantage">Advantage & Disadvantage</a>
-    <a href="alternate-abilities">Alternate<br/> Abilities</a>
-    <a href="checks">Checks</a>
+    <a href="alternate-ability">Alternate<br/> Ability</a>
+    <a href="contest">Contest</a>
     <a href="difficulty-class">Difficulty<br/> Class</a>
+    <a href="group-check">Group<br/> Check</a>
+    <a href="passive-check">Passive<br/> Check</a>
+    <a href="saving-throw">Saving<br/> Throw</a>
     <a href="working-together">Working<br/> Together</a>
 </div>
 <hr/>

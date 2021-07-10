@@ -13,5 +13,6 @@ parent: abilities
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 79<br/>
 > Player's Handbook, p. 174
 {.read .small-text}

@@ -15,6 +15,7 @@ General athletic prowess when running, [jumping](jump), [swimming](swim), and [c
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 79<br/>
 > Player's Handbook, p. 175
 {.read .small-text}
 

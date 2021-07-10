@@ -1,19 +1,19 @@
 ---
 name: Multiclassing Spellcasting
 slug: multiclassing-spellcasting
-parent: characters-multiclassing
+parent: characters
 order: 02
 ---
 
 ### Multiclassing Spellcasting
-[Home](dm-operations-center) > [Characters](characters) > [Multiclassing](multiclassing) > Spellcasting {.small-text}
+[Home](dm-operations-center) > [Characters](characters) > Multiclassing Spellcasting {.small-text}
 
 **Caster Level = Total # of Spellcaster Levels** {.text-center}
 
 | # | Per Level of |
 |:-:|----|
 | 1       | Bard, Cleric, Druid, Sorcerer, Wizard |
-| ^1^/~2~ | Paladin, Ranger |
+| ^1^/~2~ | Artificer, Paladin, Ranger |
 | ^1^/~3~ | Eldritch Knight, Arcane Trickster |
 {.gray .small-text}
 
@@ -50,5 +50,8 @@ order: 02
 {.gray .small-text}
 
 > **Sources** <br/>
-> Player's Handbook, p. 164-165
+> System Reference Document, p. 57-58<br/>
+> Player's Handbook, p. 164-165<br/>
+> Eberron: Rising from the Last War, p. 54<br/>
+> Tasha's Cauldron of Everything, p. ?
 {.read .small-text}

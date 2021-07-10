@@ -19,7 +19,7 @@ Balance, agility, and general nimbleness
 <div class="menu-container">
     <a href="acrobatics">Acrobatics</a>
     <a href="melee-attack">Attack<br/> (Melee)</a>
-    <a href="ranged-attack">Attack (Ranged)</a>
+    <a href="ranged-attack">Attack<br/> (Ranged)</a>
     <a href="armor-class">Armor<br/> Class</a>
     <a href="initiative">Initiative</a>
     <a href="sleight-of-hand">Sleight<br/> of Hand</a>

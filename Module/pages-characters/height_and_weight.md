@@ -9,7 +9,7 @@ order: 02
 
 The following table is just a guide for typical height and weight by race. These are typical, not limits.
 
-| Race            | Height        | Weight    |
+| ~Race~          | ~Height~      | ~Weight~  |
 |:----------------|:-------------:|:---------:|
 | Aarakocra*      | 5'            | 80 - 100  |
 | Aasimar         | 4'10" - 6'4"  | 114 - 270 |
@@ -60,7 +60,7 @@ The following table is just a guide for typical height and weight by race. These
 | Yuan-Ti         | 4'10" - 6'4"  | 114 - 270 |
 {.gray .small-text}
 
-*\*These are not based on official roll tables, yet.*
+*\*These are not based on the official roll tables, yet.*
 
 > **Sources** <br/>
 > Too many to call them all out.

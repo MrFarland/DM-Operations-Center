@@ -15,6 +15,7 @@ Ability to lie or otherwise hide the truth.
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 82<br/>
 > Player's Handbook, p. 178
 {.read .small-text}
 

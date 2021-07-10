@@ -8,7 +8,7 @@ parent: characters
 
 Used in [saving throws](saving-throw) and [skill checks](skill-checks), as well as related [ability checks](ability-checks) when using [tools](tools) for which the character is proficient.
 
-| Levels       |Bonus|
+| ~Levels~     |~Bonus~|
 |:------------:|:--:|
 |  **1 - 4**   | +2 |
 |  **5 - 8**   | +3 |
@@ -18,6 +18,7 @@ Used in [saving throws](saving-throw) and [skill checks](skill-checks), as well 
 {.gray}
 
 > **Sources** <br/>
+> System Reference Document, p. 56<br/>
 > Player's Handbook, p. 15
 {.read .small-text}
 

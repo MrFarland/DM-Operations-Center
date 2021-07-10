@@ -15,5 +15,6 @@ Ability to determine the true intentions of a creature.
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 82<br/>
 > Player's Handbook, p. 178
 {.read .small-text}

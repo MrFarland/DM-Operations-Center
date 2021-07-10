@@ -14,6 +14,7 @@ Ability to give first aid or diagnose an illness.
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 82<br/>
 > Player's Handbook, p. 178
 {.read .small-text}
 

@@ -27,6 +27,7 @@ Mental acuity, recall, and ability to reason.
 </div>
 
 > **Sources** <br/>
+> System Reference Document, p. 81<br/>
 > Player's Handbook, p. 177
 {.read .small-text}
 

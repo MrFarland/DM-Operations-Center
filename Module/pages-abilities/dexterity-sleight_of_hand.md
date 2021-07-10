@@ -15,6 +15,7 @@ Perform manual trickery without being detected.
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 80<br/>
 > Player's Handbook, p. 177
 {.read .small-text}
 

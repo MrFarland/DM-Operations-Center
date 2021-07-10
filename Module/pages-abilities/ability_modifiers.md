@@ -6,7 +6,7 @@ parent: abilities
 ### Ability Modifiers
 [Home](dm-operations-center) > [Abilities](abilities) > Ability Modifiers {.small-text}
 
-| Score |   +/-  | Score |   +/-  | Score |   +/-  |
+| ~Score~ |   ~+/-~  | ~Score~ |   ~+/-~  | ~Score~ |   ~+/-~  |
 |:-----:|:------:|:-----:|:------:|:-----:|:------:|
 |   1   | **-5** | 12-13 | **+1** | 24-25 | **+7** |
 |  2-3  | **-4** | 14-15 | **+2** | 26-27 | **+8** |
@@ -16,11 +16,9 @@ parent: abilities
 | 10-11 |  **0** | 22-23 | **+6** | - ||
 {.gray .small-text}
 
-| Humanoid<br/> Average | Player<br/> Max | Monster<br/> Max |
-|:-:|:-:|:-:|
-| **10** | **20** | **30** |
-{.gray .small-text}
+***Note**: The maximum ability score for a humanoid is 20, while the maximum for monsters is 30.*
 
 > **Sources** <br/>
+> System Reference Document, p. 76<br/>
 > Player's Handbook, p. 13, 173
 {.read .small-text}

@@ -6,7 +6,7 @@ parent: strength
 ### Carry Capacity
 [Home](dm-operations-center) > [Abilities](abilities) > [Strength](strength) > Carry Capacity {.small-text}
 
-| Capacity by Creature Size||
+| Capacity by Creature Size ||
 |:-----------|:--------------------|
 | **Tiny**   | ([STR](strength) x 15) / 2 |
 | **Small**  | [STR](strength) x 15 |
@@ -32,6 +32,7 @@ parent: strength
 {.gray .small-text}
 
 > **Sources** <br/>
+> System Reference Document, p. 79<br/>
 > Player's Handbook, p. 176
 {.read .small-text}
 

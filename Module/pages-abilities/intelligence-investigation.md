@@ -16,6 +16,7 @@ Ability to find clues and make deducations.
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 81<br/>
 > Player's Handbook, p. 178
 {.read .small-text}
 

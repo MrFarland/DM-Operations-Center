@@ -32,6 +32,7 @@ parent: strength
 {.gray .small-text}
 
 > **Sources** <br/>
+> System Reference Document, p. 79<br/>
 > Player's Handbook, p. 176
 {.read .small-text}
 

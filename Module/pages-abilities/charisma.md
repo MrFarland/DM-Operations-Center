@@ -25,6 +25,7 @@ Charm, confidence, eloquence, and personality
 </div>
 
 > **Sources** <br/>
+> System Reference Document, p. 82<br/>
 > Player's Handbook, p. 178
 {.read .small-text}
 

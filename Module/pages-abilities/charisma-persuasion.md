@@ -15,6 +15,7 @@ Influence others with logic, tact or good nature.
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 82<br/>
 > Player's Handbook, p. 179
 {.read .small-text}
 

@@ -16,6 +16,7 @@ Knowledge of history, people, and things.
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 81<br/>
 > Player's Handbook, p. 177
 {.read .small-text}
 

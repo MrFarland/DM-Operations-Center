@@ -12,7 +12,7 @@ A creature's natural armor class is how hard they are to hit when **not** wearin
 
 Wearing [armor](armor) replaces a creature's natural AC.
 
-| Armor | AC |
+| ~Armor~ | ~AC~ |
 |-------|----|
 | [Padded Armor](/item/padded-armor)                   | 11 + [Dex](dexterity) |
 | [Leather Armor](/item/leather-armor)                 | 11 + [Dex](dexterity) |
@@ -29,6 +29,7 @@ Wearing [armor](armor) replaces a creature's natural AC.
 {.gray .small-text}
 
 > **Sources** <br/>
+> System Reference Document, p. 80<br/>
 > Player's Handbook, p. 177
 {.read .small-text}
 

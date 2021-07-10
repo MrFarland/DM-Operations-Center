@@ -7,23 +7,23 @@ order: 02
 ### Languages
 [Home](dm-operations-center) > [Characters](characters) > Languages {.small-text}
 
-| Language    | Script     | Speakers |
-|-------------|------------|----------|
-| Abyssal     | Infernal   | Demons |
+| ~Language~  | ~Script~   | ~Speakers~ |
+|-------------|------------|------------|
+| Abyssal     | Infernal   | Demons     |
 | Celestial   | Celestial  | Celestials |
-| Common      | Common     | Humans |
+| Common      | Common     | Humans     |
 | Deep Speech | -          | Aberrations |
 | Draconic    | Draconic   | Dragons, Dragonborn |
-| Dwarvish    | Dwarvish   | Dwarves |
-| Elvish      | Elvish     | Elves |
-| Giant       | Dwarvish   | Giants, Ogres |
+| Dwarvish    | Dwarvish   | Dwarves    |
+| Elvish      | Elvish     | Elves      |
+| Giant       | Dwarvish   | Giants, Ogres  |
 | Gnomish     | Dwarvish / Elvish* | Gnomes |
 | Goblin      | Dwarvish   | Goblinoids |
-| Halfling    | Common     | Halflings |
+| Halfling    | Common     | Halflings  |
 | Infernal    | Infernal   | Devils, Tieflings |
-| Orc         | Dwarvish   | Orcs |
+| Orc         | Dwarvish   | Orcs       |
 | Primordial  | Dwarvish   | Elementals |
-| Sylvan      | Elvish     | Fey |
+| Sylvan      | Elvish     | Fey        |
 | Undercommon | Dwarvish / Elvish* | Deep Gnomes, Drow, Duergar |
 {.gray .small-text}
 
@@ -31,6 +31,7 @@ order: 02
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 59<br/>
 > Player's Handbook, p. 123
 {.read .small-text}
 
