@@ -22,8 +22,10 @@ Roll the damage dice once and double it. {.text-center}
 >
 > (ie. Longsword (1d8) = 8 + 1d8)
 >
-> Critical hits pack a lot more punch and combat is deadlier than ever. Be careful when building encounters!
-{.paper}
+> Critical hits pack a lot more punch and combat is deadlier than ever. 
+> 
+>Be careful building encounters!
+{.flavortext}
 
 > **Sources** <br/>
 > System Reference Document, p. 96<br/>

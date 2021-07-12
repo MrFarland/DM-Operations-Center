@@ -6,8 +6,9 @@ parent: downtime
 ### Religious Service
 [Home](dm-operations-center) > [Downtime](downtime) > Religious Service {.small-text}
 
+**10 Days = Inspiration** {.text-center}
 
 
 > **Sources** <br/>
-> Player's Handbook, p. xxx
+> Dungeon Master's Guide, p. 129
 {.read .small-text}

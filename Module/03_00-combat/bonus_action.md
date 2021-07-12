@@ -20,7 +20,7 @@ order: 03
 
 > **MrFarland House Rule**<br/>
 > Drinking a regular [healing potion](healing) is a bonus action, but taking any other potion requires a [use object action](use-object).
-{.paper}
+{.flavortext}
 
 > **Sources** <br/>
 > System Reference Document, p. 90<br/>
