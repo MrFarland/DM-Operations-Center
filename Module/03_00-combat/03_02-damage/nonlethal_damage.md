@@ -13,9 +13,6 @@ order: 03
 
 ***Note:** It does not matter how much damage is dealt, the target is "knocked out".*
 
-> Sometimes an attacker wants to [incapacitate](incapacitated) a foe, rather than deal a killing blow. When an attacker 
-reduces a creature to 0 hit points with a [melee attack](melee-attack), the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls [unconscious](unconcious) and is [stable](stabilized).
->
 > **Sources** <br/>
 > System Reference Document, p. 98<br/>
 > Player's Handbook, p. 198

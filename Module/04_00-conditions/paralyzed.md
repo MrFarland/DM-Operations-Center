@@ -15,6 +15,7 @@ parent: conditions
 
 
 > **Sources** <br/>
+> System Reference Document, p. 358<br/>
 > Player's Handbook, p. 291
 {.read .small-text}
 

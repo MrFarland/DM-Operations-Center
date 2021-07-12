@@ -10,8 +10,6 @@ order: 03
 - Interact with an object that requires an action.
 - Use an object beyond what a [free action](free-action) allows.
 
-> You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
->
 > **Sources** <br/>
 > System Reference Document, p. 94 <br/>
 > Player's Handbook, p. 193

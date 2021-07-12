@@ -16,5 +16,6 @@ The condition ends when/if the:
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 358<br/>
 > Player's Handbook, p. 290
 {.read .small-text}

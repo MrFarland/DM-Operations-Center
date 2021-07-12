@@ -10,8 +10,6 @@ order: 03
 - Actively search for something using the [perception](perception) or [investigation](investigation) skill.
 {.square}
 
-> When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the DM might have you make a [Wisdom](wisdom) ([Perception](perception)) check or an [Intelligence](intelligence) ([Investigation](investigation)) check. 
-> 
 > **Sources** <br/>
 > System Reference Document, p. 94 <br/>
 > Player's Handbook, p. 193

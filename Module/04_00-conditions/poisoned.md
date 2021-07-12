@@ -11,5 +11,6 @@ parent: conditions
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 359<br/>
 > Player's Handbook, p. 292
 {.read .small-text}

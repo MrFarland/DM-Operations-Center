@@ -22,12 +22,6 @@ order: 03
 > Drinking a regular [healing potion](healing) is a bonus action, but taking any other potion requires a [use object action](use-object).
 {.paper}
 
-> You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take. 
->
-> You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available. 
-> 
-> You choose when to take a bonus action during your turn, unless the bonus action's timing is specified, and anything that deprives you of your ability to take [actions](action) also prevents you from taking a bonus action. 
->
 > **Sources** <br/>
 > System Reference Document, p. 90<br/>
 > Player's Handbook, p. 189
