@@ -6,4 +6,5 @@
 bin/
 documentation/ModuleBuild/
 module/ModuleBuild/
+release/
 private/
