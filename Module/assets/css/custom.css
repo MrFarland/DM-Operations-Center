@@ -4,7 +4,15 @@
  ----------------
  custom styles & theme
  */
- 
+
+ /* Overrides of default Module Packer styles */
+ a {
+   color: #58180d;
+   text-decoration: none;
+   font-weight: bold;
+ }
+
+ /* Flex Box Menu */
  .menu-container {
     align-items: center;
     display: flex;
@@ -13,7 +21,6 @@
     font-size: 12px;
     line-height: 14px;
  }
-
  .menu-div {
    align-items: center;
    background: #f2f2f2; 
@@ -27,7 +34,7 @@
    padding: 3px;
    justify-content: center;
    text-align: center;
-}
+ }
  .menu-container a {
     align-items: center;
     background: #f2f2f2; 
@@ -42,28 +49,20 @@
     justify-content: center;
     text-align: center;
  }
-
  .menu-container a:hover {
     background: #58180d; 
     color: #f2f2f2;
  }
-
  .menu-container a:active {
     background: #6b1b0c; 
     color: #f2f2f2;
  }
 
- .more {
-    font-size: 8px;
-    margin: 4px;
-    text-align: center;
- }
-
+ /* Controls */
  .controls {
    margin-bottom:15px;
    text-align:center;
  }
-
  .result {
    background: #f2f2f2; 
    border: 1px solid #919191; 
@@ -73,19 +72,18 @@
    padding: 10px;
  }
 
+ /* Footer */
  .footer {
    bottom: 0;
    position: absolute;
    text-align: center;
  }
-
  .fan-content-policy {
      color: #737373;
      font-size: 8px;
      line-height: 10px;
      margin: 0 24px 18px 24px;
  }
-
  .license {
    color: #282828;
    font-size: 10px;
@@ -93,10 +91,13 @@
    margin: 0 16px 18px 16px;
 }
 
- .small-text {font-size: 12px;line-height: 12px;}
-
- a {
-   color: #58180d;
-   text-decoration: none;
-   font-weight: bold;
- }
+/* General Formatting*/
+.more {
+   font-size: 8px;
+   margin: 4px;
+   text-align: center;
+}
+.small-text {
+   font-size: 12px;
+   line-height: 12px;
+}
