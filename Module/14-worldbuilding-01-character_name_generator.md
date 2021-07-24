@@ -56,11 +56,11 @@ parent: worldbuilding
 <hr/>
 
 **Notes**
-- Chinese names are backwards (given surname). {.small-text}
-- Drow names are planned, but not yet implemented.
+- I still need to fix the order of Chinese names to (surname given). {.small-text}
+- Drow names are planned, but haven't been implemente yet.
 - Elf child names are not yet implemented.
 - Orcs do not have clan/family names yet.
 
-*I don't have "Half-Elf/Orc" names, they would be named based on the culture in which they were raised.*
+*I don't have "Half" names, I choose names for half elves and orcs based on the culture in which they were raised.*
 
 <script src="assets/js/character-name-generator.js"></script>
