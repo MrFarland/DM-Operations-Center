@@ -8,8 +8,11 @@ parent: actions
 
 **Cast a spell with a [casting time](casting-time) of 1 action.** {.text-center}
 
-***Note**: If a character casts a [bonus action](bonus-action) spell, any spell cast using their action **MUST** be a cantrip.*
-{.square}
+<br/>
+<br/>
+
+***Note**: If a [bonus action](bonus-action) spell has been cast, any spell cast using an action **MUST** be a cantrip.*
+{.square .small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. 93<br/>

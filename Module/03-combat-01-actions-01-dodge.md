@@ -6,11 +6,12 @@ parent: actions
 ### Dodge
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Dodge {.small-text}
 
-Attackers, the creature can see, have [disadvantage](advantage-and-disadvantage) on attacks against it until the start of the creature's **next** turn.
+**[Disadvantage](advantage-and-disadvantage) on attacks against & [advantage](advantage-and-disadvantage) on [dexterity](dexterity) [saves](saving-throw) until start of next turn.** {.text-center}
 
-The creature has [Advantage](advantage-and-disadvantage) on [dexterity](dexterity) [saving throws](saving-throw) until the start of the creature's next turn.
+<br/>
+<br/>
 
-***Note**: The character must be able to see the attack, have a [speed](speed) > 0, and is not [incapacitated](incapacitated).*
+***Note**: The character must be able to see the attack, have a [speed](speed) > 0, and is not [incapacitated](incapacitated).* {.small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. <br/>
