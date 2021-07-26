@@ -101,3 +101,9 @@
    font-size: 12px;
    line-height: 12px;
 }
+
+/* General UI */
+.uiControls {
+   margin-bottom:15px;
+   text-align:center;
+}
