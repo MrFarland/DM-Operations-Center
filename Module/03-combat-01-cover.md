@@ -6,7 +6,7 @@ parent: combat
 ### Cover
 [Home](dm-operations-center) > [Combat](combat) > Cover {.small-text}
 
-| Cover   | Effects |
+|||
 |:-------:|----------------------------------------------------------------| 
 | ^1^/~2~ | +2 [AC](armor-class) & [DEX](dexterity) [Saves](saving-throws) | 
 | ^3^/~4~ | +5 [AC](armor-class) & [DEX](dexterity) [Saves](saving-throws) |

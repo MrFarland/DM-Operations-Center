@@ -28,7 +28,7 @@ If maintenance cost underruns are not paid, the business begins to fail.
 > **MrFarland Houserule**<br/>
 > \- Make players hire a manager<br/>
 > \- Pick an interval (week or month)<br/>
-> \- Let the manager count for the bonus<br/>
+> \- Let manager count for the bonus<br/>
 > \- Add addtl PC bonus when present<br/>
 {.flavortext}
 

@@ -7,7 +7,7 @@ order: 03
 ### Unseen Attacker & Target
 [Home](dm-operations-center) > [Combat](combat) > Unseen Attacker & Target {.small-text}
 
-| Unseen | On the Attack |
+| ~Unseen~ | ~On~ ~the~ ~Attack~ |
 |-|:-|
 | Attacker | [Advantage](advantage-and-disadvantage) |
 | Target   | [Disadvantage](advantage-and-disadvantage) |

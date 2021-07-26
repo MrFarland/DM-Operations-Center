@@ -29,5 +29,5 @@ order: 02
 > System Reference Document, p. 57<br/>
 > Player's Handbook, p. 164<br/>
 > Eberron: Rising from the Last War, p. 54<br/>
-> Tasha's Cauldron of Everything, p. ?
+> Tasha's Cauldron of Everything, p. 10
 {.read .small-text}

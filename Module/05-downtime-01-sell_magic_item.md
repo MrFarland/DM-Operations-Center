@@ -7,8 +7,8 @@ parent: downtime
 [Home](dm-operations-center) > [Downtime](downtime) > Sell Magic Item {.small-text}
 
 **Buyer Found = [DC](difficulty-class) 20 [INT](intelligence) ([Investigation](investigation))** {.text-center}
-- Selling multiple items occur at the same time
-- Helpers can reduce the # of days to find buyer
+- Selling multiple items occur at same time
+- Helpers reduce the # of days to find buyer
 {.square}
 
 | ~Rarity~  | ~Base~    | ~Days~             | ~Mod~ |
@@ -22,13 +22,13 @@ parent: downtime
 
 **Price = [1d100](/roll/1d100) + Modifier + [CHA](charisma) ([Persuasion](persuasion))** {.text-center}
 
-| [~1d100~](/roll/1d100) | ~Result~ |
+|||
 |:-:|-|
 | 01 20 | Buyer offering a tenth of the base price. |
-| 21 40 | Buyer offering a quarter of the base price,<br/> & shady buyer offering half the base price. |
-| 41 80 | Buyer offering half the base price,<br/> & shady buyer offering the full base price. |
+| 21 40 | Buyer offering a quarter of the base price<br/> Shady buyer offering half the base price. |
+| 41 80 | Buyer offering half the base price<br/> Shady buyer offering the full base price. |
 | 81 90 | Buyer offering the full base price. |
-| 91 100 | Shady buyer offering one and a half times the base price, no questions asked. |
+| 91 100 | Shady buyer offering 1.5x base price, no questions asked. |
 {.gray .small-text}
 
 > **Sources** <br/>

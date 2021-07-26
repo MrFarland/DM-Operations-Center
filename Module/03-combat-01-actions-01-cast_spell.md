@@ -6,7 +6,7 @@ parent: actions
 ### Cast Spell
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Cast Spell {.small-text}
 
-**Cast a spell with a [casting time](casting-time) of 1 action.** {.text-center}
+Cast a spell with a [casting time](casting-time) of 1 action. {.text-center}
 
 <br/>
 <br/>

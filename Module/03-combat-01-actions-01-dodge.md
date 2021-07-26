@@ -6,7 +6,7 @@ parent: actions
 ### Dodge
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Dodge {.small-text}
 
-**[Disadvantage](advantage-and-disadvantage) on attacks against & [advantage](advantage-and-disadvantage) on [dexterity](dexterity) [saves](saving-throw) until start of next turn.** {.text-center}
+[Disadvantage](advantage-and-disadvantage) on attacks against & [advantage](advantage-and-disadvantage) on [dexterity](dexterity) [saves](saving-throw) until start of the next turn. {.text-center}
 
 <br/>
 <br/>

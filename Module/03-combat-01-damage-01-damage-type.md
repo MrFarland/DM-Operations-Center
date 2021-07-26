@@ -8,19 +8,19 @@ parent: damage
 
 |||
 |---|---|
-| Acid | Damage from corrosive chemicals and monsters. |
-| Bludgeoning | Damage from blunt force trauma like hammers & falling. |
-| Cold      | Damage from frigid, icy temperatures. |
-| Fire      | Damage from flames, embers, lava, and hot metal.  |
-| Force     | Focused magical energy with no corporeal form.   |
-| Lightning | Damage from lightning and electric currents. |
-| Necrotic  | Damage from the undead, decay and rot.       |
-| Piercing  | Damage from punctures like spears, daggers, and teeth. |
-| Poison    | Damage from venomous stings, bites, and toxins. |
-| Psychic   | Damage from mental abilities and attacks on the mind. |
-| Radiant   | Damage from divine, holy energy, weapons, and spells. |
-| Slashing  | Damage from slicing weapons like swords, axes, and claws. |
-| Thunder   | Damage from the concussive force of thunder and air. |
+| Acid | Corrosive chemicals & monsters |
+| Bludgeoning | Blunt force trauma like hammers |
+| Cold      | Frigid, icy temperatures |
+| Fire      | Flames, embers, & lava |
+| Force     | Focused magical energy |
+| Lightning | Lightning & electric currents |
+| Necrotic  | Undead, decay & rot       |
+| Piercing  | Punctures from spears & teeth |
+| Poison    | Venomous stings, bites, & toxins |
+| Psychic   | Mental abilities & mind attacks |
+| Radiant   | Divine energy, weapons & spells |
+| Slashing  | Slicing like swords & claws |
+| Thunder   | Concussive force of thunder & air |
 {.gray .small-text}
 
 > **Sources** <br/>

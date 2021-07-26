@@ -6,7 +6,7 @@ parent: actions
 ### Disengage
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Disengage {.small-text}
 
-**[Movement](movement) does not provoke [attacks of opportunity](opportunity-attacks) for the rest of the turn.** {.text-center}
+[Movement](movement) does not provoke [opportunity attacks](opportunity-attack) for the rest of the turn. {.text-center}
 
 > **Sources** <br/>
 > System Reference Document, p. 93<br/>

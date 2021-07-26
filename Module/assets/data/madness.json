@@ -1,5 +1,5 @@
 {
-    "ShortTermMadness": [
+    "MadnessShortTerm": [
         { "lo":"01","hi":"20","html":"The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage." },
         { "lo":"21","hi":"30","html":"The character becomes incapacitated and spends the duration screaming, laughing, or weeping." },
         { "lo":"31","hi":"40","html":"The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear." },
@@ -11,7 +11,7 @@
         { "lo":"81","hi":"90","html":"The character is stunned." },
         { "lo":"91","hi":"100","html":"The character falls unconscious." }
     ],
-    "LongTermMadness": [
+    "MadnessLongTerm": [
         { "lo":"01","hi":"10","html":"The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins." },
         { "lo":"11","hi":"20","html":"The character experiences vivid hallucinations and has disadvantage on ability checks." },
         { "lo":"21","hi":"30","html":"The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks." },
@@ -25,7 +25,7 @@
         { "lo":"91","hi":"95","html":"The character loses the ability to speak." },
         { "lo":"96","hi":"100","html":"The character falls unconscious. No amount of jostling or damage can wake the character." }
     ],
-    "IndefiniteMadness": [
+    "MadnessInfinite": [
         { "lo":"01","hi":"15","html":"Being drunk keeps me sane." },
         { "lo":"16","hi":"25","html":"I keep whatever I find." },
         { "lo":"26","hi":"30","html":"I try to be like someone I know, their style of dress, mannerisms, and name." },

@@ -7,10 +7,10 @@ order: 03
 ### Reaction
 [Home](dm-operations-center) > [Combat](combat) > [Actions in Combat](actions-in-combat) > Reaction {.small-text}
 
-**1 Reaction per Round of Combat.** {.text-center}
+1 Reaction per Round of Combat. {.text-center}
 
 **Examples**
-- Cast a spell with a casting time of **1 reaction**.
+- Cast a spell with cast time of **1 reaction**.
 - [Identifying a spell](identifying-spells) as it is being cast.
 - Make an [opportunity attack](opportunity-attack).
 - Perform a [readied](ready) action.

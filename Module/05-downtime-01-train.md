@@ -6,7 +6,7 @@ parent: downtime
 ### Train
 [Home](dm-operations-center) > [Downtime](downtime) > Train {.small-text}
 
-**[Language](language) or [Tool](tools) = 250 Days & 250 gp** {.text-center}
+[Language](language) or [Tool](tools) = 250 Days & 250 gp {.text-center}
 
 The character must find a suitable teacher willing to teach them.
 

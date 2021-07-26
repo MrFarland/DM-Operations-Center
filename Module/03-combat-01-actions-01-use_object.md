@@ -6,8 +6,7 @@ parent: actions
 ### Use Object
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Use Object {.small-text}
 
-- Interact with an object that requires an action.
-- Use an object beyond what a [free action](free-action) allows.
+Interact with or use a mundane or magical object that requires an [action](actions) to operate. {.text-center}
 
 > **Sources** <br/>
 > System Reference Document, p. 94 <br/>

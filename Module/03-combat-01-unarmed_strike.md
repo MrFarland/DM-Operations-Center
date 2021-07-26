@@ -9,8 +9,8 @@ order: 03
 
 [Bludgeoning](damage-type) = 1 + [Strength](strength) modifier {.text-center}
 
-- May be used in place of any [melee attack](melee-attack) including with [extra attack](extra-attack) or as a [bonus action](bonus-action).
-- To make an unarmed strike as a [bonus action](bonus-action), the [1st](actions) attack must be with a [light](weapon-properties) weapon or unarmed.
+- May be used in place of any [melee attack](melee-attack) including w/ [extra attack](extra-attack) or [bonus action](bonus-action)
+- [Bonus action](bonus-action) unarmed strike, [1st](actions) attack must be w/ [light](weapon-properties) weapon or unarmed
 {.square}
 
 > **Sources** <br/>
