@@ -1,6 +1,6 @@
 ---
 name: Conditions
-slug: conditions
+slug: conditions-home
 order: 05
 parent: home
 ---

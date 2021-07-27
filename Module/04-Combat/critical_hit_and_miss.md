@@ -1,7 +1,7 @@
 ---
 name: Critical
 slug: critical
-parent: damage
+parent: combat
 ---
 ## Critical
 [Home](dm-operations-center) > [Combat](combat) > [Damage](damage) > Critical {.small-text}

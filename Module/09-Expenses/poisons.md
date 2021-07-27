@@ -1,7 +1,7 @@
 ---
 name: Poisons
 slug: poisons
-parent: equipment
+parent: expenses
 ---
 ### Poisons
 [Home](dm-operations-center) > [Equipment](equipment) > Poisons {.small-text}

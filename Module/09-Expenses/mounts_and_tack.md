@@ -1,7 +1,7 @@
 ---
 name: Mounts & Tack
 slug: mounts-and-tack
-parent: equipment
+parent: expenses
 ---
 ### Mounts & Tack
 [Home](dm-operations-center) > [Equipment](equipment) > Mounts & Tack {.small-text}

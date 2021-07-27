@@ -1,7 +1,7 @@
 ---
 name: Ranged Attack
 slug: ranged-attack
-parent: actions
+parent: action
 ---
 ### Ranged Attack
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Ranged Attack {.small-text}

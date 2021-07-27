@@ -1,7 +1,7 @@
 ---
 name: Equipment Packs
 slug: equipment-packs
-parent: equipment
+parent: expenses
 ---
 ### Equipment Packs
 [Home](dm-operations-center) > [Equipment](equipment) > Equipment Packs {.small-text}

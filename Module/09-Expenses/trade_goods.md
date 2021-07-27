@@ -1,7 +1,7 @@
 ---
 name: Trade Goods
 slug: trade-goods
-parent: equipment
+parent: expenses
 ---
 ### Trade Goods
 [Home](dm-operations-center) > [Equipment](equipment) > Trade Goods {.small-text}

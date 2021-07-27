@@ -1,6 +1,7 @@
 ---
 name: Determine Ability Scores
 slug: determine-ability-scores
+parent: characters
 ---
 ### Determine Ability Scores
 [Home](dm-operations-center) > [Characters](characters) > Determine Ability Scores {.small-text}

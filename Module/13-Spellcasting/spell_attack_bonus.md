@@ -1,7 +1,7 @@
 ---
 name: Spell Attack Bonus
 slug: spell-attack-bonus
-parent: casting-spells
+parent: spellcasting
 ---
 ### Spell Attack Bonus
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Attack Bonus {.small-text}

@@ -1,7 +1,7 @@
 ---
 name: Weapons
 slug: weapons
-parent: equipment
+parent: expenses
 ---
 ### Weapons
 [Home](dm-operations-center) > [Equipment](equipment) > Weapons {.small-text}

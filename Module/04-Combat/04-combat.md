@@ -1,6 +1,6 @@
 ---
 name: Combat
-slug: combat
+slug: combat-home
 parent: home
 order: 04
 ---

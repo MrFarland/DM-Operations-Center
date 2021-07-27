@@ -1,7 +1,7 @@
 ---
 name: Spell Levels & Slots
 slug: spell-levels-and-slots
-parent: casting-spells
+parent: spellcasting
 ---
 ### Spell Levels & Slots
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Levels & Slots {.small-text}

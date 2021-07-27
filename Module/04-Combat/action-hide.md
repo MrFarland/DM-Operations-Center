@@ -1,7 +1,7 @@
 ---
 name: Hide
 slug: hide
-parent: actions
+parent: action
 ---
 ### Hide
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Hide {.small-text}

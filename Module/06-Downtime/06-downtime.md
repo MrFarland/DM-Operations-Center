@@ -1,6 +1,6 @@
 ---
 name: Downtime
-slug: downtime
+slug: downtime-home
 order: 06
 parent: home
 ---

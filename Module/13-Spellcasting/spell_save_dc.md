@@ -1,7 +1,7 @@
 ---
 name: Spell Save DC
 slug: spell-save-dc
-parent: casting-spells
+parent: spellcasting
 ---
 ### Spell Save DC
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Save DC {.small-text}

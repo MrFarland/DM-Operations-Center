@@ -1,7 +1,7 @@
 ---
 name: Adventuring Gear
 slug: adventuring-gear
-parent: equipment
+parent: expenses
 ---
 ### Adventuring Gear
 [Home](dm-operations-center) > [Equipment](equipment) > Adventuring Gear {.small-text}

@@ -1,7 +1,7 @@
 ---
 name: Vehicles
 slug: vehicles
-parent: equipment
+parent: expenses
 ---
 ### Vehicles
 [Home](dm-operations-center) > [Equipment](equipment) > Vehicles {.small-text}

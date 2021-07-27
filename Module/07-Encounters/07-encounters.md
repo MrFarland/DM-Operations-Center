@@ -1,6 +1,6 @@
 ---
 name: Encounters
-slug: encounters
+slug: encounters-home
 order: 07
 parent: home
 ---

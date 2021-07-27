@@ -1,6 +1,7 @@
 ---
 name: Known & Prepared Spells
 slug: known-and-prepared-spells
+parent: spellcasting
 ---
 ### Known & Prepared Spells
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Known & Prepared Spells {.small-text}

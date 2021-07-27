@@ -1,6 +1,6 @@
 ---
 name: Campaign
-slug: campaign
+slug: campaign-home
 parent: home
 order: 02
 ---

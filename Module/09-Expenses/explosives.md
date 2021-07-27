@@ -1,7 +1,7 @@
 ---
 name: Explosives
 slug: explosives
-parent: equipment
+parent: expenses
 ---
 ### Explosives
 [Home](dm-operations-center) > [Equipment](equipment) > Explosives {.small-text}

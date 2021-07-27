@@ -1,6 +1,6 @@
 ---
 name: Life & Death
-slug: life-and-death
+slug: life-and-death-home
 order: 10
 parent: home
 ---

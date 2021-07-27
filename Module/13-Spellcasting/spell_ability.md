@@ -1,6 +1,7 @@
 ---
 name: Spell Ability
 slug: spell-ability
+parent: spellcasting
 ---
 ### Spell Ability
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Ability {.small-text}

@@ -1,6 +1,7 @@
 ---
 name: Class Features
 slug: class-features
+parent: characters
 ---
 ### Class Features
 [Home](dm-operations-center) > [Characters](characters) > Class Features {.small-text}

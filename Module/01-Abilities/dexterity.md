@@ -1,6 +1,7 @@
 ---
 name: Dexterity
 slug: dexterity
+parent: abilities
 ---
 ### Dexterity
 [Home](dm-operations-center) > [Abilities](abilities) > Dexterity {.small-text}

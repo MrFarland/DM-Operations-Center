@@ -1,6 +1,7 @@
 ---
 name: Saving Throw
 slug: saving-throw
+parent: abilities
 ---
 ### Saving Throw
 [Home](dm-operations-center) > [Abilities](abilities) > Saving Throw {.small-text}

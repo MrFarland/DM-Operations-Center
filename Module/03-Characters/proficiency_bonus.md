@@ -1,6 +1,7 @@
 ---
 name: Proficiency Bonus
 slug: proficiency-bonus
+parent: characters
 ---
 ### Proficiency Bonus
 [Home](dm-operations-center) > [Characters](characters) > Proficiency Bonus {.small-text}

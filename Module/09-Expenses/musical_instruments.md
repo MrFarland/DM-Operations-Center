@@ -1,7 +1,7 @@
 ---
 name: Musical Instruments
 slug: musical-instruments
-parent: equipment
+parent: expenses
 ---
 ### Musical Instruments
 [Home](dm-operations-center) > [Equipment](equipment) > Musical Instruments {.small-text}

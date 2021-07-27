@@ -1,6 +1,7 @@
 ---
 name: Copy Scroll
 slug: copy-scroll
+parent: spellcasting
 ---
 ### Copy Scroll
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Copy Scroll {.small-text}

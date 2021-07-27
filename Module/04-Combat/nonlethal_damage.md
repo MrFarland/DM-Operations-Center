@@ -1,7 +1,7 @@
 ---
 name: Nonlethal Damage
 slug: nonlethal-damage
-parent: damage
+parent: combat
 ---
 ### Nonlethal Damage
 [Home](dm-operations-center) > [Combat](combat) > [Damage](damage) > Nonlethal Damage {.small-text}

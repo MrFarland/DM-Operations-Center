@@ -1,7 +1,7 @@
 ---
 name: Search
 slug: search
-parent: actions
+parent: action
 ---
 ### Search
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Search {.small-text}

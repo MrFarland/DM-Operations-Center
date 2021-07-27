@@ -1,6 +1,6 @@
 ---
 name: Loot
-slug: loot
+slug: loot-home
 parent: home
 order: 11
 ---

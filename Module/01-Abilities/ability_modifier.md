@@ -1,6 +1,7 @@
 ---
 name: Ability Modifiers
 slug: ability-modifiers
+parent: abilities
 ---
 ### Ability Modifiers
 [Home](dm-operations-center) > [Abilities](abilities) > Ability Modifiers {.small-text}

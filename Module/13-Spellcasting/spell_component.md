@@ -1,6 +1,7 @@
 ---
 name: Spell Component
 slug: spell-component
+parent: spellcasting
 ---
 ### Spell Component
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Component {.small-text}

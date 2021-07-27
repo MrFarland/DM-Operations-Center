@@ -1,6 +1,7 @@
 ---
 name: Concentration
 slug: concentration
+parent: spellcasting
 ---
 ### Concentration
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Concentration {.small-text}

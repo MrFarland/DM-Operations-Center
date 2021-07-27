@@ -1,7 +1,7 @@
 ---
 name: Cast Spell
 slug: cast-spell
-parent: actions
+parent: action
 ---
 ### Cast Spell
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Cast Spell {.small-text}

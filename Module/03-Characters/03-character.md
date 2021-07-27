@@ -1,8 +1,8 @@
 ---
 name: Character
-slug: character
-order: 03
+slug: character-home
 parent: home
+order: 03
 ---
 ## Character
 [Home](dm-operations-center) > Character

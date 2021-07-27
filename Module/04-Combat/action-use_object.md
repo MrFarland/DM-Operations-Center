@@ -1,7 +1,7 @@
 ---
 name: Use Object
 slug: use-object
-parent: actions
+parent: action
 ---
 ### Use Object
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Use Object {.small-text}

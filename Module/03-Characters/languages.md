@@ -1,6 +1,7 @@
 ---
 name: Languages
 slug: languages
+parent: characters
 ---
 ### Languages
 [Home](dm-operations-center) > [Characters](characters) > Languages {.small-text}

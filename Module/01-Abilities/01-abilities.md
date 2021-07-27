@@ -1,6 +1,6 @@
 ---
 name: Abilities
-slug: abilities
+slug: abilities-home
 parent: home
 order: 01
 ---

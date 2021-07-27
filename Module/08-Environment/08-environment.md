@@ -1,6 +1,6 @@
 ---
 name: Environment
-slug: environment
+slug: environment-home
 order: 08
 parent: home
 ---

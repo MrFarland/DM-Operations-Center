@@ -1,6 +1,7 @@
 ---
 name: Contest
 slug: contest
+parent: abilities
 ---
 ### Contest
 [Home](dm-operations-center) > [Abilities](abilities) > Contest {.small-text}

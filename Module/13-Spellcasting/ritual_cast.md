@@ -1,6 +1,7 @@
 ---
 name: Ritual Cast
 slug: ritual-cast
+parent: spellcasting
 ---
 ### Ritual Cast
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Ritual Cast {.small-text}

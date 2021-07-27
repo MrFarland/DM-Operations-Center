@@ -1,6 +1,7 @@
 ---
 name: Identifying Spells
 slug: identifying Spells
+parent: spellcasting
 ---
 ### Identifying Spells
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Identifying Spells {.small-text}

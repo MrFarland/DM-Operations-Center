@@ -1,7 +1,7 @@
 ---
 name: Improvised Weapon
 slug: improvised-weapon
-parent: damage
+parent: combat
 ---
 ### Improvised Weapon
 [Home](dm-operations-center) > [Combat](combat) > Improvised Weapon {.small-text}

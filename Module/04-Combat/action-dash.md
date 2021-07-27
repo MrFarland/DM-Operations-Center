@@ -1,7 +1,7 @@
 ---
 name: Dash
 slug: dash
-parent: actions
+parent: action
 ---
 ### Dash
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Dash {.small-text}

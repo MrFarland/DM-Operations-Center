@@ -1,6 +1,7 @@
 ---
 name: Wisdom
 slug: wisdom
+parent: abilities
 ---
 ### Wisdom
 [Home](dm-operations-center) > [Abilities](abilities) > Wisdom {.small-text}

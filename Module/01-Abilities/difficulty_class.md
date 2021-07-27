@@ -1,6 +1,7 @@
 ---
 name: Difficulty Class
 slug: difficulty-class
+parent: abilities
 ---
 ### Difficulty Class
 [Home](dm-operations-center) > [Abilities](abilities) > Difficulty Class {.small-text}

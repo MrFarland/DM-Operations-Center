@@ -1,7 +1,7 @@
 ---
 name: Disengage
 slug: disengage
-parent: actions
+parent: action
 ---
 ### Disengage
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Disengage {.small-text}

@@ -1,6 +1,7 @@
 ---
 name: Passive Check
 slug: passive-check
+parent: abilities
 ---
 ### Passive Check
 [Home](dm-operations-center) > [Abilities](abilities) > Passive Check {.small-text}

@@ -1,6 +1,7 @@
 ---
 name: Advancement
 slug: advancement
+parent: characters
 ---
 ### Advancement
 [Home](dm-operations-center) > [Characters](characters) > Advancement {.small-text}

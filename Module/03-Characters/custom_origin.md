@@ -1,6 +1,7 @@
 ---
 name: Custom Origin
 slug: custom-origin
+parent: characters
 ---
 ### Custom Origin
 [Home](dm-operations-center) > [Characters](characters) > Custom Origin {.small-text}

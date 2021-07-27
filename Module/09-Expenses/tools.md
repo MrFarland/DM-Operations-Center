@@ -1,7 +1,7 @@
 ---
 name: Tools
 slug: tools
-parent: equipment
+parent: expenses
 ---
 ### Tools
 [Home](dm-operations-center) > [Equipment](equipment) > Tools {.small-text}

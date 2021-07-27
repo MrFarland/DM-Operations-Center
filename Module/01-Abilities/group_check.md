@@ -1,6 +1,7 @@
 ---
 name: Group Check
 slug: group-check
+parent: abilities
 ---
 ### Group Check
 [Home](dm-operations-center) > [Abilities](abilities) > Group Check {.small-text}

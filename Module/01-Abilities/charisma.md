@@ -1,6 +1,7 @@
 ---
 name: Charisma
 slug: charisma
+parent: abilities
 ---
 ### Charisma
 [Home](dm-operations-center) > [Abilities](abilities) > Charisma {.small-text}

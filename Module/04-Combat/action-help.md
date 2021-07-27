@@ -1,7 +1,7 @@
 ---
 name: Help
 slug: help
-parent: actions
+parent: action
 ---
 ### Help
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Help {.small-text}

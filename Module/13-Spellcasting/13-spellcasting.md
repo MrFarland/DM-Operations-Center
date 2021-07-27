@@ -1,6 +1,6 @@
 ---
 name: Spellcasting
-slug: spellcasting
+slug: spellcasting-home
 parent: home
 order: 13
 ---

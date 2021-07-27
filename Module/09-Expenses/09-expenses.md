@@ -1,6 +1,6 @@
 ---
 name: Expenses
-slug: expenses
+slug: expenses-home
 order: 09
 parent: home
 ---

@@ -1,7 +1,7 @@
 ---
 name: Armor
 slug: armor
-parent: equipment
+parent: expenses
 ---
 ### Armor
 [Home](dm-operations-center) > [Equipment](equipment) > Armor {.small-text}

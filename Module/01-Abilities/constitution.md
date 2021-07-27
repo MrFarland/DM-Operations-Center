@@ -1,6 +1,7 @@
 ---
 name: Constitution
 slug: constitution
+parent: abilities
 ---
 ### Constitution
 [Home](dm-operations-center) > [Abilities](abilities) > Constitution {.small-text}

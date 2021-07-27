@@ -1,6 +1,6 @@
 ---
 name: Storytelling
-slug: storytelling
+slug: storytelling-home
 parent: home
 order: 14
 ---

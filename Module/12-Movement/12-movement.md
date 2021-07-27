@@ -1,6 +1,6 @@
 ---
 name: Movement
-slug: movement
+slug: movement-home
 parent: home
 order: 12
 ---

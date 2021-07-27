@@ -1,6 +1,7 @@
 ---
 name: Counterspell
 slug: counterspell
+parent: spellcasting
 ---
 ### Counterspell
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Counterspell {.small-text}

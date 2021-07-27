@@ -1,7 +1,7 @@
 ---
 name: Melee Attack
 slug: melee-attack
-parent: actions
+parent: action
 ---
 ### Melee Attack
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Melee Attack {.small-text}

@@ -1,6 +1,6 @@
 ---
 name: Worldbuilding
-slug: worldbuilding
+slug: worldbuilding-home
 parent: home
 order: 15
 ---

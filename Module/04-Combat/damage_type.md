@@ -1,7 +1,7 @@
 ---
 name: Damage Type
 slug: damage-type
-parent: damage
+parent: combat
 ---
 ### Damage Type
 [Home](dm-operations-center) > [Combat](combat) > [Damage](damage) > Damage Type {.small-text}

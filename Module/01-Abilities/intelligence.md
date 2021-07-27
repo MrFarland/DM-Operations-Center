@@ -1,6 +1,7 @@
 ---
 name: Intelligence
 slug: intelligence
+parent: abilities
 ---
 ### Intelligence
 [Home](dm-operations-center) > [Abilities](abilities) > Intelligence {.small-text}

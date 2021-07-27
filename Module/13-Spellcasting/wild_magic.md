@@ -1,6 +1,7 @@
 ---
 name: Cast Spell Scroll
 slug: cast-spell-scroll
+parent: spellcasting
 ---
 ### Cast Spell Scroll
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Cast Spell Scroll {.small-text}

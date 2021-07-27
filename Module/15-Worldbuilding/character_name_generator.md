@@ -1,6 +1,7 @@
 ---
 name: Character Name Generator
 slug: character-name-generator
+parent: worldbuilding
 ---
 ### Character Name Generator</h3>
 [Home](dm-operations-center) > [Worldbuilding](worldbuilding) > Character Name Generator {.small-text}

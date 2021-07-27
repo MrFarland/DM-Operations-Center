@@ -1,7 +1,7 @@
 ---
 name: Trinkets
 slug: trinkets
-parent: equipment
+parent: expenses
 ---
 ### Trinkets
 [Home](dm-operations-center) > [Equipment](equipment) > Trinkets {.small-text}

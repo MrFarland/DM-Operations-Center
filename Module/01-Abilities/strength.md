@@ -1,6 +1,7 @@
 ---
 name: Strength
 slug: strength
+parent: abilities
 ---
 ### Strength
 [Home](dm-operations-center) > [Abilities](abilities) > Strength {.small-text}

@@ -1,6 +1,7 @@
 ---
 name: Starting Wealth
 slug: starting-wealth
+parent: characters
 ---
 ### Starting Wealth
 [Home](dm-operations-center) > [Characters](characters) > Starting Wealth {.small-text}

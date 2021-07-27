@@ -1,7 +1,7 @@
 ---
 name: Ready
 slug: ready
-parent: actions
+parent: action
 ---
 ### Ready
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Ready {.small-text}

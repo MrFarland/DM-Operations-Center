@@ -1,7 +1,7 @@
 ---
 name: Dodge
 slug: dodge
-parent: actions
+parent: action
 ---
 ### Dodge
 [Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Dodge {.small-text}

@@ -1,6 +1,7 @@
 ---
 name: Ability Check
 slug: ability-check
+parent: abilities
 ---
 ### Ability Check
 [Home](dm-operations-center) > [Abilities](abilities) > Ability Check {.small-text}
