@@ -8,38 +8,19 @@ parent: dm-operations-center
 [Home](dm-operations-center) > Expenses
 
 <div class="menu-container">
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
+    <a href="store-generator">Store Generator</a>
+    <a href="inn-and-tavern-generator">Inn & Tavern Generator</a>
 </div>
-<div class="more">▼ More ▼</div>
+<hr/>
 <div class="menu-container">
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
+    <a href="food-and-drink">Food & Drink</a>
+    <a href="lifestyle">Lifestyle</a>
+    <a href="lodging">Lodging</a>
+    <a href="mounts-and-tack">Mounts & Tack</a>
+    <a href="services">Services</a>
+    <a href="spellcasting-services">Spellcasting Services</a>
+    <a href="trade-goods">Trade Goods</a>
+    <a href="upkeep">Upkeep</a>
+    <a href="vehicles">Vehicles</a>
 </div>
 <hr/>
