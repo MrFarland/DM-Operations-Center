@@ -23,7 +23,7 @@ parent: downtime
 - Each day a character not present adds 3d.
 {.square}
 
-***See Also:** [Upkeep](upkeep)*
+***See Also:** Upkeep*
 
 > **Sources** <br/>
 > Dungeon Master's Guide, p. 128

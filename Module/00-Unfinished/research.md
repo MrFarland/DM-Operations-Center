@@ -12,8 +12,8 @@ Before they begin researching:
 - Is it in a book, a place or person?
 {.square}
 
-INT ([Investigation](investigation)): Find clues & sources<br/>
-CHA ([Persuasion](persuasion)): To get help, convince, etc.
+INT (Investigation): Find clues & sources<br/>
+CHA (Persuasion): To get help, convince, etc.
 
 **Expenses = 1gp / Day** {.text-center}
 

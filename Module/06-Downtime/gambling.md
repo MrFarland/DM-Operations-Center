@@ -1,22 +1,22 @@
 ---
-name: Gamble
-slug: gamble
+name: Gambling
+slug: gambling
 parent: downtime
 ---
-### Gamble
-[Home](dm-operations-center) > [Downtime](downtime) > Gamble {.small-text}
+### Gambling
+[Home](dm-operations-center) > [Downtime](downtime) > Gambling {.small-text}
 
 The character spends 1 week & 10gp or more on wagers.
 
 The character makes 3 checks with a different DC of <br/>
-(5 + [2d10](/roll/2d10)) for each successive check.
+(5 + 2d10) for each successive check.
 
-- wisdom([Insight](insight))
-- Charisma([Deception](deception))
-- Charisma([Intimidation](intimidation))
+- wisdom(Insight)
+- Charisma(Deception)
+- Charisma(Intimidation)
 {.square}
 
-***Note**: Characters [proficient](proficient) with a gaming set, may substitute one of their skill checks with this proficiency.* {.small-text}
+***Note**: Characters proficient with a gaming set, may substitute one of their skill checks with this proficiency.* {.small-text}
 
 | ~Fails~ | ~Winnings~ | ~Outcome~ |
 |:--:|:----:|-|

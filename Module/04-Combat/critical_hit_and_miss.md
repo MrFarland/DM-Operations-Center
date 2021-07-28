@@ -4,11 +4,11 @@ slug: critical-hit-and-miss
 parent: combat
 ---
 ## Critical Hit & Miss
-[Home](dm-operations-center) > [Combat](combat) > [Damage](damage) > Critical Hit & Miss {.small-text}
+[Home](dm-operations-center) > [Combat](combat) > Critical Hit & Miss {.small-text}
 
 **Critical Hit**. An automatic hit in which **ALL** damage dice for the attack are doubled. {.text-center}
 
-*Includes [sneak attack](sneak-attack), spells, extra damage, etc.* {.text-center .small-text}
+*Includes sneak attack, spells, extra damage, etc.* {.text-center .small-text}
 
 <br/>
 
@@ -19,7 +19,7 @@ OR  {.text-center}
 Roll the damage dice for the attack twice. {.text-center}
 
 
-**Critical Miss**. An automatic miss regardless of modifiers and the target's [armor class](armor-class).
+**Critical Miss**. An automatic miss regardless of modifiers and the target's armor class.
 
 > **MrFarland House Rule**<br/>
 > Maximum Damage + Damage Roll

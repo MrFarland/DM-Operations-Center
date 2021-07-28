@@ -6,11 +6,10 @@ parent: conditions
 ### Paralyzed
  [Home](dm-operations-center) > [Conditions](conditions) > Paralyzed {.small-text}
 
-- Creature is incapacitated.
-- Can not move or speak.
-- Fail all STR & DEX saving throws.
-- Attacks **against** have advantage.
-- Attack hits within 5' are [critical hits](criticals).
+- A paralyzed creature is incapacitated and can’t move or speak.
+- The creature automatically fails Strength and Dexterity saving throws.
+- Attack rolls against the creature have advantage.
+- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 {.square}
 
 

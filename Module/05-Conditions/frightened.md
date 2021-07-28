@@ -6,10 +6,8 @@ parent: conditions
 ### Frightened
 [Home](dm-operations-center) > [Conditions](conditions) > Frightened {.small-text}
 
-- Afraid of creature causing the effect.
-- Disadvantage on checks if source in sight.
-- Disadvantage on attacks if source in sight.
-- Cannot willingly move closer to source.
+- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
+- The creature can’t willingly move closer to the source of its fear.
 {.square}
 
 > **Sources** <br/>

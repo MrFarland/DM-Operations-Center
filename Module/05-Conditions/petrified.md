@@ -6,16 +6,13 @@ parent: conditions
 ### Petrified
  [Home](dm-operations-center) > [Conditions](conditions) > Petrified {.small-text}
 
-- Transformed into a solid substance.
-- Mundane items are transformed too.
-- Weight increases by ten.
-- Frozen in time and stops aging.
-- Creature is incapacitated.
-- Can not move or speak.
-- Fail all STR & DEX saving throws.
-- Resistance to all damage types.
-- Immune to any new poison or disease.
-- Existing poison or disease suspended.
+- A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone).
+- Its weight increases by a factor of ten, and it ceases aging.
+- The creature is incapacitated, can’t move or speak, and is unaware of its surroundings.
+- Attack rolls against the creature have advantage.
+- The creature automatically fails Strength and Dexterity saving throws.
+- The creature has resistance to all damage.
+- The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 {.square}
 
 > **Sources** <br/>

@@ -10,7 +10,7 @@ parent: wilderness-hazards
 
 - Creatures roll [initiative](initiative)
 - Moves 300' at [initiative](initiative) 10 and 0
-- Creatures move with it and are [prone](prone)
+- Creatures move with it and are prone
 - DC 15 STR saving throw
 - Fail: 1d10 bludgeoning, 1/2 on success
 {.square}

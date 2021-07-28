@@ -2,7 +2,6 @@
 name: Reaction
 slug: reaction
 parent: combat
-order: 03
 ---
 ### Reaction
 [Home](dm-operations-center) > [Combat](combat) > [Actions in Combat](actions-in-combat) > Reaction {.small-text}
@@ -11,9 +10,9 @@ order: 03
 
 **Examples**
 - Cast a spell with cast time of **1 reaction**.
-- [Identifying a spell](identifying-spells) as it is being cast.
-- Make an [opportunity attack](opportunity-attack).
-- Perform a [readied](ready) action.
+- Identifying a spell as it is being cast.
+- Make an opportunity attack.
+- Perform a readied action.
 {.square}
 
 > **Sources** <br/>

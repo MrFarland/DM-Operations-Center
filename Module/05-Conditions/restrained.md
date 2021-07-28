@@ -6,11 +6,10 @@ parent: conditions
 ### Restrained
  [Home](dm-operations-center) > [Conditions](conditions) > Restrained {.small-text}
 
-- The creature's speed is 0.
-- Cannot benefit from any bonus to speed.
-- All attacks have Disadvantage.
-- Attacks against have advantage.
-- Disadvantage on DEX saving throws.
+- A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
+- Attack rolls against the creature have advantage, 
+- The creature’s attack rolls have disadvantage.
+- The creature has disadvantage on Dexterity saving throws.
 {.square}
 
 > **Sources** <br/>

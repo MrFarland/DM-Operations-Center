@@ -6,8 +6,7 @@ parent: conditions
 ### Poisoned
  [Home](dm-operations-center) > [Conditions](conditions) > Poisoned {.small-text}
 
-- Disadvantage on all attack rolls.
-- Disadvantage on all ability checks.
+- A poisoned creature has disadvantage on attack rolls and ability checks.
 {.square}
 
 > **Sources** <br/>

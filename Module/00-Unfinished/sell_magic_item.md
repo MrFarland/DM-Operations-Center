@@ -6,21 +6,21 @@ parent: downtime
 ### Sell Magic Item
 [Home](dm-operations-center) > [Downtime](downtime) > Sell Magic Item {.small-text}
 
-**Buyer Found = DC 20 INT ([Investigation](investigation))** {.text-center}
+Buyer Found = DC 20 INT (Investigation) {.text-center}
 - Selling multiple items occur at same time
 - Helpers reduce the # of days to find buyer
 {.square}
 
 | ~Rarity~  | ~Base~    | ~Days~             | ~Mod~ |
 |-----------|----------:|:------------------:|:-----:|
-| Common    |    100 gp |  [ld4](/roll/1d4)  |  +10  |  
-| Uncommon  |    500 gp |  [ld6](/roll/1d6)  |   +O  | 
-| Rare      |  5,000 gp |  [ld8](/roll/1d8)  |  -10  | 
-| Very Rare | 50,000 gp | [ldl0](/roll/1d10) |  -20  | 
+| Common    |    100 gp |  1d4  |  +10  |  
+| Uncommon  |    500 gp |  1d6  |   +O  | 
+| Rare      |  5,000 gp |  1d8  |  -10  | 
+| Very Rare | 50,000 gp | 1d10 |  -20  | 
 | Legendary items cannot be sold via downtime.    ||||
 {.gray .small-text}
 
-**Price = [1d100](/roll/1d100) + Modifier + CHA ([Persuasion](persuasion))** {.text-center}
+Price = 1d100 + Modifier + CHA (Persuasion) {.text-center}
 
 |||
 |:-:|-|

@@ -6,11 +6,11 @@ parent: conditions
 ### Invisible
  [Home](dm-operations-center) > [Conditions](conditions) > Invisible {.small-text}
 
-- Only visible with magic or special sight.
-- Considered heavily obscured for hiding.
-- Can still be detected by noise & tracks.
-- All attacks have advantage.
-- Attacks against have Disadvantage.
+- An invisible creature is impossible to see without the aid of magic or a special sense.
+- For the purpose of hiding, the creature is heavily obscured. 
+- The creature’s location can be detected by any noise it makes or any tracks it leaves.
+- Attack rolls against the creature have disadvantage,
+- The creature’s attack rolls have advantage.
 {.square}
 
 > **Sources** <br/>

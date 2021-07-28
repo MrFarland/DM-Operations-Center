@@ -6,13 +6,11 @@ parent: conditions
 ### Unconcious
  [Home](dm-operations-center) > [Conditions](conditions) > Unconcious {.small-text}
 
-- Creature is incapacitated.
-- Cannot move or speak.
-- Drops whatever it is currently holding.
-- Falls prone.
-- Fail all STR & DEX saving throws.
-- Melee attacks against have advantage.
-- Hits within 5' are critical hits.
+- An unconscious creature is incapacitated, can’t move or speak, and is unaware of its surroundings.
+- The creature drops whatever it’s holding and falls prone.
+- The creature automatically fails Strength and Dexterity saving throws.
+- Attack rolls against the creature have advantage.
+- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 {.square}
 
 > **Sources** <br/>

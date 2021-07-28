@@ -6,7 +6,7 @@ parent: falling
 ### Falling in Water
 [Home](dm-operations-center) > [Environment](environment) > [Falling](falling)  > Falling in Water {.small-text}
 
-A creature may use their [reaction](reaction) to try and hit head or feet first.
+A creature may use their reaction to try and hit head or feet first.
 
 **DC 15 STR (Athletics) or DEX (Acrobatics)** {.text-center}
 

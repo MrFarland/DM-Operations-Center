@@ -5,11 +5,9 @@ parent: conditions
 ---
 ### Prone
  [Home](dm-operations-center) > [Conditions](conditions) > Prone {.small-text}
-- Only movement option is to crawl.
-- Disadvantage on all attack rolls.
-- Ranged attacks against have disadvantage.
-- Melee attacks against have advantage.
-- Hits within 5' are critical hits.
+- A prone creature’s only movement option is to crawl, unless it stands up and thereby ends the condition.
+- The creature has disadvantage on attack rolls.
+- An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
 {.square}
  
 > **Sources** <br/>

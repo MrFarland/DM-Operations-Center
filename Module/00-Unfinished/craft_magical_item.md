@@ -1,10 +1,10 @@
 ---
-name: Create Magical Item
-slug: create-magical-item
+name: Craft Magical Item
+slug: craft-magical-item
 parent: downtime
 ---
-### Create Magical Item
-[Home](dm-operations-center) > [Downtime](downtime) > Create Magical Item {.small-text}
+### Craft Magical Item
+[Home](dm-operations-center) > [Downtime](downtime) > Craft Magical Item {.small-text}
 
 | ~Rarity~  | ~Cost~     | ~Level~ | ~Days~ |
 |-----------|-----------:|--------:|-------:|
@@ -21,11 +21,11 @@ parent: downtime
 - Assistants **MUST** meet all requirements
 {.square    }
 
-While enchanting, the creator can maintain a modest [lifestyle](lifestyle-expenses) at no cost or 1/2 a comfortable one.
+While enchanting, the creator can maintain a modest lifestyle at no cost or 1/2 a comfortable one.
 
 <br/>
 
-***See Also**: [Brew Healing Potion](brew-healing-potion)*
+***See Also**: Brew Healing Potion*
 
 > **Sources** <br/>
 > Dungeon Master's Guide, p. 129

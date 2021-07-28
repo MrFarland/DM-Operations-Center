@@ -1,10 +1,10 @@
 ---
-name: Criminal Activity
-slug: criminal-activity
+name: Crime
+slug: crime
 parent: downtime
 ---
-### Criminal Activity
-[Home](dm-operations-center) > [Downtime](downtime) > Criminal Activity {.small-text}
+### Crime
+[Home](dm-operations-center) > [Downtime](downtime) > Crime {.small-text}
 
 The character spends 25 gp and 1 week gathering information & deciding on a target.
 
@@ -21,8 +21,8 @@ The character makes three successive checks
 2. Dexterity(Thieves' Tools)
 3. One of the following:
     - wisdom(Perception)
-    - Intelligence([Investigation](investigation))
-    - Charisma([Deception](deception))
+    - Intelligence(Investigation)
+    - Charisma(Deception)
 
 | ~Fails~ | ~Result~ | ~Outcome~ |
 |:--|:-------:|:-|

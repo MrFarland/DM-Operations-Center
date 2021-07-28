@@ -11,14 +11,14 @@ parent: combat
 {.square}
 
 **Common Examples**
-- Off-hand Attack. ([two-weapon fighting](two-weapon-fighting))
+- Off-hand Attack. (two weapon fighting)
 - Cast [Healing Word](/spell/healing-word) or [Hunter's Mark](/spell/hunters-mark)
-- [Dash](dash), [disengage](disengage), or [dodge](dodge) (Rogues)
-- [Wild Shape](wild-shape) (Circle of the Moon Druid)
+- Dash, disengage, or dodge (Rogues)
+- Wild Shape (Circle of the Moon Druid)
 {.square}
 
 > **MrFarland House Rule**<br/>
-> Drinking a **regular** [healing potion](healing) is a bonus action, but taking any other potion requires a [use object action](use-object).
+> Drinking a **regular** healing potion is a bonus action, but taking any other potion requires a use object action.
 {.flavortext}
 
 > **Sources** <br/>

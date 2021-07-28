@@ -8,7 +8,7 @@ parent: combat
 
 A creature is flanking an enemy if it has at least one ally adjacent to an enemy **and** on opposite sides of the enemy.
 
-Attackers flanking an enemy have Advantage on their [attacks](melee-attack) against that creature.
+Attackers flanking an enemy have Advantage on their attacks against that creature.
 
 ***Flanking is an optional rule.***
 

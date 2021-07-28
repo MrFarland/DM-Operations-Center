@@ -6,10 +6,9 @@ parent: conditions
 ### Blinded
 [Home](dm-operations-center) > [Conditions](conditions) > Blinded {.small-text}
 
-- The creature cannot see.
-- All checks that rely on sight fail.
-- All attacks have Disadvantage.
-- Attacks against have advantage.
+- A blinded creature can’t see and fails any ability check that requires sight.
+- Attack rolls against the creature have advantage, and
+- the creature’s attack rolls have disadvantage.
 {.square}
 
 > **Sources** <br/>
