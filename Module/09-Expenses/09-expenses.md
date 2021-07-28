@@ -13,13 +13,13 @@ parent: dm-operations-center
 </div>
 <hr/>
 <div class="menu-container">
-    <a href="food-and-drink">Food & Drink</a>
+    <a href="food-and-drink">Food<br/> & Drink</a>
     <a href="lifestyle">Lifestyle</a>
     <a href="lodging">Lodging</a>
-    <a href="mounts-and-tack">Mounts & Tack</a>
+    <a href="mounts-and-tack">Mounts<br/> & Tack</a>
     <a href="services">Services</a>
-    <a href="spellcasting-services">Spellcasting Services</a>
-    <a href="trade-goods">Trade Goods</a>
+    <a href="spellcasting-services">Spellcasting<br/> Services</a>
+    <a href="trade-goods">Trade<br/> Goods</a>
     <a href="upkeep">Upkeep</a>
     <a href="vehicles">Vehicles</a>
 </div>

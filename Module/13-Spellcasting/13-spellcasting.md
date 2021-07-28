@@ -8,20 +8,20 @@ order: 13
 [Home](dm-operations-center) > Spellcasting
 
 <div class="menu-container">
-    <a href="area-of-effect">Area of Effect</a>
-    <a href="combining-effects">Combining Effects</a>
+    <a href="area-of-effect">Area of<br/> Effect</a>
+    <a href="combining-effects">Combining<br/> Effects</a>
     <a href="components">Components</a>
     <a href="concentration">Concentration</a>
-    <a href="counterspell-and-dispel">Counterspell & Dispel</a>
-    <a href="identify-spell">Identify Spell</a>
-    <a href="known-and-prepared-spells">Known & Prepared</a>
-    <a href="levels-and-slots">Levels & Slots</a>
-    <a href="ritual-cast">Ritual Cast</a>
-    <a href="schools-of-magic">Schools of Magic</a>
-    <a href="copy-scroll">Scroll (Copy)</a>
-    <a href="use-scroll">Scroll (Use)</a>
-    <a href="spell-attack-modifier">Spell Attack Modifier</a>
-    <a href="spell-save-dc">Spell Save DC</a>
-    <a href="wild-magic">Wild Magic</a>
+    <a href="counterspell-and-dispel">Counterspell<br/> & Dispel</a>
+    <a href="identify-spell">Identify<br/> Spell</a>
+    <a href="known-and-prepared-spells">Known &<br/> Prepared</a>
+    <a href="levels-and-slots">Levels &<br/> Slots</a>
+    <a href="ritual-cast">Ritual<br/> Cast</a>
+    <a href="schools-of-magic">Schools<br/> of Magic</a>
+    <a href="copy-scroll">Scroll<br/> (Copy)</a>
+    <a href="use-scroll">Scroll<br/> (Use)</a>
+    <a href="spell-attack-modifier">Spell Attack<br/> Modifier</a>
+    <a href="spell-save-dc">Spell Save<br/> DC</a>
+    <a href="wild-magic">Wild<br/> Magic</a>
 </div>
 <hr/>

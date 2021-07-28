@@ -8,35 +8,17 @@ parent: dm-operations-center
 [Home](dm-operations-center) > Environment
 
 <div class="menu-container">
-    <a href="desecrated-ground">Desecrated Ground</a>
-    <a href="eldritch-mist">Eldritch Mist</a>
+    <a href="desecrated-ground">Desecrated<br/> Ground</a>
+    <a href="eldritch-mist">Eldritch<br/> Mist</a>
     <a href="falling">Falling</a>
     <a href="lava">Lava</a>
-    <a href="light-and-vision">Light & Vision</a>
-    <a href="magical-phenomena">Magical Phenomena</a>
-    <a href="magical-storms">Magical Storms</a>
-    <a href="spells-as-hazards">Spells as Hazards</a>
-    <a href="supernatural-regions">Supernatural Regions</a>
-    <a href="water-hazards">Water Hazards</a>
-    <a href="wilderness-hazards">Wilderness Hazards</a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-</div>
-<div class="more">▼ More ▼</div>
-<div class="menu-container">
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
+    <a href="light-and-vision">Light &<br/> Vision</a>
+    <a href="magical-phenomena">Magical<br/> Phenomena</a>
+    <a href="magical-storms">Magical<br/> Storms</a>
+    <a href="spells-as-hazards">Spells as<br/> Hazards</a>
+    <a href="supernatural-regions">Supernatural<br/> Regions</a>
+    <a href="water-hazards">Water<br/> Hazards</a>
+    <a href="wilderness-hazards">Wilderness<br/> Hazards</a>
     <a href="."></a>
     <a href="."></a>
     <a href="."></a>

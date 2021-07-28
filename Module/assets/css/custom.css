@@ -74,8 +74,7 @@
 
  /* Footer */
  .footer {
-   bottom: 0;
-   position: absolute;
+    margin-top: 240px;
  }
  .fan-content-policy {
      color: #737373;
@@ -88,11 +87,6 @@
    font-size: 10px;
    line-height: 10px;
    margin: 0 16px 18px 16px;
-   text-align: center;
-}
-.signature {
-   color: #282828;
-   font-size: 12px;
    text-align: center;
 }
 

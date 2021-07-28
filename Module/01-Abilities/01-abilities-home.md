@@ -18,14 +18,14 @@ order: 01
 </div>
 <hr/>
 <div class="menu-container">
-    <a href="ability-check">Ability Check</a>
-    <a href="ability-modifier">Ability Modifiers</a>
-    <a href="advantage-and-disadvantage">Advantage & Disadvantage</a>
+    <a href="ability-check">Ability<br/> Check</a>
+    <a href="ability-modifier">Ability<br/> Modifiers</a>
+    <a href="advantage-and-disadvantage">Advantage &<br/> Disadvantage</a>
     <a href="contest">Contest</a>
-    <a href="difficulty-class">Difficulty Class</a>
-    <a href="group-check">Group Check</a>
-    <a href="passive-check">Passive Check</a>
-    <a href="saving-throw">Saving Throw</a>
-    <a href="working-together">Working Together</a>
+    <a href="difficulty-class">Difficulty<br/> Class</a>
+    <a href="group-check">Group<br/> Check</a>
+    <a href="passive-check">Passive<br/> Check</a>
+    <a href="saving-throw">Saving<br/> Throw</a>
+    <a href="working-together">Working<br/> Together</a>
 </div>
 <hr/>

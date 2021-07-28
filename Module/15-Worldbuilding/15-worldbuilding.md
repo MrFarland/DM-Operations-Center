@@ -8,7 +8,7 @@ order: 15
 [Home](dm-operations-center) > Worldbuilding
 
 <div class="menu-container">
-    <a href="character-name-generator">Name Generator</a>
+    <a href="character-name-generator">Name<br/> Generator</a>
     <a href="."></a>
     <a href="."></a>
     <a href="."></a>

@@ -8,26 +8,26 @@ order: 06
 [Home](dm-operations-center) > Downtime
 
 <div class="menu-container">
-    <a href="brew-healing-potion">Brew Healing Potion</a>
-    <a href="build-stronghold">Build Stronghold</a>
-    <a href="buy-magic-item">Buy Magic Item</a>
+    <a href="brew-healing-potion">Brew Healing<br/> Potion</a>
+    <a href="build-stronghold">Build<br/> Stronghold</a>
+    <a href="buy-magic-item">Buy<br/> Magic Item</a>
     <a href="carousing">Carousing</a>
-    <a href="craft-item">Craft Item</a>
-    <a href="craft-magic-item">Craft Magic Item</a>
+    <a href="craft-item">Craft<br/> Item</a>
+    <a href="craft-magic-item">Craft<br/> Magic Item</a>
     <a href="crime">Crime</a>
-    <a href="gain-renown">Gain Renown</a>
+    <a href="gain-renown">Gain<br/> Renown</a>
     <a href="gambling">Gambling</a>
-    <a href="pit-fighting">Pit Fighting</a>
-    <a href="practice-profession">Practice Profession</a>
+    <a href="pit-fighting">Pit<br/> Fighting</a>
     <a href="relaxing">Relaxing</a>
-    <a href="religious-service">Religious Service</a>
+    <a href="religious-service">Religious<br/> Service</a>
     <a href="research">Research</a>
-    <a href="scribe-scroll">Scribe Scroll</a>
+    <a href="scribe-scroll">Scribe<br/> Scroll</a>
+    <a href="sow-rumor">Sow<br/> Rumor</a>
 </div>
 <div class="more">▼ More ▼</div>
 <div class="menu-container">
-    <a href="sow-rumor">Sow Rumor</a>
     <a href="train">Train</a>
+    <a href="work">Work</a>
     <a href="."></a>
 </div>
 <hr/>
