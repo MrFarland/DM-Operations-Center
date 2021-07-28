@@ -8,7 +8,7 @@ order: 14
 [Home](dm-operations-center) > Storytelling
 
 <div class="menu-container">
-    <a href="."></a>
+    <a href="rival">Rival</a>
     <a href="."></a>
     <a href="."></a>
     <a href="."></a>

@@ -25,7 +25,7 @@ If maintenance cost underruns are not paid, the business begins to fail.
 
 ***See also**: Upkeep*
 
-> **MrFarland Houserule**<br/>
+> **MrFarland House Rule**<br/>
 > \- Make players hire a manager<br/>
 > \- Pick an interval (week or month)<br/>
 > \- Let manager count for the bonus<br/>

@@ -10,6 +10,8 @@ A character may perform jobs for a faction to which they belong to gain renown w
 
 **# of Days = Current Renown x 10** {.text-center}
 
+***Note**: This is for gaining renown with a faction for which the player is already affiliated, not in the world at large.* {.small-text}
+
 > **Sources** <br/>
 > Dungeon Master's Guide, p. 129
 {.read .small-text}

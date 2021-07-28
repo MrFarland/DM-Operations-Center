@@ -26,9 +26,7 @@ The character makes 3 checks with a different DC of <br/>
 | 0 | 100%  | Recover gambling expenses & win 100% more. |
 {.gray .small-text}
 
-Every week spent gambling has a 10% chance of leading to a complication.
-
-**Complications (1d6)**
+**Complications (10% - d6)**
 |||
 |:-:|-|
 | 1 | You are accused ofcheating. You decide whether you actually did cheat or were framed. |
