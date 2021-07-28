@@ -8,7 +8,7 @@ parent: abilities
 
 General health, fortitude, and stamina.
 
-**Skill Checks**<br/>
+**Ability Checks**<br/>
 Constitution skill checks are rare, with saving throws being more common. 
 - Perform a repetitive task for a long time.
 - Keep down a terrible meal or ale.

@@ -6,14 +6,14 @@ parent: class-features
 ### Sneak Attack
 [Home](dm-operations-center) > [Characters](characters) > [Class Features](class-featuers) > Sneak Attack {.small-text}
 
-Has Advantage on the attack roll. {.text-center}
+A rogue may add sneak attack damage to 1 attack per turn if they meet the following criteria:
+- Have advantage on the attack roll.
+- Attacks with a finesse or ranged weapon.
+{.square}
 
-OR {.text-center}
-
-Enemy within 5' of target, not incapacitated AND the attacker does NOT have Disadvantage. {.text-center}
-
-
-Must attack with a finesse or ranged weapon. {.text-center}
+Additional Notes
+- Gain advantage if the target has an enemy within 5' that is not incapacitated.
+- Sneak attack may be used on an attack of opportunity if all other criteria has been met.
 
 | ~Lvl~ | ~DMG~             | | ~Lvl~ | ~DMG~              | 
 |:-----:|:-----------------:|-|:-----:|:------------------:|

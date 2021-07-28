@@ -1,8 +1,8 @@
 ---
 name: Life & Death
-slug: life-and-death-home
+slug: life-and-death-menu
 order: 10
-parent: home
+parent: dm-operations-center
 ---
 ## Life & Death
 [Home](dm-operations-center) > Life & Death

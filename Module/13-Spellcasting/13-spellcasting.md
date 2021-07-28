@@ -1,7 +1,7 @@
 ---
 name: Spellcasting
-slug: spellcasting-home
-parent: home
+slug: spellcasting-menu
+parent: dm-operations-center
 order: 13
 ---
 ## Spellcasting

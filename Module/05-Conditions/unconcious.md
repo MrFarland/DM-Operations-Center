@@ -9,10 +9,10 @@ parent: conditions
 - Creature is incapacitated.
 - Cannot move or speak.
 - Drops whatever it is currently holding.
-- Falls [prone](prone).
+- Falls prone.
 - Fail all STR & DEX saving throws.
-- Melee attacks against have [advantage](advantage-disadvantage).
-- Hits within 5' are [critical hits](criticals).
+- Melee attacks against have advantage.
+- Hits within 5' are critical hits.
 {.square}
 
 > **Sources** <br/>

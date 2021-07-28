@@ -8,9 +8,9 @@ parent: conditions
 
 - The creature's speed is 0.
 - Cannot benefit from any bonus to speed.
-- All attacks have [disadvantage](advantage-disadvantage).
-- Attacks **against** have [advantage](advantage-disadvantage).
-- [Disadvantage](advantage-disadvantage) on DEX saving throws.
+- All attacks have Disadvantage.
+- Attacks against have advantage.
+- Disadvantage on DEX saving throws.
 {.square}
 
 > **Sources** <br/>

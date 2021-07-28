@@ -6,8 +6,8 @@ parent: conditions
 ### Surprised
 [Home](dm-operations-center) > [Conditions](conditions) > Surprised {.small-text}
 
-- Cannot move or take an action on 1st turn.
-- Cannot use a [reaction](reaction) until 1st turn ends.
+- Cannot move or take action on 1st turn.
+- Cannot use a reaction until 1st turn ends.
 {.square}
 
 > **Sources** <br/>

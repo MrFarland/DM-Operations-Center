@@ -6,7 +6,7 @@ parent: abilities
 ### Working Together
 [Home](dm-operations-center) > [Abilities](abilities) > Working Together {.small-text}
 
-- PC leading the activity has advantage.
+- Character leading activity has advantage.
 - Assistance must be practical for the task.
 - Helper must be able to do it alone.
 - Helper must use help action if in combat.

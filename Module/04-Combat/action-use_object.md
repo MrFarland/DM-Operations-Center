@@ -4,9 +4,13 @@ slug: use-object
 parent: action
 ---
 ### Use Object
-[Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Use Object {.small-text}
+[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Use Object {.small-text}
 
-Interact with or use a mundane or magical object that requires an action to operate. {.text-center}
+Interact with or use an object that<br/> requires an action to operate. {.text-center} 
+
+OR {.text-center}
+
+Perform more than 1 free action in a turn. {.text-center}
 
 > **Sources** <br/>
 > System Reference Document, p. 94 <br/>

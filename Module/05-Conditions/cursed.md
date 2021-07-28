@@ -4,12 +4,12 @@ slug: cursed
 parent: conditions
 ---
 ### Cursed
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Cursed {.small-text}
+[Home](dm-operations-center) > [Conditions](conditions) > Cursed {.small-text}
 
 A cursed creature suffers the effects identified in the description of the item, spell, or other source. 
 
 **Detection**
-- Cursed objects not detected by [Identify](/spell/identify).
+- Not detected by the Identify spell.
 - Might be hinted at or known by lore.
 {.square}
 

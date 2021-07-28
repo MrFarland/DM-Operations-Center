@@ -6,8 +6,8 @@ parent: conditions
 ### Poisoned
  [Home](dm-operations-center) > [Conditions](conditions) > Poisoned {.small-text}
 
-- [Disadvantage](advantage-disadvantage) on all attack rolls.
-- [Disadvantage](advantage-disadvantage) on all ability checks.
+- Disadvantage on all attack rolls.
+- Disadvantage on all ability checks.
 {.square}
 
 > **Sources** <br/>

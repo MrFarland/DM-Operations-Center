@@ -1,7 +1,7 @@
 ---
 name: Movement
-slug: movement-home
-parent: home
+slug: movement-menu
+parent: dm-operations-center
 order: 12
 ---
 ## Movement

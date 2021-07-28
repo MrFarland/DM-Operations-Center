@@ -16,7 +16,7 @@ parent: wilderness-hazards
 {.square}
 
 **Buried**
-- Creature is [blinded](blinded) and [restrained](restrained)
+- Creature is blinded and [restrained](restrained)
 - Gains 1 point [exhaustion](exhaustion) every 5 minutes
 - May use an action to attempt to free itself
 - Make a DC 15 [Strength](strength) (Athletics) check

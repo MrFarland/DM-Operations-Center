@@ -4,7 +4,7 @@ slug: madness
 parent: conditions
 ---
 ### Madness
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Madness {.small-text}
+[Home](dm-operations-center) > [Conditions](conditions) > Madness {.small-text}
 
 Various items, spells, and effects can cause a creature to suffer the effects of madness. The three types of madness are:
 
@@ -17,8 +17,8 @@ Various items, spells, and effects can cause a creature to suffer the effects of
 
 **Curing Madness**
 - [Calm Emotions](/spell/calm-emotions) (Suppress Only)
-- [Lesser Restoration](/spell/lesser-restoration) ([Short](short-term-madness) & [Long](long-term-madness) only)
-- [Greater Restoration](/spell/greater-restoration) ([Indefinite](indefinite-madness))
+- [Lesser Restoration](/spell/lesser-restoration) (Short & Long only)
+- [Greater Restoration](/spell/greater-restoration) (Indefinite)
 
 > **Sources** <br/>
 > Dungeon Master's Guide, p. 258

@@ -1,7 +1,7 @@
 ---
 name: Storytelling
-slug: storytelling-home
-parent: home
+slug: storytelling-menu
+parent: dm-operations-center
 order: 14
 ---
 ## Storytelling

@@ -1,8 +1,8 @@
 ---
 name: Environment
-slug: environment-home
+slug: environment-menu
 order: 08
-parent: home
+parent: dm-operations-center
 ---
 ## Environment
 [Home](dm-operations-center) > Environment

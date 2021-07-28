@@ -1,12 +1,12 @@
 ---
-name: Ranged Attack
-slug: ranged-attack
+name: Attack (Ranged)
+slug: attack-ranged
 parent: action
 ---
-### Ranged Attack
-[Home](dm-operations-center) > [Combat](combat) > [Actions](actions) > Ranged Attack {.small-text}
+### Attack (Ranged)
+[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Attack (Ranged) {.small-text}
 
-**Hit = 1d20 + Ability + ([Prof.](proficiency-bonus)) ≥ [Target AC](armor-class)** {.text-center}
+Hit = 1d20 + Ability + (Proficiency\*) ≥ Target AC {.text-center}
 
 - Ranged weapon & spell attacks may only be made against targets within range.
 - Targets beyond a weapon's normal range, but below long range have Disadvantage.
@@ -15,7 +15,7 @@ parent: action
 
 <br/>
 
-***\*** The character must be proficient with the [weapon](weapons) being used to add their proficiency bonus to the roll.* {.small-text}
+***\*** The character must be proficient with the weapon being used to add their proficiency bonus to the roll.* {.small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. <br/>

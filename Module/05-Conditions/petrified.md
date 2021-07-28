@@ -13,7 +13,7 @@ parent: conditions
 - Creature is incapacitated.
 - Can not move or speak.
 - Fail all STR & DEX saving throws.
-- Resistance to all [damage types](damange-types).
+- Resistance to all damage types.
 - Immune to any new poison or disease.
 - Existing poison or disease suspended.
 {.square}

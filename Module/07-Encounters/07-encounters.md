@@ -1,8 +1,8 @@
 ---
 name: Encounters
-slug: encounters-home
+slug: encounters-menu
 order: 07
-parent: home
+parent: dm-operations-center
 ---
 ## Encounters
 [Home](dm-operations-center) > Encounters

@@ -1,7 +1,7 @@
 ---
 name: Character
-slug: character-home
-parent: home
+slug: character-menu
+parent: dm-operations-center
 order: 03
 ---
 ## Character

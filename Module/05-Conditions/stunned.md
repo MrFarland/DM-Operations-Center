@@ -9,7 +9,7 @@ parent: conditions
 - Creature is incapacitated.
 - Cannot move, but can speak falteringly.
 - Fail all STR & DEX saving throws.
-- Attacks **against** have [advantage](advantage-disadvantage).
+- Attacks against have advantage.
 {.square}
 
 > **Sources** <br/>

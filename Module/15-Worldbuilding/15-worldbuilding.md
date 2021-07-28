@@ -1,7 +1,7 @@
 ---
 name: Worldbuilding
-slug: worldbuilding-home
-parent: home
+slug: worldbuilding-menu
+parent: dm-operations-center
 order: 15
 ---
 ## Worldbuilding

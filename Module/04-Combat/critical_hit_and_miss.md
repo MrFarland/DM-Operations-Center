@@ -1,10 +1,10 @@
 ---
-name: Critical
-slug: critical
+name: Critical Hit & Miss
+slug: critical-hit-and-miss
 parent: combat
 ---
-## Critical
-[Home](dm-operations-center) > [Combat](combat) > [Damage](damage) > Critical {.small-text}
+## Critical Hit & Miss
+[Home](dm-operations-center) > [Combat](combat) > [Damage](damage) > Critical Hit & Miss {.small-text}
 
 **Critical Hit**. An automatic hit in which **ALL** damage dice for the attack are doubled. {.text-center}
 

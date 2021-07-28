@@ -1,8 +1,8 @@
 ---
 name: Expenses
-slug: expenses-home
+slug: expenses-menu
 order: 09
-parent: home
+parent: dm-operations-center
 ---
 ## Expenses
 [Home](dm-operations-center) > Expenses

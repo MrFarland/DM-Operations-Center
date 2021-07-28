@@ -1,8 +1,8 @@
 ---
 name: Downtime
-slug: downtime-home
+slug: downtime-menu
 order: 06
-parent: home
+parent: dm-operations-center
 ---
 ## Downtime
 [Home](dm-operations-center) > Downtime

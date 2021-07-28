@@ -1,6 +1,6 @@
 ---
-name: Languages
-slug: languages
+name: Language
+slug: language
 parent: characters
 ---
 ### Languages
@@ -27,7 +27,7 @@ parent: characters
 {.gray .small-text}
 
 ***Note**: Forest Gnomes write in an elvish script, while Duergar write with dwarvish letters.*
-{.square}
+{.small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. 59<br/>

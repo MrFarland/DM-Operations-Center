@@ -1,9 +1,10 @@
 ---
 name: Abilities
-slug: abilities-home
-parent: home
+slug: abilities-menu
+parent: dm-operations-center
 order: 01
 ---
+
 ## Abilities
 [Home](dm-operations-center) > Abilities {.small-text}
 

@@ -1,7 +1,7 @@
 ---
 name: Loot
-slug: loot-home
-parent: home
+slug: loot-menu
+parent: dm-operations-center
 order: 11
 ---
 ## Loot

@@ -8,8 +8,8 @@ parent: conditions
 
 - The creature cannot see.
 - All checks that rely on sight fail.
-- All attacks have [disadvantage](advantage-disadvantage).
-- Attacks **against** have [advantage](advantage-disadvantage).
+- All attacks have Disadvantage.
+- Attacks against have advantage.
 {.square}
 
 > **Sources** <br/>

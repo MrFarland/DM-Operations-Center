@@ -15,10 +15,10 @@ order: 02
 | Bard      | CHA 13 |
 | Cleric    | WIS 13   |
 | Druid     | WIS 13   |
-| Fighter   | STR OR DEX 13 |
-| Monk      | DEX AND WIS 13  |
-| Paladin   | STR AND CHA 13 |
-| Ranger    | DEX AND WIS 13  |
+| Fighter   | STR or DEX 13 |
+| Monk      | DEX and WIS 13  |
+| Paladin   | STR and CHA 13 |
+| Ranger    | DEX and WIS 13  |
 | Rogue     | DEX 13 |
 | Sorcerer  | CHA 13 |
 | Warlock   | CHA 13 |
