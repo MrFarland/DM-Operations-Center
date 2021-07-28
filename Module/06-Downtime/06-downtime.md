@@ -19,7 +19,7 @@ order: 06
     <a href="gambling">Gambling</a>
     <a href="pit-fighting">Pit Fighting</a>
     <a href="practice-profession">Practice Profession</a>
-    <a href="recuperating">Recuperating</a>
+    <a href="relaxing">Relaxing</a>
     <a href="religious-service">Religious Service</a>
     <a href="research">Research</a>
     <a href="scribe-scroll">Scribe Scroll</a>
