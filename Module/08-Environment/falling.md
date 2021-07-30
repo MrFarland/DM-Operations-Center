@@ -14,4 +14,8 @@ parent: environment
     <a href="flying-and-falling">Flying &<br/> Falling</a>
     <a href="rate-of-falling">Rate of<br/> Falling</a>
 </div>
-<hr/>
+
+> **Sources** <br/>
+> System Reference Document, p. 86<br/>
+> Player's Handbook, p. 183
+{.read .small-text}
