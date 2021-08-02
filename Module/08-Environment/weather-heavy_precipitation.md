@@ -6,7 +6,11 @@ parent: environment
 ### Heavy Precipitation
 [Home](dm-operations-center) > [Environment](environment) > Heavy Precipitation {.small-text}
 
+Areas of heavy rain or snow are lightly obscured and impose disadvantage on Wisdom (Perception) checks that rely on sight.
+
+Heavy rain extinguishes open flames and causes disadvantage on hearing checks.
+
 > **Sources** <br/>
-> Player's Handbook, p. xxx
+> Dungeon Master's Guide, p. 110
 {.read .small-text}
 

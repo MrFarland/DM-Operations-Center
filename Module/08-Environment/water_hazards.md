@@ -10,6 +10,7 @@ parent: environment
     <a href="blue-hole">Blue<br/> Hole</a>
     <a href="coral-reef">Coral<br/> Reef</a>
     <a href="current">Current</a>
+    <a href="depth">Depth</a>
     <a href="frigid-water">Frigid<br/> Water</a>
     <a href="slippery-ice">Ice<br/> (Slippery)</a>
     <a href="thin-ice">Ice<br/> (Thin)</a>
@@ -18,7 +19,9 @@ parent: environment
     <a href="lure-lights">Lure<br/> Lights</a>
     <a href="sandbar">Sandbar</a>
     <a href="sapping-snow">Sapping<br/> Snow</a>
-    <a href="."></a>
+    <a href="whirlpool">Whirlpool</a>
+    <a href=""></a>
+    <a href=""></a>
 </div>
 <hr/>
 

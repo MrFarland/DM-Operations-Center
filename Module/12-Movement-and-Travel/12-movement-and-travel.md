@@ -1,11 +1,11 @@
 ---
-name: Movement
-slug: movement-menu
+name: Movement & Travel
+slug: movement-and-travel-menu
 parent: dm-operations-center
 order: 12
 ---
-## Movement
-[Home](dm-operations-center) > Movement
+## Movement & Travel
+[Home](dm-operations-center) > Movement & Travel
 
 <div class="menu-container">
     <a href="."></a>

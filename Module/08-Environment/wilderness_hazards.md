@@ -9,7 +9,6 @@ parent: environment
 <div class="menu-container">
     <a href="avalanche-and-rock-slide">Avalanche & Rock Slide</a>
     <a href="high-altitude">High Altitude</a>
-    <a href="lava">Lava</a>
     <a href="quicksand">Quicksand</a>
     <a href="razorvine">Razorvine</a>
     <a href=".">-</a>

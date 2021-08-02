@@ -16,9 +16,9 @@ order: 00
     <a href="encounters-menu">Encounters</a>
     <a href="environment-menu">Environment</a>
     <a href="expenses-menu">Expenses</a>
-    <a href="life-and-death-menu">Life & Death</a>
-    <a href="loot-menu">Loot</a>
-    <a href="movement-menu">Movement</a>
+    <a href="life-and-death-menu">Life &<br/> Death</a>
+    <a href="loot-and-items-menu">Loot &<br/> Items</a>
+    <a href="movement-and-travel-menu">Movement<br/> & Travel</a>
     <a href="spellcasting-menu">Spellcasting</a>
     <a href="storytelling-menu">Storytelling</a>
     <a href="worldbuilding-menu">Worldbuilding</a>

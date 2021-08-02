@@ -1,11 +1,11 @@
 ---
-name: Loot
-slug: loot-menu
+name: Loot & Items
+slug: loot-and-items-menu
 parent: dm-operations-center
 order: 11
 ---
-## Loot
-[Home](dm-operations-center) > Loot
+## Loot & Items
+[Home](dm-operations-center) > Loot & Items
 
 <div class="menu-container">
     <a href="."></a>
