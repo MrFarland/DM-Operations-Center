@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <a href="https://github.com/MrFarland/DM-Operations-Center"><img src="https://donfarland.com/wp-content/uploads/2021/07/1.png" alt="DM Operations Screen" width="640"></a>
+    <img src="https://donfarland.com/wp-content/uploads/2021/07/1.png" alt="DM Operations Screen" width="640">
     <br>
     DM Operations Screen
     <br>
