@@ -2,7 +2,7 @@
 *.module
 *.pdf
 *.zip
-.DS_Store
+**/.DS_Store
 bin/
 documentation/ModuleBuild/
 module/ModuleBuild/
