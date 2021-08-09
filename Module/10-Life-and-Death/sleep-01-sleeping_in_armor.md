@@ -14,7 +14,7 @@ Sleeping in medium or heavy armor imposes the following restrictions on a[ long 
 
 There are no penalties for sleeping in light armor.
 
-***See Also**: [Don/Doff Armor](don-doff-armor)*
+
 
 > **Sources** <br/>
 > Xanathar's Guide to Everything, p. 77
