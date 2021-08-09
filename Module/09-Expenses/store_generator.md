@@ -19,7 +19,6 @@ parent: expenses
         <option value="Clothier">Clothier</option>
         <option value="Enchanter">Enchanter</option>
         <option value="Herbalist">Herbalist</option>
-        <option value="InnTavern">Inn & Tavern</option>
         <option value="Jeweler">Jeweler</option>
         <option value="Leathersmith">Leatherworker</option>
         <option value="Magic Supply">Magic Supply</option>
@@ -33,18 +32,15 @@ parent: expenses
         <option value="Hamlet">Hamlet</option>
         <option value="Village">Village</option>
         <option value="Town">Town</option>
-        <option value="SmallCity">Small City</option>
-        <option value="BigCity">Big City</option>
+        <option value="City">City</option>
+        <option value="Capital">Capital</option>
     </select>
     <button id="buttonGenerateShop" onclick="generateShop()"> 
         Generate 
     </button> 
 </div>
 <div class="result">
-
+    <h4 align="center">Gondor calls for aid!</h4>
+    <p>I have ambitious plans for this module and a limited amount of talent and time. If your familiar with javascript and willing to help contact me via <a href="https://github.com/MrFarland">GitHub</a>.</p>
 </div>
 <hr/>
-
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}

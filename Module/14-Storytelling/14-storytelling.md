@@ -8,9 +8,9 @@ order: 14
 [Home](dm-operations-center) > Storytelling
 
 <div class="menu-container">
+    <a href="plot-hook">Plot Hook</a>
     <a href="rival">Rival</a>
-    <a href="."></a>
-    <a href="."></a>
+    <a href="villain">Villain</a>
     <a href="."></a>
     <a href="."></a>
     <a href="."></a>
