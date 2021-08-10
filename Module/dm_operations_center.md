@@ -15,17 +15,17 @@ order: 00
     <a href="downtime-menu">Downtime</a>
     <a href="encounters-menu">Encounters</a>
     <a href="environment-menu">Environment</a>
+    <a href="equipment-menu">Equipment</a>
     <a href="expenses-menu">Expenses</a>
-    <a href="life-and-death-menu">Life &<br/> Death</a>
-    <a href="loot-and-items-menu">Loot &<br/> Items</a>
-    <a href="movement-and-travel-menu">Movement<br/> & Travel</a>
+    <a href="life-and-death-menu">Life & Death</a>
+    <a href="movement-menu">Movement</a>
     <a href="spellcasting-menu">Spellcasting</a>
-    <a href="storytelling-menu">Storytelling</a>
+    <a href="treasure-menu">Treasure</a>
     <a href="worldbuilding-menu">Worldbuilding</a>
 </div>
 <hr/>
 
-*Preview Release 0.4.5* {.text-right .small-text}
+*Preview Release 0.4.6* {.text-right .small-text}
 
 
 <div class="footer">

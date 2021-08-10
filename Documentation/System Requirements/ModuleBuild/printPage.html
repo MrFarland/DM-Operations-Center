@@ -1,0 +1,651 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><link rel="stylesheet" href="c:\Users\1044685-adm\Git\DM-Operations-Center\Documentation\System Requirements\ModuleBuild\assets\css\global.css"><link rel="stylesheet" href="c:\Users\1044685-adm\Git\DM-Operations-Center\Documentation\System Requirements\ModuleBuild\assets\css\print.css"><link rel="stylesheet" href="c:\Users\1044685-adm\Git\DM-Operations-Center\Documentation\System Requirements\ModuleBuild\assets\css\custom.css"></head><body><a id="cover"></a><div class="print-page"><div class="page-content"><div align="center">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h4><a id="cover-mrfarlands"></a><a id="mrfarlands"></a>MrFarland's</h4>
+    <h1><a id="cover-dm-operations-center"></a><a id="dm-operations-center"></a>DM Operations Center</h1>
+    <h4><a id="cover-system-requirements-document"></a><a id="system-requirements-document"></a>System Requirements Document</h4>
+    <br>
+    <h5><a id="cover-august-9-2021"></a><a id="august-9-2021"></a>August 9, 2021</h5>
+    <h5><a id="cover-05"></a><a id="05"></a>0.5</h5>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h4><a id="cover-donald-farland"></a><a id="donald-farland"></a>Donald Farland</h4>
+    <a href="https://donfarland.com">donfarland.com</a><br>
+    <a href="https://twitter.com/MrFarland">@MrFarland</a>
+</div></div><div class="footer-background hidden"></div><div class="footer-content hidden"></div><div class="footer-page-number hidden">1</div></div><a id="document"></a><div class="print-page"><div class="page-content"><h2 id="user-stories"><a id="document-user-stories"></a><a id="user-stories"></a>User Stories</h2>
+<p>The DM Operations Center module is a complex collection of rules, tools, and generators designed to help 5th edition Dungeons &amp; Dragons dungeon masters run their gaming sessions completely from within the EncounterPlus virtual tabletop application. This document provides an overview of the module and the user stories that help define what it can and should do once complete.</p>
+<h3 id="common"><a id="document-common"></a><a id="common"></a>Common</h3>
+<p>The following user stories relate to the common elements of the module. These user stories apply to all aspects of the DM Operations Center module.</p>
+<h4 id="user-interface"><a id="document-user-interface"></a><a id="user-interface"></a>User Interface</h4>
+<p>The following user stories describe how the user interface should look and behave to the user.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Title</td>
+<td style="text-align:left">As a DM, I want the title of the page to use a readable style so that I can quickly identify the name of the page I am viewing. .</td>
+<td style="text-align:left">High</td>
+</tr>
+<tr>
+<td style="text-align:left">Breadcrumbs</td>
+<td style="text-align:left">As a DM, I want to know the path to the content being view so that I can locate it again or navigate up one or more levels.</td>
+<td style="text-align:left">High</td>
+</tr>
+<tr>
+<td style="text-align:left">References</td>
+<td style="text-align:left">As a DM, I want to know the source and page for the content of a page so that I can look it up if I need further clarification.</td>
+<td style="text-align:left">High</td>
+</tr>
+<tr>
+<td style="text-align:left">Responsive Design</td>
+<td style="text-align:left">As a DM, I want the UI to adjust to the size of the window so that it is usable regardless of how I open the module.</td>
+<td style="text-align:left">High</td>
+</tr>
+<tr>
+<td style="text-align:left">Show Table</td>
+<td style="text-align:left">As a DM, I want to be able to view the underlying roll table(s) for a generator so that I can roll real dice or let the players roll.</td>
+<td style="text-align:left">High</td>
+</tr>
+</tbody>
+</table>
+</div><div class="footer-background" style="transform: scaleX(-1);"></div><div class="footer-content">Document | DM Operations Center System Design and Requirements</div><div class="footer-page-number" style="right: unset; left: 2px;">2</div></div><div class="print-page"><div class="page-content"><h4 id="external-interfaces"><a id="document-external-interfaces"></a><a id="external-interfaces"></a>External Interfaces</h4>
+<p>The following user stories describe how the module should interact with external interfaces.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Items</td>
+<td style="text-align:left">As a DM, I want items referenced in the module to link to the compendium so that I can look up it’s properties and description</td>
+<td style="text-align:left">High</td>
+</tr>
+<tr>
+<td style="text-align:left">Monsters</td>
+<td style="text-align:left">As a DM, I want monsters referenced in the module to link to the compendium so that I can look up it’s properties and description</td>
+<td style="text-align:left">High</td>
+</tr>
+<tr>
+<td style="text-align:left">Spells</td>
+<td style="text-align:left">As a DM, I want spells referenced in the module to link to the compendium so that I can look up it’s properties and description</td>
+<td style="text-align:left">High</td>
+</tr>
+<tr>
+<td style="text-align:left">Missing Objects</td>
+<td style="text-align:left">As a DM, I want to know if a reference item, monster, or spell is not in my compendium so that I don’t waste time clicking the link.</td>
+<td style="text-align:left">Medium</td>
+</tr>
+<tr>
+<td style="text-align:left">Rolls</td>
+<td style="text-align:left">As a DM, I want the ability to use the in-app roller for any rolls called out on pages so that I can send them to the game log.</td>
+<td style="text-align:left">High</td>
+</tr>
+</tbody>
+</table>
+<h3 id="campaign"><a id="document-campaign"></a><a id="campaign"></a>Campaign</h3>
+<p>This section of the DM Operations Center is focused on providing 5th edition DMs with tools and templates to help them better manager their campaigns and adventures.</p>
+<h4 id="fantasy-calendar"><a id="document-fantasy-calendar"></a><a id="fantasy-calendar"></a>Fantasy Calendar</h4>
+<p>This feature provides DMs with an advanced calendar application designed to help with the tracking of time in standard D&amp;D 5e settings.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h4 id="session-0-checklist"><a id="document-session-0-checklist"></a><a id="session-0-checklist"></a>Session 0 Checklist</h4>
+<p>This feature provides DMs with a checklist and survey tool to help run a session 0 to ensure everyone is on the same page as to the kind of game they want to play.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+</div><div class="footer-background"></div><div class="footer-content">Document | DM Operations Center System Design and Requirements</div><div class="footer-page-number">3</div></div><div class="print-page"><div class="page-content"><h4 id="session-planner"><a id="document-session-planner"></a><a id="session-planner"></a>Session Planner</h4>
+<p>This feature provides DMs with a session planning tool and template to help plan upcoming sessions and prep more efficiently.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h3 id="dm-screen"><a id="document-dm-screen"></a><a id="dm-screen"></a>DM Screen</h3>
+<p>This component of the DM Operations Center provides a number of rules reference pages, lookup tables and other resources designed to serve a similar function as that of a tradition DM screen.</p>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<h3 id="encounters"><a id="document-encounters"></a><a id="encounters"></a>Encounters</h3>
+<p>This component of the DM Operations Center provides a number of random generators and roll tables designed to help DMs quickly generate a variety of combat and noncombat encounters to challenge their players.</p>
+<h4 id="chase"><a id="document-chase"></a><a id="chase"></a>Chase</h4>
+<p>This feature provides DMs with a tool that helps with the planning and execution of chases.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Select Environment</td>
+<td style="text-align:left">As a DM, I want to be able to select the current environment so the encounter fits the player’s current location in the world. (Urban, Wilderness)</td>
+<td style="text-align:left">High</td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+</div><div class="footer-background" style="transform: scaleX(-1);"></div><div class="footer-content">Document | DM Operations Center System Design and Requirements</div><div class="footer-page-number" style="right: unset; left: 2px;">4</div></div><div class="print-page"><div class="page-content"><h4 id="encounter-(combat)"><a id="document-encounter-combat"></a><a id="encounter-combat"></a>Encounter (Combat)</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:center">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Select Environment</td>
+<td style="text-align:left">As a DM, I want to be able to select the current environment so the encounter fits the player’s current location in the world.</td>
+<td style="text-align:center">High</td>
+</tr>
+<tr>
+<td style="text-align:left">Select Tier</td>
+<td style="text-align:left">As a DM, I want the ability to identify the player’s current tier of play so the encounter is appropriate for their level.</td>
+<td style="text-align:center">High</td>
+</tr>
+<tr>
+<td style="text-align:left">Difficulty Options</td>
+<td style="text-align:left">As a DM, I want to be presented with options for adjusting the difficulty of the encounter so that I can adjust the encounter on-the-fly for my players.</td>
+<td style="text-align:center">Medium</td>
+</tr>
+</tbody>
+</table>
+<h4 id="encounter-(naval)"><a id="document-encounter-naval"></a><a id="encounter-naval"></a>Encounter (Naval)</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h4 id="encounter-(noncombat)"><a id="document-encounter-noncombat"></a><a id="encounter-noncombat"></a>Encounter (Noncombat)</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h4 id="riddle"><a id="document-riddle"></a><a id="riddle"></a>Riddle</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+</div><div class="footer-background"></div><div class="footer-content">Document | DM Operations Center System Design and Requirements</div><div class="footer-page-number">5</div></div><div class="print-page"><div class="page-content"><h4 id="secret-door"><a id="document-secret-door"></a><a id="secret-door"></a>Secret Door</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h4 id="puzzle"><a id="document-puzzle"></a><a id="puzzle"></a>Puzzle</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h4 id="trap"><a id="document-trap"></a><a id="trap"></a>Trap</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Select Level</td>
+<td style="text-align:left">As a DM, I want to select the party’s level so that the generated trap is appropriate to their current level.</td>
+<td style="text-align:left">High</td>
+</tr>
+<tr>
+<td style="text-align:left">Select Danger</td>
+<td style="text-align:left">As a DM, I want to select the danger level for the trap so that I can control the impact the trap has on the party.</td>
+<td style="text-align:left">High</td>
+</tr>
+<tr>
+<td style="text-align:left">Provide Options</td>
+<td style="text-align:left">As a DM, I want to be able to choose from 5 traps so I do not have to run the generator multiple times to get a trap that fits the situation.</td>
+<td style="text-align:left">High</td>
+</tr>
+</tbody>
+</table>
+<h3 id="loot"><a id="document-loot"></a><a id="loot"></a>Loot</h3>
+<h4 id="backpack"><a id="document-backpack"></a><a id="backpack"></a>Backpack</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+</div><div class="footer-background" style="transform: scaleX(-1);"></div><div class="footer-content">Document | DM Operations Center System Design and Requirements</div><div class="footer-page-number" style="right: unset; left: 2px;">6</div></div><div class="print-page"><div class="page-content"><h4 id="bookcase"><a id="document-bookcase"></a><a id="bookcase"></a>Bookcase</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h4 id="desk"><a id="document-desk"></a><a id="desk"></a>Desk</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h4 id="magic-items"><a id="document-magic-items"></a><a id="magic-items"></a>Magic Items</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h4 id="pickpocket"><a id="document-pickpocket"></a><a id="pickpocket"></a>Pickpocket</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+</div><div class="footer-background"></div><div class="footer-content">Document | DM Operations Center System Design and Requirements</div><div class="footer-page-number">7</div></div><div class="print-page"><div class="page-content"><h4 id="spellbook-generator"><a id="document-spellbook-generator"></a><a id="spellbook-generator"></a>Spellbook Generator</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:center">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><strong>Select Level</strong></td>
+<td style="text-align:left">As a DM, I want to be able to select the level of the spellcaster so that I can generate a spellbook with the appropriate spells for that caster.</td>
+<td style="text-align:center">High</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Select School</strong></td>
+<td style="text-align:left">As a DM, I want the ability to select the spellcaster’s preferred school so that I can tailor the spellbook to their speciality.</td>
+<td style="text-align:center">Medium</td>
+</tr>
+</tbody>
+</table>
+<h4 id="treasure"><a id="document-treasure"></a><a id="treasure"></a>Treasure</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><strong>Challenge Rating</strong></td>
+<td style="text-align:left">As a DM, I want to be able to select the CR of a creature so that I can generate treasure appropriate for that creature.</td>
+<td style="text-align:left">High</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Type</strong></td>
+<td style="text-align:left">As a DM, I want to be able to select individual or hoard so that I can generate the appropriate treasure for the type of creature.</td>
+<td style="text-align:left">High</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Fine Tuning</strong></td>
+<td style="text-align:left">As a DM, I want the ability to adjust the percentage yields of money, gems, and items so that I can customize the output.</td>
+<td style="text-align:left">Low</td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h4 id="trinket"><a id="document-trinket"></a><a id="trinket"></a>Trinket</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+</div><div class="footer-background" style="transform: scaleX(-1);"></div><div class="footer-content">Document | DM Operations Center System Design and Requirements</div><div class="footer-page-number" style="right: unset; left: 2px;">8</div></div><div class="print-page"><div class="page-content"><h3 id="storytelling"><a id="document-storytelling"></a><a id="storytelling"></a>Storytelling</h3>
+<p>This component of the DM Operations Center provides a number of random generators and roll tables designed to help DMs quickly generate new events, plot hooks, villains, rivals, and other story elements.</p>
+<h4 id="plot-hooks"><a id="document-plot-hooks"></a><a id="plot-hooks"></a>Plot Hooks</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h4 id="rivals"><a id="document-rivals"></a><a id="rivals"></a>Rivals</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h4 id="villans"><a id="document-villans"></a><a id="villans"></a>Villans</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h3 id="world-builder"><a id="document-world-builder"></a><a id="world-builder"></a>World Builder</h3>
+<p>This component of the DM Operations Center provides a number of random generators and roll tables designed to help DMs quickly generate new people, places, and things to put in their world for the players to discover.</p>
+<h4 id="character-name-generator"><a id="document-character-name-generator"></a><a id="character-name-generator"></a>Character Name Generator</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br>
+<h4 id="npc-generator"><a id="document-npc-generator"></a><a id="npc-generator"></a>NPC Generator</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">User Story</th>
+<th style="text-align:left">Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p class="text-center"><strong>The requirements for this feature have not yet been determined.</strong></p>
+<br>
+<br></div><div class="footer-background"></div><div class="footer-content">Document | DM Operations Center System Design and Requirements</div><div class="footer-page-number">9</div></div></body></html>
