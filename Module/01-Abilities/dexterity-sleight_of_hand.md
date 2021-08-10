@@ -8,10 +8,10 @@ parent: dexterity
 
 Perform manual trickery without being detected.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
-|  10  | Plant evidence in someone's pocket.  |
-|  15  | Pick another person's pocket. |
+| ~DC~ | ~Example~                                 |
+| :--: | :---------------------------------------- |
+|  10  | Plant evidence in someone's pocket.       |
+|  15  | Pick another person's pocket.             |
 |  20  | Replace an object in full view of others. |
 {.gray .small-text}
 

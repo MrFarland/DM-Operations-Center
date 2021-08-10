@@ -6,18 +6,18 @@ parent: downtime
 ### Scribe Scroll
 [Home](dm-operations-center) > [Downtime](downtime) > Scribe Scroll {.small-text}
 
-|~Level~|~Time~| ~Cost~    |
-|:-----:|:----:|----------:|
-|Cantrip*|   1d |      15gp |
-|  1st  |   1d |      25gp |
-|  2nd  |   3d |     250gp |
-|  3rd  |   1w |     500gp |
-|  4th  |   2w |   2,500gp |
-|  5th  |   4w |   5,000gp |
-|  6th  |   8w |  15,000gp |
-|  7th  |  16w |  25,000gp |
-|  8th  |  32w |  50,000gp |
-|  9th  |  48w | 100,000gp |
+| ~Level~  | ~Time~ |    ~Cost~ |
+| :------: | :----: | --------: |
+| Cantrip* |   1d   |      15gp |
+|   1st    |   1d   |      25gp |
+|   2nd    |   3d   |     250gp |
+|   3rd    |   1w   |     500gp |
+|   4th    |   2w   |   2,500gp |
+|   5th    |   4w   |   5,000gp |
+|   6th    |   8w   |  15,000gp |
+|   7th    |  16w   |  25,000gp |
+|   8th    |  32w   |  50,000gp |
+|   9th    |  48w   | 100,000gp |
 {.gray .small-text}
 
 ***\*** Cantrip scrolls are cast as if the reader were 1st level.* {.small-text}

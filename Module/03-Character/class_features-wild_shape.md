@@ -10,20 +10,20 @@ May use an action to change into a beast, the character has **seen** before, usi
 
 ***Note**: Circle of the Moon may use a bonus action.* {.small-text}
 
-|~Lvl~| ~Max~ ~CR~ ~-~ ~(Moon)~ | ~Hrs~ | ~Limits~ |
-|:---:|:-----------------------:|:--:|:-------------------------------|
-|  2  | ^1^/~4~ - (1)           | 1  | No Fly, No Swim |
-|  4  | ^1^/~2~ - (1)           | 2  | No Fly                  |
-|  6  | ^1^/~2~ - (2)           | 3  | No Fly                  |
-|  8  | 1 - (2)                 | 4  | No Limitations                 |
-|  9  | 1 - (3)                 | -  | -                              |
-| 10  | -                       | 5  | Use 2 for elemental (CoM) |
-| 12  | 1 - (4)                 | 6  | Attacks are magical (CoM)      |
-| 14  | -                       | 7  | -                              |
-| 15  | 1 - (5)                 | -  | -                              |
-| 16  | -                       | 8  | -                              |
-| 18  | 1 - (6)                 | 9  | Can cast in beast form. |
-| 20  | -                       | 10 | -                              |
+| ~Lvl~ | ~Max~ ~CR~ ~-~ ~(Moon)~ | ~Hrs~ | ~Limits~                  |
+| :---: | :---------------------: | :---: | :------------------------ |
+|   2   |      ^1^/~4~ - (1)      |   1   | No Fly, No Swim           |
+|   4   |      ^1^/~2~ - (1)      |   2   | No Fly                    |
+|   6   |      ^1^/~2~ - (2)      |   3   | No Fly                    |
+|   8   |         1 - (2)         |   4   | No Limitations            |
+|   9   |         1 - (3)         |   -   | -                         |
+|  10   |            -            |   5   | Use 2 for elemental (CoM) |
+|  12   |         1 - (4)         |   6   | Attacks are magical (CoM) |
+|  14   |            -            |   7   | -                         |
+|  15   |         1 - (5)         |   -   | -                         |
+|  16   |            -            |   8   | -                         |
+|  18   |         1 - (6)         |   9   | Can cast in beast form.   |
+|  20   |            -            |  10   | -                         |
 {.gray .small-text}
 
 - Character takes the creatures stats, except Intelligence, wisdom, charisma. 

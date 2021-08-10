@@ -17,11 +17,11 @@ Use the following predefined array of numbers:
 **Point Buy**<br/>
 Using a pool of **27** points, players can purchase ability scores until the pool is exhausted.
 | ~Score~ | ~Cost~ | ~Score~ | ~Cost~ |
-|:--:|:-:|:--:|:-:|
-|  **8** | 0 | **12** | 4 |
-|  **9** | 1 | **13** | 5 |
-| **10** | 2 | **14** | 7 |
-| **11** | 3 | **15** | 9 |
+| :-----: | :----: | :-----: | :----: |
+|  **8**  |   0    | **12**  |   4    |
+|  **9**  |   1    | **13**  |   5    |
+| **10**  |   2    | **14**  |   7    |
+| **11**  |   3    | **15**  |   9    |
 {.gray .small-text}
 
 > **MrFarland House Rule**<br/>

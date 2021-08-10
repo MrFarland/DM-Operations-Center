@@ -1,7 +1,7 @@
 ---
 name: Planar Travel
 slug: planar-travel
-parent: environment
+parent: movement
 ---
 ### Planar Travel
 [Home](dm-operations-center) > [Environment](environment) > Planar Travel {.small-text}

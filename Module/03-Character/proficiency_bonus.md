@@ -8,13 +8,13 @@ parent: characters
 
 Used in saving throws and skill checks, as well as related ability checks when using weapons, instruments, and tools for which the character is proficient.
 
-| ~Levels~     |~Bonus~|
-|:------------:|:--:|
-|  **1 - 4**   | +2 |
-|  **5 - 8**   | +3 |
-|  **9 - 12**  | +4 |
-|  **13 - 16** | +5 |
-|  **17 - 20** | +6 |
+|  ~Levels~   | ~Bonus~ |
+| :---------: | :-----: |
+|  **1 - 4**  |   +2    |
+|  **5 - 8**  |   +3    |
+| **9 - 12**  |   +4    |
+| **13 - 16** |   +5    |
+| **17 - 20** |   +6    |
 {.gray .small-text}
 
 > **Sources** <br/>

@@ -6,18 +6,18 @@ parent: spellcasting
 ### Spell Ability
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Ability {.small-text}
 
-|||
-|--------------|------------------------------|
+|              |              |
+| ------------ | ------------ |
 | Artificer    | Intelligence |
-| Bard         | Charisma |
-| Cleric       | wisdom |
-| Druid        | wisdom |
+| Bard         | Charisma     |
+| Cleric       | wisdom       |
+| Druid        | wisdom       |
 | Fighter (EK) | Intelligence |
-| Paladin      | Charisma |
-| Ranger       | wisdom |
+| Paladin      | Charisma     |
+| Ranger       | wisdom       |
 | Rogue (AT)   | Intelligence |
-| Sorcerer     | Charisma |
-| Warlock      | Charisma |
+| Sorcerer     | Charisma     |
+| Warlock      | Charisma     |
 | Wizard       | Intelligence |
 {.gray .small-text}
 

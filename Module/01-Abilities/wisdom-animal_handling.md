@@ -8,10 +8,10 @@ parent: wisdom
 
 Ability to interact with, control & understand animals.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
-|  10  | Calm a mount or domesticated animal.  |
-|  15  | Safely approach a sick, scared animal |
+| ~DC~ | ~Example~                                     |
+| :--: | :-------------------------------------------- |
+|  10  | Calm a mount or domesticated animal.          |
+|  15  | Safely approach a sick, scared animal         |
 |  20  | Convince a wild, hungry animal not to attack. |
 {.gray .small-text}
 

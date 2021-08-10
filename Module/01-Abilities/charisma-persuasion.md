@@ -8,11 +8,11 @@ parent: charisma
 
 Influence others with logic, tact or good nature.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
-|  10  | Negotiate a better price from a merchant.  |
-|  15  | Convince someone to lend you their aid. |
-|  20  | Rally your allies for a desperate fight. |
+| ~DC~ | ~Example~                                 |
+| :--: | :---------------------------------------- |
+|  10  | Negotiate a better price from a merchant. |
+|  15  | Convince someone to lend you their aid.   |
+|  20  | Rally your allies for a desperate fight.  |
 {.gray .small-text}
 
 > **Sources** <br/>

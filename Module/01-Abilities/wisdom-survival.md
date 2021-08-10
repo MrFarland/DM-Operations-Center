@@ -8,10 +8,10 @@ parent: wisdom
 
 Ability to survive in the wilderness.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
-|  10  | Find a path through rough terrain.  |
-|  15  | Forage for food & water. |
+| ~DC~ | ~Example~                                  |
+| :--: | :----------------------------------------- |
+|  10  | Find a path through rough terrain.         |
+|  15  | Forage for food & water.                   |
 |  20  | Track a creature over broken, hard ground. |
 {.gray .small-text}
 

@@ -20,12 +20,12 @@ The character makes 3 checks with a different DC (5 + 2d10) for each successive 
 ***Note**: If the nature of the fighting is gladitorial (not boxing, MMA), the character may substitute one roll with a standard attack roll.* {.small-text}
 
 **Results**
-|~Losses~| ~Winnings~ |
-|:------:|-------:|
-|    3   |   0 gp |
-|    2   |  50 gp |
-|    1   | 100 gp |
-|    0   | 200 gp |
+| ~Losses~ | ~Winnings~ |
+| :------: | ---------: |
+|    3     |       0 gp |
+|    2     |      50 gp |
+|    1     |     100 gp |
+|    0     |     200 gp |
 {.gray .small-text}
 
 **Complications (1d6)**

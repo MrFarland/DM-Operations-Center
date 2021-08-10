@@ -15,13 +15,13 @@ Additional Notes
 - Gain advantage if the target has an enemy within 5' that is not incapacitated.
 - Sneak attack may be used on an attack of opportunity if all other criteria has been met.
 
-| ~Lvl~ | ~DMG~             | | ~Lvl~ | ~DMG~              | 
-|:-----:|:-----------------:|-|:-----:|:------------------:|
-| 1-2   | 1d6  | | 11-12 | 6d6  |
-| 3-4   | 2d6  | | 13-14 | 7d6  |
-| 5-6   | 3d6  | | 15-16 | 8d6  |
-| 7-8   | 4d6  | | 17-18 | 9d6  |
-| 9-10  | 5d6  | | 19-20 | 10d6 |
+| ~Lvl~ | ~DMG~ |     | ~Lvl~ | ~DMG~ |
+| :---: | :---: | --- | :---: | :---: |
+|  1-2  |  1d6  |     | 11-12 |  6d6  |
+|  3-4  |  2d6  |     | 13-14 |  7d6  |
+|  5-6  |  3d6  |     | 15-16 |  8d6  |
+|  7-8  |  4d6  |     | 17-18 |  9d6  |
+| 9-10  |  5d6  |     | 19-20 | 10d6  |
 {.gray .small-text}
 
 

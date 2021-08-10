@@ -7,13 +7,13 @@ parent: downtime
 [Home](dm-operations-center) > [Downtime](downtime) > Craft Magical Item {.small-text}
 
 **Resources**<br/>
-| ~Rarity~  | ~Cost~     |~Wks~| ~CR~ |
-|-----------|-----------:|----:|:----:|
-| Common    |      50 gp |   1 |  1-3 |
-| Uncommon  |     200 gp |   2 |  4-8 |
-| Rare      |   2,000 gp |  10 | 9-12 |
-| Very Rare |  20,000 gp |  25 |13-18 |
-| Legendary | 100,000 gp |  50 |  19+ |  
+| ~Rarity~  |     ~Cost~ | ~Wks~ | ~CR~  |
+| --------- | ---------: | ----: | :---: |
+| Common    |      50 gp |     1 |  1-3  |
+| Uncommon  |     200 gp |     2 |  4-8  |
+| Rare      |   2,000 gp |    10 | 9-12  |
+| Very Rare |  20,000 gp |    25 | 13-18 |
+| Legendary | 100,000 gp |    50 |  19+  |
 {.gray .small-text}
 
 ***\*** Prices are halved for consumables.*

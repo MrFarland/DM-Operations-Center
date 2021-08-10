@@ -14,14 +14,14 @@ parent: characters
 
 **Proficiencies**<br/>
 Proficiencies with an armor, language, skill, tool, or weapon may be substituted using the following:
-| ~Original~ | ~Alternate~ |
-|------------|-------------|
+| ~Original~ | ~Alternate~                   |
+| ---------- | ----------------------------- |
 | Armor      | Simple/Martial Weapon or Tool |
-| Language   | Language |
-| Marital    | Simple/Martial Weapon or Tool | 
-| Simple     | Simple Weapon or Tool |
-| Skill      | Skill |
-| Tool       | Tool or Simple Weapon |
+| Language   | Language                      |
+| Marital    | Simple/Martial Weapon or Tool |
+| Simple     | Simple Weapon or Tool         |
+| Skill      | Skill                         |
+| Tool       | Tool or Simple Weapon         |
 {.gray .small-text}
 
 > **Sources** <br/>

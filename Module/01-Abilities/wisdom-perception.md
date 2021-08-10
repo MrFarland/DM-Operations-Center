@@ -8,11 +8,11 @@ parent: wisdom
 
 Ability to spot, hear, or otherwise detect something.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
-|  10  | Eavesdrop on a conversation at a party.  |
+| ~DC~ | ~Example~                                      |
+| :--: | :--------------------------------------------- |
+|  10  | Eavesdrop on a conversation at a party.        |
 |  15  | Spot a well-hidden trap before setting it off. |
-|  20  | Notice an obscure sign of a secret passage. |
+|  20  | Notice an obscure sign of a secret passage.    |
 {.gray .small-text}
 
 > **Sources** <br/>

@@ -8,12 +8,12 @@ parent: water-hazards
 
 A swirling vortex of water that sucks creatures and ships towards its center.
 
-| ~Rank~ | ~Diameter~ ~(Depth~ ~1/2)~  | ~Velocity~ | ~DC~ |
-|:------:|-------------:|:----------:|:----:|
-|      1 | 22 (4d10)'   |  5' | 5 |
-|      2 | 55 (10d10)'  | 15' | 10 |
-|      3 | 110 (20d10)' | 25' | 15 |
-|      4 | 165 (3010)'  | 35' | 20 |
+| ~Rank~ | ~Diameter~ ~(Depth~ ~1/2)~ | ~Velocity~ | ~DC~ |
+| :----: | -------------------------: | :--------: | :--: |
+|   1    |                 22 (4d10)' |     5'     |  5   |
+|   2    |                55 (10d10)' |    15'     |  10  |
+|   3    |               110 (20d10)' |    25'     |  15  |
+|   4    |                165 (3010)' |    35'     |  20  |
 {.gray .small-text}
 
 #### Creatures
@@ -32,13 +32,13 @@ On a success:
 #### Vessels (Length < Diameter)
 Officers and crew make a group hazard check to escape. It represents 5 minutes of work and the DC is chosen randomly or using a d4 on the table above.
 
-|~Group~ ~Check~||
-|:--------------|:-----------------------------------|
-| Captain       | Intelligence (Water Vehicle)       |
-| First Mate    | Charisma (Intimidation/Persuasion) |
-| Bosun         | Strength (Carpenter's Tools)       |
-| Quartermaster | Wisdom (Nature)                    |
-| Crew          | Quality Score                      |
+| ~Group~ ~Check~ |                                    |
+| :-------------- | :--------------------------------- |
+| Captain         | Intelligence (Water Vehicle)       |
+| First Mate      | Charisma (Intimidation/Persuasion) |
+| Bosun           | Strength (Carpenter's Tools)       |
+| Quartermaster   | Wisdom (Nature)                    |
+| Crew            | Quality Score                      |
 {.gray .small-text}
 
 | ~Results~ ||
@@ -50,16 +50,16 @@ Officers and crew make a group hazard check to escape. It represents 5 minutes o
 {.gray .small-text}
 
 #### Destinations
-| ~d10~ | ~Destination~ |
-|:-----:|:--------------|
-|  1-3  | Underdark     |
+| ~d10~ | ~Destination~            |
+| :---: | :----------------------- |
+|  1-3  | Underdark                |
 |   4   | Elemental Plane of Water |
 |   5   | Elemental Plane of Earth |
-|   6   | Feywild       |
-|   7   | Shadowfell    |
-|   8   | Astral Plane  |
-|   9   | Outlands      |
-|  10   | Outer Plane   |
+|   6   | Feywild                  |
+|   7   | Shadowfell               |
+|   8   | Astral Plane             |
+|   9   | Outlands                 |
+|  10   | Outer Plane              |
 {.gray .small-text}
 
 > **Sources** <br/>

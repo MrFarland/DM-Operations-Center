@@ -10,12 +10,12 @@ A contest is a special ability check where the initiator of an action is pitted 
 
 **Success = Initiator's Check > Defender's Check** {.text-center}
 
-| ~Example~  | ~Initiator~            | ~Defender~ |
-|:-----------|:-----------------------|:-----------|
-| Hide | Stealth | Perception |
-| Grapple & Shove | Athletics | Athletics / Acrobatics |
-| Pickpocket | Sleight of Hand | Perception |
-| Untie Knot | Sleight of Hand | Sleight of Hand    |
+| ~Example~       | ~Initiator~     | ~Defender~             |
+| :-------------- | :-------------- | :--------------------- |
+| Hide            | Stealth         | Perception             |
+| Grapple & Shove | Athletics       | Athletics / Acrobatics |
+| Pickpocket      | Sleight of Hand | Perception             |
+| Untie Knot      | Sleight of Hand | Sleight of Hand        |
 {.gray .small-text}
 
 > **Sources** <br/>

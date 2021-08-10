@@ -8,11 +8,11 @@ parent: charisma
 
 How well you can entertain an audience.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
+| ~DC~ | ~Example~                                 |
+| :--: | :---------------------------------------- |
 |  10  | Captivate an audience with a good story.  |
 |  15  | Perform a scene from a play or epic poem. |
-|  20  | Mimic the behavior of someone else. |
+|  20  | Mimic the behavior of someone else.       |
 {.gray .small-text}
 
 > **Sources** <br/>

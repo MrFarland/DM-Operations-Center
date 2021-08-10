@@ -6,11 +6,11 @@ parent: combat
 ### Cover
 [Home](dm-operations-center) > [Combat](combat) > Cover {.small-text}
 
-|||
-|:-------:|----------------------------------------------------------------| 
-| ^1^/~2~ | +2 AC & DEX Saves | 
-| ^3^/~4~ | +5 AC & DEX Saves |
-|   Full  | Cannot be seen or targeted directly. |
+|         |                                      |
+| :-----: | ------------------------------------ |
+| ^1^/~2~ | +2 AC & DEX Saves                    |
+| ^3^/~4~ | +5 AC & DEX Saves                    |
+|  Full   | Cannot be seen or targeted directly. |
 {.gray .small-text}
 
 > **Sources** <br/>

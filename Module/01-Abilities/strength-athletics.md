@@ -8,11 +8,11 @@ parent: strength
 
 General athletic prowess when running, jumping, swimming, and climbing.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
-|  10  | Climb a cliff with plenty of holds.  |
-|  15  | Try to jump extra far or high. |
-|  20  | Swim against a powerful current |
+| ~DC~ | ~Example~                           |
+| :--: | :---------------------------------- |
+|  10  | Climb a cliff with plenty of holds. |
+|  15  | Try to jump extra far or high.      |
+|  20  | Swim against a powerful current     |
 {.gray .small-text}
 
 > **Sources** <br/>

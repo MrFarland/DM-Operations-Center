@@ -8,10 +8,10 @@ parent: intelligence
 
 Knowledge of religions, gods, cults, and traditions.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
-|  10  | Recognize the holy symbol of a god.  |
-|  15  | Recall the details to a ritual or prayer. |
+| ~DC~ | ~Example~                                      |
+| :--: | :--------------------------------------------- |
+|  10  | Recognize the holy symbol of a god.            |
+|  15  | Recall the details to a ritual or prayer.      |
 |  20  | Identify the symbology of an ancient religion. |
 {.gray .small-text}
 

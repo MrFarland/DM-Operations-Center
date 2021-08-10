@@ -8,10 +8,10 @@ parent: water-hazards
 
 A creature or vessel travelling with a current has that speed added to their speed. If traveling against, the speed is subtracted form their speed. If the speed is negative, they move with it or may opt to fight the current.
 
-| ~Speed~ ~changes~ ~daily~ ||
-|:-|-:|
+| ~Speed~ ~changes~ ~daily~         |         |
+| :-------------------------------- | ------: |
 | Tidal Currents (50 mi from shore) | 1d6 mph |
-| Ocean Currents | 1d4 mph |
+| Ocean Currents                    | 1d4 mph |
 {.gray .small-text}
 
 **Fighting the Current**<br/>
