@@ -6,7 +6,14 @@ parent: environment
 ### Magical Phenomena
 [Home](dm-operations-center) > [Environment](environment) > Magical Phenomena {.small-text}
 
-> **Sources** <br/>
-> Player's Handbook, p. xxx
-{.read .small-text}
+<div class="menu-container">
+    <a href="eldritch-storm">Eldritch Storm</a>
+    <a href="emotional-echo">Emotional Echo</a>
+    <a href="enchanted-spring">Enchanted Spring</a>
+    <a href="magic-mushroom">Magic Mushroom</a>
+    <a href="mimic-colony">Mimic Colony</a>
+    <a href="primal-fruit">Primal Fruit</a>
+    <a href="unearthly-road">Unearthly Road</a>
+</div>
+<hr/>
 
