@@ -8,7 +8,7 @@ parent: dm-operations-center
 
 <div class="menu-container">
     <a href="adventuring-gear">Adventuring Gear</a>
-    <a href=""></a>
+    <a href="containers">Containers</a>
     <a href=""></a>
     <a href=""></a>
     <a href=""></a>
