@@ -14,5 +14,5 @@ parent: life-and-death
 {.gray .small-text}
 
 > **Sources** <br/>
-> Player's Handbook, p. xxx
+> Dungeon Master's Guide, p. 111
 {.read .small-text}
