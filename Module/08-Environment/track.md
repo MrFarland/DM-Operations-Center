@@ -1,10 +1,10 @@
 ---
 name: Track
 slug: track
-parent: movement
+parent: environment
 ---
 ### Track
-[Home](dm-operations-center) > [Movement](movement) > Track {.small-text}
+[Home](dm-operations-center) > [Environment](environment) > Track {.small-text}
 
 | Surface | DC |
 |---------|:--:|
@@ -16,5 +16,5 @@ parent: movement
 {.gray .small-text}
 
 > **Sources** <br/>
-> Dungeon Master's Guide, p. xxx
+> Dungeon Master's Guide, p. 244
 {.read .small-text}
