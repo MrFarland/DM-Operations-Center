@@ -12,12 +12,12 @@ The character must find a suitable teacher willing to teach them.
 
 **Level**<br/>
 Training to gain levels is a variant rule.
-| ~Level~   |~Days~|~Cost~|
-|:---------:|-----:|-----:|
-| 2nd-4th   |  10d | 20gp |
-| 5th-10th  |  20d | 40gp |
-| 11th-16th |  30d | 60gp |
-| 17th-20th |  40d | 80gp |
+|  ~Level~  | ~Days~ | ~Cost~ |
+| :-------: | -----: | -----: |
+|  2nd-4th  |    10d |   20gp |
+| 5th-10th  |    20d |   40gp |
+| 11th-16th |    30d |   60gp |
+| 17th-20th |    40d |   80gp |
 {.gray .small-text}
 
 > **Sources** <br/>

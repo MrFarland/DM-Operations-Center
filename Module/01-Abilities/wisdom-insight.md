@@ -8,10 +8,10 @@ parent: wisdom
 
 Ability to determine the true intentions of a creature.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
-|  10  | Determine if a friend is lying.  |
-|  15  | Read someone's body language. |
+| ~DC~ | ~Example~                         |
+| :--: | :-------------------------------- |
+|  10  | Determine if a friend is lying.   |
+|  15  | Read someone's body language.     |
 |  20  | Predict a stranger's next action. |
 {.gray .small-text}
 

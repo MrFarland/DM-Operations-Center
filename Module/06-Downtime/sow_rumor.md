@@ -6,8 +6,8 @@ parent: downtime
 ### Sow Rumor
 [Home](dm-operations-center) > [Downtime](downtime) > Sow Rumor {.small-text}
 
-| ~Size~  |~Time~    | ~Cost~    |
-|:--------|---------:|----------:|
+| ~Size~  |   ~Time~ |    ~Cost~ |
+| :------ | -------: | --------: |
 | Village | 2d6 days | 1gp / day |
 | Town    | 4d6 days | 1gp / day |
 | City    | 6d6 days | 1gp / day |

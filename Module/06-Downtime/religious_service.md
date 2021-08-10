@@ -6,19 +6,19 @@ parent: downtime
 ### Religious Service
 [Home](dm-operations-center) > [Downtime](downtime) > Religious Service {.small-text}
 
-| ~Lifestyle~ |~Time~| ~Cost~ | ~Other~                       |
-|:------------|-----:|-------:|:------------------------------|
-| Modest      |   1w |    0gp | Access to a temple or religious figure. |
+| ~Lifestyle~ | ~Time~ | ~Cost~ | ~Other~                                 |
+| :---------- | -----: | -----: | :-------------------------------------- |
+| Modest      |     1w |    0gp | Access to a temple or religious figure. |
 {.gray .small-text}
 
 **Resolution**<br/>
 The character makes an Intelligence (Religion) or Charisma (Persuasion) check:
 
-|||
-|:---:|:----|
+|       |                                                            |
+| :---: | :--------------------------------------------------------- |
 | 1 10  | No effect. Your efforts fail to make a lasting impression. |
-| 11 20 | You earn one favor.  |
-| 21 +   | You earn two favors. |
+| 11 20 | You earn one favor.                                        |
+| 21 +  | You earn two favors.                                       |
 {.gray .small-text}
 
 **Favor**. Promise of assistance from a representative of the temple or a 50% discount on spellcasting services. Maximum of (1 + Charisma Modifier) favors.{.small-text}

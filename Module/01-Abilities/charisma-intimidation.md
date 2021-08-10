@@ -8,10 +8,10 @@ parent: charisma
 
 Influence others via threat or coercion.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
-|  10  | Threaten a merchant for a better deal.  |
-|  15  | Coerce information from a reluctant NPC. |
+| ~DC~ | ~Example~                                  |
+| :--: | :----------------------------------------- |
+|  10  | Threaten a merchant for a better deal.     |
+|  15  | Coerce information from a reluctant NPC.   |
 |  20  | Convince a powerful creature to back down. |
 {.gray .small-text}
 

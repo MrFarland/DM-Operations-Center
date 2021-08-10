@@ -6,14 +6,14 @@ parent: abilities
 ### Difficulty Class
 [Home](dm-operations-center) > [Abilities](abilities) > Difficulty Class {.small-text}
 
-|||
-|:----------|:--:|
-| Very Easy |  5 |
-| Easy      | 10 |
-| Medium    | 15 |
-| Hard      | 20 |
-| Very Hard | 25 |
-| Near Impossible | 30 |
+|                 |     |
+| :-------------- | :-: |
+| Very Easy       |  5  |
+| Easy            | 10  |
+| Medium          | 15  |
+| Hard            | 20  |
+| Very Hard       | 25  |
+| Near Impossible | 30  |
 {.gray .small-text}
 
 ***Tip**: Do not make all your DCs multiples of 5. It is a big jump, especially for low-level characters.*

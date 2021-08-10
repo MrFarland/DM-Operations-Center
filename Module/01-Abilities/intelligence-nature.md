@@ -8,11 +8,11 @@ parent: intelligence
 
 Knowledge of the world, geography, and creatures.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
-|  10  | Recognize the signs of bad weather coming.  |
-|  15  | Identify an uncommon plant or rock. |
-|  20  | Recall information about a rare beast. |
+| ~DC~ | ~Example~                                  |
+| :--: | :----------------------------------------- |
+|  10  | Recognize the signs of bad weather coming. |
+|  15  | Identify an uncommon plant or rock.        |
+|  20  | Recall information about a rare beast.     |
 {.gray .small-text}
 
 > **Sources** <br/>

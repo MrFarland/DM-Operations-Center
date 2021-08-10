@@ -6,13 +6,13 @@ parent: environment
 ### Track
 [Home](dm-operations-center) > [Environment](environment) > Track {.small-text}
 
-| Surface | DC |
-|---------|:--:|
-| Soft surfaces like mud, sand, and snow. | 10 |
-| Firm surfaces like dirt and grass.      | 15 |
-| Hard surfaces like floors and stone.    | 20 |
-| Each day since creature passed.         | +5 |
-| Creature is leaving a trail (ie Blood, etc). | -5 |
+| Surface                                      | DC  |
+| -------------------------------------------- | :-: |
+| Soft surfaces like mud, sand, and snow.      | 10  |
+| Firm surfaces like dirt and grass.           | 15  |
+| Hard surfaces like floors and stone.         | 20  |
+| Each day since creature passed.              | +5  |
+| Creature is leaving a trail (ie Blood, etc). | -5  |
 {.gray .small-text}
 
 > **Sources** <br/>

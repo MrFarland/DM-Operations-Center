@@ -8,10 +8,10 @@ parent: intelligence
 
 Knowledge of history, people, and things.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
-|  10  | Recall lore about a recent historical event.  |
-|  15  | Recognize the symbols of a far-off land. |
+| ~DC~ | ~Example~                                          |
+| :--: | :------------------------------------------------- |
+|  10  | Recall lore about a recent historical event.       |
+|  15  | Recognize the symbols of a far-off land.           |
 |  20  | Recall obscure details of an ancient civilization. |
 {.gray .small-text}
 

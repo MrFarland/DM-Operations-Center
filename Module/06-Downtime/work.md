@@ -13,12 +13,12 @@ The character makes one of the following checks to determine their lifestyle for
 - Charisma (Performance)
 - Charisma (Musical Instrument)
 
-| ~Roll~| ~Lifestyle~        |
-|:-----:|:-------------------|
-|  0-9  | Poor               |
-| 10-14 | Modest             |
-| 15-20 | Comfortable        |
-|  21 + | Comfortable + 25gp |
+| ~Roll~ | ~Lifestyle~        |
+| :----: | :----------------- |
+|  0-9   | Poor               |
+| 10-14  | Modest             |
+| 15-20  | Comfortable        |
+|  21 +  | Comfortable + 25gp |
 {.gray .small-text}
 
 > **MrFarland House Rule**<br/>

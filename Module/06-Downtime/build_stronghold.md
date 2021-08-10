@@ -6,8 +6,8 @@ parent: downtime
 ### Build Stronghold
 [Home](dm-operations-center) > [Downtime](downtime) > Build Stronghold {.small-text}
 
-||||
-|-|-:|-:|
+|                         |           |        |
+| ----------------------- | --------: | -----: |
 | Abbey                   |  50,000gp |   400d |
 | Guildhall, (Town/City)  |   5,000gp |    60d |
 | Keep or small castle    |  50,000gp |   400d |
@@ -15,7 +15,7 @@ parent: downtime
 | Outpost or fort         |  15,000gp |   100d |
 | Palace or large castle  | 500,000gp | 1,200d |
 | Temple                  |  50,000gp |   400d |
-| Tower, fortified        |  15,000gp |   100d | 
+| Tower, fortified        |  15,000gp |   100d |
 | Trading post            |   5,000gp |    60d |
 {.gray .small-text}
 

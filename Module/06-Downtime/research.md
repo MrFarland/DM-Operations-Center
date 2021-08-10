@@ -7,20 +7,20 @@ parent: downtime
 [Home](dm-operations-center) > [Downtime](downtime) > Research {.small-text}
 
 
-| ~Lifestyle~ |~Time~| ~Cost~ | ~Other~                      |
-|:------------|-----:|-------:|:-----------------------------|
-| Modest      |   1w |   50gp | Access to a sage or library. |
+| ~Lifestyle~ | ~Time~ | ~Cost~ | ~Other~                      |
+| :---------- | -----: | -----: | :--------------------------- |
+| Modest      |     1w |   50gp | Access to a sage or library. |
 {.gray .small-text}
 
 **Resolution**<br/>
 The character declares a specific person, place or thing. The character makes an Intelligence check with a +1 bonus for each additional 100 gp spent, up to a maximum of 600 gp. 
 
-|||
-|:-----:|:----|
-|  1 5  | No effect. |
-|  6 10 | You learn 1 piece of lore.  |
+|       |                             |
+| :---: | :-------------------------- |
+|  1 5  | No effect.                  |
+| 6 10  | You learn 1 piece of lore.  |
 | 11 20 | You learn 2 pieces of lore. |
-|  21 + | You learn 3 pieces of lore. |
+| 21 +  | You learn 3 pieces of lore. |
 {.gray .small-text}
 
 **Lore**. A creature's resistances, the location of a dungeon, the spells favored by a group of wizards.{.small-text}

@@ -6,9 +6,9 @@ parent: combat
 ### Grapple & Shove
 [Home](dm-operations-center) > [Combat](combat) > Grapple & Shove {.small-text}
 
-| Attacker || Defender |
-|:-:|-:|:-:|
-| Athletics | > | Athletics OR Acrobatics
+| Attacker  |     |        Defender         |
+| :-------: | --: | :---------------------: |
+| Athletics |   > | Athletics OR Acrobatics |
 {.gray .small-text}
 
 - A grapple or shove is a melee attack.

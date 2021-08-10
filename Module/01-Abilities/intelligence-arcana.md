@@ -8,10 +8,10 @@ parent: intelligence
 
 Knowledge of all things magical and the planes.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
-|  10  | Recall lore about a famous mage.  |
-|  15  | Identify a legendary magical item. |
+| ~DC~ | ~Example~                           |
+| :--: | :---------------------------------- |
+|  10  | Recall lore about a famous mage.    |
+|  15  | Identify a legendary magical item.  |
 |  20  | Deduce the purpose of arcane runes. |
 {.gray .small-text}
 

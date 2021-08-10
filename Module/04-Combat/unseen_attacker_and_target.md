@@ -7,9 +7,9 @@ parent: combat
 [Home](dm-operations-center) > [Combat](combat) > Unseen Attacker & Target {.small-text}
 
 | ~Unseen~ | ~On~ ~the~ ~Attack~ |
-|-|:-|
-| Attacker | Advantage |
-| Target   | Disadvantage |
+| -------- | :------------------ |
+| Attacker | Advantage           |
+| Target   | Disadvantage        |
 {.gray .small-text}
 
 > **Sources** <br/>

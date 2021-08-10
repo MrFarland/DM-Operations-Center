@@ -12,14 +12,14 @@ parent: spellcasting
 - The spell cannot be cast at a higher [level](spell-levels-and-slots).
 - Must be [known or prepared](known-and-prepared). (Not Wizard)
 
-| Ritual Casters ||||
-|-----------|-----|-----|-----|
-| Artificer | Yes | Paladin   | No |
-| Bard      | Yes | Ranger    | No |
-| Cleric    | Yes | Rogue (AT)| No |
-| Druid     | Yes | Sorcerer  | No |
-| Fighter (EK) |No| Warlock   | No |
-| Monk      | No  | Wizard    | Yes |
+| Ritual Casters |     |            |     |
+| -------------- | --- | ---------- | --- |
+| Artificer      | Yes | Paladin    | No  |
+| Bard           | Yes | Ranger     | No  |
+| Cleric         | Yes | Rogue (AT) | No  |
+| Druid          | Yes | Sorcerer   | No  |
+| Fighter (EK)   | No  | Warlock    | No  |
+| Monk           | No  | Wizard     | Yes |
 {.gray .small-text}
 
 ***Note**: The **Ritual Caster** feat allows a character to cast ritual spells from a specific class.*

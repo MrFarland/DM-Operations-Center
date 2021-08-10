@@ -8,11 +8,11 @@ parent: charisma
 
 Ability to lie or otherwise hide the truth.
 
-| ~DC~ | ~Example~ |
-|:----:|:----------|
-|  10  | Keep a straight face while telling a lie.  |
+| ~DC~ | ~Example~                                 |
+| :--: | :---------------------------------------- |
+|  10  | Keep a straight face while telling a lie. |
 |  15  | Convince someone an item is very valuable |
-|  20  | Pass yourself off as someone famous. |
+|  20  | Pass yourself off as someone famous.      |
 {.gray .small-text}
 
 > **Sources** <br/>
