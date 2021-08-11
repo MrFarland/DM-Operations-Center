@@ -16,7 +16,7 @@
   <a href="#non-functional-user-stories">Non-functional User Stories</a>
 </p>
 
-**To create a Dungeon Master Operations Center module that provides 5th edition Dungeons & Dragons dungeon masters with access to rules, randomly generated, and templates from within the EncounterPlus virtual tabletop application.**
+**To create a Dungeon Master Operations Center module that provides 5th edition Dungeons & Dragons dungeon masters with access to rules, randomly generated content, and templates from within the EncounterPlus virtual tabletop application.**
 
 
 
