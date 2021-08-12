@@ -6,7 +6,7 @@ parent: expenses
 ### Lifestyle
 [Home](dm-operations-center) > [Expenses](expenses) > Lifestyle {.small-text}
 
-|              |        |
+|||
 | :----------- | -----: |
 | Wretched     |      - |
 | Squalid      |   1 sp |
