@@ -12,7 +12,7 @@ parent: combat
 
 **Common Examples**
 - Off-hand Attack. (two weapon fighting)
-- Cast [Healing Word](/spell/healing-word) or [Hunter's Mark](/spell/hunters-mark)
+- Cast [Healing Word](/spell/healing-word) or [Hunter's Mark](/spell/hunter-s-mark)
 - Dash, disengage, or dodge (Rogues)
 - Wild Shape (Circle of the Moon Druid)
 {.square}
