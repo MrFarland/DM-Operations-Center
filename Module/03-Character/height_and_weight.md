@@ -23,7 +23,7 @@ parent: characters
 | Elf, Shadar-kai  |         4'10" - 6'0"         | 92 - 154  |
 | Elf, Wood        |         4'8" - 6'2"          | 102 - 180 |
 | Firbolg          |         6'4" - 8'2"          | 179 - 463 |
-| Genasi           | *Use character's base race.* |           |
+| Genasi           | *Use character's base race.*            ||
 | Gith, Githyanki  |         5'2" - 7'0"          | 104 - 292 |
 | Gith, Githzerai  |         5'1 - 6'11"          | 92 - 186  |
 | Gnome            |         3'1" - 3'7"          |  37 - 43  |
@@ -46,13 +46,13 @@ parent: characters
 | Orc              |         5'6" - 6'8"          | 179 - 367 |
 | Satyr*           |             5'0"             |    170    |
 | Shifter*         |         5'0" - 7'0"          |  130-180  |
-| Simic Hybrid     | *Use character's base race.* |           |
+| Simic Hybrid     | *Use character's base race.*            ||
 | Tabaxi           |         5'0" - 6'6"          | 94 - 250  |
 | Tiefling         |         4'11" - 6'1"         | 114 - 238 |
 | Tortle*          |           5' - 6'            |    450    |
 | Triton           |         4'8" - 6'2"          | 94 - 250  |
 | Vedalken         |         5'6" - 6'2"          | 114 - 270 |
-| Verdan*          |           3' - 6'            |           |
+| Verdan*          |           3' - 6'                       ||
 | Warforged*       |         6'0" - 6'6"          | 270 - 350 |
 | Yuan-Ti          |         4'10" - 6'4"         | 114 - 270 |
 {.gray .small-text}

@@ -1,10 +1,10 @@
 ---
-name: Contest
-slug: contest
+name: Contests
+slug: contests
 parent: abilities
 ---
-### Contest
-[Home](dm-operations-center) > [Abilities](abilities) > Contest {.small-text}
+### Contests
+[Home](dm-operations-center) > [Abilities](abilities) > Contests {.small-text}
 
 A contest is a special ability check where the initiator of an action is pitted directly against another creature.
 

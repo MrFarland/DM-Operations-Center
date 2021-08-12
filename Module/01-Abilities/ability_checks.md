@@ -1,10 +1,10 @@
 ---
-name: Ability Check
-slug: ability-check
+name: Ability Checks
+slug: ability-checks
 parent: abilities
 ---
-### Ability Check
-[Home](dm-operations-center) > [Abilities](abilities) > Ability Check {.small-text}
+### Ability Checks
+[Home](dm-operations-center) > [Abilities](abilities) > Ability Checks {.small-text}
 
 **Success = 1d20 + Ability + (Proficiency\*) ≥ DC** {.text-center}
 
