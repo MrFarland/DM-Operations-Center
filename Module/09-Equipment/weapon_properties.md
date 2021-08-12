@@ -1,10 +1,10 @@
 ---
 name: Weapon Properties
 slug: weapon-properties
-parent: combat
+parent: equipment
 ---
 ### Weapon Properties
-[Home](dm-operations-center) > [Combat](combat) > Weapon Properties {.small-text}
+[Home](dm-operations-center) > [Equipment](equipment) > Weapon Properties {.small-text}
 
 |||
 |-|-|

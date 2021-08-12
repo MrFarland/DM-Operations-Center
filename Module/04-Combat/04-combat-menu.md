@@ -12,7 +12,6 @@ parent: dm-operations-center
     <a href="cover">Cover</a>
     <a href="critical-hit-and-miss">Critical Hit<br/> & Miss</a>
     <a href="damage-type">Damage<br/> Type</a>
-    <a href="explosives">Explosives</a>
     <a href="flanking">Flanking</a>
     <a href="free-action">Free<br/> Action</a>
     <a href="grapple-and-shove">Grapple<br/> & Shove</a>
@@ -22,14 +21,13 @@ parent: dm-operations-center
     <a href="object-ac-and-hp">Object<br/> AC & HP</a>
     <a href="opportunity-attack">Opportunity<br/> Attack</a>
     <a href="reaction">Reaction</a>
+    <a href="resistance-and-vulnerability">Resistance &<br/> Vulnerability</a>
 </div>
 <div class="more">▼ More ▼</div>
 <div class="menu-container">
-    <a href="resistance-and-vulnerability">Resistance &<br/> Vulnerability</a>
     <a href="two-weapon-fighting">Two Weapon<br/> Fighting</a>
     <a href="unarmed-strike">Unarmed<br/> Strike</a>
     <a href="underwater-combat">Underwater<br/> Combat</a>
     <a href="unseen-attacker">Unseen<br/> Attacker</a>
-    <a href="weapon-properties">Weapon<br/> Properties</a>
 </div>
 <hr/>

@@ -10,8 +10,8 @@ parent: dm-operations-center
     <a href="adventuring-gear">Adventuring Gear</a>
     <a href="armor">Armor</a>
     <a href="containers">Containers</a>
-    <a href=""></a>
-    <a href=""></a>
+    <a href="explosives">Explosives</a>
+    <a href="weapon-properties">Weapon<br/> Properties</a>
     <a href=""></a>
     <a href=""></a>
     <a href=""></a>
