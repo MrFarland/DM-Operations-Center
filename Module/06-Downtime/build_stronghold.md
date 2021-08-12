@@ -6,7 +6,7 @@ parent: downtime
 ### Build Stronghold
 [Home](dm-operations-center) > [Downtime](downtime) > Build Stronghold {.small-text}
 
-|                         |           |        |
+||||
 | ----------------------- | --------: | -----: |
 | Abbey                   |  50,000gp |   400d |
 | Guildhall, (Town/City)  |   5,000gp |    60d |
