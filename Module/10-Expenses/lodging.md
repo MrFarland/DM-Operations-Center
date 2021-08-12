@@ -6,7 +6,7 @@ parent: expenses
 ### Lodging
 [Home](dm-operations-center) > [Expenses](expenses) > Lodging {.small-text}
 
-|              |      |
+|||
 | :----------- | ---: |
 | Squalid      | 7 cp |
 | Poor         | 1 sp |
