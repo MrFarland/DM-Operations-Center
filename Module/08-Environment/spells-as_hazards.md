@@ -22,7 +22,7 @@ parent: environment
 | Radiation          | [Blight](/spell/blight), [Circle of Death](/spell/circle-of-death) |
 | Smoke              | [Fog cloud](/spell/fog-cloud) |
 | St. Elmo's Fire    | [Faerie Fire](/spell/faerie-fire) |
-| Swamp Gas          | [Dancing Lights](/spell/dancing-light) |
+| Swamp Gas          | [Dancing Lights](/spell/dancing-lights) |
 | Tidal Wave         | [Tsunami](/spell/tsunami) |
 | Toxic Eruption     | [Acid Splash](/spell/acid-splash) |
 | Toxic Gas          | [Cloudkill](/spell/cloudkill), [Stinking Cloud](/spell/stinking-cloud)  |
