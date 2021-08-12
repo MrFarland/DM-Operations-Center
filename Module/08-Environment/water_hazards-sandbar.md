@@ -8,7 +8,7 @@ parent: water-hazards
 
 A submerged sandbar is difficul terrain to a vessel passing overhead and the ship must make a Dexterity saving throw with the DC corresponding to the depth of the sandbar.
 
-|     |                  |
+|||
 | :-: | :--------------- |
 | 10  | Deep Sandbar     |
 | 15  | Moderate Sandbar |
