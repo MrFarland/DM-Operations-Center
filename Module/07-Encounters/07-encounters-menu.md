@@ -7,25 +7,7 @@ parent: dm-operations-center
 [Home](dm-operations-center) > Encounters
 
 <div class="menu-container">
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-</div>
-<div class="more">▼ More ▼</div>
-<div class="menu-container">
-    <a href="."></a>
+    <a href="puzzles">Puzzles</a>
     <a href="."></a>
     <a href="."></a>
     <a href="."></a>
