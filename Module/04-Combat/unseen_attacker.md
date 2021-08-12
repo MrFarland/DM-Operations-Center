@@ -1,10 +1,10 @@
 ---
-name: Unseen Attacker & Target
-slug: unseen-attacker-and-target
+name: Unseen Attacker
+slug: unseen-attacker
 parent: combat
 ---
-### Unseen Attacker & Target
-[Home](dm-operations-center) > [Combat](combat) > Unseen Attacker & Target {.small-text}
+### Unseen Attacker
+[Home](dm-operations-center) > [Combat](combat) > Unseen Attacker {.small-text}
 
 | ~Unseen~ | ~On~ ~the~ ~Attack~ |
 | -------- | :------------------ |
