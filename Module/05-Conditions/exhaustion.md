@@ -6,7 +6,7 @@ parent: conditions
 ### Exhaustion
 [Home](dm-operations-center) > [Conditions](conditions) > Exhaustion {.small-text}
 
-|     |                                 |
+|||
 | :-: | :------------------------------ |
 |  1  | Disadvantage on ability checks  |
 |  2  | Speed halved                    |
