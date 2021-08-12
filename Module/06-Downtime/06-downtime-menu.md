@@ -12,7 +12,7 @@ parent: dm-operations-center
     <a href="buy-magic-item">Buy<br/> Magic Item</a>
     <a href="carousing">Carousing</a>
     <a href="craft-item">Craft<br/> Item</a>
-    <a href="craft-magic-item">Craft<br/> Magic Item</a>
+    <a href="craft-magical-item">Craft<br/> Magical Item</a>
     <a href="crime">Crime</a>
     <a href="gain-renown">Gain<br/> Renown</a>
     <a href="gambling">Gambling</a>
