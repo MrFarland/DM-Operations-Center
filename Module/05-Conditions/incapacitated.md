@@ -6,7 +6,7 @@ parent: conditions
  ### Incapacitated
  [Home](dm-operations-center) > [Conditions](conditions) > Incapacitated {.small-text}
 
- - An incapacitated creature can’t take actions or reactions.
+ - An incapacitated creature can’t take [actions](action) or [reactions](reaction).
  {.square}
 
 > **Sources** <br/>

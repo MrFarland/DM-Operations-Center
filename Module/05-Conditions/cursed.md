@@ -9,7 +9,7 @@ parent: conditions
 A cursed creature suffers the effects identified in the description of the item, spell, or other source. 
 
 **Detection**
-- Not detected by the Identify spell.
+- Not detected by the [Identify](/spell/identify) spell.
 - Might be hinted at or known by lore.
 {.square}
 

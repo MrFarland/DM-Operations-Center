@@ -6,10 +6,10 @@ parent: combat
 ### Unseen Attacker
 [Home](dm-operations-center) > [Combat](combat) > Unseen Attacker {.small-text}
 
-| ~Unseen~ | ~On~ ~the~ ~Attack~ |
-| -------- | :------------------ |
-| Attacker | Advantage           |
-| Target   | Disadvantage        |
+| ~Unseen~ | ~On~ ~the~ ~Attack~                               |
+| -------- | :------------------------------------------------ |
+| Attacker | [Advantage](advantage-and-disadvantage)           |
+| Target   | [Disadvantage](advantage-and-disadvantage)        |
 {.gray .small-text}
 
 > **Sources** <br/>

@@ -8,11 +8,11 @@ parent: conditions
 
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone).
 - Its weight increases by a factor of ten, and it ceases aging.
-- The creature is incapacitated, can’t move or speak, and is unaware of its surroundings.
-- Attack rolls against the creature have advantage.
-- The creature automatically fails Strength and Dexterity saving throws.
-- The creature has resistance to all damage.
-- The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
+- The creature is [incapacitated](incapacitated), can’t move or speak, and is unaware of its surroundings.
+- Attack rolls against the creature have [advantage](advantage-and-disadvantage).
+- The creature automatically fails [Strength](strength) and [Dexterity](dexterity) [saving throws](saving-throw).
+- The creature has [resistance](resistance-and-vulnerability) to all [damage](damage-type).
+- The creature is [immune](damage-type) to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 {.square}
 
 > **Sources** <br/>

@@ -7,7 +7,7 @@ parent: combat
 [Home](dm-operations-center) > [Combat](combat) > Nonlethal Damage {.small-text}
 
 - Attacker can opt to deal non-lethal damage the **instant** damage is dealt.
-- The creature is automatically rendered unconscious and [stabilized](stabilizing).
+- The creature is automatically rendered [unconscious](unconscious) and [stabilized](stabilizing).
 {.square}
 
 <br/>

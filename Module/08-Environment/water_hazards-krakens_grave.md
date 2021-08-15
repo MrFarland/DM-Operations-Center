@@ -10,9 +10,9 @@ Formed from the decayed body of a [kraken](/monster/kraken). A creature moving w
 
 **Tendril of Lightning**<br/>
 - Attack: +7 to Hit
-- Damage: 10 (3d6) Lightning
+- Damage: 10 ([3d6](/roll/3d6)) Lightning
 
-Must make a [DC](difficulty-class) 14 Constitution saving throw or become blinded for the next 2d4 hours.
+Must make a [DC](difficulty-class) 14 Constitution saving throw or become blinded for the next [2d4](/roll/2d4) hours.
 
 > **Sources** <br/>
 > Ghosts of Saltmarsh, p. 205

@@ -13,7 +13,7 @@ A creature suffers the effects identified in the description of the disease.
 {.square}
 
 **Removal**<br/>
-- Recuperating
+- [Recuperating](relaxing)
 - Numerous items, potions, and spells.
 {.square}
 

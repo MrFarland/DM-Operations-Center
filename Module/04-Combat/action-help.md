@@ -6,7 +6,7 @@ parent: action
 ### Help
 [Home](dm-operations-center) > [Combat](combat) > [Action](action) > Help {.small-text}
 
-Give advantage to another creature on it's next check or attack if the helper is within 5' of target. {.text-center}
+Give [advantage](advantage-and-disadvantage) to another creature on it's next check or attack if the helper is within 5' of target. {.text-center}
 
 
  

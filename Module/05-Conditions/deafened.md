@@ -6,7 +6,7 @@ parent: conditions
 ### Deafened
 [Home](dm-operations-center) > [Conditions](conditions) > Deafened {.small-text}
 
-- A deafened creature can’t hear and fails any ability check that requires hearing.
+- A deafened creature can’t hear and fails any [ability check](ability-checks) that requires hearing.
 {.square}
 
 > **Sources** <br/>

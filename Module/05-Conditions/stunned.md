@@ -6,9 +6,9 @@ parent: conditions
 ### Stunned
  [Home](dm-operations-center) > [Conditions](conditions) > Stunned {.small-text}
 
-- A stunned creature is incapacitated, can’t move, and can speak only falteringly.
-- The creature automatically fails Strength and Dexterity saving throws.
-- Attack rolls against the creature have advantage.
+- A stunned creature is [incapacitated](incapacitated), can’t move, and can speak only falteringly.
+- The creature automatically fails [Strength](strength) and [Dexterity](dexterity) [saving throws](saving-throw).
+- Attack rolls against the creature have [advantage](advantage-and-disadvantage).
 {.square}
 
 > **Sources** <br/>

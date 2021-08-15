@@ -7,10 +7,10 @@ parent: combat
 [Home](dm-operations-center) > [Combat](combat) > Cover {.small-text}
 
 |||
-| :-----: | ------------------------------------ |
-| ^1^/~2~ | +2 AC & [DEX](DEXTERITY) Saves                    |
-| ^3^/~4~ | +5 AC & [DEX](DEXTERITY) Saves                    |
-|  Full   | Cannot be seen or targeted directly. |
+| :-----: | --------------------------------------------------------------------- |
+| ^1^/~2~ | +2 [AC](armor-class) & [DEX](DEXTERITY) [Saving Throws](saving-throw) |
+| ^3^/~4~ | +5 [AC](armor-class) & [DEX](DEXTERITY) [Saving Throws](saving-throw) |
+|  Full   | Cannot be seen or targeted directly.                                  |
 {.gray .small-text}
 
 > **Sources** <br/>

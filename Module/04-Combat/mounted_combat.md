@@ -13,21 +13,21 @@ parent: combat
 {.square}
 
 **Getting Knocked Off**<br/>
-DC 10 [DEX](DEXTERITY) Save to avoid falling off and landing prone within 5' of the mount if:
+[DC](difficulty-class) 10 [DEX](DEXTERITY) [Save](saving-throw) to avoid falling off and landing [prone](prone) within 5' of the mount if:
 - Mount is moved against its will.
-- Rider is knocked prone while riding.
+- Rider is knocked [prone](prone) while riding.
 {.square}
 
-If the mount is knocked prone, the rider may use their reaction to land on their feet, or they fall prone within 5' of the mount.
+If the mount is knocked [prone](prone), the rider may use their [reaction](reaction) to land on their feet, or they fall [prone](prone) within 5' of the mount.
 
 **Controlling a Mount**<br/>
-| ~Type~ | ~Initiative~ | ~Actions~ |
-|-|-|
-| **Controlled**: Domesticated, unintelligent creatures. | Rider's | Dash, [disengage](disengage), [dodge](dodge)
-| **Independent**: Intelligent, sentient creatures. | Mount's | No restrictions on actions
+| ~Type~                                                 | ~Initiative~ | ~Actions~                                       |
+| :----------------------------------------------------- | :------ | :--------------------------------------------------- |
+| **Controlled**: Domesticated, unintelligent creatures. | Rider's | [Dash](dash), [disengage](disengage), [dodge](dodge) |
+| **Independent**: Intelligent, sentient creatures.      | Mount's | No restrictions on actions                           |
 {.gray .small-text}
 
-If the mount provokes and attack of opportunity, the attacker may target the mount or the rider.
+If the mount provokes and [attack of opportunity](opportunity-attack), the attacker may target the mount or the rider.
 
 > **Sources** <br/>
 > System Reference Document, p. 99<br/>
