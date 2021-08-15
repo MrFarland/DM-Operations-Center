@@ -156,13 +156,11 @@ The **Fantasy Calendar** feature is a page template that DMs can use to track th
 The following user stories define the expectations and requirements for this functional component of the DM Operations Center module.
 
 
-
 #### Common
 The following user stories apply to one or more of this component's features.
-| Name              | User Story                                                                                                       |Priority|
-|:------------------|:-----------------------------------------------------------------------------------------------------------------|:-------|
-| External Data     | Data should be externalized & modeled using JSON files in the assets/data directory & not included in the code.  | High   |
-| External Functions| Common functions used across multiple generators should Be externalized & called to avoid duplication of code.   | Medium |
+| Name              | User Story                                                                                                                            |Priority|
+|:------------------|:--------------------------------------------------------------------------------------------------------------------------------------|:-------|
+| This feature has not yet been defined.                                                                                                                           |||
 
 
 
@@ -174,9 +172,13 @@ The following user stories define the expectations and requirements for this fun
 
 #### Common
 The following user stories apply to one or more of this component's features.
-| Name              | User Story                                                                                                                            |Priority|
-|:------------------|:--------------------------------------------------------------------------------------------------------------------------------------|:-------|
-| This feature has not yet been defined.                                                                                                                           |||
+| Name              | User Story                                                                                                       |Priority|
+|:------------------|:-----------------------------------------------------------------------------------------------------------------|:-------|
+| External Data     | Data should be externalized & modeled using JSON files in the assets/data directory & not included in the code.  | High   |
+| External Functions| Common functions used across multiple generators should Be externalized & called to avoid duplication of code.   | Medium |
+
+
+
 
 
 
