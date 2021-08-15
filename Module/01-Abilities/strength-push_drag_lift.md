@@ -6,7 +6,7 @@ parent: strength
 ### Push, Drag, Lift
 [Home](dm-operations-center) > [Abilities](abilities) > [Strength](strength) > Push, Drag, Lift {.small-text}
 
-| Limits by Creature Size |                     |
+| ~Limits~ ~by~ ~Creature~ ~Size~ ||
 | :---------------------- | :------------------ |
 | **Tiny**                | (Strength x 30) / 2 |
 | **Small**               | Strength x 30       |
@@ -15,8 +15,7 @@ parent: strength
 | **Huge**                | Strength x 120      |
 {.gray .small-text}
 
-**Push, Drag, Lift by Strength**
-| STR |  S/M   |    L    |
+| [~STR~](STRENGTH) |  ~S/M~   |    ~L~    |
 | :-: | :----: | :-----: |
 | 10  | 300 lb | 600 lb  |
 | 11  | 330 lb | 660 lb  |

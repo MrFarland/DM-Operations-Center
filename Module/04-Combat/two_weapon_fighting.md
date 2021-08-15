@@ -8,7 +8,7 @@ parent: combat
 
 - Must use attack action for bonus attack.
 - Both weapons must be light weapons.
-- STR or DEX mod is not added to damage roll, unless it is negative.
+- [STR](STRENGTH) or [DEX](DEXTERITY) mod is not added to damage roll, unless it is negative.
 - Allowed for ranged attacks with thrown property.
 
 > **Sources** <br/>

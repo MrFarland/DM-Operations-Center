@@ -33,10 +33,10 @@ Charisma (Persuasion)
 **Cost**<br/>
 | ~Rarity~  |     ~Asking~ ~Price*~ |
 | :-------: | --------------------: |
-|  Common   |     (1d6 + 1) x 10 gp |
-| Uncommon  |          1d6 x 100 gp |
+|  Common   |     ([1d6](/roll/1d6) + 1) x 10 gp |
+| Uncommon  |          [1d6](/roll/1d6) x 100 gp |
 |   Rare    |       2d10 x 1,000 gp |
-| Very Rare | (1d4 + 1) x 10,000 gp |
+| Very Rare | ([1d4](/roll/1d4) + 1) x 10,000 gp |
 | Legendary |       2d6 x 25,000 gp |
 {.gray .small-text}
 

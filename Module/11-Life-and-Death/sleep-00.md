@@ -8,9 +8,9 @@ parent: life-and-death
 
 A creature that goes 24 hours without a [long rest](long-rest) 
 
-**1pt [Exhaustion](exhaustion) = DC10 CON for 1^st^ 24 hours** {.text-center}
+**1pt [Exhaustion](exhaustion) = DC10 [CON](CONSTITUTION) for 1^st^ 24 hours** {.text-center}
 
-The DC increases by 5 for each additional 24 hour period without a [long rest](long-rest).
+The [DC](difficulty-class) increases by 5 for each additional 24 hour period without a [long rest](long-rest).
 
 <div class="menu-container">
     <a href="waking-someone">Waking<br/> Someone</a>

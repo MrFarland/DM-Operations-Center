@@ -6,9 +6,9 @@ parent: abilities
 ### Passive Check
 [Home](dm-operations-center) > [Abilities](abilities) > Passive Check {.small-text}
 
-**Success = 10 + Ability + (Proficiency\*)** ≥ DC {.text-center}
+**10 + [Ability Mod](ability-modifiers) + ([Prof. Bonus](proficiency-bonus))** ≥ [DC](difficulty-class) {.text-center}
 
-*Advantage (+5) -- Disadvantage (-5)* {.text-center .small-text}
+*[Advantage](advantage-and-disadvantage) (+5) -- [Disadvantage](advantage-and-disadvantage) (-5)* {.text-center .small-text}
 
 Use passive checks to:
 - Determine a character's baseline ability.
@@ -16,7 +16,7 @@ Use passive checks to:
 - Make a check without alerting the player.
 {.square}
 
-***\*** Character must be proficient in the related save, skill, tool or weapon to add their proficiency bonus to the ability check.* {.small-text}
+***\*** Character must be proficient in the related save, skill, tool or weapon to add their [proficiency bonus](proficiency-bonus) to the [ability check](ability-checks).* {.small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. 78<br/>

@@ -10,7 +10,7 @@ parent: movement
 | ------ | ------ | ---- | ----- | ------------------- |
 | Fast   | 400 ft | 4 mi | 30 mi | -5 [PP](perception) |
 | Normal | 300 ft | 3 mi | 24 mi | ---                 |
-| Slow   | 200 ft | 2 mi | 18 mi | Stealth             |
+| Slow   | 200 ft | 2 mi | 18 mi | [Stealth](stealth)            |
 {.gray .small-text}
 
 *See Also: [Forced March](forced-march)*

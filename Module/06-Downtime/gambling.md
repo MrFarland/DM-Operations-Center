@@ -8,7 +8,7 @@ parent: downtime
 
 The character spends 1 week & 10gp or more on wagers.
 
-The character makes 3 checks with a different DC of <br/>
+The character makes 3 checks with a different [DC](difficulty-class) of <br/>
 (5 + 2d10) for each successive check.
 
 - wisdom(Insight)

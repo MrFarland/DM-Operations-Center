@@ -8,7 +8,7 @@ parent: spellcasting
 
 Copying a scroll into a spellbook requires an Intelligence (Arcana) skill check.
 
- DC = 10 + Spell Level {.text-center}
+ [DC](difficulty-class) = 10 + Spell Level {.text-center}
  
 - Copying takes 2 hours & 50gp per level
 - Scroll is destroyed regardless of roll.

@@ -6,7 +6,7 @@ parent: life-and-death
 ### Foraging
 [Home](dm-operations-center) > [Life & Death](life-and-death) > Foraging {.small-text}
 
-| Availability | DC  |
+| Availability | [DC](difficulty-class)  |
 | ------------ | :-: |
 | Abundant     | 10  |
 | Limited      | 15  |

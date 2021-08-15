@@ -30,7 +30,7 @@ On a success:
 - May move normally, but it is difficult terrain
 
 #### Vessels (Length < Diameter)
-Officers and crew make a group hazard check to escape. It represents 5 minutes of work and the DC is chosen randomly or using a d4 on the table above.
+Officers and crew make a group hazard check to escape. It represents 5 minutes of work and the [DC](difficulty-class) is chosen randomly or using a d4 on the table above.
 
 | ~Group~ ~Check~ |                                    |
 | :-------------- | :--------------------------------- |

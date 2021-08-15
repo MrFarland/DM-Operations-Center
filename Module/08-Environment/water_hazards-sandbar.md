@@ -6,7 +6,7 @@ parent: water-hazards
 ### Sandbar
 [Home](dm-operations-center) > [Environment](environment) > [Water Hazards](water-hazards) > Sandbar {.small-text}
 
-A submerged sandbar is difficul terrain to a vessel passing overhead and the ship must make a Dexterity saving throw with the DC corresponding to the depth of the sandbar.
+A submerged sandbar is difficul terrain to a vessel passing overhead and the ship must make a Dexterity saving throw with the [DC](difficulty-class) corresponding to the depth of the sandbar.
 
 |||
 | :-: | :--------------- |

@@ -6,7 +6,7 @@ parent: dexterity
 ### Stealth
 [Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Stealth {.small-text}
 
-Ability to move and hide without being detected
+Ability to move and [hide](hiding) without being detected
 
 | ~DC~ | ~Example~                                    |
 | :--: | :------------------------------------------- |

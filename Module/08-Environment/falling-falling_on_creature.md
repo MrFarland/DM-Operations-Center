@@ -7,7 +7,7 @@ parent: falling
 [Home](dm-operations-center) > [Environment](environment) > [Falling](falling) > Falling on Creature {.small-text}
 A creature about to be landed on may attempt to avoid being hit by the falling creature.
 
-**DC15 DEX saving throw** {.text-center}
+**DC15 [DEX](DEXTERITY) saving throw** {.text-center}
 
 If successful they take no damage, otherwise they take 1/2 of the falling creature's damage and are knocked prone.
 

@@ -6,7 +6,7 @@ parent: abilities
 ### Difficulty Class
 [Home](dm-operations-center) > [Abilities](abilities) > Difficulty Class {.small-text}
 
-|                 |     |
+|||
 | :-------------- | :-: |
 | Very Easy       |  5  |
 | Easy            | 10  |

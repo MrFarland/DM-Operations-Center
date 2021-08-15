@@ -6,7 +6,7 @@ parent: madness
 ### Short Term Madness
  [Home](dm-operations-center) > [Conditions](conditions) > [Madness](madness)  > Short Term Madness {.small-text}
 
-Duration = 1d10 minutes {.text-center}
+Duration = [1d10](/roll/1d10) minutes {.text-center}
 
 |||
 |:-----:|---|

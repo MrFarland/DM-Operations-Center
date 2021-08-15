@@ -10,7 +10,7 @@ parent: downtime
 This requries a minimum of 1 workweek.
 
 **Resolution**<br/>
-The character makes 3 checks with a different DC (5 + 2d10) for each successive check.
+The character makes 3 checks with a different [DC](difficulty-class) (5 + 2d10) for each successive check.
 
 1. Strength (Athletics)
 2. Dexterity (Acrobatics)
@@ -28,7 +28,7 @@ The character makes 3 checks with a different DC (5 + 2d10) for each successive 
 |    0     |     200 gp |
 {.gray .small-text}
 
-**Complications (1d6)**
+**Complications ([1d6](/roll/1d6))**
 |||
 |:-:|-|
 | 1 | An opponent swears to take revenge on you. |

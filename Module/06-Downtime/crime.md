@@ -32,7 +32,7 @@ The character makes three successive checks
 | 0       | Success  | Profit 100%                        |
 {.gray .small-text}
 
-**Complications (1d8)**
+**Complications ([1d8](/roll/1d8))**
 |||
 |:-:|-|
 | 1 | A bounty equal to your earnings is offered for information about your crime. |

@@ -14,17 +14,17 @@ parent: spellcasting
 
 | Class        | K/P | # of Spells               |
 | ------------ | :-: | ------------------------- |
-| Artificer    |  P  | INT Mod + 1/2 Level       |
+| Artificer    |  P  | [INT](INTELLIGENCE) Mod + 1/2 Level       |
 | Bard         |  K  | Determined by Level       |
 | Cleric       |  P  | [WIS](Wisdom) Mod + Level |
 | Druid        |  P  | [WIS](Wisdom) Mod + Level |
 | Fighter (EK) |  K  | Determined by Level       |
-| Paladin      |  P  | CHA Mod + 1/2 Level       |
+| Paladin      |  P  | [CHA](CHARISMA) Mod + 1/2 Level       |
 | Ranger       |  K  | Determined by Level       |
 | Rogue (AT)   |  K  | Determined by Level       |
 | Sorcerer     |  K  | Determined by Level       |
 | Warlock      |  K  | Determined by Level       |
-| Wizard       |  P  | INT Mod + Level           |
+| Wizard       |  P  | [INT](INTELLIGENCE) Mod + Level           |
 {.gray .small-text}
 
 > **Sources** <br/>

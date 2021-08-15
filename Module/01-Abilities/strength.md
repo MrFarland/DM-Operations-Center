@@ -9,9 +9,9 @@ parent: abilities
 Athletic training and raw physical power.
 
 **Ability Checks**<br/>
-- Lift a very heavy object.
-- Force open a barricaded door.
-- Carry something a long distance.
+- [Lift](push-drag-lift) a very heavy object.
+- [Force](push-drag-lift) open a barricaded door.
+- [Carry](carry-capacity) something a long distance.
 - Break something with brute strength.
 {.square}
 

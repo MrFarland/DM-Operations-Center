@@ -10,8 +10,8 @@ A creature or vessel travelling with a current has that speed added to their spe
 
 | ~Speed~ ~changes~ ~daily~         |         |
 | :-------------------------------- | ------: |
-| Tidal Currents (50 mi from shore) | 1d6 mph |
-| Ocean Currents                    | 1d4 mph |
+| Tidal Currents (50 mi from shore) | [1d6](/roll/1d6) mph |
+| Ocean Currents                    | [1d4](/roll/1d4) mph |
 {.gray .small-text}
 
 **Fighting the Current**<br/>
@@ -27,7 +27,7 @@ A creature without a swimming speed must make a Strength (Athletics) check at th
 
 DC = 10 + Current MPH {.text-center}
 
-- Pulled 1d4 x 5' in direction of current
+- Pulled [1d4](/roll/1d4) x 5' in direction of current
 
 > **Sources** <br/>
 > Ghosts of Saltmarsh, p. 203

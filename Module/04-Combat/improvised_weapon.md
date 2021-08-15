@@ -7,10 +7,10 @@ parent: combat
 [Home](dm-operations-center) > [Combat](combat) > Improvised Weapon {.small-text}
 
 - Use stats for a comparable weapon
-- If nothing comparable, use 1d4
+- If nothing comparable, use [1d4](/roll/1d4)
 - Add proficiency if similar to proficient weapon
 - DM determines appropriate damage type
-- Thrown weapons w/o the property do 1d4
+- Thrown weapons w/o the property do [1d4](/roll/1d4)
 - Non-Thrown weapons have 20/60 range
 {.square}
 

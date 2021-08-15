@@ -11,15 +11,15 @@ parent: wilderness-hazards
 - Creatures roll [initiative](initiative)
 - Moves 300' at [initiative](initiative) 10 and 0
 - Creatures move with it and are prone
-- DC 15 STR saving throw
-- Fail: 1d10 bludgeoning, 1/2 on success
+- [DC](difficulty-class) 15 [STR](STRENGTH) saving throw
+- Fail: [1d10](/roll/1d10) bludgeoning, 1/2 on success
 {.square}
 
 **Buried**
 - Creature is blinded and [restrained](restrained)
 - Gains 1 point [exhaustion](exhaustion) every 5 minutes
 - May use an action to attempt to free itself
-- Make a DC 15 [Strength](strength) (Athletics) check
+- Make a [DC](difficulty-class) 15 [Strength](strength) (Athletics) check
 - 3 failures and they cannot try again
 {.square}
 

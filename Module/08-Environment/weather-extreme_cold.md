@@ -6,7 +6,7 @@ parent: environment
 ### Extreme Cold
 [Home](dm-operations-center) > [Environment](environment) > Extreme Cold {.small-text}
 
-At or below 0°F, a creature must make a DC 10 Constitution saving throw for each hour or gain 1 level of exhaustion.
+At or below 0°F, a creature must make a [DC](difficulty-class) 10 Constitution saving throw for each hour or gain 1 level of exhaustion.
 
 Creatures automatically succed if they:
 - have resistance or immunity to cold,

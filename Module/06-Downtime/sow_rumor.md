@@ -13,7 +13,7 @@ parent: downtime
 | City    | 6d6 days | 1gp / day |
 {.gray .small-text}
 
-The character spends time and money depending on the size of the settlement and makes a DC 15 Charisma (Deception or Persuasion) check.
+The character spends time and money depending on the size of the settlement and makes a [DC](difficulty-class) 15 Charisma (Deception or Persuasion) check.
 - **Success**. Improves the overall opinion about a person, event, place, or thing by 1.
 - **Fail**. No change.
 {.square}

@@ -6,7 +6,7 @@ parent: water-hazards
 ### Slippery Ice
 [Home](dm-operations-center) > [Environment](environment) > [Water Hazards](water-hazards) > Slippery Ice {.small-text}
 
-Slippery ice is difficult terrain and a creature moving on to it for the first time must make a DC 10 Dexterity saving throw or fall prone.
+Slippery ice is difficult terrain and a creature moving on to it for the first time must make a [DC](difficulty-class) 10 Dexterity saving throw or fall prone.
 
 > **MrFarland House Rule**<br/>
 > Creatures repeat the dexterity saving throw each time they change direction **IF** they move faster than 1/2 their normal movement.

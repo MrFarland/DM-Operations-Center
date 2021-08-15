@@ -6,24 +6,24 @@ parent: abilities
 ### Saving Throw
 [Home](dm-operations-center) > [Abilities](abilities) > Saving Throw {.small-text}
 
-**Success = 1d20 + Ability + (Proficiency\*)** ≥ DC {.text-center}
+**[1d20](/roll/1d20) + [Ability Mod](ability-modifiers) + ([Prof. Bonus](proficiency-bonus))** ≥ [DC](difficulty-class) {.text-center}
 
-In special circumstances a creature may have advantage or disadvantage on the roll.
+In special circumstances a creature may have [advantage or disadvantage](advantage-and-disadvantage) on the roll.
 
-***\*** The character must be proficient in the saving throw in order to add their proficiency bonus to the roll.* {.small-text}
+***\*** The character must be proficient in the saving throw in order to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
 
 | Proficiencies by Class |        |
 | ---------------------- | :----: |
-| Artificer              | CN, IN | Paladin   | WS, CH 
-| Barbarian              | ST, CN | Ranger    | ST, DX 
-| Bard                   | DX, CH | Rogue     | DX, IN 
-| Cleric                 | WS, CH | Sorcerer  | CN, CH 
-| Druid                  | IN, WS | Warlock   | WS, CH 
-| Fighter                | ST, CN | Wizard    | IN, WS 
-| Monk                   | ST, DX | - | - 
+| Artificer              | [CON](CONSTITUTION), [INT](intelligence) | Paladin   | [WIS](wisdom), [CHA](charisma)        |
+| Barbarian              | [STR](strength), [CON](CONSTITUTION)     | Ranger    | [STR](strength), [DEX](dexterity)     |
+| Bard                   | [DEX](dexterity), [CHA](charisma)        | Rogue     | [DEX](dexterity), [INT](intelligence) |
+| Cleric                 | [WIS](wisdom), [CHA](charisma)           | Sorcerer  | [CON](CONSTITUTION), [CHA](charisma)  |
+| Druid                  | [INT](intelligence), [WIS](wisdom)       | Warlock   | [WIS](wisdom), [CHA](charisma)        |
+| Fighter                | [STR](strength), [CON](CONSTITUTION)     | Wizard    | [INT](intelligence), [WIS](wisdom)    |
+| Monk                   | [STR](strength), [DEX](dexterity)        | - | - |
 {.gray .small-text}
 
-***See also**: Death Saving Throw.*
+***See also**: [Death Saving Throw](death-saving-throw).*
 
 > **Sources** <br/>
 > System Reference Document, p. 83<br/>

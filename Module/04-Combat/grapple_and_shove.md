@@ -8,7 +8,7 @@ parent: combat
 
 | Attacker  |     |        Defender         |
 | :-------: | --: | :---------------------: |
-| Athletics |   > | Athletics OR Acrobatics |
+| [Athletics](athletics) |   > | [Athletics](athletics) OR Acrobatics |
 {.gray .small-text}
 
 - A grapple or shove is a melee attack.

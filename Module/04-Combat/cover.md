@@ -8,8 +8,8 @@ parent: combat
 
 |||
 | :-----: | ------------------------------------ |
-| ^1^/~2~ | +2 AC & DEX Saves                    |
-| ^3^/~4~ | +5 AC & DEX Saves                    |
+| ^1^/~2~ | +2 AC & [DEX](DEXTERITY) Saves                    |
+| ^3^/~4~ | +5 AC & [DEX](DEXTERITY) Saves                    |
 |  Full   | Cannot be seen or targeted directly. |
 {.gray .small-text}
 

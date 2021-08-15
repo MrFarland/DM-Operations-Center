@@ -24,7 +24,7 @@ Roll the damage dice for the attack twice. {.text-center}
 > **MrFarland House Rule**<br/>
 > Maximum Damage + Damage Roll
 >
-> (ie. Longsword (1d8) = 8 + 1d8)
+> (ie. Longsword ([1d8](/roll/1d8)) = 8 + [1d8](/roll/1d8))
 >
 > Critical hits pack a lot more punch and combat is deadlier than ever. 
 > 

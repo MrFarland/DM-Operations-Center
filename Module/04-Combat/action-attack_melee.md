@@ -6,7 +6,7 @@ parent: action
 ### Attack (Melee)
 [Home](dm-operations-center) > [Combat](combat) > [Action](action) > Attack (Melee) {.small-text}
 
-Hit = 1d20 + Ability + (Proficiency\*) ≥ Target AC {.text-center}
+Hit = [1d20](/roll/1d20) + Ability + ([Prof. Bonus](proficiency-bonus)) ≥ Target AC {.text-center}
 
 - Target within 5', unless the creature or its weapons has the reach property.
 - weapons with finesse property may use a creatures's strength or dexterity modifier.
@@ -14,7 +14,7 @@ Hit = 1d20 + Ability + (Proficiency\*) ≥ Target AC {.text-center}
 
 <br/>
 
-***\*** The character must be proficient with the weapon being used to add their proficiency bonus to the roll.* {.small-text}
+***\*** The character must be proficient with the weapon being used to add their([proficiency bonus](proficiency-bonus))to the roll.* {.small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. <br/>

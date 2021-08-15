@@ -8,7 +8,7 @@ parent: falling
 
 A creature may use their reaction to try and hit head or feet first.
 
-**DC 15 STR (Athletics) or DEX (Acrobatics)** {.text-center}
+**DC 15 [STR](STRENGTH) (Athletics) or [DEX](DEXTERITY) (Acrobatics)** {.text-center}
 
 If successful, falling damage is halved.
 

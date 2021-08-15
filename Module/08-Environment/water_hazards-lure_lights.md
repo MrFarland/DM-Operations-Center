@@ -10,7 +10,7 @@ Formed from the souls of dead [Aboleths](/monster/aboleth). They form 100' clust
 - Bright Light (100' radius)
 - Dim Light (100') 
 
-A creature that sees the lights must make a DC 14 Wisdom saving throw.
+A creature that sees the lights must make a [DC](difficulty-class) 14 Wisdom saving throw.
 
 **Success**<br/>
 - Immune to the effects for 24 hours.

@@ -8,14 +8,14 @@ parent: abilities
 
 A contest is a special ability check where the initiator of an action is pitted directly against another creature.
 
-**Success = Initiator's Check > Defender's Check** {.text-center}
+Success = Initiator's Check > Defender's Check {.text-center}
 
-| ~Example~       | ~Initiator~     | ~Defender~             |
-| :-------------- | :-------------- | :--------------------- |
-| Hide            | Stealth         | Perception             |
-| Grapple & Shove | Athletics       | Athletics / Acrobatics |
-| Pickpocket      | Sleight of Hand | Perception             |
-| Untie Knot      | Sleight of Hand | Sleight of Hand        |
+| ~Example~                            | ~Initiator~                        | ~Defender~                                        |
+| :----------------------------------- | :--------------------------------- | :------------------------------------------------ |
+| [Hide](hiding)                       | [Stealth](stealth)                 | [Perception](perception)                          |
+| [Grapple & Shove](grapple-and-shove) | [Athletics](athletics)             | [Athletics](athletics) / [Acrobatics](acrobatics) |
+| Pickpocket                           | [Sleight of Hand](sleight-of-hand) | [Perception](perception)                          |
+| Untie Knot                           | [Sleight of Hand](sleight-of-hand) | [Sleight of Hand](sleight-of-hand)                |
 {.gray .small-text}
 
 > **Sources** <br/>

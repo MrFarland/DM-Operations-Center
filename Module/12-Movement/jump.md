@@ -15,7 +15,7 @@ parent: movement
 | Reach (Dive)         | 1.5x Height + Long Jump  |
 {.gray .small-text}
 
-A DC 10 Strength (Athletics) check may be needed to:
+A [DC](difficulty-class) 10 Strength (Athletics) check may be needed to:
 - Clear an obstacle < 1/4 jump distance.
 - Land in difficult terrain.
 - Jump a little farther/higher than normal.

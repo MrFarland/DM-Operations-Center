@@ -6,7 +6,7 @@ parent: environment
 ### Eldritch Mist
 [Home](dm-operations-center) > [Environment](environment) > Eldritch Mist {.small-text}
 
-Indistinguishable from normal fog, Eldritch Mist comes in 3 varieties and a DC 15 Intelligence (Arcana) check is needed to tell them apart.
+Indistinguishable from normal fog, Eldritch Mist comes in 3 varieties and a [DC](difficulty-class) 15 Intelligence (Arcana) check is needed to tell them apart.
 
 <div class="menu-container">
     <a href="eldritch-mist-ghost">Ghost<br/> 1-2</a>

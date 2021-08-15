@@ -9,7 +9,7 @@ parent: water-hazards
 3d10 x 10 pounds per 10' square {.text-center}
 
 > **MrFarland House Rule**<br/>
-> I provide creatures an opportunity to make a dexterity saving throw to get to thicker ice using the DC 10 for slippery ice.
+> I provide creatures an opportunity to make a dexterity saving throw to get to thicker ice using the [DC](difficulty-class) 10 for slippery ice.
 {.flavortext}
 
 ***See Also**: Frigid Water, Slippery Ice*

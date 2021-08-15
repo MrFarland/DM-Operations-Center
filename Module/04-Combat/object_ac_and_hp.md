@@ -16,10 +16,10 @@ parent: combat
 
 | Hit Points                 | Fragile  | Resilient |
 | -------------------------- | :------: | :-------: |
-| Tiny (bottle, lock)        | 2 (1d4)  |  5 (2d4)  |
-| Small (chest, lute)        | 3 (1d6)  | 10 (3d6)  |
-| Medium (barrel, lightpost) | 4 (1d8)  | 18 (4d8)  |
-| Large (cart, window)       | 5 (1d10) | 27 (5d10) |
+| Tiny (bottle, lock)        | 2 ([1d4](/roll/1d4))  |  5 (2d4)  |
+| Small (chest, lute)        | 3 ([1d6](/roll/1d6))  | 10 (3d6)  |
+| Medium (barrel, lightpost) | 4 ([1d8](/roll/1d8))  | 18 (4d8)  |
+| Large (cart, window)       | 5 ([1d10](/roll/1d10)) | 27 (5d10) |
 {.gray .small-text}
 
 - Subdivide huge and gargantuan objects into smaller pieces. (ie. leg of a statue)

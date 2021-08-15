@@ -10,19 +10,19 @@ order: 02
 
 |           |                |
 | --------- | -------------- |
-| Artificer | INT 13         |
-| Barbarian | STR 13         |
-| Bard      | CHA 13         |
+| Artificer | [INT](INTELLIGENCE) 13         |
+| Barbarian | [STR](STRENGTH) 13         |
+| Bard      | [CHA](CHARISMA) 13         |
 | Cleric    | WIS 13         |
 | Druid     | WIS 13         |
-| Fighter   | STR or DEX 13  |
-| Monk      | DEX and WIS 13 |
-| Paladin   | STR and CHA 13 |
-| Ranger    | DEX and WIS 13 |
-| Rogue     | DEX 13         |
-| Sorcerer  | CHA 13         |
-| Warlock   | CHA 13         |
-| Wizard    | INT 13         |
+| Fighter   | [STR](STRENGTH) or [DEX](DEXTERITY) 13  |
+| Monk      | [DEX](DEXTERITY) and WIS 13 |
+| Paladin   | [STR](STRENGTH) and [CHA](CHARISMA) 13 |
+| Ranger    | [DEX](DEXTERITY) and WIS 13 |
+| Rogue     | [DEX](DEXTERITY) 13         |
+| Sorcerer  | [CHA](CHARISMA) 13         |
+| Warlock   | [CHA](CHARISMA) 13         |
+| Wizard    | [INT](INTELLIGENCE) 13         |
 {.gray .small-text}
 
 > **Sources** <br/>

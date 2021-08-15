@@ -9,7 +9,7 @@ parent: combat
 - Initiated when a creature moves out of reach.
 - Occurs before the creature moves out of reach.
 - Requires the attacker to use their reaction.
-- The disengage prevents the use of an AoO.
+- The [disengage](disengage) prevents the use of an AoO.
 - Not triggered if the target isn't using movement.
 
 > **Sources** <br/>

@@ -6,18 +6,18 @@ parent: dexterity
 ### Initiative
 [Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Initiative {.small-text}
 
-**Initiative = 1d20 + Dexterity modifier** {.text-center}
+**Initiative = [1d20](/roll/1d20) + [Dexterity](dexterity) [modifier](ability-modifiers)** {.text-center}
 
 **Tiebreakers**
 - Players go before monsters.
 - Players decide ties between players.
 - DM decides between monsters.
-- Roll d20, highest goes first. (optional)
+- Roll [1d20](/roll/1d20), highest goes first. (optional)
 {.square}
 
 > **Additional Tiebreaker Houserules**<br/>
 > 1\. Higher initiative bonus.<br/>
-> 2\. Higher Dexterity score.<br/>
+> 2\. Higher [Dexterity](dexterity) score.<br/>
 {.paper}
 
 > **Sources** <br/>

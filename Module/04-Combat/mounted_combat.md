@@ -13,7 +13,7 @@ parent: combat
 {.square}
 
 **Getting Knocked Off**<br/>
-DC 10 DEX Save to avoid falling off and landing prone within 5' of the mount if:
+DC 10 [DEX](DEXTERITY) Save to avoid falling off and landing prone within 5' of the mount if:
 - Mount is moved against its will.
 - Rider is knocked prone while riding.
 {.square}
@@ -23,7 +23,7 @@ If the mount is knocked prone, the rider may use their reaction to land on their
 **Controlling a Mount**<br/>
 | ~Type~ | ~Initiative~ | ~Actions~ |
 |-|-|
-| **Controlled**: Domesticated, unintelligent creatures. | Rider's | Dash, Disengage, Dodge
+| **Controlled**: Domesticated, unintelligent creatures. | Rider's | Dash, [disengage](disengage), [dodge](dodge)
 | **Independent**: Intelligent, sentient creatures. | Mount's | No restrictions on actions
 {.gray .small-text}
 

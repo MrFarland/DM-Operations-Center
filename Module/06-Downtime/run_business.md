@@ -6,7 +6,7 @@ parent: downtime
 ### Run Business
 [Home](dm-operations-center) > [Downtime](downtime) > Run Business {.small-text}
 
-1d100 + # of days running the business {.text-center}
+[1d10](/roll/1d10)0 + # of days running the business {.text-center}
 
 |||
 |:-:|-|
@@ -14,7 +14,7 @@ parent: downtime
 | 21 30 | You must pay the business's full maintenance cost for each of the days. |
 | 31 40 | You must pay half the business's maintenance cost for each of the days. Profits cover the other half. |
 | 41 60 | The business covers its own maintenance cost for each of the days. |
-| 61 80 | The business covers its own maintenance cost for each of the days. It earns a profit of 1d6 x 5 gp. |
+| 61 80 | The business covers its own maintenance cost for each of the days. It earns a profit of [1d6](/roll/1d6) x 5 gp. |
 | 81 90 | The business covers its own maintenance cost for each of the days. It earns a profit of 2d8 x 5 gp. |
 | 91 100| The business covers its own mai ntenance cost for higher each of the days. It earns a profit of 3d10 x 5 gp |
 {.gray .small-text}

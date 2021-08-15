@@ -8,7 +8,7 @@ parent: abilities
 
 | Advantage | Disadvantage | 
 |:---:|:---:|
-| Roll 2d20 & take the **higher** of the two. | Roll 2d20 & take the **lower** of the two. |
+| Roll [2d20](/roll/2d20) & take the **higher** of the two. | Roll [2d20](/roll/2d20) & take the **lower** of the two. |
 {.gray}
 
 - A creature cannot have **double** advantage or disadvantage. They have it or do not.

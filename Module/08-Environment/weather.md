@@ -10,8 +10,8 @@ parent: environment
 |       |                                   |
 | :---: | --------------------------------- |
 | 1-14  | Normal for the region and season. |
-| 15-17 | 1d4x10 F° colder than usual.      |
-| 18-20 | 1d4x10 F° hotter than usual.      |
+| 15-17 | [1d4](/roll/1d4)x10 F° colder than usual.      |
+| 18-20 | [1d4](/roll/1d4)x10 F° hotter than usual.      |
 {.gray .small-text}
 
 **Wind** {.small-text}

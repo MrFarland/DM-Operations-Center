@@ -6,17 +6,16 @@ parent: strength
 ### Carry Capacity
 [Home](dm-operations-center) > [Abilities](abilities) > [Strength](strength) > Carry Capacity {.small-text}
 
-|            |                |
-| :--------- | :------------- |
-| **Tiny**   | (STR x 15) / 2 |
-| **Small**  | STR x 15       |
-| **Medium** | STR x 15       |
-| **Large**  | STR x 30       |
-| **Huge**   | STR x 60       |
+|||
+| :--------- | :------------------------- |
+| **Tiny**   | ([STR](STRENGTH) x 15) / 2 |
+| **Small**  | [STR](STRENGTH) x 15       |
+| **Medium** | [STR](STRENGTH) x 15       |
+| **Large**  | [STR](STRENGTH) x 30       |
+| **Huge**   | [STR](STRENGTH) x 60       |
 {.gray .small-text}
 
-**Carry Capacity by Creature Size**
-| ~STR~ | ~S/M~  |  ~L~   |
+| [~STR~](STRENGTH) | ~S/M~  |  ~L~   |
 | :---: | :----: | :----: |
 |  10   | 150 lb | 300 lb |
 |  11   | 165 lb | 330 lb |

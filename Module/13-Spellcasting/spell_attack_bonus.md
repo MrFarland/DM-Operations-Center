@@ -6,7 +6,7 @@ parent: spellcasting
 ### Spell Attack Bonus
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Attack Bonus {.small-text}
 
-Spellcasting Ability Modifier + Proficiency Bonus {.text-center}
+Spellcasting Ability Modifier +([proficiency bonus](proficiency-bonus)){.text-center}
 
 
 > **Sources** <br/>
