@@ -12,28 +12,28 @@ parent: downtime
 {.gray .small-text}
 
 **Resolution**<br/>
-Character makes a Charisma (Persuasion) check:
+Character makes a [Charisma](charisma) ([Persuasion](persuasion)) check:
 
-|       |                     |
+|||
 | :---: | :------------------ |
-| 1-10  | 50% of base price.  |
+|  1-10 | 50% of base price.  |
 | 11-20 | 100% of base price. |
 |  21+  | 150% of base price. |
 {.gray .small-text}
 
-| ~Rarity~  |  ~Price*~ | ~from~ ~Buy~ ~Magic~ ~Item~ |
-| :-------- | --------: | --------------------------: |
-| Common    |     100gp |              ([1d6](/roll/1d6)+1) x 10gp |
-| Uncommon  |     400gp |                 [1d6](/roll/1d6) x 100gp |
-| Rare      |   4,000gp |              2d10 x 1,000gp |
-| Very Rare |  40,000gp |          ([1d4](/roll/1d4)+1) x 10,000gp |
-| Legendary | 200,000gp |              2d6 x 25,000gp |
+| ~Rarity~  |  ~Price*~ |     ~from~ ~Buy~ ~Magic~ ~Item~ |
+| :-------- | --------: | ------------------------------: |
+| Common    |     100gp |     ([1d6](/roll/1d6)+1) x 10gp |
+| Uncommon  |     400gp |        [1d6](/roll/1d6) x 100gp |
+| Rare      |   4,000gp |    [2d10](/roll/2d10) x 1,000gp |
+| Very Rare |  40,000gp | ([1d4](/roll/1d4)+1) x 10,000gp |
+| Legendary | 200,000gp |     [2d6](/roll/2d6) x 25,000gp |
 {.gray .small-text}
 
-***\*** I prefer the pricing from Buy Magic Item.* {.small-text}
+***\*** I prefer the pricing from [Buy Magic Item](buy-magic-item).* {.small-text}
 
-**Complications (10% - d6)**
-|||
+**Complications (10%)**
+|[~1d6~](/roll/1d6)| ~Complications~ |
 |:-:|-|
 | 1 | Your enemy secretly arranges to buy the item to use it against you. |
 | 2 | A thieves' guild, alerted to the sale, attempts to steal your item. |

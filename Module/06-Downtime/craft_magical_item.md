@@ -20,29 +20,29 @@ parent: downtime
 
 **Requirements**<br/>
 - Must have a formula/recipe for the object.
-- Must be proficient in the Arcana skill.
+- Must be proficient in the [Arcana](arcana) skill.
 - Must be able to cast any contained spells.
-- Must have the material components.
+- Must have the [material components](spell-components).
 - Assistants **MUST** meet all requirements.
 {.square}
 
-While enchanting, the creator can maintain a modest lifestyle at no cost or 1/2 a comfortable one.
+While enchanting, the creator can maintain a [modest lifestyle](lifestyle-expenses) at no cost or 1/2 a [comfortable](lifestyle-expenses) one.
 
-**Complications (d6)**<br/>
+**Complications**<br/>
 There is a 10% chance of a complication for every 5 weeks of work.
-|||
-|:--:|:---------------|
-|  1 | Rumors swirl that what you're working on is unstable and a threat to the community. |
-|  2 | Your tools are stolen, forcing you to buy new ones. |
-|  3 | A local wizard shows keen interest in your work and insists on observing you. |
-|  4 | A powerful noble offers a hefty price for yo ur work and is not interested in hearing no for an answer.|
-|  5 | A dwarf clan accuses you of stealing its secret lore to fuel your work. |
-|  6 | A competitor spreads rumors that your work is shoddy and prone to failure. |
+|[~1d6~](/roll/1d6)| ~Complications~                                                                            |
+| :-: | :------------------------------------------------------------------------------------------------------ |
+|  1  | Rumors swirl that what you're working on is unstable and a threat to the community.                     |
+|  2  | Your tools are stolen, forcing you to buy new ones.                                                     |
+|  3  | A local wizard shows keen interest in your work and insists on observing you.                           |
+|  4  | A powerful noble offers a hefty price for your work and is not interested in hearing no for an answer.  |
+|  5  | A dwarf clan accuses you of stealing its secret lore to fuel your work.                                 | 
+|  6  | A competitor spreads rumors that your work is shoddy and prone to failure.                              |
 {.gray .small-text}
 
 <br/>
 
-***See Also**: Brew Healing Potion, Scribe Scroll*
+***See Also**: [Brew Healing Potion](brew-healing-potion), [Scribe Scroll](scribe-scroll)*
 
 > **Sources** <br/>
 > Xanathar's Guide to Everything, p. 129

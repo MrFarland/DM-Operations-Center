@@ -17,7 +17,7 @@ A swirling vortex of water that sucks creatures and ships towards its center.
 {.gray .small-text}
 
 #### Creatures
-Make a Strength (Athletics) check upon entering or starting it's turn inside the whirlpool.
+Make a [Strength](strength) ([Athletics](athletics)) check upon entering or starting it's turn inside the whirlpool.
 
 On a failure:
 - Moved towards center (distance = whirlpool velocity)
@@ -35,7 +35,7 @@ Officers and crew make a group hazard check to escape. It represents 5 minutes o
 | ~Group~ ~Check~ |                                    |
 | :-------------- | :--------------------------------- |
 | Captain         | Intelligence (Water Vehicle)       |
-| First Mate      | Charisma (Intimidation/Persuasion) |
+| First Mate      | [Charisma](charisma) (Intimidation/Persuasion) |
 | Bosun           | Strength (Carpenter's Tools)       |
 | Quartermaster   | Wisdom (Nature)                    |
 | Crew            | Quality Score                      |

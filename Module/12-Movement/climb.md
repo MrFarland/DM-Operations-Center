@@ -10,7 +10,7 @@ parent: movement
 
 Extra cost is ignored if creature has a climbing speed.
 
-Climbing a slippery surface or if few handholds are particularly difficult, the DM can ask for a Strength (Athletics) check.
+Climbing a slippery surface or if few handholds are particularly difficult, the DM can ask for a [Strength](strength) ([Athletics](athletics)) check.
 
 Characters with climbing gear or a rope have advantage on climbing related checks.
 

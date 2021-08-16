@@ -8,7 +8,7 @@ parent: dm-operations-center
 
 <div class="menu-container">
     <a href="puzzles">Puzzles</a>
-    <a href="."></a>
+    <a href="trap-generator">Trap Generator</a>
     <a href="."></a>
     <a href="."></a>
     <a href="."></a>

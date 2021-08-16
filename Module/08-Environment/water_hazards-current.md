@@ -23,7 +23,7 @@ DC = 10 + # Hrs (+ Crew Quality) {.text-center}
 - Vessel Fail: Crew Quality -1
 
 **Submerged in Current**<br/>
-A creature without a swimming speed must make a Strength (Athletics) check at the end of its turn.
+A creature without a swimming speed must make a [Strength](strength) ([Athletics](athletics)) check at the end of its turn.
 
 DC = 10 + Current MPH {.text-center}
 

@@ -7,13 +7,13 @@ parent: downtime
 [Home](dm-operations-center) > [Downtime](downtime) > Work {.small-text}
 
 The character makes one of the following checks to determine their lifestyle for the week.
-- Strength (Athletics)
-- Dexterity (Acrobatics)
-- Intelligence (Tool)
-- Charisma (Performance)
-- Charisma (Musical Instrument)
+- [Strength](strength) ([Athletics](athletics))
+- [Dexterity](dexterity) ([Acrobatics](acrobatics))
+- [Intelligence](intelligence) ([Tool](tools))
+- [Charisma](charisma) ([Performance](performance))
+- [Charisma](charisma) ([Musical Instrument](musical-instruments))
 
-| ~Roll~ | ~Lifestyle~        |
+| ~Roll~ | [~Lifestyle~](lifestyle-expenses) |
 | :----: | :----------------- |
 |  0-9   | Poor               |
 | 10-14  | Modest             |
@@ -22,9 +22,9 @@ The character makes one of the following checks to determine their lifestyle for
 {.gray .small-text}
 
 > **MrFarland House Rule**<br/>
-> I grant advantage if the character has established connections or a favorable reputation in the area.
+> I grant [advantage](advantage-and-disadvantage) if the character has established connections or a favorable reputation in the area.
 >
-> Conversely, I grant disadvantage if the character (or party) has an unfavorable reputation or the settlement is very small.
+> Conversely, I grant [disadvantage](advantage-and-disadvantage) if the character (or party) has an unfavorable reputation or the settlement is very small.
 {.flavortext}
 
 > **Sources** <br/>

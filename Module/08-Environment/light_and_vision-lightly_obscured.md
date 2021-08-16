@@ -6,7 +6,7 @@ parent: light-and-vision
 ### Lightly Obscured
 [Home](dm-operations-center) > [Environment](environment) > [Light & Vision](light-and-vision) > Lightly Obscured {.small-text}
 
-Creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
+Creatures have disadvantage on [Wisdom](wisdom) ([Perception](perception)) checks that rely on sight.
 
 Examples: Dim light, patchy fog, smoke, mist, heavy precipitation, moderate foliage.
 

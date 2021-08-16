@@ -23,20 +23,20 @@ parent: downtime
 ***\*** Cantrip scrolls are cast as if the reader were 1st level.* {.small-text}
 
 **Requirements**
-- The caster must be proficient in Arcana.
-- Must provide material components.
-- The spell must be known and prepared.
+- The caster must be proficient in [Arcana](arcana).
+- Must provide [material components](spell-components).
+- The spell must be [known and prepared](known-and-prepared).
 {.square}
 
-**Complications (10% - d6)**
-|||
-|:-:|-|
-| 1 | You bought up the last of the rare ink used to craft scrolls, angering a wizard in town. |
-| 2 | The priest of a temple of good accuses you of trafficking in dark magic. |
-| 3 | A wizard eager to collect one of your spells in a book presses you to sell the scroll. |
+**Complications (10%)**
+|[~1d6~](/roll/1d6)| ~Complications~                                                             |
+|:-:| :----------------------------------------------------------------------------------------- |
+| 1 | You bought up the last of the rare ink used to craft scrolls, angering a wizard in town.   |
+| 2 | The priest of a temple of good accuses you of trafficking in dark magic.                   |
+| 3 | A wizard eager to collect one of your spells in a book presses you to sell the scroll.     |
 | 4 | Due to a strange error in creating the scroll, it is instead a random spell of the same level. |
-| 5 | The rare parchment you bought for your scroll has a barely visible map on it.  |
-| 6 | A thief attempts to break into your workroom. |
+| 5 | The rare parchment you bought for your scroll has a barely visible map on it.              |
+| 6 | A thief attempts to break into your workroom.                                              |
 {.gray .small-text}
 
 > **Sources** <br/>
