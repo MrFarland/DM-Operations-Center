@@ -9,11 +9,11 @@ parent: dm-operations-center
 <div class="menu-container">
     <a href="character-name-generator">Name<br/> Generator</a>
     <a href="group-patron">Group Patron</a>
+    <a href="location-generator">Location Generator</a>
     <a href="plot-hook">Plot Hook</a>
     <a href="rival">Rival</a>
     <a href="villain">Villain</a>
     <a href="world-shaking-event">World Shaking Event</a>
-    <a href="."></a>
     <a href="."></a>
     <a href="."></a>
     <a href="."></a>

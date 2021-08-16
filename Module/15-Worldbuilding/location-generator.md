@@ -1,10 +1,10 @@
 ---
-name: Encounter Generator
-slug: encounter-generator
-parent: encounters
+name: Location Generator
+slug: location-generator
+parent: worldbuilding
 ---
-### Encounter Generator
-[Home](dm-operations-center) > [Encounters](encounters) > Encounter Generator {.small-text}
+### Location Generator
+[Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > Location Generator {.small-text}
 
 <div style="margin-bottom:15px; text-align:center;">
     <select id="selectEnvironment">
@@ -28,7 +28,7 @@ parent: encounters
         <option value="tier3">Tier 3 (11-17)</option>
         <option value="tier4">Tier 4 (17-20)</option>
     </select>
-    <button id="buttonGenerateEncounters" onclick="generateEncounters()"> 
+    <button id="buttonGenerateBooks" onclick="generateBooks()"> 
         Generate 
     </button> 
 </div>

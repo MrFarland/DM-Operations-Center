@@ -1,12 +1,17 @@
 ---
-name: Trap Generator
-slug: trap-generator
-parent: encounters
+name: Book Generator
+slug: book-generator
+parent: treasure
 ---
-### Trap Generator
-[Home](dm-operations-center) > [Encounters](encounters) > Trap Generator {.small-text}
+### Book Generator
+[Home](dm-operations-center) > [Treasure](treasure-menu) > Book Generator {.small-text}
 
 <div style="margin-bottom:15px; text-align:center;">
+    <select id="selectEnvironment">
+        <option value="">- Types -</option>
+        <option value="common">Common</option>
+        <option value="rare">Rare</option>
+    </select>
     <select id="selectTier">
         <option value="">- Tier -</option>
         <option value="tier1">Tier 1 (1-4)</option>
@@ -14,13 +19,7 @@ parent: encounters
         <option value="tier3">Tier 3 (11-17)</option>
         <option value="tier4">Tier 4 (17-20)</option>
     </select>
-    <select id="selectDanger">
-        <option value="">- Danger -</option>
-        <option value="setback">Setback</option>
-        <option value="dangerous">Dangerous</option>
-        <option value="deadly">Deadly</option>
-    </select>
-    <button id="buttonGenerateTraps" onclick="generateTraps()"> 
+    <button id="buttonGenerateBooks" onclick="generateBooks()"> 
         Generate 
     </button> 
 </div>

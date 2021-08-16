@@ -7,7 +7,7 @@ parent: dm-operations-center
 [Home](dm-operations-center) > Loot
 
 <div class="menu-container">
-    <a href="."></a>
+    <a href="book-generator">Book Generator</a>
     <a href="."></a>
     <a href="."></a>
     <a href="."></a>
