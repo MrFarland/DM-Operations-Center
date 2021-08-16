@@ -6,7 +6,7 @@ parent: downtime
 ### Craft Magical Item
 [Home](dm-operations-center) > [Downtime](downtime) > Craft Magical Item {.small-text}
 
-**Resources**<br/>
+#### Resources
 | Rarity  |     Cost | Wks | CR  |
 | --------- | ---------: | ----: | :---: |
 | Common    |      50 gp |     1 |  1-3  |
@@ -18,7 +18,7 @@ parent: downtime
 
 ***\*** Prices are halved for consumables.*
 
-**Requirements**<br/>
+#### Requirements
 - Must have a formula/recipe for the object.
 - Must be proficient in the [Arcana](arcana) skill.
 - Must be able to cast any contained spells.
@@ -28,9 +28,9 @@ parent: downtime
 
 While enchanting, the creator can maintain a [modest lifestyle](lifestyle-expenses) at no cost or 1/2 a [comfortable](lifestyle-expenses) one.
 
-**Complications**<br/>
+#### Complications
 There is a 10% chance of a complication for every 5 weeks of work.
-|[1d6](/roll/1d6)| Complications                                                                            |
+|[1d6](/roll/1d6)| Complications                                                                                |
 | :-: | :------------------------------------------------------------------------------------------------------ |
 |  1  | Rumors swirl that what you're working on is unstable and a threat to the community.                     |
 |  2  | Your tools are stolen, forcing you to buy new ones.                                                     |
@@ -39,8 +39,6 @@ There is a 10% chance of a complication for every 5 weeks of work.
 |  5  | A dwarf clan accuses you of stealing its secret lore to fuel your work.                                 | 
 |  6  | A competitor spreads rumors that your work is shoddy and prone to failure.                              |
 {.gray .small-text}
-
-<br/>
 
 ***See Also**: [Brew Healing Potion](brew-healing-potion), [Scribe Scroll](scribe-scroll)*
 

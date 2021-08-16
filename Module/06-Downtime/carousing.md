@@ -6,7 +6,7 @@ parent: downtime
 ### Carousing
 [Home](dm-operations-center) > [Downtime](downtime) > Carousing {.small-text}
 
-**Resources**<br/>
+#### Resources
 |||
 | :------------ | -----: |
 | Lower Class   |  10 gp |
@@ -16,7 +16,7 @@ parent: downtime
 
 ***\*** Character must have access to the local nobility or make a disguise and a successful [deception](deception) check to pass themselves off as a visiting noble.* {.small-text}
 
-**Resolution**<br/>
+#### Resolution
 Make a [Charisma](charisma) ([Persuasion](persuasion)) check.
 |||
 | :---: | :---------------------------------------- |
@@ -27,7 +27,7 @@ Make a [Charisma](charisma) ([Persuasion](persuasion)) check.
 |  21+  | Character has made three allied contacts. |
 {.gray .small-text}
 
-**Contacts**<br/>
+#### Contacts
 Share a bond with the character, owing a favor or bearing a grudge. They are one-time use, but are generally friendly or hostile unless given a reason to be otherwise.
 |||
 | :----------- | :------------------------------------------------------------- |
@@ -36,8 +36,8 @@ Share a bond with the character, owing a favor or bearing a grudge. They are one
 | Upper Class  | Nobles, personal assistants, wealthy merchants, guild masters. |
 {.gray .small-text}
 
-**Complications ([1d8](/roll/1d8))**
-|[1d8](/roll/1d8)|  Lower Class Complication                                                                                 |
+#### Complications 
+|[1d8](/roll/1d8)|  Lower Class Complication                                                                                         |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------- |
 |  1  | A pickpocket lifts [1d1O](/roll/1d10) x 5 gp from you.                                                                       |
 |  2  | A bar brawl leaves you with a scar.                                                                                          |
@@ -49,7 +49,7 @@ Share a bond with the character, owing a favor or bearing a grudge. They are one
 |  8  | Everyone is calling you by some weird , embarrassing nickname, like Puddle Drinker or Bench Slayer, and no one will say why. |
 {.gray .small-text}
 
-|[1d8](/roll/1d8)| Middle Class Complication                                                                                 |
+|[1d8](/roll/1d8)| Middle Class Complication                                                                                         |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------- |
 |  1  | You accidentally insulted a guild master, and only a public apology will let you do business with the guild again.           |
 |  2  | You swore to complete some quest on behalf of a temple or a guild.                                                           |
@@ -58,10 +58,10 @@ Share a bond with the character, owing a favor or bearing a grudge. They are one
 |  5  | You have made a foe out of a local spellcaster.                                                                              |
 |  6  | You have been recruited to help run a local festival, play, or similar event.                                                |
 |  7  | You made a drunken toast that scandalized the locals.                                                                        |
-|  8  | You spent an additional 100 gp trying to impress people.                                                                             |
+|  8  | You spent an additional 100 gp trying to impress people.                                                                     |
 {.gray .small-text}
 
-|[1d8](/roll/1d8)| Upper Class Complication                                                                                  |
+|[1d8](/roll/1d8)| Upper Class Complication                                                                                          |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------- |
 |  1  | A pushy noble family wants to marry off one of their scions to you.                                                          |
 |  2  | You tripped and fell during a dance, and people can't stop talking about it.                                                 |

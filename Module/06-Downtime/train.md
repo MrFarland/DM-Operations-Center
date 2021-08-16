@@ -10,9 +10,9 @@ parent: downtime
 
 The character must find a suitable teacher willing to teach them.
 
-**Level**<br/>
+#### Level
 Training to gain levels is a variant rule.
-|  Level  | Days | Cost |
+|  Level    | Days   | Cost   |
 | :-------: | -----: | -----: |
 |  2nd-4th  |    10d |   20gp |
 | 5th-10th  |    20d |   40gp |

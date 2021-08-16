@@ -28,7 +28,7 @@ parent: downtime
 - The spell must be [known and prepared](known-and-prepared).
 {.square}
 
-**Complications (10%)**
+#### Complications (10%)
 |[1d6](/roll/1d6)| Complications                                                             |
 |:-:| :----------------------------------------------------------------------------------------- |
 | 1 | You bought up the last of the rare ink used to craft scrolls, angering a wizard in town.   |

@@ -11,7 +11,7 @@ parent: downtime
 | N/A         |     1w |   25gp | -       |
 {.gray .small-text}
 
-**Resolution**<br/>
+#### Resolution
 Character makes a [Charisma](charisma) ([Persuasion](persuasion)) check:
 
 |||
@@ -32,7 +32,7 @@ Character makes a [Charisma](charisma) ([Persuasion](persuasion)) check:
 
 ***\*** I prefer the pricing from [Buy Magic Item](buy-magic-item).* {.small-text}
 
-**Complications (10%)**
+#### Complications (10%)
 |[1d6](/roll/1d6)| Complications |
 |:-:|-|
 | 1 | Your enemy secretly arranges to buy the item to use it against you. |

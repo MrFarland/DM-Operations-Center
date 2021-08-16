@@ -6,7 +6,7 @@ parent: downtime
 ### Buy Magic Item
 [Home](dm-operations-center) > [Downtime](downtime) > Buy Magic Item {.small-text}
 
-**Resources**<br/>
+#### Resources
 - Minimum of 1 workweek
 - 100gp in expenses (inc. Wealthy lifestyle)
 {.square}
@@ -17,21 +17,21 @@ parent: downtime
 - +1 per 100gp spent in expenses
 - Maximum of +10
 
-| Total | Items Acquired                   |
-| :-----: | :------------------------------------------------ |
-|  01 05  | Roll [1d6](/roll/1d6) times on Magic Item Table A |
-|  06 10  | Roll [1d4](/roll/1d4) times on Magic Item Table B |
-|  11 15  | Roll [1d4](/roll/1d4) times on Magic Item Table C |
-|  16 20  | Roll [1d4](/roll/1d4) times on Magic Item Table D |
-|  21 25  | Roll [1d4](/roll/1d4) times on Magic Item Table E |
-|  26 30  | Roll [1d4](/roll/1d4) times on Magic Item Table F |
-|  31 35  | Roll [1d4](/roll/1d4) times on Magic Item Table G |
-|  36 40  | Roll [1d4](/roll/1d4) times on Magic Item Table H |
-|   40+   | Roll [1d4](/roll/1d4) times on Magic Item Table I |
+| Total   | Items Acquired                                                         |
+| :-----: | :--------------------------------------------------------------------- |
+|  01 05  | Roll [1d6](/roll/1d6) times on [Magic Item Table](magic-item-tables) A |
+|  06 10  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) B |
+|  11 15  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) C |
+|  16 20  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) D |
+|  21 25  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) E |
+|  26 30  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) F |
+|  31 35  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) G |
+|  36 40  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) H |
+|   40+   | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) I |
 {.gray .small-text}
 
-**Cost**<br/>
-| Rarity  | Asking Price*                  |
+#### Cost
+| Rarity    | Asking Price*                      |
 | :-------- | ---------------------------------: |
 | Common    |     ([1d6](/roll/1d6) + 1) x 10 gp |
 | Uncommon  |          [1d6](/roll/1d6) x 100 gp |
@@ -42,8 +42,8 @@ parent: downtime
 
 ***\*** 1/2 price for consumable items.* {.small-text}
 
-**Complications**<br/>
-| [1d12](/roll/1d12) | Complication |
+#### Complications
+| [1d12](/roll/1d12) | Complication                                                               |
 | :--: | :--------------------------------------------------------------------------------------- |
 |   1  | The item is a fake, planted by an enemy.                                                 |
 |   2  | The item is stolen by the party's enemies.                                               |

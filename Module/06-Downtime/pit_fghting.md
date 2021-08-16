@@ -6,10 +6,10 @@ parent: downtime
 ### Pit Fighting
 [Home](dm-operations-center) > [Downtime](downtime) > Pit Fighting {.small-text}
 
-**Resources**<br/>
+#### Resources
 This requries a minimum of 1 workweek.
 
-**Resolution**<br/>
+#### Resolution
 The character makes 3 checks with a different [DC](difficulty-class) (5 + [2d10](/roll/2d10)) for each successive check.
 
 1. [Strength](strength) ([Athletics](athletics))
@@ -19,8 +19,8 @@ The character makes 3 checks with a different [DC](difficulty-class) (5 + [2d10]
 
 ***Note**: If the nature of the fighting is gladitorial (not boxing, MMA), the character may substitute one roll with a standard attack roll.* {.small-text}
 
-**Results**
-| Losses | Winnings |
+#### Results
+| Losses   | Winnings   |
 | :------: | ---------: |
 |    3     |       0 gp |
 |    2     |      50 gp |
@@ -28,8 +28,8 @@ The character makes 3 checks with a different [DC](difficulty-class) (5 + [2d10]
 |    0     |     200 gp |
 {.gray .small-text}
 
-**Complications**
-|[1d6](/roll/1d6)| Complications                                                                      |
+#### Complications
+|[1d6](/roll/1d6)| Complications                                                                          |
 | :-: | :------------------------------------------------------------------------------------------------ |
 |  1  | An opponent swears to take revenge on you.                                                        |
 |  2  | A crime boss approaches you and offers to pay you to intentionally lose a few matches.            |
