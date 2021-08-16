@@ -8,12 +8,12 @@ parent: water-hazards
 
 A swirling vortex of water that sucks creatures and ships towards its center.
 
-| Rank | Diameter (Depth 1/2) | Velocity | [DC](difficulty-class) |
-| :----: | -------------------------: | :--------: | :--: |
-|   1    |                 22 (4d10)' |     5'     |  5   |
-|   2    |                55 (10d10)' |    15'     |  10  |
-|   3    |               110 (20d10)' |    25'     |  15  |
-|   4    |                165 (3010)' |    35'     |  20  |
+| Rank   | Diameter (Depth 1/2)                       | Velocity   | [DC](difficulty-class) |
+| :----: | -----------------------------------------: | :--------: | :--: |
+|   1    |                 22 ([4d10](/roll/4d10))'   |     5'     |  5   |
+|   2    |                55 ([10d10](/roll/10d10))'  |    15'     |  10  |
+|   3    |               110 ([20d10](/roll/20d10))'  |    25'     |  15  |
+|   4    |                165 ([30d10](/roll/30d10))' |    35'     |  20  |
 {.gray .small-text}
 
 #### Creatures
@@ -27,30 +27,30 @@ On a failure:
     - or a special location.
 
 On a success:
-- May move normally, but it is difficult terrain
+- May move normally, but it is [difficult terrain](difficult-terrain).
 
 #### Vessels (Length < Diameter)
-Officers and crew make a group hazard check to escape. It represents 5 minutes of work and the [DC](difficulty-class) is chosen randomly or using a d4 on the table above.
+Officers and crew make a group hazard check to escape. It represents 5 minutes of work and the [DC](difficulty-class) is chosen randomly or using a [1d4](/roll/1d4) on the table above.
 
-| Group Check |                                    |
-| :-------------- | :--------------------------------- |
-| Captain         | Intelligence (Water Vehicle)       |
-| First Mate      | [Charisma](charisma) (Intimidation/Persuasion) |
-| Bosun           | Strength (Carpenter's Tools)       |
-| Quartermaster   | Wisdom (Nature)                    |
-| Crew            | Quality Score                      |
+| Group Check                                                                                   ||
+| :-------------- | :--------------------------------------------------------------------------- |
+| Captain         | [Intelligence](intelligence) ([Water Vehicle](vehicles-water))               |
+| First Mate      | [Charisma](charisma) ([Intimidation](intimidation)/[Persuasion](persuasion)) |
+| Bosun           | [Strength](strength) ([Carpenter's Tools](carpenters-tools))                 |
+| Quartermaster   | [Wisdom](wisdom) ([Nature](nature))                                          |
+| Crew            | [Quality Score](quality-score)                                               |
 {.gray .small-text}
 
-| Results ||
-|:-------------|-|
-| Total Success | Increases speed by 20' in current turn. |
-| Success       | The vessel can move normally. |
-| Failure       | Moved toward center at whirlpool velocity, restrained until start of next turn |
-| Total Failure | As a failure. Additionally, if in whirlpool at start of next turn, repeat checks have disadvantage on that turn |
+| Results                                                                                                      ||
+| :------------ | :-------------------------------------------------------------------------------------------- |
+| Total Success | Increases speed by 20' in current turn.                                                       |
+| Success       | The vessel can move normally.                                                                 |
+| Failure       | Moved toward center at whirlpool velocity, [restrained](restrained) until start of next turn. |
+| Total Failure | As a failure. Additionally, if in whirlpool at start of next turn, repeat checks have [disadvantage](advantage-and-disadvantage) on that turn |
 {.gray .small-text}
 
 #### Destinations
-| d10 | Destination            |
+| [1d10](/roll/1d10) | Destination |
 | :---: | :----------------------- |
 |  1-3  | Underdark                |
 |   4   | Elemental Plane of Water |

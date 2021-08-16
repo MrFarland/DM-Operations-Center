@@ -10,9 +10,6 @@ A creature with blindsight can:
 - perceive their surroundings without sight
 {.square}
 
-<br/>
-<br/>
-
 ***Note**: The range of this ability is specified in the monster's description.* {.small-text}
 
 > **Sources** <br/>

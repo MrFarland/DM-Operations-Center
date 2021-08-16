@@ -18,7 +18,7 @@ parent: dm-operations-center
     <a href="improvised-weapon">Improvised<br/> Weapon</a>
     <a href="mounted-combat">Mounted<br/> Combat</a>
     <a href="nonlethal-damage">Nonlethal<br/> Damage</a>
-    <a href="object-ac-and-[hp](hit-points)">Object<br/> AC & [HP](HIT-POINTS)</a>
+    <a href="object-ac-and-[hp](hit-points)">Object<br/> AC & [HP](hit-points)</a>
     <a href="opportunity-attack">Opportunity<br/> Attack</a>
     <a href="reaction">Reaction</a>
     <a href="resistance-and-vulnerability">Resistance &<br/> Vulnerability</a>

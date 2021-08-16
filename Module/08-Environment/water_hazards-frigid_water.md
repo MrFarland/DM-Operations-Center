@@ -6,12 +6,12 @@ parent: water-hazards
 ### Frigid Water
 [Home](dm-operations-center) > [Environment](environment) > [Water Hazards](water-hazards) > Frigid Water {.small-text}
 
-3 of Minutes = Constitution Score {.text-center}
+**# of Minutes = [Constitution](constitution) Score** {.text-center}
 
-Each additional minute requires a DC10 Constitution saving throw or gain 1 level of exhaustion.
+Each additional minute requires a [DC](difficulty-class) 10 [Constitution](constitution) [saving throw](saving-throws) or gain 1 level of [exhaustion](exhaustion).
 
 Creatures automatically succed if they:
-- have resistance or immunity to cold,
+- have [resistance or immunity](resistance-and-vulnerability) to cold,
 - are naturally adapted to cold climates.
 
 > **Sources** <br/>

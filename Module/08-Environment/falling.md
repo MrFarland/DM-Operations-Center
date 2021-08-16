@@ -6,7 +6,7 @@ parent: environment
 ### Falling
 [Home](dm-operations-center) > [Environment](environment) > Falling {.small-text}
 
-[1d6](/roll/1d6) per 10' and land prone - Max 20d6 {.text-center}
+[1d6](/roll/1d6) per 10' and land [prone](prone) - Max [20d6](/roll/20d6) {.text-center}
 
 <div class="menu-container">
     <a href="falling-in-water">Falling<br/> in Water</a>

@@ -6,7 +6,7 @@ parent: constitution
 ### Hit Dice
 [Home](dm-operations-center) > [Abilities](abilities-menu) > [Constitution](constitution) > Hit Points {.small-text}
 
-**[HP](HIT-POINTS) Restored = Hit Die + [CON](CONSTITUTION) Mod** {.text-center}
+**[HP](hit-points) Restored = Hit Die + [CON](CONSTITUTION) Mod** {.text-center}
 
 A creature may use a number of hit dice equal to its level to restore [hit points](hit-points) during a [short rest](short-rest).
 

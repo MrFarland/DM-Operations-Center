@@ -7,8 +7,8 @@ parent: water-hazards
 [Home](dm-operations-center) > [Environment](environment) > [Water Hazards](water-hazards) > Kelp Forest {.small-text}
 
 Kelp forests typically grow in depths of 100' or less and can grow 18" / day up to 175' in height.
-- Heavily Obscured beyond 10'
-- Difficult Terrain
+- [Heavily Obscured](heavily-obscured) beyond 10'
+- [Difficult Terrain](difficult-terrain)
 
 > **Sources** <br/>
 > Ghosts of Saltmarsh, p. 204-205

@@ -7,14 +7,10 @@ parent: light-and-vision
 [Home](dm-operations-center) > [Environment](environment) > [Light & Vision](light-and-vision) > Darkvision {.small-text}
 
 A creature with darkvision can:
-- See in darkness as if it is dim (Lightly Obscured)
+- See in [darkness](light-and-vision) as if it is [dim](light-and-vision)
+- The area is [lightly obscured](lightly-obscured)
 - NOT discern colors, only shades of gray
 {.square}
-
-
-
-<br/>
-<br/>
 
 ***Note**: The range of this ability is specified in the monster's description.* {.small-text}
 

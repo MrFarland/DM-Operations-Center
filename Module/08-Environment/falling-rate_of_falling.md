@@ -6,11 +6,11 @@ parent: falling
 ### Rate of Falling 
 [Home](dm-operations-center) > [Environment](environment) > [Falling](falling) > Rate of Falling {.small-text}
 
-500 feet per round {.text-center}
+**500 feet per round** {.text-center}
 
 | Fall Distance per Second up to 6s |||||||
 |:-----|:--:|:--:|:---:|:---:|:---:|:---:|
-| Sec | 1 | 2 | 3 | 4 | 5 | 6 |
+| Sec  |  1 |  2 |   3 |   4 |   5 |   6 |
 | Feet | 16 | 62 | 138 | 242 | 366 | 504 |
 {.gray .small-text}
 

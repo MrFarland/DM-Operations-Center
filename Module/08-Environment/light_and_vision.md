@@ -6,11 +6,11 @@ parent: environment
 ### Light & Vision
 [Home](dm-operations-center) > [Environment](environment) > Light & Vision {.small-text}
 
-| Lvl  | Obscurity | Examples |
-|:-------|:-----------:|:------------------------------------------------------------------|
-| Bright | N/A         | Daylight, immediate area of light sources like fires and torches. |
-| Dim    | Lightly     | Shadow, Twilight, and boundaries between bright & dark.           |
-| Dark   | Heavily     | Night (even w/ moonlight), caves, and magical darkness            |
+| Level  | Obscurity                       | Examples                                                                         |
+| :----- | :-----------------------------: |:-------------------------------------------------------------------------------- |
+| Bright | N/A                             | Daylight, immediate area of light sources like fires and [torches](/item/torch). |
+| Dim    | [Lightly](lightly-obscured)     | Shadow, Twilight, and boundaries between bright & dark.                          |
+| Dark   | [Heavily](heavily-obscured)     | Night (even w/ moonlight), caves, and magical darkness                           |
 {.gray .small-text}
 
 <div class="menu-container">

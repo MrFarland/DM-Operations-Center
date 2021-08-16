@@ -6,7 +6,7 @@ parent: environment
 ### Tracking
 [Home](dm-operations-center) > [Environment](environment) > Tracking {.small-text}
 
-| Surface                                      | [DC](difficulty-class)  |
+| Surface                                      | [DC](difficulty-class) |
 | -------------------------------------------- | :-: |
 | Soft surfaces like mud, sand, and snow.      | 10  |
 | Firm surfaces like dirt and grass.           | 15  |

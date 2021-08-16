@@ -13,7 +13,7 @@ parent: life-and-death
 
 **Upon completion:**
 - May use [Hit Dice](hit-dice) equal to character level.
-- Restore [HP](HIT-POINTS) = [HD](hit-dice) + [CON](CONSTITUTION) modifier per die.
+- Restore [HP](hit-points) = [HD](hit-dice) + [CON](CONSTITUTION) modifier per die.
 {.square}
 
 > **Sources** <br/>

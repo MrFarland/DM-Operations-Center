@@ -6,15 +6,15 @@ parent: falling
 ### Falling in Water
 [Home](dm-operations-center) > [Environment](environment) > [Falling](falling)  > Falling in Water {.small-text}
 
-A creature may use their reaction to try and hit head or feet first.
+A creature may use their [reaction](reaction) to try and hit head or feet first.
 
-**DC 15 [STR](STRENGTH) (Athletics) or [DEX](DEXTERITY) (Acrobatics)** {.text-center}
+**DC 15 [STR](STRENGTH) ([Athletics](athletics)) or [DEX](DEXTERITY) ([Acrobatics](acrobatics))** {.text-center}
 
-If successful, falling damage is halved.
+If successful, [falling damage](falling) is halved.
 
 > **MrFarland House Rule**<br/>
-> The first 10 feet are free, I drop the number of damage dice by 1.
-{.paper}
+> The first 10 feet are free. Above 10', I drop the number of damage dice by 1.
+{.flavortext}
 
 > **Sources** <br/>
 > Tasha's Cauldron of Everything, p. 170
