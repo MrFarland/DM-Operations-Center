@@ -12,7 +12,7 @@ parent: dm-operations-center
     <a href="treasure-generator">Treasure Generator</a>
     <a href="magic-item-generator">Magic Item Generator</a>
     <a href="magic-item-tables">Magic Item Tables</a>
-    <a href="."></a>
+    <a href="spellbook-generator">Spellbook Generator</a>
     <a href="."></a>
     <a href="."></a>
     <a href="."></a>
