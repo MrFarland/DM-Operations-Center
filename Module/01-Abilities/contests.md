@@ -10,7 +10,7 @@ A contest is a special ability check where the initiator of an action is pitted 
 
 Success = Initiator's Check > Defender's Check {.text-center}
 
-| ~Example~                            | ~Initiator~                        | ~Defender~                                        |
+| Example                            | Initiator                        | Defender                                        |
 | :----------------------------------- | :--------------------------------- | :------------------------------------------------ |
 | [Hide](hiding)                       | [Stealth](stealth)                 | [Perception](perception)                          |
 | [Grapple & Shove](grapple-and-shove) | [Athletics](athletics)             | [Athletics](athletics) / [Acrobatics](acrobatics) |

@@ -8,7 +8,7 @@ parent: water-hazards
 
 A blue hole has a diameter of [1d10](/roll/1d10) x 100 feet and a depth of [1d10](/roll/1d10) x 100 feet.
 
-| ~[1d10](/roll/1d10)~ | ~Hiding~                                                      |
+| [1d10](/roll/1d10) | Hiding                                                      |
 | :----: | :------------------------------------------------------------ |
 |   1    | [2d10](/roll/2d10) [Sahuagin](/monster/sahuagin)                            |
 |   2    | 1 [Giant Octopus](/monster/giant-octopus)                     |

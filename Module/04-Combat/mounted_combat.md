@@ -21,7 +21,7 @@ parent: combat
 If the mount is knocked [prone](prone), the rider may use their [reaction](reaction) to land on their feet, or they fall [prone](prone) within 5' of the mount.
 
 **Controlling a Mount**<br/>
-| ~Type~                                                 | ~Initiative~ | ~Actions~                                       |
+| Type                                                 | Initiative | Actions                                       |
 | :----------------------------------------------------- | :------ | :--------------------------------------------------- |
 | **Controlled**: Domesticated, unintelligent creatures. | Rider's | [Dash](dash), [disengage](disengage), [dodge](dodge) |
 | **Independent**: Intelligent, sentient creatures.      | Mount's | No restrictions on actions                           |

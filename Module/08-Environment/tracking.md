@@ -1,16 +1,17 @@
 ---
-name: Track
-slug: track
+name: Tracking
+slug: tracking
 parent: environment
 ---
-### Track
-[Home](dm-operations-center) > [Environment](environment) > Track {.small-text}
+### Tracking
+[Home](dm-operations-center) > [Environment](environment) > Tracking {.small-text}
 
 | Surface                                      | [DC](difficulty-class)  |
 | -------------------------------------------- | :-: |
 | Soft surfaces like mud, sand, and snow.      | 10  |
 | Firm surfaces like dirt and grass.           | 15  |
 | Hard surfaces like floors and stone.         | 20  |
+| ||
 | Each day since creature passed.              | +5  |
 | Creature is leaving a trail (ie Blood, etc). | -5  |
 {.gray .small-text}

@@ -11,7 +11,7 @@ parent: spellcasting
 | **DC 10 + Level** | Level > Highest Level Known |
 {.gray .small-text}
 
-| ~Level~ | ~Save~ | ~Attack~ |
+| Level | Save | Attack |
 | ------- | :----: | :------: |
 | Cantrip |   13   |    +5    |
 | 1st     |   13   |    +5    |

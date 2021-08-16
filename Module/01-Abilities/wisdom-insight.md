@@ -8,7 +8,7 @@ parent: wisdom
 
 Ability to determine the true intentions of a creature.
 
-| ~DC~ | ~Example~                         |
+| DC | Example                         |
 | :--: | :-------------------------------- |
 |  10  | Determine if a friend is lying.   |
 |  15  | Read someone's body language.     |

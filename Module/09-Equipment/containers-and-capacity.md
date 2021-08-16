@@ -6,7 +6,7 @@ parent: equipment
 ### Containers & Capacity
 [Home](dm-operations-center) > [Equipment](equipment) > Containers & Capacity {.small-text}
 
-| ~Item~          |     ~Dry~ | ~Liquid~ | ~Weight~ |
+| Item          |     Dry | Liquid | Weight |
 | :-------------- | --------: | -------: | -------: |
 | Backpack*       |   1 ft^3^ |        - |   30 lbs |
 | Barrel          |   4 ft^3^ |    40 ga |        - |

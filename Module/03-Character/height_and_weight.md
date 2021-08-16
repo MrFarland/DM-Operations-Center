@@ -6,7 +6,7 @@ parent: characters
 ### Height & Weight
 [Home](dm-operations-center) > [Characters](characters) > Height & Weight {.small-text}
 
-| ~Race~           |           ~Height~           | ~Weight~  |
+| Race           |           Height           | Weight  |
 | :--------------- | :--------------------------: | :-------: |
 | Aarakocra*       |              5'              | 80 - 100  |
 | Aasimar          |         4'10" - 6'4"         | 114 - 270 |

@@ -17,7 +17,7 @@ parent: downtime
 - +1 per 100gp spent in expenses
 - Maximum of +10
 
-| ~Total~ | ~Items~ ~Acquired~                   |
+| Total | Items Acquired                   |
 | :-----: | :------------------------------------------------ |
 |  01 05  | Roll [1d6](/roll/1d6) times on Magic Item Table A |
 |  06 10  | Roll [1d4](/roll/1d4) times on Magic Item Table B |
@@ -31,7 +31,7 @@ parent: downtime
 {.gray .small-text}
 
 **Cost**<br/>
-| ~Rarity~  | ~Asking~ ~Price*~                  |
+| Rarity  | Asking Price*                  |
 | :-------- | ---------------------------------: |
 | Common    |     ([1d6](/roll/1d6) + 1) x 10 gp |
 | Uncommon  |          [1d6](/roll/1d6) x 100 gp |
@@ -43,7 +43,7 @@ parent: downtime
 ***\*** 1/2 price for consumable items.* {.small-text}
 
 **Complications**<br/>
-| [~1d12~](/roll/1d12) | ~Complication~ |
+| [1d12](/roll/1d12) | Complication |
 | :--: | :--------------------------------------------------------------------------------------- |
 |   1  | The item is a fake, planted by an enemy.                                                 |
 |   2  | The item is stolen by the party's enemies.                                               |

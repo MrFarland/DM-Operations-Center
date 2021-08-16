@@ -8,7 +8,7 @@ parent: intelligence
 
 Knowledge of the world, geography, and creatures.
 
-| ~DC~ | ~Example~                                  |
+| DC | Example                                  |
 | :--: | :----------------------------------------- |
 |  10  | Recognize the signs of bad weather coming. |
 |  15  | Identify an uncommon plant or rock.        |

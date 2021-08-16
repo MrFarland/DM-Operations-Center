@@ -8,7 +8,7 @@ parent: charisma
 
 Influence others with logic, tact or good nature.
 
-| ~DC~ | ~Example~                                 |
+| DC | Example                                 |
 | :--: | :---------------------------------------- |
 |  10  | Negotiate a better price from a merchant. |
 |  15  | Convince someone to lend you their aid.   |

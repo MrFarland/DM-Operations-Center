@@ -6,7 +6,7 @@ parent: equipment
 ### Adventuring Gear
 [Home](dm-operations-center) > [Equipment](equipment) > Adventuring Gear {.small-text}
 
-| ~Item~                       |   ~Cost~ |         ~Wt~ |
+| Item                       |   Cost |         Wt |
 | :--------------------------- | -------: | -----------: |
 | Abacus                       |     2 gp |        2 lb. |
 | Acid (vial)                  |    25 gp |        1 lb. |

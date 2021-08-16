@@ -8,7 +8,7 @@ parent: intelligence
 
 Knowledge of all things magical and the planes.
 
-| ~DC~ | ~Example~                           |
+| DC | Example                           |
 | :--: | :---------------------------------- |
 |  10  | Recall lore about a famous mage.    |
 |  15  | Identify a legendary magical item.  |

@@ -6,7 +6,7 @@ parent: downtime
 ### Scribe Scroll
 [Home](dm-operations-center) > [Downtime](downtime) > Scribe Scroll {.small-text}
 
-| ~Level~  | ~Time~ |    ~Cost~ |
+| Level  | Time |    Cost |
 | :------: | :----: | --------: |
 | Cantrip* |   1d   |      15gp |
 |   1st    |   1d   |      25gp |
@@ -29,7 +29,7 @@ parent: downtime
 {.square}
 
 **Complications (10%)**
-|[~1d6~](/roll/1d6)| ~Complications~                                                             |
+|[1d6](/roll/1d6)| Complications                                                             |
 |:-:| :----------------------------------------------------------------------------------------- |
 | 1 | You bought up the last of the rare ink used to craft scrolls, angering a wizard in town.   |
 | 2 | The priest of a temple of good accuses you of trafficking in dark magic.                   |

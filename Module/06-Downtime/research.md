@@ -7,7 +7,7 @@ parent: downtime
 [Home](dm-operations-center) > [Downtime](downtime) > Research {.small-text}
 
 
-| ~Lifestyle~                 | ~Time~ | ~Cost~ | ~Other~                      |
+| Lifestyle                 | Time | Cost | Other                      |
 | :-------------------------- | -----: | -----: | :--------------------------- |
 | [Modest](lifestyle-expense) |     1w |   50gp | Access to a sage or library. |
 {.gray .small-text}
@@ -26,7 +26,7 @@ The character declares a specific person, place or thing. The character makes an
 **Lore**. A creature's resistances, the location of a dungeon, the spells favored by a group of wizards.{.small-text}
 
 **Complications (10%)**
-|[~1d6~](/roll/1d6)| ~Complications~                                                             |
+|[1d6](/roll/1d6)| Complications                                                             |
 |:-:| :----------------------------------------------------------------------------------------- |
 | 1 | You accidentally damage a rare book.                                                       |
 | 2 | You offend a sage, who demands an extravagant gift.                                        |

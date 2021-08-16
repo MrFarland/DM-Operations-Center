@@ -17,7 +17,7 @@ parent: environment
 {.gray .small-text}
 
 **Damage Severity by Level**
-| ~Lvl~ | ~Setback~ | ~Dangerous~ | ~Deadly~ |
+| Lvl | Setback | Dangerous | Deadly |
 | :---: | :-------: | :---------: | :------: |
 |  1-4  |   [1d10](/roll/1d10)    |    [2d10](/roll/2d10)     |   4d10   |
 | 5-10  |   [2d10](/roll/2d10)    |    4d10     |  10d10   |

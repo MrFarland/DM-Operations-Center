@@ -6,7 +6,7 @@ parent: characters
 ### Advancement
 [Home](dm-operations-center) > [Characters](characters) > Advancement {.small-text}
 
-| ~Level~ |   ~XP~ |     | ~Level~ |    ~XP~ |
+| Level |   XP |     | Level |    XP |
 | :-----: | -----: | --- | :-----: | ------: |
 |  **1**  |      0 |     | **11**  |  85,000 |
 |  **2**  |    300 |     | **12**  | 100,000 |

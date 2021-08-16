@@ -6,7 +6,7 @@ parent: environment
 ### Light & Vision
 [Home](dm-operations-center) > [Environment](environment) > Light & Vision {.small-text}
 
-| ~Lvl~  | ~Obscurity~ | ~Examples~ |
+| Lvl  | Obscurity | Examples |
 |:-------|:-----------:|:------------------------------------------------------------------|
 | Bright | N/A         | Daylight, immediate area of light sources like fires and torches. |
 | Dim    | Lightly     | Shadow, Twilight, and boundaries between bright & dark.           |

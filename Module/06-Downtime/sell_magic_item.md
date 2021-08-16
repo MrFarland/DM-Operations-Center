@@ -6,7 +6,7 @@ parent: downtime
 ### Sell Magic Item
 [Home](dm-operations-center) > [Downtime](downtime) > Sell Magic Item {.small-text}
 
-| ~Lifestyle~ | ~Time~ | ~Cost~ | ~Other~ |
+| Lifestyle | Time | Cost | Other |
 | :---------- | -----: | -----: | :------ |
 | N/A         |     1w |   25gp | -       |
 {.gray .small-text}
@@ -21,7 +21,7 @@ Character makes a [Charisma](charisma) ([Persuasion](persuasion)) check:
 |  21+  | 150% of base price. |
 {.gray .small-text}
 
-| ~Rarity~  |  ~Price*~ |     ~from~ ~Buy~ ~Magic~ ~Item~ |
+| Rarity  |  Price* |     from Buy Magic Item |
 | :-------- | --------: | ------------------------------: |
 | Common    |     100gp |     ([1d6](/roll/1d6)+1) x 10gp |
 | Uncommon  |     400gp |        [1d6](/roll/1d6) x 100gp |
@@ -33,7 +33,7 @@ Character makes a [Charisma](charisma) ([Persuasion](persuasion)) check:
 ***\*** I prefer the pricing from [Buy Magic Item](buy-magic-item).* {.small-text}
 
 **Complications (10%)**
-|[~1d6~](/roll/1d6)| ~Complications~ |
+|[1d6](/roll/1d6)| Complications |
 |:-:|-|
 | 1 | Your enemy secretly arranges to buy the item to use it against you. |
 | 2 | A thieves' guild, alerted to the sale, attempts to steal your item. |

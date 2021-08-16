@@ -7,7 +7,7 @@ parent: downtime
 [Home](dm-operations-center) > [Downtime](downtime) > Craft Magical Item {.small-text}
 
 **Resources**<br/>
-| ~Rarity~  |     ~Cost~ | ~Wks~ | ~CR~  |
+| Rarity  |     Cost | Wks | CR  |
 | --------- | ---------: | ----: | :---: |
 | Common    |      50 gp |     1 |  1-3  |
 | Uncommon  |     200 gp |     2 |  4-8  |
@@ -30,7 +30,7 @@ While enchanting, the creator can maintain a [modest lifestyle](lifestyle-expens
 
 **Complications**<br/>
 There is a 10% chance of a complication for every 5 weeks of work.
-|[~1d6~](/roll/1d6)| ~Complications~                                                                            |
+|[1d6](/roll/1d6)| Complications                                                                            |
 | :-: | :------------------------------------------------------------------------------------------------------ |
 |  1  | Rumors swirl that what you're working on is unstable and a threat to the community.                     |
 |  2  | Your tools are stolen, forcing you to buy new ones.                                                     |

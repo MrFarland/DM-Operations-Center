@@ -12,6 +12,10 @@
    font-weight: bold;
  }
 
+ table thead {
+   font-size: 1.0rem;
+ }
+
  /* Flex Box Menu */
  .menu-container {
     align-items: center;

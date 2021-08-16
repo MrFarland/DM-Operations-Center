@@ -8,7 +8,7 @@ parent: charisma
 
 Ability to lie or otherwise hide the truth.
 
-| ~DC~ | ~Example~                                 |
+| DC | Example                                 |
 | :--: | :---------------------------------------- |
 |  10  | Keep a straight face while telling a lie. |
 |  15  | Convince someone an item is very valuable |

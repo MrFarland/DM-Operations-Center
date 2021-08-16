@@ -8,7 +8,7 @@ parent: downtime
 
 The character spends 25 gp and 1 week gathering information & deciding on a target.
 
-| ~DC~ | ~Value~ | ~Description~                 |
+| DC | Value | Description                 |
 | :--: | ------: | ----------------------------- |
 |  10  |     50g | Rob a struggling merchant.    |
 |  15  |    100g | Rob a prosperous merchant.    |
@@ -24,7 +24,7 @@ The character makes three successive checks
     - [Intelligence](intelligence) ([Investigation](investigation))
     - [Charisma](charisma) ([Deception](deception))
 
-| ~Fails~ | ~Result~ | ~Outcome~                          |
+| Fails | Result | Outcome                          |
 | :------ | :------: | :--------------------------------- |
 | 3       |  Jailed  | Fine = Profit, Sentence 1w per 25g |
 | 2       | Escaped  | Roll for Complication              |
@@ -33,7 +33,7 @@ The character makes three successive checks
 {.gray .small-text}
 
 **Complications**
-|[~1d8~](/roll/1d8)| ~Complication~ |
+|[1d8](/roll/1d8)| Complication |
 | :-: | :---------------------------------------------------------------------------------------------- |
 |  1  | A bounty equal to your earnings is offered for information about your crime.                    |
 |  2  | An unknown person contacts you, threatening to reveal your crime if you don't render a service. |

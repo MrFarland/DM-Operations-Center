@@ -15,7 +15,7 @@ parent: strength
 | **Huge**   | [STR](STRENGTH) x 60       |
 {.gray .small-text}
 
-| [~STR~](STRENGTH) | ~S/M~  |  ~L~   |
+| [STR](STRENGTH) | S/M  |  L   |
 | :---: | :----: | :----: |
 |  10   | 150 lb | 300 lb |
 |  11   | 165 lb | 330 lb |

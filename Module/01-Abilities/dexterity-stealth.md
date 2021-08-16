@@ -8,7 +8,7 @@ parent: dexterity
 
 Ability to move and [hide](hiding) without being detected
 
-| ~DC~ | ~Example~                                    |
+| DC | Example                                    |
 | :--: | :------------------------------------------- |
 |  10  | Slip out of a crowd without being noticed.   |
 |  15  | Sneak up on a guard to knock them out.       |

@@ -6,7 +6,7 @@ parent: abilities
 ### Ability Modifiers
 [Home](dm-operations-center) > [Abilities](abilities-menu) > Ability Modifiers {.small-text}
 
-| ~Score~ | ~+/-~  | ~Score~ | ~+/-~  | ~Score~ |  ~+/-~  |
+| Score | +/-  | Score | +/-  | Score |  +/-  |
 | :-----: | :----: | :-----: | :----: | :-----: | :-----: |
 |    1    | **-5** |  12-13  | **+1** |  24-25  | **+7**  |
 |   2-3   | **-4** |  14-15  | **+2** |  26-27  | **+8**  |

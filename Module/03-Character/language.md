@@ -6,7 +6,7 @@ parent: characters
 ### Languages
 [Home](dm-operations-center) > [Characters](characters) > Languages {.small-text}
 
-| ~Language~  | ~Script~           | ~Speakers~                 |
+| Language  | Script           | Speakers                 |
 | ----------- | ------------------ | -------------------------- |
 | Abyssal     | Infernal           | Demons                     |
 | Celestial   | Celestial          | Celestials                 |

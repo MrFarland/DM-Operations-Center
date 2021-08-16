@@ -8,7 +8,7 @@ parent: water-hazards
 
 A swirling vortex of water that sucks creatures and ships towards its center.
 
-| ~Rank~ | ~Diameter~ ~(Depth~ ~1/2)~ | ~Velocity~ | ~DC~ |
+| Rank | Diameter (Depth 1/2) | Velocity | DC |
 | :----: | -------------------------: | :--------: | :--: |
 |   1    |                 22 (4d10)' |     5'     |  5   |
 |   2    |                55 (10d10)' |    15'     |  10  |
@@ -32,7 +32,7 @@ On a success:
 #### Vessels (Length < Diameter)
 Officers and crew make a group hazard check to escape. It represents 5 minutes of work and the [DC](difficulty-class) is chosen randomly or using a d4 on the table above.
 
-| ~Group~ ~Check~ |                                    |
+| Group Check |                                    |
 | :-------------- | :--------------------------------- |
 | Captain         | Intelligence (Water Vehicle)       |
 | First Mate      | [Charisma](charisma) (Intimidation/Persuasion) |
@@ -41,7 +41,7 @@ Officers and crew make a group hazard check to escape. It represents 5 minutes o
 | Crew            | Quality Score                      |
 {.gray .small-text}
 
-| ~Results~ ||
+| Results ||
 |:-------------|-|
 | Total Success | Increases speed by 20' in current turn. |
 | Success       | The vessel can move normally. |
@@ -50,7 +50,7 @@ Officers and crew make a group hazard check to escape. It represents 5 minutes o
 {.gray .small-text}
 
 #### Destinations
-| ~d10~ | ~Destination~            |
+| d10 | Destination            |
 | :---: | :----------------------- |
 |  1-3  | Underdark                |
 |   4   | Elemental Plane of Water |

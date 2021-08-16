@@ -6,7 +6,7 @@ parent: light-and-vision
 ### Light Sources 
 [Home](dm-operations-center) > [Environment](environment) > [Light & Vision](light-and-vision) > Light Sources {.small-text}
 
-| ~Source~           | ~Shape~ | ~Bright~ | ~Dim~ | ~Total~ | ~Dur~ |
+| Source           | Shape | Bright | Dim | Total | Dur |
 | :----------------- | :-----: | :------: | :---: | :-----: | :---: |
 | Campfire           |    R    |   30'    |  30'  |   60'   |  1h   |
 | Candle             |    R    |    5'    |  5'   |   10'   |  6h   |

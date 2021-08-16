@@ -14,7 +14,7 @@ The zones of the ocean and the light level relative to the surface are:
 | Midnight | Dark                      | 1,000'+ |
 {.gray .small-text}
 
-| ~Encounter~ ~Distance~ |     |
+| Encounter Distance |     |
 | :--------------------- | --: |
 | Clear Water, Bright    | 60' |
 | Clear Water, Dim       | 30' |

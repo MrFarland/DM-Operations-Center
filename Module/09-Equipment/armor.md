@@ -6,7 +6,7 @@ parent: equipment
 ### Armor
 [Home](dm-operations-center) > [Equipment](equipment) > Armor {.small-text}
 
-| ~Armor~            | ~Cost~ |           ~AC~ | ~Weight~ |
+| Armor            | Cost |           AC | Weight |
 | :----------------- | -----: | -------------: | -------: |
 | ***Light Armor***                                    ||||
 | - Padded*          |   5 gp |         11+DEX |     8 lb |

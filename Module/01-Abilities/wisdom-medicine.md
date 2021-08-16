@@ -8,7 +8,7 @@ parent: wisdom
 
 Ability to give first aid or diagnose an illness.
 
-| ~DC~ | ~Example~                                     |
+| DC | Example                                     |
 | :--: | :-------------------------------------------- |
 |  10  | [Stabilize](stabilizing) a dying creature.    |
 |  15  | Diagnose an uncommon injury or disease.       |

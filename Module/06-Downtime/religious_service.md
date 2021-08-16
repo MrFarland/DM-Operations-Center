@@ -6,7 +6,7 @@ parent: downtime
 ### Religious Service
 [Home](dm-operations-center) > [Downtime](downtime) > Religious Service {.small-text}
 
-| ~Lifestyle~                 | ~Time~ | ~Cost~ | ~Other~                                 |
+| Lifestyle                 | Time | Cost | Other                                 |
 | :-------------------------- | -----: | -----: | :-------------------------------------- |
 | [Modest](lifestyle-expense) |     1w |    0gp | Access to a temple or religious figure. |
 {.gray .small-text}
@@ -24,7 +24,7 @@ The character makes an [Intelligence](intelligence) ([Religion](religion)) or [C
 **Favor**. Promise of assistance from a representative of the temple or a 50% discount on [spellcasting services](spellcasting-services). Maximum of (1 + [Charisma](charisma) Modifier) favors.{.small-text}
 
 **Complications (10%)**
-|[~1d6~](/roll/1d6)| ~Complications~                                                           |
+|[1d6](/roll/1d6)| Complications                                                           |
 | :-: | :------------------------------------------------------------------------------------- |
 |  1  | You have offended a priest through your words or actions.                              |
 |  2  | Blasphemy is still blasphemy, even if you did it by accident.                          |

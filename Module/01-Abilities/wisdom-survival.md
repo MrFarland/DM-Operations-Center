@@ -8,7 +8,7 @@ parent: wisdom
 
 Ability to survive in the wilderness.
 
-| ~DC~ | ~Example~                                              |
+| DC | Example                                              |
 | :--: | :----------------------------------------------------- |
 |  10  | Find a path through rough terrain.                     |
 |  15  | [Forage](foraging) for [food & water](food-and-water). |

@@ -10,7 +10,7 @@ order: 02
 
 Caster Level = Total # of Spellcaster Levels {.text-center}
 
-|   ~#~   | ~Per~ ~Level~ ~of~                    |
+|   #   | Per Level of                    |
 | :-----: | ------------------------------------- |
 |    1    | Bard, Cleric, Druid, Sorcerer, Wizard |
 | ^1^/~2~ | Artificer, Paladin, Ranger            |

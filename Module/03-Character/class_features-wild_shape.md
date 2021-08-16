@@ -10,7 +10,7 @@ May use an action to change into a beast, the character has **seen** before, usi
 
 ***Note**: Circle of the Moon may use a bonus action.* {.small-text}
 
-| ~Lvl~ | ~Max~ ~CR~ ~-~ ~(Moon)~ | ~Hrs~ | ~Limits~                  |
+| Lvl | Max CR - (Moon) | Hrs | Limits                  |
 | :---: | :---------------------: | :---: | :------------------------ |
 |   2   |      ^1^/~4~ - (1)      |   1   | No Fly, No Swim           |
 |   4   |      ^1^/~2~ - (1)      |   2   | No Fly                    |

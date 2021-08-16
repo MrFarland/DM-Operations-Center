@@ -37,7 +37,7 @@ Share a bond with the character, owing a favor or bearing a grudge. They are one
 {.gray .small-text}
 
 **Complications ([1d8](/roll/1d8))**
-|[~1d8~](/roll/1d8)|  ~Lower~ ~Class~ ~Complication~                                                                                 |
+|[1d8](/roll/1d8)|  Lower Class Complication                                                                                 |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------- |
 |  1  | A pickpocket lifts [1d1O](/roll/1d10) x 5 gp from you.                                                                       |
 |  2  | A bar brawl leaves you with a scar.                                                                                          |
@@ -49,7 +49,7 @@ Share a bond with the character, owing a favor or bearing a grudge. They are one
 |  8  | Everyone is calling you by some weird , embarrassing nickname, like Puddle Drinker or Bench Slayer, and no one will say why. |
 {.gray .small-text}
 
-|[~1d8~](/roll/1d8)| ~Middle~ ~Class~ ~Complication~                                                                                 |
+|[1d8](/roll/1d8)| Middle Class Complication                                                                                 |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------- |
 |  1  | You accidentally insulted a guild master, and only a public apology will let you do business with the guild again.           |
 |  2  | You swore to complete some quest on behalf of a temple or a guild.                                                           |
@@ -61,7 +61,7 @@ Share a bond with the character, owing a favor or bearing a grudge. They are one
 |  8  | You spent an additional 100 gp trying to impress people.                                                                             |
 {.gray .small-text}
 
-|[~1d8~](/roll/1d8)| ~Upper~ ~Class~ ~Complication~                                                                                  |
+|[1d8](/roll/1d8)| Upper Class Complication                                                                                  |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------- |
 |  1  | A pushy noble family wants to marry off one of their scions to you.                                                          |
 |  2  | You tripped and fell during a dance, and people can't stop talking about it.                                                 |

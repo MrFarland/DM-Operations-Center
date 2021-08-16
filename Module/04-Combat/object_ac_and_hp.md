@@ -6,7 +6,7 @@ parent: combat
 ### Object AC & HP
 [Home](dm-operations-center) > [Combat](combat) > Object AC & HP {.small-text}
 
-| ~Object~            |~AC~ | ~Object~    | ~AC~|
+| Object            |AC | Object    | AC|
 | ------------------- | :-: | ----------- | :-: |
 | Cloth, Paper, Rope  | 11  | Iron, Steel | 19  |
 | Crystal, Glass, Ice | 13  | Mithral     | 21  |
@@ -14,7 +14,7 @@ parent: combat
 | Stone               | 17  |             |     |
 {.gray .small-text}
 
-| ~Hit~ ~Points~             | ~Fragile~              | ~Resilient~|
+| Hit Points             | Fragile              | Resilient|
 | -------------------------- | :--------------------: | :-------: |
 | Tiny (bottle, lock)        | 2 ([1d4](/roll/1d4))   |  5 ([2d4](/roll/2d4))  |
 | Small (chest, lute)        | 3 ([1d6](/roll/1d6))   | 10 ([3d6](/roll/3d6))  |
