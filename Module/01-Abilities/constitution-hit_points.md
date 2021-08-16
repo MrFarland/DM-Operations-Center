@@ -14,10 +14,10 @@ Hit Points represent a character's ability to fight as well as their physical he
 - 0 HP = [unconscious](unconscious) and ([stabilized](stablizing) or [dying](death-saving-throw))
 {.square}
 
-**Level Up**<br/>
+#### Level Up
 When a character levels up, they can choose to roll their [hit die](hit-dice) or take the average for their die.
 
-**Changes to Constitution**<br/>
+#### Changes to Constitution
 Changes to the character's [constitution](constitution) modifier are **retroactive**. Increases or decreases are applied for each character level.
 
 > **Sources** <br/>

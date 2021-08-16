@@ -8,7 +8,7 @@ parent: intelligence
 
 Knowledge of religions, gods, cults, and traditions.
 
-| DC | Example                                      |
+| [DC](difficulty-class) | Example                      |
 | :--: | :--------------------------------------------- |
 |  10  | Recognize the holy symbol of a god.            |
 |  15  | Recall the details to a ritual or prayer.      |

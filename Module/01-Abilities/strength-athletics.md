@@ -8,7 +8,7 @@ parent: strength
 
 General athletic prowess when running, [jumping](jump), [swimming](swim), and [climbing](climb).
 
-| DC | Example                                           |
+| [DC](difficulty-class) | Example                           |
 | :--: | :-------------------------------------------------- |
 |  10  | [Climb](climb) a cliff with plenty of holds.        |
 |  15  | Try to [jump](jump) extra far or high.              |

@@ -16,8 +16,9 @@ parent: abilities
 | Near Impossible | 30  |
 {.gray .small-text}
 
-***Tip**: Do not make all your DCs multiples of 5. It is a big jump, especially for low-level characters.*
-
+> **MrFarland Tip**<br/>
+> Do not make all of your DCs multiples of 5. It is a big jump at lower levels.
+{.flavortext}
 
 > **Sources** <br/>
 > System Reference Document, p. 77<br/>

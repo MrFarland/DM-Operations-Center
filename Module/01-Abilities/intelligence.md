@@ -8,14 +8,14 @@ parent: abilities
 
 Mental acuity, recall, and ability to reason.
 
-**Ability Checks**<br/>
+#### Ability Checks
 - Communicate without a shared [language](languages).
 - Estimate the value of an item.
 - Recall lore about a craft or trade.
-- Win a game of skill, like chess
+- Win a game of skill, like [dragonchess](/item/dragonchess-set).
 {.square}
 
-**Skills & Other Abilities**
+#### Skills & Other Abilities
 <div class="menu-container">
     <a href="arcana">Arcana</a>
     <a href="history">History</a>

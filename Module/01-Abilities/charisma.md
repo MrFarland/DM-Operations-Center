@@ -8,13 +8,13 @@ parent: abilities
 
 Charm, confidence, eloquence, and personality
     
-**Ability Checks**<br/>
+#### Ability Checks
 - Mingle at party or ball.
 - Gather rumors or news in a tavern.
 - Develop a rapport with an individual.
 {.square}
 
-**Skills & Other Abilities**
+#### Skills & Other Abilities
 <div class="menu-container">
     <a href="deception">Deception</a>
     <a href="intimidation">Intimidation</a>

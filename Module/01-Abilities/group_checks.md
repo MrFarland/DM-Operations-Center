@@ -1,10 +1,10 @@
 ---
-name: Group Check
-slug: group-check
+name: Group Checks
+slug: group-checks
 parent: abilities
 ---
-### Group Check
-[Home](dm-operations-center) > [Abilities](abilities-menu) > Group Check {.small-text}
+### Group Checks
+[Home](dm-operations-center) > [Abilities](abilities-menu) > Group Checks {.small-text}
 
 **Success = 50% of party ≥ Check [DC](difficulty-class)** {.text-center}
 

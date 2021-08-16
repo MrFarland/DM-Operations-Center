@@ -1,14 +1,14 @@
 ---
-name: Alternate Ability
-slug: alternate-ability
+name: Alternate Abilities
+slug: alternate-abilities
 parent: abilities
 ---
-### Alternate Ability
-[Home](dm-operations-center) > [Abilities](abilities-menu) > Alternate Ability {.small-text}
+### Alternate Abilities
+[Home](dm-operations-center) > [Abilities](abilities-menu) > Alternate Abilities {.small-text}
 
-Depending on the situation, skills may be paired with a different ability than a skill's base ability.
+Depending on the situation, skills may be paired with a different ability than a skill's normal base ability.
 
-||||
+| Skill                              | Alternate           | Use Case                                            |
 | :--------------------------------- | :------------------ | :-------------------------------------------------- |
 | [Animal Handling](animal-handling) | [STR](STRENGTH)     | Subduing an animal with brute strength.             |
 | [Athletics](athletics)             | [DEX](DEXTERITY)    | A feat that requires agility more than strength.    |

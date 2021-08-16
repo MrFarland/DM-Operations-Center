@@ -8,7 +8,7 @@ parent: charisma
 
 How well you can entertain an audience.
 
-| DC | Example                                 |
+| [DC](difficulty-class) | Example                 |
 | :--: | :---------------------------------------- |
 |  10  | Captivate an audience with a good story.  |
 |  15  | Perform a scene from a play or epic poem. |

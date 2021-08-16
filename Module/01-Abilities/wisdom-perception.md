@@ -8,7 +8,7 @@ parent: wisdom
 
 Ability to spot, hear, or otherwise detect something.
 
-| DC | Example                                      |
+| [DC](difficulty-class) | Example                      |
 | :--: | :--------------------------------------------- |
 |  10  | Eavesdrop on a conversation at a party.        |
 |  15  | Spot a well-hidden trap before setting it off. |

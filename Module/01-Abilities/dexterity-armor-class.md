@@ -12,20 +12,20 @@ A creature's natural armor class is how hard they are to hit when **not** wearin
 
 Wearing [armor](armor) replaces a creature's natural AC.
 
-| Armor               | AC             |
-| --------------------- | ---------------- |
-| Padded Armor          | 11 + [DEX](DEXTERITY)         |
-| Leather Armor         | 11 + [DEX](DEXTERITY)         |
-| Studded Leather Armor | 12 + [DEX](DEXTERITY)         |
-| Hide Armor            | 12 + [DEX](DEXTERITY) (max 2) |
-| Chain Shirt           | 13 + [DEX](DEXTERITY) (max 2) |
-| Scale Mail            | 14 + [DEX](DEXTERITY) (max 2) |
-| Breastplate           | 14 + [DEX](DEXTERITY) (max 2) |
-| Half Plate            | 15 + [DEX](DEXTERITY) (max 2) |
-| Ring Mail             | 14               |
-| Chain Mail            | 16               |
-| Splint Mail           | 17               |
-| Plate Mail            | 18               |
+| [Armor](armor)                                 | AC                            |
+| :--------------------------------------------- | :---------------------------- |
+| [Padded Armor](/item/padded-armor)             | 11 + [DEX](DEXTERITY)         |
+| [Leather Armor](/item/leather-armor)           | 11 + [DEX](DEXTERITY)         |
+| [Studded Leather Armor](/item/studded-leather) | 12 + [DEX](DEXTERITY)         |
+| [Hide Armor](/item/hide-armor)                 | 12 + [DEX](DEXTERITY) (max 2) |
+| [Chain Shirt](/item/chain-shirt)               | 13 + [DEX](DEXTERITY) (max 2) |
+| [Scale Mail](/item/scale-mail)                 | 14 + [DEX](DEXTERITY) (max 2) |
+| [Breastplate](/item/breastplate)               | 14 + [DEX](DEXTERITY) (max 2) |
+| [Half Plate](/item/half-plate)                 | 15 + [DEX](DEXTERITY) (max 2) |
+| [Ring Mail](/item/ring-mail)                   | 14                            |
+| [Chain Mail](/item/chain-mail)                 | 16                            |
+| [Splint Mail](/item/splint-mail)               | 17                            |
+| [Plate Mail](/item/plate-mail)                 | 18                            |
 {.gray .small-text}
 
 > **Sources** <br/>

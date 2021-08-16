@@ -1,10 +1,10 @@
 ---
-name: Saving Throw
-slug: saving-throw
+name: Saving Throws
+slug: saving-throws
 parent: abilities
 ---
-### Saving Throw
-[Home](dm-operations-center) > [Abilities](abilities-menu) > Saving Throw {.small-text}
+### Saving Throws
+[Home](dm-operations-center) > [Abilities](abilities-menu) > Saving Throws {.small-text}
 
 **[1d20](/roll/1d20) + [Ability Mod](ability-modifiers) + ([Prof. Bonus](proficiency-bonus))** ≥ [DC](difficulty-class) {.text-center}
 
@@ -23,7 +23,7 @@ In special circumstances a creature may have [advantage or disadvantage](advanta
 | Monk                   | [STR](strength), [DEX](dexterity)        | - | - |
 {.gray .small-text}
 
-***See also**: [Death Saving Throw](death-saving-throw).*
+***See also**: [Death Saving Throws](death-saving-throws).*
 
 > **Sources** <br/>
 > System Reference Document, p. 83<br/>

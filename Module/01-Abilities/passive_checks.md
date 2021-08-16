@@ -1,10 +1,10 @@
 ---
-name: Passive Check
-slug: passive-check
+name: Passive Checks
+slug: passive-checks
 parent: abilities
 ---
-### Passive Check
-[Home](dm-operations-center) > [Abilities](abilities-menu) > Passive Check {.small-text}
+### Passive Checks
+[Home](dm-operations-center) > [Abilities](abilities-menu) > Passive Checks {.small-text}
 
 **10 + [Ability Mod](ability-modifiers) + ([Prof. Bonus](proficiency-bonus))** ≥ [DC](difficulty-class) {.text-center}
 

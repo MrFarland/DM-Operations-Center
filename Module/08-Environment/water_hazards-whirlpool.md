@@ -8,7 +8,7 @@ parent: water-hazards
 
 A swirling vortex of water that sucks creatures and ships towards its center.
 
-| Rank | Diameter (Depth 1/2) | Velocity | DC |
+| Rank | Diameter (Depth 1/2) | Velocity | [DC](difficulty-class) |
 | :----: | -------------------------: | :--------: | :--: |
 |   1    |                 22 (4d10)' |     5'     |  5   |
 |   2    |                55 (10d10)' |    15'     |  10  |

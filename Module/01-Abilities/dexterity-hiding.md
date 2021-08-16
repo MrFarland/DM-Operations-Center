@@ -15,8 +15,8 @@ parent: dexterity
 - [Invisible](invisible) creatures can always attempt.
 {.square}
 
-**Active -v- [Passive](passive-check) Perception**<br/>
-A creature's passive [perception](perception) should be used if the creature is not alerted to the hider's presence.
+#### Active -v- Passive Perception
+A creature's [passive perception](passive-checks) should be used if the creature is not alerted to the hider's presence.
 
 > **Sources** <br/>
 > System Reference Document, p. 80<br/>

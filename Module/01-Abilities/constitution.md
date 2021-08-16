@@ -8,13 +8,13 @@ parent: abilities
 
 General health, fortitude, and stamina.
 
-**Ability Checks**<br/>
-Constitution skill checks are rare, with saving throws being more common. 
+#### Ability Checks
+Constitution skill checks are rare, with [saving throws](saving-throws) being more common. 
 - Perform a repetitive task for a long time.
-- Keep down a terrible meal or ale.
+- Keep down a spoiled or rancid meal or ale.
 {.square}
 
-**Skills & Other Abilities**
+#### Skills & Other Abilities
 <div class="menu-container">
     <a href="hit-dice">Hit Dice</a>
     <a href="hit-points">Hit Points</a>

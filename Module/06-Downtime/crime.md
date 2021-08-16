@@ -8,7 +8,7 @@ parent: downtime
 
 The character spends 25 gp and 1 week gathering information & deciding on a target.
 
-| DC | Value | Description                 |
+| [DC](difficulty-class) | Value | Description                 |
 | :--: | ------: | ----------------------------- |
 |  10  |     50g | Rob a struggling merchant.    |
 |  15  |    100g | Rob a prosperous merchant.    |

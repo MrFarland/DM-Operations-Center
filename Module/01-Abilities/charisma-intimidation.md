@@ -8,7 +8,7 @@ parent: charisma
 
 Influence others via threat or coercion.
 
-| DC | Example                                  |
+| [DC](difficulty-class) | Example                  |
 | :--: | :----------------------------------------- |
 |  10  | Threaten a merchant for a better deal.     |
 |  15  | Coerce information from a reluctant NPC.   |
