@@ -4,7 +4,7 @@ slug: religion
 parent: intelligence
 ---
 ### Religion
-[Home](dm-operations-center) > [Abilities](abilities) > [Intelligence](intelligence) > Religion {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Intelligence](intelligence) > Religion {.small-text}
 
 Knowledge of religions, gods, cults, and traditions.
 

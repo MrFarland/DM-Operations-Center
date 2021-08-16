@@ -4,7 +4,7 @@ slug: stealth
 parent: dexterity
 ---
 ### Stealth
-[Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Stealth {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Dexterity](dexterity) > Stealth {.small-text}
 
 Ability to move and [hide](hiding) without being detected
 

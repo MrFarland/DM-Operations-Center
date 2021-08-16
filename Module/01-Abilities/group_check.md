@@ -4,7 +4,7 @@ slug: group-check
 parent: abilities
 ---
 ### Group Check
-[Home](dm-operations-center) > [Abilities](abilities) > Group Check {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > Group Check {.small-text}
 
 **Success = 50% of party ≥ Check [DC](difficulty-class)** {.text-center}
 

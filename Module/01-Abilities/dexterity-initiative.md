@@ -4,7 +4,7 @@ slug: initiative
 parent: dexterity
 ---
 ### Initiative
-[Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Initiative {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Dexterity](dexterity) > Initiative {.small-text}
 
 **Initiative = [1d20](/roll/1d20) + [Dexterity](dexterity) [modifier](ability-modifiers)** {.text-center}
 

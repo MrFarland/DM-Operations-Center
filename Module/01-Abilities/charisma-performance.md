@@ -4,7 +4,7 @@ slug: performance
 parent: charisma
 ---
 ### Performance
-[Home](dm-operations-center) > [Abilities](abilities) > [Charisma](charisma) > Performance {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Charisma](charisma) > Performance {.small-text}
 
 How well you can entertain an audience.
 

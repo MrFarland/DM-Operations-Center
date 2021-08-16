@@ -4,7 +4,7 @@ slug: medicine
 parent: wisdom
 ---
 ### Medicine
-[Home](dm-operations-center) > [Abilities](abilities) > [Wisdom](wisdom) > Medicine {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Wisdom](wisdom) > Medicine {.small-text}
 
 Ability to give first aid or diagnose an illness.
 

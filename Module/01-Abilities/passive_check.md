@@ -4,7 +4,7 @@ slug: passive-check
 parent: abilities
 ---
 ### Passive Check
-[Home](dm-operations-center) > [Abilities](abilities) > Passive Check {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > Passive Check {.small-text}
 
 **10 + [Ability Mod](ability-modifiers) + ([Prof. Bonus](proficiency-bonus))** ≥ [DC](difficulty-class) {.text-center}
 

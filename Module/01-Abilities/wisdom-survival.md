@@ -4,7 +4,7 @@ slug: survival
 parent: wisdom
 ---
 ### Survival
-[Home](dm-operations-center) > [Abilities](abilities) > [Wisdom](wisdom) > Survival {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Wisdom](wisdom) > Survival {.small-text}
 
 Ability to survive in the wilderness.
 

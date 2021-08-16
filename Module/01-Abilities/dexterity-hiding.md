@@ -4,7 +4,7 @@ slug: hiding
 parent: dexterity
 ---
 ### Hiding
-[Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Hiding {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Dexterity](dexterity) > Hiding {.small-text}
 
 **Hider's [Stealth](stealth) > Creature's [Perception](perception)** {.text-center}
 

@@ -4,7 +4,7 @@ slug: perception
 parent: wisdom
 ---
 ### Perception
-[Home](dm-operations-center) > [Abilities](abilities) > [Wisdom](wisdom) > Perception {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Wisdom](wisdom) > Perception {.small-text}
 
 Ability to spot, hear, or otherwise detect something.
 

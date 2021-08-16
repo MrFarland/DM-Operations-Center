@@ -4,7 +4,7 @@ slug: working-together
 parent: abilities
 ---
 ### Working Together
-[Home](dm-operations-center) > [Abilities](abilities) > Working Together {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > Working Together {.small-text}
 
 - Character leading activity has [advantage](advantage-and-disadvantage).
 - Assistance must be practical for the task.

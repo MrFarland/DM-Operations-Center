@@ -4,7 +4,7 @@ slug: push-drag-lift
 parent: strength
 ---
 ### Push, Drag, Lift
-[Home](dm-operations-center) > [Abilities](abilities) > [Strength](strength) > Push, Drag, Lift {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Strength](strength) > Push, Drag, Lift {.small-text}
 
 | ~Limits~ ~by~ ~Creature~ ~Size~ ||
 | :---------------------- | :------------------ |
