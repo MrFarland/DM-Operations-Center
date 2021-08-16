@@ -12,9 +12,9 @@ parent: combat
 - [Disengage](disengage) prevents an opportunity attacks.
 - Not triggered if the target isn't using movement.
 
+*Alternate: Attack of Opportunity* {.small-text}
+
 > **Sources** <br/>
 > System Reference Document, p. 95<br/>
 > Player's Handbook, p. 195
 {.read .small-text}
-
-*Alternate: Attack of Opportunity* {.small-text}

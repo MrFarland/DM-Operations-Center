@@ -8,9 +8,6 @@ parent: action
 
 [Disadvantage](advantage-and-disadvantage) on attacks against & [Advantage](advantage-and-disadvantage) on [Dexterity](dexterity) [saves](saving-throw) until start of the next turn. {.text-center}
 
-<br/>
-<br/>
-
 ***Note**: The character must be able to see the attack, have a speed > 0, and is not [incapacitated](incapacitated).* {.small-text}
 
 > **Sources** <br/>

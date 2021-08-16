@@ -8,7 +8,7 @@ parent: combat
 
 | Attacker               |     |        Defender                                    |
 | :--------------------: | --: | :------------------------------------------------: |
-| [Athletics](athletics) |   > | [Athletics](athletics) OR [Acrobatics](acrobatics) |
+| [Athletics](athletics) |  >  | [Athletics](athletics) OR [Acrobatics](acrobatics) |
 {.gray .small-text}
 
 - A grapple or shove is a [melee attack](attack-melee).
@@ -17,13 +17,13 @@ parent: combat
 - Auto succeeds if target is [incapacitated](incapacitated).
 {.square}
 
-**Grapple**<br/>
+#### Grapple
 If successful, the target creature is [grappled](grappled).
 - A creature can use its [action](action) to escape.
 - A creature's speed is halved when dragging or carrying [grappled](grappled) creature, unless it is two or more sizes smaller.
 {.square}
 
-**Shove**<br/>
+#### Shove
 If successful the target is knocked [prone](prone) OR pushed 5' from the attacker.
 
 > **Sources** <br/>

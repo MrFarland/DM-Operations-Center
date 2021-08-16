@@ -18,7 +18,7 @@ parent: combat
 {.square}
 
 > **MrFarland House Rule**<br/>
-> Drinking a **regular** [healing potion](potion-of-healing) is a bonus action, but taking any other potion requires a use object action.
+> Drinking a **regular** [healing potion](potion-of-healing) is a [bonus action](bonus-action), but taking any other potion requires a use object action.
 {.flavortext}
 
 > **Sources** <br/>

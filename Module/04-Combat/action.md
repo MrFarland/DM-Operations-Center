@@ -7,9 +7,9 @@ parent: combat
 [Home](dm-operations-center) > [Combat](combat) > Action {.small-text}
 
 <div class="menu-container">
-    <a href="attack-melee">Attack (Melee)</a>
-    <a href="attack-ranged">Attack (Ranged)</a>
-    <a href="cast-spell">Cast Spell</a>
+    <a href="attack-melee">Attack<br/> (Melee)</a>
+    <a href="attack-ranged">Attack<br/> (Ranged)</a>
+    <a href="cast-spell">Cast<br/> Spell</a>
     <a href="dash">Dash</a>
     <a href="disengage">Disengage</a>
     <a href="dodge">Dodge</a>
@@ -17,6 +17,6 @@ parent: combat
     <a href="hide">Hide</a>
     <a href="ready">Ready</a>
     <a href="search">Search</a>
-    <a href="use-object">Use Object</a>
+    <a href="use-object">Use<br/> Object</a>
 </div>
 <hr/>

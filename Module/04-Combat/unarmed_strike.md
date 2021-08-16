@@ -6,7 +6,7 @@ parent: combat
 ### Unarmed Strike
 [Home](dm-operations-center) > [Combat](combat) > Unarmed Strike {.small-text}
 
-Bludgeoning = 1 + [Strength](strength) [modifier](ability-modifiers) {.text-center}
+**Bludgeoning = 1 + [Strength](strength) [modifier](ability-modifiers)** {.text-center}
 
 - May be used in place of any [melee attack](attack-melee) including w/ [extra attack](extra-attack) or [bonus action](bonus-action)
 - [Bonus action](bonus-action) unarmed strike, 1st attack must be w/ [light](weapon-properties) weapon or unarmed
