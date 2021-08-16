@@ -1,10 +1,10 @@
 ---
 name: Aristocrat
 slug: aristocrat
-parent: storytelling
+parent: worldbuilding
 ---
 ### Aristocrat
-[Home](dm-operations-center) > [Storytelling](storytelling) > [Group Patron](group-patron) > Aristocrat {.small-text}
+[Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > [Group Patrons](group-patrons) > Aristocrat {.small-text}
 
 > **Sources** <br/>
 > Tasha's Cauldron of Everything, p. 89

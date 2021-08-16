@@ -1,16 +1,14 @@
 ---
-name: Character Name Generator
-slug: character-name-generator
+name: NPC Generator
+slug: npc-generator
 parent: worldbuilding
 ---
-### Character Name Generator</h3>
-[Home](dm-operations-center) > [Worldbuilding](worldbuilding) > Character Name Generator {.small-text}
-
-<p>Use the following generator to quickly generate a few names based on the character's race (or culture) and gender identity.</p>
+### NPC Generator
+[Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > NPC Generator {.small-text}
 
 <div style="margin-bottom:15px; text-align:center;">
-    <select id="selectRace">
-        <option value="">-- Race --</option>
+    <select id="selectCulture">
+        <option value="">-- Culture --</option>
         <option value="Dragonborn">Dragonborn</option>
         <option value="Dwarf">Dwarf</option>
         <option value="Elf">Elf</option>
@@ -43,24 +41,34 @@ parent: worldbuilding
         <option value="Female">Female</option>
         <option value="Male">Male</option>
     </select>
-    <button id="buttonGenerateName" onclick="generateName()"> 
+    <select id="selectAge">
+        <option value="">-- Age --</option>
+        <option value="child">Child</option>
+        <option value="young">Young</option>
+        <option value="adult">Adult</option>
+        <option value="mature">Mature</option>
+        <option value="elder">Elder</option>
+    </select>
+    <select id="selectClass">
+        <option value="">-- Class --</option>
+        <option value="acolyte">Acolyte</option>
+        <option value="bandit">Bandit</option>
+        <option value="bandit-captain">Bandit Captain</option>
+        <option value="commoner">Commoner</option>
+        <option value="cultist">Cultist</option>
+        <option value="gladiator">Gladiator</option>
+        <option value="guard">Guard</option>
+        <option value="mage">Mage</option>
+        <option value="priest">Priest</option>
+        <option value="thug">Thug</option>
+        <option value="veteran">Veteran</option>
+    </select>
+    <button id="buttonGenerateNPC" onclick="generateNPC()"> 
         Generate 
     </button> 
 </div>
-
-
 <div class="result">
-    <h4 style="text-align:center;"><span id="givenName"></span> <span id="familyName"></span></h4>
+    <h4 align="center">Gondor calls for aid!</h4>
+    <p>I have ambitious plans for this module and a limited amount of talent and time. If your familiar with javascript and willing to help contact me via <a href="https://github.com/MrFarland">GitHub</a>.</p>
 </div>
-
 <hr/>
-
-**Notes**
-- I still need to fix the order of Chinese names to (surname given). {.small-text}
-- Drow names are planned, but haven't been implemente yet.
-- Elf child names are not yet implemented.
-- Orcs do not have clan/family names yet.
-
-*I don't have "Half" names, I choose names for half elves and orcs based on the culture in which they were raised.*
-
-<script src="assets/js/character-name-generator.js"></script>

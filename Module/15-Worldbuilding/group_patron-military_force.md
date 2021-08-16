@@ -1,10 +1,10 @@
 ---
 name: Military Force
 slug: military-force
-parent: storytelling
+parent: worldbuilding
 ---
 ### Military Force
-[Home](dm-operations-center) > [Storytelling](storytelling) > [Group Patron](group-patron) > Military Force {.small-text}
+[Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > [Group Patrons](group-patrons) > Military Force {.small-text}
 
 > **Sources** <br/>
 > Tasha's Cauldron of Everything, p. 96

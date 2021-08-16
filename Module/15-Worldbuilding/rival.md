@@ -1,10 +1,10 @@
 ---
 name: Rival
 slug: rival
-parent: storytelling
+parent: worldbuilding
 ---
 ### Rival
-[Home](dm-operations-center) > [Storytelling](storytelling) > Rival {.small-text}
+[Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > Rival {.small-text}
 
 <div style="margin-bottom:15px; text-align:center;">
     <select id="selectTier">

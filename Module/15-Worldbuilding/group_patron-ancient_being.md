@@ -1,10 +1,10 @@
 ---
 name: Ancient Being
 slug: ancient-being
-parent: storytelling
+parent: worldbuilding
 ---
 ### Ancient Being
-[Home](dm-operations-center) > [Storytelling](storytelling) > [Group Patron](group-patron) > Ancient Being {.small-text}
+[Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > [Group Patrons](group-patrons) > Ancient Being {.small-text}
 
 > **Sources** <br/>
 > Tasha's Cauldron of Everything, p. 86

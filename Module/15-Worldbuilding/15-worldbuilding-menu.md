@@ -7,9 +7,9 @@ parent: dm-operations-center
 [Home](dm-operations-center) > Worldbuilding
 
 <div class="menu-container">
-    <a href="character-name-generator">Name<br/> Generator</a>
     <a href="group-patron">Group Patron</a>
     <a href="location-generator">Location Generator</a>
+    <a href="name-generator">Name<br/> Generator</a>
     <a href="plot-hook">Plot Hook</a>
     <a href="rival">Rival</a>
     <a href="villain">Villain</a>

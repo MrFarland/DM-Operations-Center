@@ -1,10 +1,10 @@
 ---
 name: World-Shaking Events
 slug: world-shaking-events
-parent: storytelling
+parent: worldbuilding
 ---
 ### World-Shaking Events
-[Home](dm-operations-center) > [Storytelling](storytelling) > World-Shaking Events {.small-text}
+[Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > World-Shaking Events {.small-text}
 
 | d10 | Event                            |
 |:---:|:---------------------------------|

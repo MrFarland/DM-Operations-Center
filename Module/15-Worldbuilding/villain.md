@@ -1,10 +1,10 @@
 ---
 name: Villain
 slug: villain
-parent: storytelling
+parent: worldbuilding
 ---
 ### Villain
-[Home](dm-operations-center) > [Storytelling](storytelling) > Villain {.small-text}
+[Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > Villain {.small-text}
 
 <div style="margin-bottom:15px; text-align:center;">
     <select id="selectTier">

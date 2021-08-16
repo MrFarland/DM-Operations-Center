@@ -1,11 +1,10 @@
 ---
-name: Group Patron
-slug: group-patron
-parent: storytelling
+name: Group Patrons
+slug: group-patrons
+parent: worldbuilding
 ---
-### Group Patron
-[Home](dm-operations-center) > [Storytelling](storytelling) > Group Patron {.small-text}
-
+### Group Patrons
+[Home](dm-operations-center) > [worldbuilding](worldbuilding-menu) > Group Patrons {.small-text}
 <div class="menu-container">
     <a href="academy">Academy</a>
     <a href="ancient-being">Ancient Being</a>

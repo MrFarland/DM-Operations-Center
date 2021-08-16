@@ -1,12 +1,20 @@
 ---
-name: Plot Hook
-slug: plot-hook
-parent: worldbuilding
+name: Loot Generator
+slug: loot-generator
+parent: treasure
 ---
-### Plot Hook
-[Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > Plot Hooks {.small-text}
+### Loot Generator
+[Home](dm-operations-center) > [Treasure](treasure-menu) > Loot Generator {.small-text}
 
 <div style="margin-bottom:15px; text-align:center;">
+    <select id="selectType">
+        <option value="">- Sources -</option>
+        <option value="backpack">Backpack</option>
+        <option value="barrel">Barrel</option>
+        <option value="crate">Crate</option>
+        <option value="desk">Desk</option>
+        <option value="pocket">Pocket</option>
+    </select>
     <select id="selectTier">
         <option value="">- Tier -</option>
         <option value="tier1">Tier 1 (1-4)</option>
@@ -14,14 +22,7 @@ parent: worldbuilding
         <option value="tier3">Tier 3 (11-17)</option>
         <option value="tier4">Tier 4 (17-20)</option>
     </select>
-    <select id="selectSource">
-        <option value="">- Source -</option>
-        <option value="legend">Legend</option>
-        <option value="notice">Notice Board</option>
-        <option value="rumor">Rumor</option>
-        <option value="vision">Vision</option>
-    </select>
-    <button id="buttonGeneratePlotHooks" onclick="generatePlotHooks()"> 
+    <button id="buttonGenerateTreasure" onclick="generateTreasure()"> 
         Generate 
     </button> 
 </div>

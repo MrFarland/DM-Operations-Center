@@ -1,10 +1,10 @@
 ---
 name: Academy
 slug: academy
-parent: storytelling
+parent: worldbuilding
 ---
 ### Academy
-[Home](dm-operations-center) > [Storytelling](storytelling) > [Group Patron](group-patron) > Academy {.small-text}
+[Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > [Group Patrons](group-patrons) > Academy {.small-text}
 
 > **Sources** <br/>
 > Tasha's Cauldron of Everything, p. 84
