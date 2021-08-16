@@ -2,27 +2,26 @@
 name: Multiclassing Proficiencies 
 slug: multiclassing-proficiencies
 parent: multiclassing
-order: 02
 ---
 
 ### Multiclassing Proficiencies
 [Home](dm-operations-center) > [Characters](characters) > [Multiclassing](multiclassing) > Proficiencies {.small-text}
 
 | | |
-|-|-|
-| Artificer | Light & Medium Armor, Shields, Thieves' Tools, and Tinker's Tools  |
-| Barbarian | Shields, Simple & Martial Weapons |
-| Bard      | Light Armor, Any 1 Skill, & 1 Musical Instrument |
-| Cleric    | Light & Medium Armor and Shields |
-| Druid     | Light & Medium Armor and Shields |
-| Fighter   | Light & Medium Armor, Shields and Simple & Martial Weapons |
-| Monk      | Simple Weapons & Shortswords |
-| Paladin   | Light & Medium Armor, Shields and Simple & Martial Weapons |
-| Ranger    | Light & Medium Armor, Shields, Simple & Martial Weapons and 1 Skill from Class List |
-| Rogue     | Light Armor, 1 Skill from Class List, and Thieves' Tools|
-| Sorcerer  | None |
-| Warlock   | Light Armor and Simple Weapons |
-| Wizard    | None |
+| :-------- | :---------------------------------------------------------------------------------------------------------------------- |
+| Artificer | Light & Medium [Armor](armor), [Shields](/item/shield), [Thieves' Tools](/item/thieves-tools), and [Tinker's Tools](/item/tinker-s-tools)  |
+| Barbarian | [Shields](/item/shield), Simple & Martial [Weapons](weapons)                                                            |
+| Bard      | Light [Armor](armor), Any 1 Skill, & 1 [Musical Instrument](musical-instruments)                                        |
+| Cleric    | Light & Medium [Armor](armor) and [Shields](/item/shield)                                                               |
+| Druid     | Light & Medium [Armor](armor) and [Shields](/item/shield)                                                               |
+| Fighter   | Light & Medium [Armor](armor), [Shields](/item/shield) and Simple & Martial [Weapons](weapons)                          |
+| Monk      | Simple [Weapons](weapons) & [Shortswords](/item/shortsword)                                                             |
+| Paladin   | Light & Medium [Armor](armor), [Shields](/item/shield) and Simple & Martial [Weapons](weapons)                          |
+| Ranger    | Light & Medium [Armor](armor), [Shields](/item/shield), Simple & Martial [Weapons](weapons) and 1 Skill from Class List |
+| Rogue     | Light [Armor](armor), 1 Skill from Class List, and [Thieves' Tools](/item/thieves-tools)                                |
+| Sorcerer  | None                                                                                                                    |
+| Warlock   | Light [Armor](armor) and Simple [Weapons](weapons)                                                                      |
+| Wizard    | None                                                                                                                    |
 {.gray .small-text}
 
 > **Sources** <br/>

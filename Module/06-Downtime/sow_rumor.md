@@ -9,7 +9,7 @@ parent: downtime
 | Size  | Time                |    Cost |
 | :------ | --------------------: | --------: |
 | Village | [2d6](/roll/2d6) days | 1gp / day |
-| Town    | [4d6](/roll/4d6) days | 1gp / day |
+| Town    | [[4d6](/roll/4d6)](/roll/[4d6](/roll/4d6)) days | 1gp / day |
 | City    | [6d6](/roll/6d6) days | 1gp / day |
 {.gray .small-text}
 

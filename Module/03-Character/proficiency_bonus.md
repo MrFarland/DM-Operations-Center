@@ -6,9 +6,9 @@ parent: characters
 ### Proficiency Bonus
 [Home](dm-operations-center) > [Characters](characters) > Proficiency Bonus {.small-text}
 
-Used in [saving throws](saving-throws) and skill checks, as well as related ability checks when using weapons, instruments, and tools for which the character is proficient.
+Used for [saving throws](saving-throws), [skill checks](ability-checks), and [ability checks](ability-checks) when using [weapons](weapons), [instruments](musical-instruments), and [tools](tools) for which the character is proficient.
 
-|  Levels   | Bonus |
+|  Levels     | Bonus   |
 | :---------: | :-----: |
 |  **1 - 4**  |   +2    |
 |  **5 - 8**  |   +3    |
