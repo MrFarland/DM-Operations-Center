@@ -28,7 +28,7 @@ parent: expenses
 | - Aristocratic        |  2 gp |
 {.gray .small-text}
 
-***Note**. Meals are for the whole day. Divide by 3 for a single meal.* {.small-text}
+***Note**. "Meal" is for a whole day's worth of meals. Divide by 3 for a single meal.* {.small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. XXX<br/>

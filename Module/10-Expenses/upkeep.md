@@ -8,7 +8,7 @@ parent: expenses
 
 The per day costs of various types of property are indicated below and includes the wages of the skilled (SH) and unskilled (UH) hirelings that run it.
 
-| Property             | Cost | SH | US |
+| Property               | Cost   | SH   | US   |
 | :--------------------- | -----: | ---: | ---: |
 | Abbey                  |    20g |    5 |   25 |
 | Farm                   |     5s |    1 |    2 |
