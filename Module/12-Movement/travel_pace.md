@@ -13,7 +13,22 @@ parent: movement
 | Slow   | 200 ft | 2 mi | 18 mi | [Stealth](stealth)  |
 {.gray .small-text}
 
-*See Also: [Forced March](forced-march)*
+Travel by wagon or cart is the same speed as on foot. Passengers are not subject to effects of a [Forced March](forced-march), but the beasts are.
+
+Mounted (Horse) travel can cover double the distance for 1 hour up to 10 miles.
+
+#### Vehicles
+| Vehicle                            | Hour | Day    |
+| :--------------------------------- | ---: | -----: |
+| [Galley](/item/galley)             | 4 mi |  96 mi |
+| [Keelboat](/item/keelboat)         | 3 mi |  72 mi |
+| [Longship](/item/longship)         | 5 mi | 120 mi |
+| [Rowboat](/item/rowboat)           | 3 mi |  72 mi |
+| [Sailing Ship](/item/sailing-ship) | 5 mi | 120 mi |
+| [Warship](/item/warship)           | 4 mi |  96 mi |
+{.gray .small-text}
+
+
 
 > **Sources** <br/>
 > System Reference Document, p. 84<br/>

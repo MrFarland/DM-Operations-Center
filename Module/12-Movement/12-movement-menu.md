@@ -14,7 +14,6 @@ parent: dm-operations-center
     <a href="jump">Jump</a>
     <a href="size-and-space">Size & Space</a>
     <a href="swim">Swim</a>
-    <a href="travel-pace">Travel Pace</a>
-    <a href="."></a>
+    <a href="travel-pace">Travel<br/> Pace</a>
 </div>
 <hr/>
