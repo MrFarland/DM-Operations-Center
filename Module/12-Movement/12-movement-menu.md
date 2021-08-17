@@ -23,22 +23,4 @@ parent: dm-operations-center
     <a href="."></a>
     <a href="."></a>
 </div>
-<div class="more">▼ More ▼</div>
-<div class="menu-container">
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-</div>
 <hr/>

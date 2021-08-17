@@ -10,6 +10,8 @@ parent: movement
 
 The [DC](difficulty-class) increases by 1 for each additional hour beyond 8 hours.
 
+Vehicle passengers are not subject to this restriction.
+
 > **Sources** <br/>
 > System Reference Document, p. 84<br/>
 > Player's Handbook, p. 182

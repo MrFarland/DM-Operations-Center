@@ -6,15 +6,16 @@ parent: movement
 ### Climb
 [Home](dm-operations-center) > [Movement](movement) > Climb {.small-text}
 
-**1' Climbing = 2' of Movement (3' if Difficult Terrain)** {.text-center}
+**1' Climbing = 2' of Movement (3' [Difficult Terrain](difficult-terrain))** {.text-center}
 
-Extra cost is ignored if creature has a climbing speed.
+The extra cost is ignored if the creature has a climbing speed.
 
-Climbing a slippery surface or if few handholds are particularly difficult, the DM can ask for a [Strength](strength) ([Athletics](athletics)) check.
+#### Skill Check
+A character climbing a slippery surface or with few handholds may need a [Strength](strength) ([Athletics](athletics)) check.
 
-Characters with climbing gear or a rope have advantage on climbing related checks.
+Using a [Climber's Kit](/item/climbers-kit) or [Rope](/item/hempen-rope) may be used to give the character [advantage](advantage-and-disadvantage) on the check.
 
 > **Sources** <br/>
-> System Reference Document, p. XXX<br/>
+> System Reference Document, p. 85<br/>
 > Player's Handbook, p. 182
 {.read .small-text}

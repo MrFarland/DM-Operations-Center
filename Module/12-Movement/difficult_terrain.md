@@ -8,7 +8,7 @@ parent: movement
 
 **1' of Difficult Terrain = 2' of Movement** {.text-center}
 
-In difficult terrain (furnitures, dense forests, deep swamps, steep mountains, rubble,  ice-covered ground), a characters moves at helf speed (moving 2 feet costs 2 feet of speed).
+Difficult terrain is ground that prevents the creature from moving at full speed. Dense forests, deep swamps, rubble, and icy ground are difficult terrain.
 
 > **Sources** <br/>
 > System Reference Document, p. XXX<br/>
