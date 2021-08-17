@@ -15,10 +15,11 @@ parent: life-and-death
 - Must have 1 [HP](hit-points) to benefit from long rest.
 {.square}
 
-**Upon completion:**
+#### Upon completion
 - Regain all [HP](hit-points) up to character's maximum.
 - Regain spent [HD](hit-dice) = 1/2 character level.
 
 > **Sources** <br/>
+> System Reference Document, p. 87<br/>
 > Player's Handbook, p. 186
 {.read .small-text}
