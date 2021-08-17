@@ -6,13 +6,26 @@ parent: movement
 ### Swim
 [Home](dm-operations-center) > [Movement](movement) > Swim {.small-text}
 
+**1' Swimming = 2' of Movement (3' [Difficult Terrain](difficult-terrain))** {.text-center}
 
+Extra cost is ignored if creature has a swim speed. {.text-center}
 
-Unless aided by magic, a character can't swim for a
-full 8 hours per day. After each hour of swimming, a character must succeed on a [DC](difficulty-class) 10 Constitution saving throw or gain one level of exhaustion.
-A creature that has a swimming speed-including a character with a ring of swimming or similar magic- can swim all day without penalty and uses the normal forced march rules in the Player's Handbook.
-Swimming through deep water is similar to traveling at high altitudes, because of the water's pressure and cold temperature. For a creature without a swimming speed, each hour spent swimming at a depth greater than 100 feet counts as 2 hours for the purpose of  determining exhaustion. Swimming for an hour at a depth greater than 200 feet counts as 4 hours.
+#### Long Distance
+Creatures without a swim speed cannot swim long distances without magical assistance.
+
+**1pt [Exhaustion](exhaustion) = [DC](difficulty-class) 10 [CON](CONSTITUTION) over 8 hours** {.text-center}
+
+Creatures with a swim speed do not make this check and follow the same rules as a [Forced March](forced-march).
+
+#### Deep Water
+Swimming in deep water is similar to traveling at [high altitude](high-altitude).
+| Depth  | 1 hour|
+| :----- | :-: |
+| > 100' |  2h |
+| > 200' |  4h |
 
 > **Sources** <br/>
-> Dungeon Master's Guide, p. xxx
+> System Reference Document, p. 85<br/>
+> Player's Handbook, p. 182
+> Dungeon Master's Guide, p. 116
 {.read .small-text}

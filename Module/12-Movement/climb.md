@@ -8,7 +8,7 @@ parent: movement
 
 **1' Climbing = 2' of Movement (3' [Difficult Terrain](difficult-terrain))** {.text-center}
 
-The extra cost is ignored if the creature has a climbing speed.
+Extra cost is ignored if creature has a climb speed. {.text-center}
 
 #### Skill Check
 A character climbing a slippery surface or with few handholds may need a [Strength](strength) ([Athletics](athletics)) check.
