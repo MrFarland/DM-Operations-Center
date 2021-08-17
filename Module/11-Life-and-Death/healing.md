@@ -23,5 +23,5 @@ parent: life-and-death
 
 > **Sources** <br/>
 > System Reference Document, p. 132, 153, 170, 234<br/>
-> Player's Handbook, p. 153, 230, 250, 267, 
+> Player's Handbook, p. 153, 230, 250, 267
 {.read .small-text}
