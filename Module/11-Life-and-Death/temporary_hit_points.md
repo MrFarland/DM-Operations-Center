@@ -6,13 +6,16 @@ parent: life-and-death
 ### Temporary Hit Points
  [Home](dm-operations-center) > [Life & Death](life-and-death) > Temporary Hit Points {.small-text}
 
-- Not actual hit points, just a buffer.
-- Temp HP is used first, then regular HP.
-- Temp HP can exceed PCs HP maximum.
-- Temp HP **does not heal** or stabilize.
+Temporary Hit Points:
+- are not actual [hit points](hit-points), just a buffer,
+- are used first, **before** regular [hit points](hit-points),
+- can exceed a character's [HP](hit-points) maximum.
+- **DO NOT HEAL** or [stabilize](stablizing).
 
-**Temp HP does not stack!<br/> Subsequent grants replace prior grants.** {.text-center}
+**Temporary Hit Points do not stack!**<br/>
+Subsequent grants replace prior grants. {.text-center}
 
 > **Sources** <br/>
+> System Reference Document, p. 98<br/>
 > Player's Handbook, p. 198
 {.read .small-text}
