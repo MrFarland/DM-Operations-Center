@@ -14,6 +14,7 @@ parent: life-and-death
 {.square}
 
 > **Sources** <br/>
+> System Reference Document, p. 86<br/>
 > Player's Handbook, p. 183
 {.read .small-text}
 
