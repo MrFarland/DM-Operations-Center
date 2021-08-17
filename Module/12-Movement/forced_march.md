@@ -6,7 +6,7 @@ parent: movement
 ### Forced March
 [Home](dm-operations-center) > [Movement](movement) > Forced March {.small-text}
 
-**1pt [Exhaustion](exhaustion) = DC10 [CON](CONSTITUTION) over 8 hours** {.text-center}
+**1pt [Exhaustion](exhaustion) = [DC](difficulty-class) 10 [CON](CONSTITUTION) over 8 hours** {.text-center}
 
 The [DC](difficulty-class) increases by 1 for each additional hour beyond 8 hours.
 
