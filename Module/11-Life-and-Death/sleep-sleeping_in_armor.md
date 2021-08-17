@@ -14,6 +14,15 @@ Sleeping in medium or heavy [armor](armor) imposes the following restrictions on
 
 There are no penalties for sleeping in light [armor](armor).
 
+#### Don/Doff Armor
+| Type                  | Don   | Doff  |
+| :-------------------- | :---: | :---: |
+| Light Armor           |   1m  |   1m  |
+| Medium Armor          |   5m  |   1m  |
+| Heavy Armor           |  10m  |   5m  |
+| Shield                |   1a  |   1a  |
+{.gray .small-text}
+
 > **Sources** <br/>
 > Xanathar's Guide to Everything, p. 77
 {.read .small-text}
