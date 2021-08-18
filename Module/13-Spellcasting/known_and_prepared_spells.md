@@ -12,19 +12,19 @@ parent: spellcasting
 | **Prepared** | Prepared daily and may change spells following any [long rest](long-rest). |
 {.gray .small-text}
 
-| Class        | K/P | # of Spells               |
-| ------------ | :-: | ------------------------- |
-| Artificer    |  P  | [INT](INTELLIGENCE) Mod + 1/2 Level       |
-| Bard         |  K  | Determined by Level       |
-| Cleric       |  P  | [WIS](Wisdom) Mod + Level |
-| Druid        |  P  | [WIS](Wisdom) Mod + Level |
-| Fighter (EK) |  K  | Determined by Level       |
-| Paladin      |  P  | [CHA](CHARISMA) Mod + 1/2 Level       |
-| Ranger       |  K  | Determined by Level       |
-| Rogue (AT)   |  K  | Determined by Level       |
-| Sorcerer     |  K  | Determined by Level       |
-| Warlock      |  K  | Determined by Level       |
-| Wizard       |  P  | [INT](INTELLIGENCE) Mod + Level           |
+| Class        | K/P | # of Spells                         |
+| :----------- | :-: | :---------------------------------- |
+| Artificer    |  P  | [INT](intelligence) Mod + 1/2 Level |
+| Bard         |  K  | Determined by Level                 |
+| Cleric       |  P  | [WIS](Wisdom) Mod + Level           |
+| Druid        |  P  | [WIS](Wisdom) Mod + Level           |
+| Fighter (EK) |  K  | Determined by Level                 |
+| Paladin      |  P  | [CHA](CHARISMA) Mod + 1/2 Level     |
+| Ranger       |  K  | Determined by Level                 |
+| Rogue (AT)   |  K  | Determined by Level                 |
+| Sorcerer     |  K  | Determined by Level                 |
+| Warlock      |  K  | Determined by Level                 |
+| Wizard       |  P  | [INT](intelligence) Mod + Level     |
 {.gray .small-text}
 
 > **Sources** <br/>

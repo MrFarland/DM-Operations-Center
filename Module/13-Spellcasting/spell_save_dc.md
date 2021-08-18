@@ -6,7 +6,7 @@ parent: spellcasting
 ### Spell Save DC
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Save DC {.small-text}
 
-**8 + [Spellcasting Ability Modifier](spellcasting-ability) + proficiency bonus** {.text-center}
+**8 + [Spell Ability Modifier](spell-ability) + Proficiency Bonus** {.text-center}
 
 > **Sources** <br/>
 > System Reference Document, p. 102<br/>

@@ -14,7 +14,7 @@ Depending on the situation, skills may be paired with a different ability than a
 | [Athletics](athletics)             | [DEX](DEXTERITY)    | A feat that requires agility more than strength.    |
 | [Intimidation](intimidation)       | [STR](STRENGTH)     | Using one's physical presence to intimidate.        |
 | [Performance](performance)         | [DEX](DEXTERITY)    | Playing an instrument or an intricate dance.        |
-| [Sleight of Hand](sleight-of-hand) | [INT](INTELLIGENCE) | Anything requiring a steady hand & keen mind.       |
+| [Sleight of Hand](sleight-of-hand) | [INT](intelligence) | Anything requiring a steady hand & keen mind.       |
 | [Stealth](stealth)                 | [CHA](CHARISMA)     | Blending in at a party or in a crowd on the street. |
 {.gray .small-text}
 

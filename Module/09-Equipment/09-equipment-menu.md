@@ -12,7 +12,7 @@ parent: dm-operations-center
     <a href="containers-and-capacity">Containers<br/> & Capacity</a>
     <a href="explosives">Explosives</a>
     <a href="weapon-properties">Weapon<br/> Properties</a>
-    <a href=""></a>
+    <a href="weapons">Weapons</a>
     <a href=""></a>
     <a href=""></a>
     <a href=""></a>

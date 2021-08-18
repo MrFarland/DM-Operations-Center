@@ -8,7 +8,7 @@ parent: spellcasting
 
 A caster loses **concentration** when they:
 - cast another concentration spell,
-- become incapacitated or killed,
+- become [incapacitated](incapacitated) or killed,
 - takes damage from an attack or effect.
 {.square}
 

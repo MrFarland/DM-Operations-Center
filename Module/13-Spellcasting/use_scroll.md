@@ -5,14 +5,15 @@ parent: spellcasting
 ---
 ### Use Scroll
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Use Scroll {.small-text}
-|                   |                             |
-| ----------------- | --------------------------- |
+
+|||
+| :---------------- | :-------------------------- |
 | **Automatic**     | Level ≤ Highest Level Known |
 | **DC 10 + Level** | Level > Highest Level Known |
 {.gray .small-text}
 
-| Level | Save | Attack |
-| ------- | :----: | :------: |
+| Level   | Save   | Attack   |
+| :------ | :----: | :------: |
 | Cantrip |   13   |    +5    |
 | 1st     |   13   |    +5    |
 | 2nd     |   13   |    +5    |
@@ -27,8 +28,8 @@ parent: spellcasting
 
 - Spell must be on the caster's class list.
 - Casting time is same as regular casting.
-- Material components are not required.
-- An available spell slot is not required.
+- [Material components](spell-components) are not required.
+- An available [spell slot](spell-levels-and-slots) is not required.
 {.square}
 
 > **Sources** <br/>

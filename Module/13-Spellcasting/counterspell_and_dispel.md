@@ -6,9 +6,11 @@ parent: spellcasting
 ### Counterspell
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Counterspell {.small-text}
 
-**Success = [1d20](/roll/1d20) + [SAM](spellcasting-ability) ≥ [DC](difficulty-class) 10 + [Spell Level](spell-levels-and-slots)** {.text-center}
+**[1d20](/roll/1d20) + [SAM](spellcasting-ability) ≥ [DC](difficulty-class) 10 + [Spell Level](spell-levels-and-slots)** {.text-center}
 
-**Automatic if Counterspell Level > Spell Level** {.text-center .small-text}
+**Automatic if [Counterspell](/spell/counterspell) Level > Spell Level** {.text-center .small-text}
+
+***Note**. The same formula is used to [dispel magic](/spell/dispel-magic).* {.small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. 131<br/>

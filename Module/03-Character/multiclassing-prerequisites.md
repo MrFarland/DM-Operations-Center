@@ -9,7 +9,7 @@ parent: multiclassing
 
 |||
 | :-------- | :-------------------------------------- |
-| Artificer | [INT](INTELLIGENCE) 13                  |
+| Artificer | [INT](intelligence) 13                  |
 | Barbarian | [STR](STRENGTH) 13                      |
 | Bard      | [CHA](CHARISMA) 13                      |
 | Cleric    | [WIS](wisdom) 13                        |
@@ -21,7 +21,7 @@ parent: multiclassing
 | Rogue     | [DEX](DEXTERITY) 13                     |
 | Sorcerer  | [CHA](CHARISMA) 13                      |
 | Warlock   | [CHA](CHARISMA) 13                      |
-| Wizard    | [INT](INTELLIGENCE) 13                  | 
+| Wizard    | [INT](intelligence) 13                  | 
 {.gray .small-text}
 
 > **Sources** <br/>

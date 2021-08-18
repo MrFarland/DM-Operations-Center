@@ -7,9 +7,9 @@ parent: spellcasting
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Levels & Slots {.small-text}
 
 |||
-|-|-|
-| **Level** | Identifies the relative strength, power, or complexity of the spell.   |
-| **Slot**  | Amount of spell energy that may be expended between [long](long-rest) or [short](short-rest) rests.|
+| :-------- | :-------------------------------------------------------------------------------------------------- |
+| **Level** | Identifies the relative strength, power, or complexity of the spell.                                |
+| **Slot**  | Amount of spell energy that may be expended between [long](long-rest) or [short](short-rest) rests. |
 {.gray .small-text}
 
 - A spell must be cast using a spell slot of equal level or higher.

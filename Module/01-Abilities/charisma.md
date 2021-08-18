@@ -20,7 +20,7 @@ Charm, confidence, eloquence, and personality
     <a href="intimidation">Intimidation</a>
     <a href="performance">Performance</a>
     <a href="persuasion">Persuasion</a>
-    <a href="spell-attack-bonus">Spell Attack</a>
+    <a href="spell-ability">Spell Attack</a>
     <a href="spell-save-dc">Spell Save DC</a>
 </div>
 

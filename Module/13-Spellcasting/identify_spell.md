@@ -6,11 +6,11 @@ parent: spellcasting
 ### Identifying Spells
 [Home](dm-operations-center) > [Spellcasting](spellcasting) > Identifying Spells {.small-text}
 
-A character may use their reaction to identify a spell being cast or an action to identify it's effects.
+A character may use their [reaction](reaction) to identify a spell being cast or an [action](action) to identify it's effects.
 
-**DC = Intelligence (Arcana) ≥ DC15 + Spell Level**
+**[Intelligence](intelligence) ([Arcana](arcana)) ≥ [DC](difficulty-class) 15 + Spell Level**
 
-Advantage if cast in the same class as observer. {.text-center .small-text}
+[Advantage](advantage-and-disadvantage) if cast from the same class as observer. {.text-center .small-text}
 
 > **Sources** <br/>
 > Xanathar's Guide to Everything, p. 85

@@ -22,7 +22,7 @@ Mental acuity, recall, and ability to reason.
     <a href="investigation">Investigation</a>
     <a href="nature">Nature</a>
     <a href="religion">Religion</a>
-    <a href="spell-attack-bonus">Spell Attack</a>
+    <a href="spell-ability">Spell Attack</a>
     <a href="spell-save-dc">Spell Save DC</a>
 </div>
 
