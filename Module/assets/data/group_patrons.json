@@ -1,51 +1,48 @@
 {
-    "patron":"Academy",
-    "patron-type":{
-        "table-type":"roll",
-        "table-die":"1d6",
-        "table-items":[
-            {"roll":"1", "name":"Boarding School", "desc":"Students and faculty enjoy a familial relationship on a self-contained campus"},
-            {"roll":"2", "name":"Arcane Enclave", "desc":"Drawn together by cutting-edge magical scholarship, the enclave's residents are hungry for secrets, reagents, and subjects."},
-            {"roll":"3", "name":"Secret Monastery", "desc":"Ageless secrets remain the focus of contemplation and rigorous training at this site."},
-            {"roll":"4", "name":"Elite Institute", "desc":"This cutthroat college of science or the arts accepts only the creme de la creme of society and talent."},
-            {"roll":"5", "name":"Vault of Secrets", "desc":"This conspiracy strives to keep or eradicate all knowledge of a specific truth."},
-            {"roll":"6", "name":"Museum of Dreams", "desc":"Magical communication or shared dreamscapes connect a network of wide-ranging specialists."}
-        ]
-    },
-    "patron-contact":{
-        "table-type":"roll",
-        "table-die":"1d6",
-        "table-items":[
-            {"roll":"1", "name":"Harried Functionary", "desc":"A disinterested secretary conveys written correspondence to you from an exceptionally busy or aloof senior faculty member."},
-            {"roll":"2", "name":"Celebrated Instructor", "desc":"Despite their throngs of ambitious assistants, a celebrity researcher considers you their star pupil."},
-            {"roll":"3", "name":"Wizened Fixture", "desc":"A fantastically old, believed-to-be-deceased librarian gives you assignments from the circulation desk they never leave."},
-            {"roll":"4", "name":"Infatuated Tourist", "desc":"A flirtatious visiting scholar perceives your every report and donated discovery as a personal gift."},
-            {"roll":"5", "name":"Spectral Fragment", "desc":"A haunted piece of the academy's collection compels you to complete its secret research."},
-            {"roll":"6", "name":"Distant Observer", "desc":"A mysterious sponsor encourages your research from afar to avoid alerting nefarious forces embedded within the academy's bureaucracy."}
-        ]
-    },
-    "patron-role":{
-        "table-type":"roll",
-        "table-die":"1d6",
-        "table-items":[
-            {"roll":"1", "name":"Harried Functionary", "desc":"A disinterested secretary conveys written correspondence to you from an exceptionally busy or aloof senior faculty member."},
-            {"roll":"2", "name":"Celebrated Instructor", "desc":"Despite their throngs of ambitious assistants, a celebrity researcher considers you their star pupil."},
-            {"roll":"3", "name":"Wizened Fixture", "desc":"A fantastically old, believed-to-be-deceased librarian gives you assignments from the circulation desk they never leave."},
-            {"roll":"4", "name":"Infatuated Tourist", "desc":"A flirtatious visiting scholar perceives your every report and donated discovery as a personal gift."},
-            {"roll":"5", "name":"Spectral Fragment", "desc":"A haunted piece of the academy's collection compels you to complete its secret research."},
-            {"roll":"6", "name":"Distant Observer", "desc":"A mysterious sponsor encourages your research from afar to avoid alerting nefarious forces embedded within the academy's bureaucracy."}
-        ]
-    },
-    "patron-quest":{
-        "table-type":"roll",
-        "table-die":"1d6",
-        "table-items":[
-            {"roll":"1", "name":"Aberrant Zoology", "desc":"You undertake expeditions to document, capture, and explain beings antithetical to the natural order."},
-            {"roll":"2", "name":"Arcanodynamics", "desc":"You investigate the ways magic underpins existence, exploring its flows and seeking ways to harness its nexuses."},
-            {"roll":"3", "name":"Forbidden History", "desc":"You reveal the lost truths of the world's darkest ages, pursuing the history of purposefully hidden or taboo eras."},
-            {"roll":"4", "name":"Cryptogeography", "desc":"You search for proof of a hidden land or that the world isn't structured as commonly assumed."},
-            {"roll":"5", "name":"Restorative Antiquarianism", "desc":"You track clues leading to plundered artifacts and then restore them to their rightful owners."},
-            {"roll":"6", "name":"Evolutionary Divinity", "desc":" You dare to explore what no mortal was meant to know: the origins of divinity."}
-        ]
+    "academy":{
+        "type":{
+            "die":"1d6",
+            "items":[
+                {"min":"1", "max":"1", "name":"Boarding School", "desc":"Students and faculty enjoy a familial relationship on a self-contained campus"},
+                {"min":"2", "max":"2", "name":"Arcane Enclave", "desc":"Drawn together by cutting-edge magical scholarship, the enclave's residents are hungry for secrets, reagents, and subjects."},
+                {"min":"3", "max":"3", "name":"Secret Monastery", "desc":"Ageless secrets remain the focus of contemplation and rigorous training at this site."},
+                {"min":"4", "max":"4", "name":"Elite Institute", "desc":"This cutthroat college of science or the arts accepts only the creme de la creme of society and talent."},
+                {"min":"5", "max":"5", "name":"Vault of Secrets", "desc":"This conspiracy strives to keep or eradicate all knowledge of a specific truth."},
+                {"min":"6", "max":"6", "name":"Museum of Dreams", "desc":"Magical communication or shared dreamscapes connect a network of wide-ranging specialists."}
+            ]
+        },
+        "contact":{
+            "die":"1d6",
+            "items":[
+                {"min":"1", "max":"1", "name":"Harried Functionary", "desc":"A disinterested secretary conveys written correspondence to you from an exceptionally busy or aloof senior faculty member."},
+                {"min":"2", "max":"2", "name":"Celebrated Instructor", "desc":"Despite their throngs of ambitious assistants, a celebrity researcher considers you their star pupil."},
+                {"min":"3", "max":"3", "name":"Wizened Fixture", "desc":"A fantastically old, believed-to-be-deceased librarian gives you assignments from the circulation desk they never leave."},
+                {"min":"4", "max":"4", "name":"Infatuated Tourist", "desc":"A flirtatious visiting scholar perceives your every report and donated discovery as a personal gift."},
+                {"min":"5", "max":"5", "name":"Spectral Fragment", "desc":"A haunted piece of the academy's collection compels you to complete its secret research."},
+                {"min":"6", "max":"6", "name":"Distant Observer", "desc":"A mysterious sponsor encourages your research from afar to avoid alerting nefarious forces embedded within the academy's bureaucracy."}
+            ]
+        },
+        "role":{
+            "die":"1d6",
+            "items":[
+                {"min":"1", "max":"1", "name":"Harried Functionary", "desc":"A disinterested secretary conveys written correspondence to you from an exceptionally busy or aloof senior faculty member."},
+                {"min":"2", "max":"2", "name":"Celebrated Instructor", "desc":"Despite their throngs of ambitious assistants, a celebrity researcher considers you their star pupil."},
+                {"min":"3", "max":"3", "name":"Wizened Fixture", "desc":"A fantastically old, believed-to-be-deceased librarian gives you assignments from the circulation desk they never leave."},
+                {"min":"4", "max":"4", "name":"Infatuated Tourist", "desc":"A flirtatious visiting scholar perceives your every report and donated discovery as a personal gift."},
+                {"min":"5", "max":"5", "name":"Spectral Fragment", "desc":"A haunted piece of the academy's collection compels you to complete its secret research."},
+                {"min":"6", "max":"6", "name":"Distant Observer", "desc":"A mysterious sponsor encourages your research from afar to avoid alerting nefarious forces embedded within the academy's bureaucracy."}
+            ]
+        },
+        "quest":{
+            "die":"1d6",
+            "items":[
+                {"min":"1", "max":"1", "name":"Aberrant Zoology", "desc":"You undertake expeditions to document, capture, and explain beings antithetical to the natural order."},
+                {"min":"2", "max":"2", "name":"Arcanodynamics", "desc":"You investigate the ways magic underpins existence, exploring its flows and seeking ways to harness its nexuses."},
+                {"min":"3", "max":"3", "name":"Forbidden History", "desc":"You reveal the lost truths of the world's darkest ages, pursuing the history of purposefully hidden or taboo eras."},
+                {"min":"4", "max":"4", "name":"Cryptogeography", "desc":"You search for proof of a hidden land or that the world isn't structured as commonly assumed."},
+                {"min":"5", "max":"5", "name":"Restorative Antiquarianism", "desc":"You track clues leading to plundered artifacts and then restore them to their rightful owners."},
+                {"min":"6", "max":"6", "name":"Evolutionary Divinity", "desc":" You dare to explore what no mortal was meant to know: the origins of divinity."}
+            ]
+        }
     }
 }
