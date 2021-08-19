@@ -12,9 +12,10 @@ parent: dm-operations-center
     <a href="containers-and-capacity">Containers<br/> & Capacity</a>
     <a href="explosives">Explosives</a>
     <a href="firearms">Firearms<br/> (Gunslinger)</a>
+    <a href="musical-instruments">Musical Instruments</a>
+    <a href="tools">Tools</a>
     <a href="weapon-properties">Weapon<br/> Properties</a>
     <a href="weapons">Weapons</a>
-    <a href=""></a>
     <a href=""></a>
     <a href=""></a>
     <a href=""></a>
