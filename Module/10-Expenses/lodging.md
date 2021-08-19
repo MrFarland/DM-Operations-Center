@@ -14,9 +14,11 @@ parent: expenses
 | Comfortable  | 8 sp |
 | Wealthy      | 2 gp |
 | Aristocratic | 4 gp |
+| ||
+| Stabling (per day) | 5 sp |
 {.gray .small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. XXX<br/>
-> Player's Handbook, p. 158<br/>
+> Player's Handbook, p. 157-158<br/>
 {.read .small-text}
