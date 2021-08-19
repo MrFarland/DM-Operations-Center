@@ -20,5 +20,6 @@ parent: dm-operations-center
     <a href="spellcasting-services">Spellcasting<br/> Services</a>
     <a href="trade-goods">Trade<br/> Goods</a>
     <a href="upkeep">Upkeep</a>
+    <a href="vehicles">Vehicles</a>
 </div>
 <hr/>
