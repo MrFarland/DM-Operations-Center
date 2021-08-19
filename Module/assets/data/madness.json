@@ -1,6 +1,6 @@
 {
     "ShortTerm":{
-        "die":"1d100",
+        "die":"100",
         "items":[
             { "min":"01","max":"20","html":"The character retreats into their mind and becomes <a href=\"paralyzed\">paralyzed</a>. The effect ends if the character takes any damage."},
             { "min":"21","max":"30","html":"The character becomes <a href=\"incapacitated\">incapacitated</a> and spends the duration screaming, lauging, or weeping."},
@@ -15,7 +15,7 @@
         ]
     },
     "LongTerm":{
-        "die":"1d100",
+        "die":"100",
         "items":[
             { "min":"01","max":"10","html":"The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins."},
             { "min":"11","max":"20","html":"The character experiences vivid hallucinations and has <a href=\"advantage-and-disadvantage\">disadvantage</a> on <a href=\"ability-checks\">ability checks</a>."},
@@ -32,7 +32,7 @@
         ]
     },
     "Indefinite":{
-        "die":"1d100",
+        "die":"100",
         "items":[
             { "min":"01","max":"15","html":"Being drunk keeps me sane."},
             { "min":"16","max":"25","html":"I keep whatever I find."},
