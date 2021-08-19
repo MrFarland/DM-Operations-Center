@@ -34,7 +34,7 @@ Officers and crew make a group hazard check to escape. It represents 5 minutes o
 
 | Group Check                                                                                   ||
 | :-------------- | :--------------------------------------------------------------------------- |
-| Captain         | [Intelligence](intelligence) ([Water Vehicle](vehicles-water))               |
+| Captain         | [Intelligence](intelligence) (Water Vehicle)               |
 | First Mate      | [Charisma](charisma) ([Intimidation](intimidation)/[Persuasion](persuasion)) |
 | Bosun           | [Strength](strength) ([Carpenter's Tools](carpenters-tools))                 |
 | Quartermaster   | [Wisdom](wisdom) ([Nature](nature))                                          |

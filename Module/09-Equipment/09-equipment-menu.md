@@ -16,9 +16,6 @@ parent: dm-operations-center
     <a href="musical-instruments">Musical Instruments</a>
     <a href="poisons">Poisons</a>
     <a href="tools">Tools</a>
-    <a href="vehicles-air">Vehicles<br/> (Air)</a>
-    <a href="vehicles-land">Vehicles<br/> (Land)</a>
-    <a href="vehicles-sea">Vehicles<br/> (Sea)</a>
     <a href="weapon-properties">Weapon<br/> Properties</a>
     <a href="weapons">Weapons</a>
     <a href=""></a>
