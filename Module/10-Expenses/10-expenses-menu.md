@@ -4,7 +4,7 @@ slug: expenses-menu
 parent: dm-operations-center
 ---
 ## Expenses
-[Home](dm-operations-center) > Expenses
+[Home](dm-operations-center) > Expenses {.small-text}
 
 <div class="menu-container">
     <a href="store-generator">Store Generator</a>

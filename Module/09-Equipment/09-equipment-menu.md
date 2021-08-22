@@ -4,7 +4,7 @@ slug: equipment-menu
 parent: dm-operations-center
 ---
 ## Equipment
-[Home](dm-operations-center) > Equipment
+[Home](dm-operations-center) > Equipment {.small-text}
 
 <div class="menu-container">
     <a href="adventuring-gear">Adventuring Gear</a>

@@ -4,7 +4,7 @@ slug: downtime-menu
 parent: dm-operations-center
 ---
 ## Downtime
-[Home](dm-operations-center) > Downtime
+[Home](dm-operations-center) > Downtime {.small-text}
 
 <div class="menu-container">
     <a href="brew-healing-potion">Brew Healing<br/> Potion</a>

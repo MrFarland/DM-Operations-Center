@@ -4,7 +4,7 @@ slug: character-menu
 parent: dm-operations-center
 ---
 ## Character
-[Home](dm-operations-center) > Character
+[Home](dm-operations-center) > Character {.small-text}
 
 <div class="menu-container">
     <a href="advancement">Advancement</a>

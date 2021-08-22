@@ -4,7 +4,7 @@ slug: worldbuilding-menu
 parent: dm-operations-center
 ---
 ## Worldbuilding
-[Home](dm-operations-center) > Worldbuilding
+[Home](dm-operations-center) > Worldbuilding {.small-text}
 
 <div class="menu-container">
     <a href="group-patron">Group Patron</a>

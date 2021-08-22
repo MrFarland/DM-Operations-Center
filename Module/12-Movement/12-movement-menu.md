@@ -4,7 +4,7 @@ slug: movement-menu
 parent: dm-operations-center
 ---
 ## Movement
-[Home](dm-operations-center) > Movement & Travel
+[Home](dm-operations-center) > Movement & Travel {.small-text}
 
 <div class="menu-container">
     <a href="climb">Climb</a>

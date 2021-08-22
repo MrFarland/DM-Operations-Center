@@ -4,7 +4,7 @@ slug: environment-menu
 parent: dm-operations-center
 ---
 ## Environment
-[Home](dm-operations-center) > Environment
+[Home](dm-operations-center) > Environment {.small-text}
 
 <div class="menu-container">
     <a href="desecrated-ground">Desecrated<br/> Ground</a>

@@ -4,7 +4,7 @@ slug: conditions-menu
 parent: dm-operations-center
 ---
 ## Conditions
-[Home](dm-operations-center) > Conditions
+[Home](dm-operations-center) > Conditions {.small-text}
 
 <div class="menu-container">
     <a href="blinded">Blinded</a>

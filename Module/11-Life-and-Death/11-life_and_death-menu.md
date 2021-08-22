@@ -4,7 +4,7 @@ slug: life-and-death-menu
 parent: dm-operations-center
 ---
 ## Life & Death
-[Home](dm-operations-center) > Life & Death
+[Home](dm-operations-center) > Life & Death {.small-text}
 
 <div class="menu-container">
     <a href="death-saving-throws">Death Saving Throws</a>

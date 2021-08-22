@@ -4,7 +4,7 @@ slug: spellcasting-menu
 parent: dm-operations-center
 ---
 ## Spellcasting
-[Home](dm-operations-center) > Spellcasting
+[Home](dm-operations-center) > Spellcasting {.small-text}
 
 <div class="menu-container">
     <a href="area-of-effect">Area of<br/> Effect</a>
