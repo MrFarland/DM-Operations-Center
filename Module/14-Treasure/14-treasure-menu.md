@@ -4,7 +4,7 @@ slug: treasure-menu
 parent: dm-operations-center
 ---
 ## Treasure
-[Home](dm-operations-center) > Loot
+[Home](dm-operations-center) > Treasure  {.small-text}
 
 <div class="menu-container">
     <a href="book-generator">Book Generator</a>
