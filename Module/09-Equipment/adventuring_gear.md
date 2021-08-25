@@ -118,6 +118,6 @@ parent: equipment
 {.gray .small-text}
 
 > **Sources** <br/>
-> System Reference Document, p. XXX<br/>
+> System Reference Document, p. 70<br/>
 > Player's Handbook, p. 148
 {.read .small-text}

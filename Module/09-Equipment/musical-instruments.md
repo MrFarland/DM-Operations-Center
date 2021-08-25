@@ -25,5 +25,6 @@ A character proficient with a specific musical instrument may add their [profici
 ***\*** A bard may use a musical instrument as a [spellcasting focus](spell-component) for any material components without a cost.*
 
 > **Sources** <br/>
-> Dungeon Master's Guide, p. 267<br/>
+> System Reference Document, p. 70<br/>
+> Player's Handbook, p. 154
 {.read .small-text}
