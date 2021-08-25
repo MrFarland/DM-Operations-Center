@@ -6,7 +6,7 @@ parent: equipment
 ### Adventuring Gear
 [Home](dm-operations-center) > [Equipment](equipment) > Adventuring Gear {.small-text}
 
-| Item                         |   Cost   |       Weight |
+| Item                                                   |   Cost   |       Weight |
 | :----------------------------------------------------- | -------: | -----------: |
 | [Abacus](/item/abacus)                                 |     2 gp |        2 lb. |
 | [Acid (vial)](/item/acid-vial)                         |    25 gp |        1 lb. |
@@ -118,6 +118,6 @@ parent: equipment
 {.gray .small-text}
 
 > **Sources** <br/>
-> System Reference Document, p. 70<br/>
+> System Reference Document, p. 69<br/>
 > Player's Handbook, p. 148
 {.read .small-text}
