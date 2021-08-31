@@ -12,6 +12,7 @@ parent: dm-operations-center
 </div>
 <hr/>
 <div class="menu-container">
+    <a href="exchange-rates">Exchange<br/> Rates</a>
     <a href="food-and-drink">Food<br/> & Drink</a>
     <a href="lifestyle">Lifestyle</a>
     <a href="lodging">Lodging</a>
