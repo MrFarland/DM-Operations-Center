@@ -6,7 +6,7 @@ parent: expenses
 ### Services
 [Home](dm-operations-center) > [Expenses](expenses) > Services {.small-text}
 
-| Service                                                |   Cost   | Rate     |
+| Service                                                |   Cost   | Per      |
 | :----------------------------------------------------- | -------: | :------- |
 | **Hirelings**                                                              |||
 | - Messenger                                            |     2 cp | mile     |  
