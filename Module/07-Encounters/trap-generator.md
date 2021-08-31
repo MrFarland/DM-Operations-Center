@@ -6,7 +6,7 @@ parent: encounters
 ### Trap Generator
 [Home](dm-operations-center) > [Encounters](encounters) > Trap Generator {.small-text}
 
-<div style="margin-bottom:15px; text-align:center;">
+<div style="margin-bottom: 1.5rem; text-align:center;">
     <select id="selectTier">
         <option value="">- Tier -</option>
         <option value="tier1">Tier 1 (1-4)</option>

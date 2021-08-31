@@ -6,7 +6,7 @@ parent: treasure
 ### Loot Generator
 [Home](dm-operations-center) > [Treasure](treasure-menu) > Loot Generator {.small-text}
 
-<div style="margin-bottom:15px; text-align:center;">
+<div style="margin-bottom: 1.5rem; text-align:center;">
     <select id="selectType">
         <option value="">- Sources -</option>
         <option value="backpack">Backpack</option>

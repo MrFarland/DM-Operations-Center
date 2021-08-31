@@ -22,34 +22,34 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    font-size: 12px;
-    line-height: 14px;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
  }
  .menu-div {
    align-items: center;
    background: #f2f2f2; 
-   border: 1px solid #919191; 
-   border-radius: 6px;
+   border:0.1rem solid #919191; 
+   border-radius: 0.6rem;
    display: flex; 
    flex: 1; 
-   flex-basis: 90px; 
-   height: 30px;
-   margin: 3px; 
-   padding: 3px;
+   flex-basis: 9.0rem; 
+   height: 3.0rem;
+   margin:0.3rem; 
+   padding:0.3rem;
    justify-content: center;
    text-align: center;
  }
  .menu-container a {
     align-items: center;
     background: #f2f2f2; 
-    border: 1px solid #919191; 
-    border-radius: 6px;
+    border:0.1rem solid #919191; 
+    border-radius: 0.6rem;
     display: flex; 
     flex: 1; 
-    flex-basis: 78px; 
-    height: 30px;
-    margin: 3px; 
-    padding: 3px;
+    flex-basis: 7.8rem; 
+    height: 3.0rem;
+    margin:0.3rem; 
+    padding:0.3rem;
     justify-content: center;
     text-align: center;
  }
@@ -64,49 +64,49 @@
 
  /* Controls */
  .controls {
-   margin-bottom:15px;
+   margin-bottom: 1.5rem;
    text-align:center;
  }
  .result {
    background: #f2f2f2; 
-   border: 1px solid #919191; 
-   border-radius: 6px;
-   height: 90px;
-   margin: 3px; 
-   padding: 10px;
+   border:0.1rem solid #919191; 
+   border-radius: 0.6rem;
+   height: 9.0rem;
+   margin:0.3rem; 
+   padding: 1.0rem;
  }
 
  /* Footer */
  .footer {
-    margin-top: 240px;
+    margin-top: 24.0rem;
  }
  .fan-content-policy {
      color: #737373;
-     font-size: 8px;
-     line-height: 8px;
-     margin: 0 24px 18px 24px;
+     font-size: 0.8rem;
+     line-height: 0.8rem;
+     margin: 0 2.4rem 1.8rem 2.4rem;
  }
  .license {
    color: #282828;
-   font-size: 10px;
-   line-height: 10px;
-   margin: 0 16px 18px 16px;
+   font-size: 1.0rem;
+   line-height: 1.0rem;
+   margin: 0 1.6rem 1.8rem 1.6rem;
    text-align: center;
 }
 
 /* General Formatting*/
 .more {
-   font-size: 8px;
-   margin: 4px;
+   font-size: 0.8rem;
+   margin: 0.4rem;
    text-align: center;
 }
 .small-text {
-   font-size: 12px;
-   line-height: 12px;
+   font-size: 1.2rem;
+   line-height: 1.2rem;
 }
 
 /* General UI */
 .uiControls {
-   margin-bottom:15px;
+   margin-bottom: 1.5rem;
    text-align:center;
 }

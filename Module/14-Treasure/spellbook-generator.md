@@ -6,7 +6,7 @@ parent: treasure
 ### Spellbook Generator
 [Home](dm-operations-center) > [Treasure](treasure-menu) > Spellbook Generator {.small-text}
 
-<div style="margin-bottom:15px; text-align:center;">
+<div style="margin-bottom: 1.5rem; text-align:center;">
     <select id="selectEnvironment">
         <option value="">- Level -</option>
         <option value="l1-2">1-2</option>

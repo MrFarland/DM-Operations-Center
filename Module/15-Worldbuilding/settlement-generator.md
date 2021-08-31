@@ -6,7 +6,7 @@ parent: worldbuilding
 ### Settlement Generator
 [Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > Settlement Generator {.small-text}
 
-<div style="margin-bottom:15px; text-align:center;">
+<div style="margin-bottom: 1.5rem; text-align:center;">
     <select id="selectType">
         <option value="">- Type -</option>
         <option value="station">Station</option>

@@ -6,7 +6,7 @@ parent: expenses
 ### Inn & Tavern Generator
 [Home](dm-operations-center) > [Expenses](expenses) > Inn & Tavern Generator {.small-text}
 
-<div style="margin-bottom:15px; text-align:center;">
+<div style="margin-bottom: 1.5rem; text-align:center;">
     <select id="selectStore">
         <option value="">- Quality -</option>
         <option value="poor">Poor</option>

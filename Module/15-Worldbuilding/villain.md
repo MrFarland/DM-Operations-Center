@@ -6,7 +6,7 @@ parent: worldbuilding
 ### Villain
 [Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > Villain {.small-text}
 
-<div style="margin-bottom:15px; text-align:center;">
+<div style="margin-bottom: 1.5rem; text-align:center;">
     <select id="selectTier">
         <option value="">- Tier -</option>
         <option value="tier1">Tier 1 (1-4)</option>

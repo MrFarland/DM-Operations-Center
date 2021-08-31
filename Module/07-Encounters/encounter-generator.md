@@ -6,7 +6,7 @@ parent: encounters
 ### Encounter Generator
 [Home](dm-operations-center) > [Encounters](encounters) > Encounter Generator {.small-text}
 
-<div style="margin-bottom:15px; text-align:center;">
+<div style="margin-bottom: 1.5rem; text-align:center;">
     <select id="selectEnvironment">
         <option value="">- Environment -</option>
         <option value="arctic">Arctic</option>

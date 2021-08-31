@@ -8,7 +8,7 @@ parent: worldbuilding
 
 <p>Use the following generator to quickly generate a few names based on the character's race (or culture) and gender identity.</p>
 
-<div style="margin-bottom:15px; text-align:center;">
+<div style="margin-bottom: 1.5rem; text-align:center;">
     <select id="selectRace">
         <option value="">-- Race --</option>
         <option value="Dragonborn">Dragonborn</option>

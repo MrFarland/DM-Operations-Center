@@ -6,7 +6,7 @@ parent: treasure
 ### Treasure Generator
 [Home](dm-operations-center) > [Treasure](treasure-menu) > Treasure Generator {.small-text}
 
-<div style="margin-bottom:15px; text-align:center;">
+<div style="margin-bottom: 1.5rem; text-align:center;">
     <select id="selectType">
         <option value="">- Types -</option>
         <option value="individual">Individual</option>
