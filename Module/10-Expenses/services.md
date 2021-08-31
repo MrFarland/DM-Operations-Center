@@ -6,7 +6,25 @@ parent: expenses
 ### Services
 [Home](dm-operations-center) > [Expenses](expenses) > Services {.small-text}
 
+| Service                                                |   Cost   | Rate     |
+| :----------------------------------------------------- | -------: | :------- |
+| **Hirelings**                                                              |||
+| - Messenger                                            |     2 cp | mile     |  
+| - Skilled (Artisans, Mercs)                            |     2 gp | day      |  
+| - Unskilled (Laborers, Thugs)                          |     2 sp | day      |  
+| **Transportation**                                                         |||
+| - Airship*                                             |     2 sp | mile     |  
+| - Coach (Local)                                        |     1 cp | ---      |
+| - Coach (Long Distance)                                |     3 cp | mile     |
+| - Road, Gate, or Toll                                  |     1 cp | ---      |
+| - Ship*                                                |     1 sp | mile     |
+{.gray .small-text}
+
+> **MrFarland House Rule**<br/>
+> Travel by ship/airship is based on [lifestyle](lifestyle-expenses) with accomodations on ships (half) & airships (full).
+{.flavortext}
 
 > **Sources** <br/>
-> Dungeon Master's Guide, p. 127
+> System Reference Document, p. 74<br/>
+> Player's Handbook, p. 159<br/>
 {.read .small-text}
