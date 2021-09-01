@@ -8,15 +8,15 @@ parent: equipment
 
 *From Matthew Mercer's Gunslinger subclass<br/> and NOT the Dungeon Master's Guide.* {.text-center .small-text}
 
-| Name                             | Cost| Ammo   | DMG                | WT | Range   |
-| :------------------------------- |---: | :----: | :----------------- | -: | :-----: |
-| [Palm Pistol](/item/palm-pistol) |  50 | 2g(20) | [1d8](/roll/1d8)   |  1 |  40/160 |
-| [Pistol](/item/pistol)           | 150 | 4g(20) | [1d10](/roll/1d10) |  3 |  60/240 |
-| [Musket](/item/musket)           | 300 | 5g(20) | [1d12](/roll/1d12) | 10 | 120/480 |
-| [Pepperbox](/item/pepperbox)     | 250 | 4g(20) | [1d10](/roll/1d10) |  5 |  80/320 |
-| [Blunderbuss](/item/blunderbuss) | 300 | 5g(5)  | [2d8](/roll/2d8)   | 10 |  15/60  |
-| [Bad News](/item/bad-news)       | --- | 10g(5) | [2d12](/roll/2d12) | 25 | 200/800 |
-| [Hand Mortar](/item/hand-mortar) | --- | 10g(1) | [2d12](/roll/2d12) | 25 | 200/800 |
+| Name                                      | Cost| Ammo                              | DMG                | WT |
+| :---------------------------------------- |---: | :-------------------------------: | :----------------- | -: |
+| [Palm Pistol](/item/palm-pistol-exandria) |  50 | [(20)](/item/palm-pistol-bullets) | [1d8](/roll/1d8)   |  1 |
+| [Pistol](/item/pistol-exandria)           | 150 | [(20)](/item/pistol-bullets)      | [1d10](/roll/1d10) |  3 |
+| [Musket](/item/musket-exandria)           | 300 | [(20)](/item/musket-bullets)      | [1d12](/roll/1d12) | 10 |
+| [Pepperbox](/item/pepperbox-exandria)     | 250 | [(20)](/item/pepperbox-bullets)   | [1d10](/roll/1d10) |  5 |
+| [Blunderbuss](/item/blunderbuss-exandria) | 300 |  [(5)](/item/blunderbuss-bullets) | [2d8](/roll/2d8)   | 10 |
+| [Bad News](/item/bad-news-exandria)       | --- |  [(5)](/item/bad-news-bullets)    | [2d12](/roll/2d12) | 25 |
+| [Hand Mortar](/item/hand-mortar-exandria) | --- |  [(1)](/item/hand-mortar-bullets) | [2d12](/roll/2d12) | 25 |
 {.gray .small-text} 
 
 > **Sources** <br/>

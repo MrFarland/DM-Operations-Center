@@ -12,7 +12,7 @@ parent: encounters
 **Easy** 
 <div class="menu-container">
     <a href="creature-painting">Creature Painting</a>
-    <a href="reckless-steps">Reckless Steps</a>
+    <a href="restless-steps">Restless Steps</a>
     <a href="skeleton-keys">Skeleton Keys</a>
 </div>
 

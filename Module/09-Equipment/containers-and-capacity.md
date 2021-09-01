@@ -11,11 +11,11 @@ parent: equipment
 | [Backpack](/item/backpack)*                     |   1 ft^3^ |        - |   30 lbs |
 | [Barrel](/item/barrel)                          |   4 ft^3^ |    40 ga |        - |
 | [Basket](/item/basket)                          |   2 ft^3^ |        - |   40 lbs |
-| [Bottle](/item/bottle)                          |         - | 1 1/2 pt |        - |
+| [Bottle, Glass](/item/bottle-glass)             |         - | 1 1/2 pt |        - |
 | [Bucket](/item/bucket)                          | 1/2 ft^3^ |     3 ga |        - |
 | [Chest](/item/chest)                            |  12 ft^3^ |        - |  300 lbs |
-| [Flask](/item/flask) / [Tankard](/item/tankard) |         - |     1 pt |        - |
-| [Jug](/item/jug) / [Pitcher](/item/pitcher)     |         - |     1 ga |        - |
+| [Flask or Tankard](/item/flask-or-tankard)      |         - |     1 pt |        - |
+| [Jug or Pitcher](/item/jug-or-pitcher)          |         - |     1 ga |        - |
 | [Pot, Iron](/item/pot-iron)                     |         - |     1 ga |        - |
 | [Pouch](/item/pouch)                            | 1/5 ft^3^ |        - |    6 lbs |
 | [Sack](/item/sack)                              |   1 ft^3^ |        - |   30 lbs |

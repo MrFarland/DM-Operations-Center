@@ -9,11 +9,11 @@ parent: equipment
 | Armor                                  | Cost   | [AC](armor-class)                | Weight   |
 | :------------------------------------- | -----: | -------------------------------: | -------: |
 | ***Light Armor***                                                                          ||||
-| [Padded](/item/padded-armor)*          |   5 gp |              11+[DEX](dexterity) |     8 lb |
-| [Leather](/item/leather-armor)         |  10 gp |              11+[DEX](dexterity) |    10 lb |
-| [Studded](/item/studded-leather-armor) |  45 gp |              12+[DEX](dexterity) |    13 lb |
+| [Padded](/item/padded)*                |   5 gp |              11+[DEX](dexterity) |     8 lb |
+| [Leather](/item/leather)               |  10 gp |              11+[DEX](dexterity) |    10 lb |
+| [Studded](/item/studded-leather)       |  45 gp |              12+[DEX](dexterity) |    13 lb |
 | ***Medium Armor***                                                                         ||||
-| [Hide](/item/hide-armor)               |  10 gp | 12+[DEX](dexterity)<br/> (Max 2) |    12 lb |
+| [Hide](/item/hide)                     |  10 gp | 12+[DEX](dexterity)<br/> (Max 2) |    12 lb |
 | [Chain Shirt](/item/chain-shirt)       |  50 gp | 13+[DEX](dexterity)<br/> (Max 2) |    20 lb |
 | [Scale Mail](/item/scale-mail)*        |  50 gp | 14+[DEX](dexterity)<br/> (Max 2) |    45 lb |
 | [Breastplate](/item/breastplate)       | 400 gp | 14+[DEX](dexterity)<br/> (Max 2) |    20 lb |
