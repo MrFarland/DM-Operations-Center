@@ -19,11 +19,11 @@ A character proficient with a specific tool kit may add their [proficiency bonus
 | - [Cobbler's Tools](/item/cobblers-tools)                 |     5 gp |        5 lb. |
 | - [Cook's Utensils](/item/cooks-utensils)                 |     1 gp |        8 lb. |
 | - [Glassblower's Tools](/item/glassblowers-tools)         |    30 gp |        5 lb. |
-| - [Jeweler's Tools](/item/jewlers-tools)                  |    25 gp |        2 lb. |
+| - [Jeweler's Tools](/item/jewelers-tools)                 |    25 gp |        2 lb. |
 | - [Leatherworker's Tools](/item/leatherworkers-tools)     |     5 gp |        5 lb. |
 | - [Mason's Tools](/item/masons-tools)                     |    10 gp |        8 lb. |
 | - [Painter's Supplies](/item/painters-supplies)           |    10 gp |        5 lb. |
-| - [Potter's Supplies](/item/potters-supplies)             |    10 gp |        3 lb. |
+| - [Potter's Tools](/item/potters-tools)                   |    10 gp |        3 lb. |
 | - [Smith's Tools](/item/smiths-tools)                     |    20 gp |        8 lb. |
 | - [Tinker's Tools](/item/tinkers-tools)                   |    50 gp |       10 lb. |
 | - [Weaver's Tools](/item/weavers-tools)                   |     1 gp |        5 lb. |
@@ -41,7 +41,7 @@ A character proficient with a specific tool kit may add their [proficiency bonus
 | [Thieves' Tools](/item/thieves-tools)                     |    25 gp |        1 lb. |
 {.gray .small-text}
 
-***See Also**. [Brew Healing Potion](brew-healing-potion), [Craft Item](craft-item), [Craft Magical Item][Gambling](gambling), and [Work](work).*
+***See Also**. [Brew Healing Potion](brew-healing-potion), [Craft Item](craft-item), [Craft Magical Item](craft-magical-item), [Gambling](gambling), and [Work](work).*
 
 > **Sources** <br/>
 > System Reference Document, p. 70<br/>

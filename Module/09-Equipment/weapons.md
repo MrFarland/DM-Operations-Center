@@ -20,7 +20,7 @@ parent: equipment
 | [Sickle](/item/sickle)                  |  1g | [1d4](/roll/1d4)s   |  2  | L                               |
 | [Spear](/item/spear)                    |  1g | [1d6](/roll/1d6)p   |  3  | T(20/60),V                      |
 | **Simple Ranged Weapons**                                                                               |||||
-| [Crossbow, Light](/item/light-crossbow) | 25g | [1d8](/roll/1d8)P   |  5  | A(80/320), LD,2H                |
+| [Crossbow, Light](/item/crossbow-light) | 25g | [1d8](/roll/1d8)P   |  5  | A(80/320), LD,2H                |
 | [Dart](/item/dart)                      |  5c | [1d4](/roll/1d4)P   | 1/4 | F,T(20/60)                      |
 | [Shortbow](/item/shortbow)              | 25g | [1d6](/roll/1d6)P   |  2  | A(80/320),2H                    |
 | [Sling](/item/sling)                    |  1s | [1d4](/roll/1d4)B   |  -  | A(30/120)                       |
@@ -40,13 +40,13 @@ parent: equipment
 | [Scimitar](/item/scimitar)              | 25g | [1d6](/roll/1d6)S   |  3  | F,L                             |
 | [Shortsword](/item/shortsword)          | 10g | [1d6](/roll/1d6)P   |  2  | F,L                             |
 | [Trident](/item/trident)                |  5g | [1d6](/roll/1d6)P   |  4  | T(20/60),V                      |
-| [War Pick](/item/warpick)               |  5g | [1d8](/roll/1d8)P   |  2  |                                 |
+| [War Pick](/item/war-pick)              |  5g | [1d8](/roll/1d8)P   |  2  |                                 |
 | [Warhammer](/item/warhammer)            | 15g | [1d8](/roll/1d8)B   |  2  | V                               |
 | [Whip](/item/whip)                      |  2g | [1d4](/roll/1d4)S   |  3  | F,R                             |
 | **Martial Ranged Weapons**                                                                              |||||
 | [Blowgun](/item/blowgun)                | 10g | 1P                  |  1  | A(25/100),LD                    |
-| [Crossbow, Hand](/item/hand-crossbow)   | 75g | [1d6](/roll/1d6)P   |  3  | A(30/120),LD                    |
-| [Crossbow, Heavy](/item/heavy-crossbow) | 50g | [1d10](/roll/1d10)P | 18  | A(100/400),H, 2H,LD             |
+| [Crossbow, Hand](/item/crossbow-hand)   | 75g | [1d6](/roll/1d6)P   |  3  | A(30/120),LD                    |
+| [Crossbow, Heavy](/item/crossbow-heavy) | 50g | [1d10](/roll/1d10)P | 18  | A(100/400),H, 2H,LD             |
 | [Longbow](/item/longbow)                | 50g | [1d8](/roll/1d8)P   |  2  | A(150/600),H, 2H                |
 | [Net](/item/net)                        |  1g | -                   |  3  | A(80/320),2H                    |
 {.gray .small-text}

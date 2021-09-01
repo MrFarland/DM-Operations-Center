@@ -9,8 +9,8 @@ parent: equipment
 | Poison                                                       |   Type   |     Cost |
 | :----------------------------------------------------------- | -------: | -------: |
 | [Assassin's Blood](/item/assassins-blood-ingested)           | Ingested |   150 gp |
-| [Burnt Othur Fumes](/item/burnt-othor-fumes-inhaled)         | Inhaled  |   500 gp |
-| [Carrion Crawler Mucus](/item/carrion-crawler-mucus-contact) | Contact  |   200 gp |
+| [Burnt Othur Fumes](/item/burnt-othur-fumes-inhaled)         | Inhaled  |   500 gp |
+| [Crawler Mucus](/item/crawler-mucus-contact)                 | Contact  |   200 gp |
 | [Drow Poison](/item/drow-poison-injury)                      | Injury   |   200 gp |
 | [Essence of Ether](/item/essence-of-ether-inhaled)           | Inhaled  |   300 gp |
 | [Malice](/item/malice-inhaled)                               | Inhaled  |   250 gp |

@@ -9,8 +9,8 @@ parent: equipment
 | Trade Good                            | Cost   |   Weight |
 | :------------------------------------ | -----: | -------: |
 | **Food Stuffs**                                         |||
-| - Corn, Wheat (Unprocessed Crops)     |   1 cp |    1 lb. |
-| - Flour (Processed Crops)             |   2 cp |    1 lb. |
+| - Corn, Wheat (Unprocessed)           |   1 cp |    1 lb. |
+| - Flour (Processed)                   |   2 cp |    1 lb. |
 | - Ginger                              |   1 gp |    1 lb. |
 | - Cinnamon, Pepper                    |   2 gp |    1 lb. |
 | - Cloves                              |   3 gp |    1 lb. |
