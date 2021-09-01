@@ -21,7 +21,7 @@ parent: expenses
 {.gray .small-text}
 
 > **MrFarland House Rule**<br/>
-> Travel by ship/airship is based on [lifestyle](lifestyle-expenses) with accomodations on ships (half) & airships (full).
+> Travel by ship/airship is based on [lifestyle](lifestyle) with accomodations on ships (half) & airships (full).
 {.flavortext}
 
 > **Sources** <br/>

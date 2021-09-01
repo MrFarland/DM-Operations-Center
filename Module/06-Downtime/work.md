@@ -13,7 +13,7 @@ The character makes one of the following checks to determine their lifestyle for
 - [Charisma](charisma) ([Performance](performance))
 - [Charisma](charisma) ([Musical Instrument](musical-instruments))
 
-| Roll | [Lifestyle](lifestyle-expenses) |
+| Roll | [Lifestyle](lifestyle) |
 | :----: | :----------------- |
 |  0-9   | Poor               |
 | 10-14  | Modest             |

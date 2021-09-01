@@ -6,7 +6,7 @@ parent: downtime
 ### Relaxing
 [Home](dm-operations-center) > [Downtime](downtime-menu) > Relaxing {.small-text}
 
-A character that maintains a [modest lifestyle](lifestyle-expenses) earn the following benefits by simply relaxing:
+A character that maintains a [modest lifestyle](lifestyle) earn the following benefits by simply relaxing:
 - [Advantage](advantage-and-disadvantage) on [saving throws](saving-throws) to recover from long acting diseases and poisons.
 - At the end of the week the character may do 1 of the following:
     - end an effect preventing them from regenerating [hit points](hit-points)

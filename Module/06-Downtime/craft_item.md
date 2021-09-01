@@ -15,7 +15,7 @@ The creator & any assistants must be proficient with the appropriate tools for t
 
 **Total Time / # of Qualified Assistants** {.text-center}
 
-While crafting, the creator can maintain a [modest lifestyle](lifestyle-expenses) at no cost or 1/2 a [comfortable](lifestyle-expenses)) one.
+While crafting, the creator can maintain a [modest lifestyle](lifestyle) at no cost or 1/2 a [comfortable](lifestyle)) one.
 
 > **MrFarland House Rule**<br/>
 > I allow unqualified helpers at a lower capacity. I adjust the time savings based based on how they describe their contribution.

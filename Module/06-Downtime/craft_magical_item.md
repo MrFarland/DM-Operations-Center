@@ -22,11 +22,11 @@ parent: downtime
 - Must have a formula/recipe for the object.
 - Must be proficient in the [Arcana](arcana) skill.
 - Must be able to cast any contained spells.
-- Must have the [material components](spell-components).
+- Must have the [material components](spell-component).
 - Assistants **MUST** meet all requirements.
 {.square}
 
-While enchanting, the creator can maintain a [modest lifestyle](lifestyle-expenses) at no cost or 1/2 a [comfortable](lifestyle-expenses) one.
+While enchanting, the creator can maintain a [modest lifestyle](lifestyle) at no cost or 1/2 a [comfortable](lifestyle) one.
 
 #### Complications
 There is a 10% chance of a complication for every 5 weeks of work.

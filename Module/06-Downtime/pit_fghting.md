@@ -14,7 +14,7 @@ The character makes 3 checks with a different [DC](difficulty-class) (5 + [2d10]
 
 1. [Strength](strength) ([Athletics](athletics))
 2. [Dexterity](dexterity) ([Acrobatics](acrobatics))
-3. [Constitution](constitution) ([Hit Die](hit-die))
+3. [Constitution](constitution) ([Hit Die](hit-dice))
 {.square}
 
 ***Note**: If the nature of the fighting is gladitorial (not boxing, MMA), the character may substitute one roll with a standard attack roll.* {.small-text}

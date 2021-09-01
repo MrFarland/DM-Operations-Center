@@ -10,7 +10,7 @@ parent: spellcasting
 
 - The spell must have the **ritual** tag.
 - The spell cannot be cast at a higher [level](spell-levels-and-slots).
-- [Known or prepared](known-and-prepared). (except Wizard)
+- [Known or prepared](known-and-prepared-spells). (except Wizard)
 
 | Ritual Casters ||||
 | :------------- | :-: | :--------- | :-: |
