@@ -8,7 +8,7 @@ parent: life-and-death
 
 **8 Hours** {.text-center}
 
-- Minimum of 6 hours of [sleep](sleeping).
+- Minimum of 6 hours of [sleep](sleep).
 - No more than 2 hours of light activity.
 - Must start over if interrupted > 1 hour.
 - Allowed only 1 long rest in 24H period.

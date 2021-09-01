@@ -10,7 +10,7 @@ Temporary Hit Points:
 - are not actual [hit points](hit-points), just a buffer,
 - are used first, **before** regular [hit points](hit-points),
 - can exceed a character's [HP](hit-points) maximum.
-- **DO NOT HEAL** or [stabilize](stablizing).
+- **DO NOT HEAL** or [stabilize](stabilizing).
 
 **Temporary Hit Points do not stack!**<br/>
 Subsequent grants replace prior grants. {.text-center}

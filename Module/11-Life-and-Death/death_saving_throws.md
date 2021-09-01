@@ -12,7 +12,7 @@ A creature starting their turn with 0 [hit points](hit-points) must make a death
 
 | Rolling 1 or 20                                      ||
 | :-- | :---------------------------------------------- |
-| 20  | The creature receives 1 [hit point](hit-point). |
+| 20  | The creature receives 1 [hit point](hit-points). |
 |  1  | The creature receives 2 failed death saves.     |
 {.gray .small-text}
 

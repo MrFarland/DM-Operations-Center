@@ -16,9 +16,9 @@ parent: life-and-death
 
 | Healing Spells                                       |Range| Amount of Healing|
 | :----------------------------------------------------| :-: | :-----------------------------------------------------: |
-| [Cure Wounds](/spell/cure-wounds)                    |  0' | [1d8](/roll/1d8) + [SAM](spellcasting-ability-modifier) |
-| [Healing Word](/spell/healing-word)                  | 60' | [1d4](/roll/1d4) + [SAM](spellcasting-ability-modifier) |
-| [Prayer of Healing](/spell/prayer-of-healing)        | 30' | [2d8](/roll/2d8) + [SAM](spellcasting-ability-modifier) |
+| [Cure Wounds](/spell/cure-wounds)                    |  0' | [1d8](/roll/1d8) + [Ability Mod](spell-ability) |
+| [Healing Word](/spell/healing-word)                  | 60' | [1d4](/roll/1d4) + [Ability Mod](spell-ability) |
+| [Prayer of Healing](/spell/prayer-of-healing)        | 30' | [2d8](/roll/2d8) + [Ability Mod](spell-ability) |
 {.gray .small-text}
 
 > **Sources** <br/>

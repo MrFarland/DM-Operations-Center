@@ -10,7 +10,7 @@ parent: life-and-death
 
 **Speaking = [Passive](passive-checks) [Perception](perception) ≥ 15** {.text-center}
 
-Loud noises, taking [damage](damage), or being shaken will automatically wake a naturally [sleeping](sleep) character.
+Loud noises, taking damage, or being shaken will automatically wake a naturally [sleeping](sleep) character.
 
 > **Sources** <br/>
 > Xanathar's Guide to Everything, p. 77
