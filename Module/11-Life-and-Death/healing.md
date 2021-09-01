@@ -9,9 +9,9 @@ parent: life-and-death
 | Healing Potions                                      |Range| Amount of Healing|
 | :----------------------------------------------------| :-: | :-----------------------------------------------------: |
 | [Healing](/item/potion-of-healing)                   |  0' | [2d4](/roll/2d4) + 2                                    |
-| [Greater Healing](/item/potion-of-greater-healing)   |  0' | [4d4](/roll/4d4) + 2                                    |
-| [Superior Healing](/item/potion-of-superior-healing) |  0' | [8d4](/roll/8d4) + 2                                    |
-| [Supreme Healing](/item/potion-of-supreme-healing)   |  0' | [10d4](/roll/10d4) + 2                                  |
+| [Greater Healing](/item/potion-of-healing-greater)   |  0' | [4d4](/roll/4d4) + 2                                    |
+| [Superior Healing](/item/potion-of-healing-superior) |  0' | [8d4](/roll/8d4) + 2                                    |
+| [Supreme Healing](/item/potion-of-healing-supreme)   |  0' | [10d4](/roll/10d4) + 2                                  |
 {.gray .small-text}
 
 | Healing Spells                                       |Range| Amount of Healing|
