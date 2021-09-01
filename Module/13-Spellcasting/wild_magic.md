@@ -9,7 +9,7 @@ parent: spellcasting
 | :----: | :--------------------------------------------------------------------------------------------------------------------------------------- |
 | 01 02  | Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls.                     |
 | 03 04  | For the next minute, you can see any [invisible](invisible) creature if you have line of sight to it.                                    |
-| 05 06  | A [modron](/monster/modron) chosen and controlled by the DM appears in an unoccupied space within 5 feet of you, then disappears 1 minute later. |
+| 05 06  | A modron chosen and controlled by the DM appears in an unoccupied space within 5 feet of you, then disappears 1 minute later. |
 | 07 08  | You cast [Fireball](/spell/fireball) as a 3rd-level spell centered on yourself.	                                                        |
 | 09 10  | You cast [Magic Missile](/spell/magic-missile) as a 5th-level spell.	                                                                    |
 | 11 12  | Roll a [1d10](/roll/1d10). Your height changes by a number of inches equal to the roll. If the roll is odd, you shrink. If the roll is even, you grow. |
@@ -25,7 +25,7 @@ parent: spellcasting
 | 31 32  | You are transported to the Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied.	|
 | 33 34  | Maximize the damage of the next damaging spell you cast within the next minute.	|
 | 35 36  | Roll a [d10](/roll/1d10). Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older.	|
-| 37 38  | [1d6](/roll/1d6) [flumphs](/monster/flumph) controlled by the DM appear in unoccupied spaces within 60 feet of you and are [frightened](frightened) of you. They vanish after 1 minute.	|
+| 37 38  | [1d6](/roll/1d6) flumphs controlled by the DM appear in unoccupied spaces within 60 feet of you and are [frightened](frightened) of you. They vanish after 1 minute.	|
 | 39 40  | You regain [2d10](/roll/2d10) [hit points](hit-points).	|
 | 41 42  | You turn into a potted plant until the start of your next turn. While a plant, you are [incapacitated](incapacitated) and have [vulnerability](resistance-and-vulnerability) to all [damage](damage-type). If you drop to 0 [hit points](hit-points), your pot breaks, and your form reverts.	|
 | 43 44  | For the next minute, you can teleport up to 20 feet as a [bonus action](bonus-action) on each of your turns.	|
@@ -45,7 +45,7 @@ parent: spellcasting
 | 71 72  | You gain [resistance](resistance-and-vulnerability) to all damage for the next minute.  |
 | 73 74  | A random creature within 60 feet of you becomes [poisoned](poisoned) for [1d4](/roll/1d4) hours. |
 | 75 76  | You glow with bright light in a 30-foot radius for the next minute. Any creature that ends its turn within 5 feet of you is blinded until the end of its next turn. |
-| 77 78  | You cast [Polymorph](/spell/polymorph) on yourself. If you fail the [saving throw](saving-throws), you turn into a [sheep](/monster/sheep) for the spell's duration. |
+| 77 78  | You cast [Polymorph](/spell/polymorph) on yourself. If you fail the [saving throw](saving-throws), you turn into a sheep for the spell's duration. |
 | 79 80  | Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute. |
 | 81 82  | You can take one additional [action](action) immediately. |
 | 83 84  | Each creature within 30 feet of you takes [1d10](/roll/1d10) necrotic damage. You regain [hit points](hit-points) equal to the sum of the necrotic damage dealt. |
