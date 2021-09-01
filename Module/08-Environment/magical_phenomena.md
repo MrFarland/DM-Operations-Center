@@ -6,6 +6,9 @@ parent: environment
 ### Magical Phenomena
 [Home](dm-operations-center) > [Environment](environment-menu) > Magical Phenomena {.small-text}
 
+**Coming in a future release.** {.text-center}
+
+
 <div class="menu-container">
     <a href="eldritch-storm">Eldritch Storm</a>
     <a href="emotional-echo">Emotional Echo</a>

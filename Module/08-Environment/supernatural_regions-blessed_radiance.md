@@ -6,6 +6,8 @@ parent: supernatural-regions
 ### Blessed Radiance
 [Home](dm-operations-center) > [Environment](environment-menu) > [Supernatural Regions](supernatural-regions) > Blessed Radiance {.small-text}
 
+**Coming in a future release.** {.text-center}
+
 > **Sources** <br/>
 > Tasha's Cauldron of Everything, p. 150-151
 {.read .small-text}

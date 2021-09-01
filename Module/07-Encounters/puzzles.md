@@ -6,6 +6,9 @@ parent: encounters
 ### Puzzles
 [Home](dm-operations-center) > [Encounters](encounters-menu) > Puzzles {.small-text}
 
+**Coming in a future release.** {.text-center}
+
+
 **Easy** 
 <div class="menu-container">
     <a href="creature-painting">Creature Painting</a>

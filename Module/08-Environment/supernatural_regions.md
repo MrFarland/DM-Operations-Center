@@ -6,6 +6,8 @@ parent: environment
 ### Supernatural Regions
 [Home](dm-operations-center) > [Environment](environment-menu) > Supernatural Regions {.small-text}
 
+**Coming in a future release.** {.text-center}
+
 <div class="menu-container">
     <a href="blessed-radiance">Blessed Radiance</a>
     <a href="far-realm">Far Realm</a>

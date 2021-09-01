@@ -6,6 +6,9 @@ parent: puzzles
 ### Eye of the Beholder
 [Home](dm-operations-center) > [Encounters](encounters-menu) > [Puzzles](puzzles) > Eye of the Beholder {.small-text}
 
+**Coming in a future release.** {.text-center}
+
+
 > **Sources** <br/>
 > Tasha's Cauldron of Everything, p. 177-178
 {.read .small-text}

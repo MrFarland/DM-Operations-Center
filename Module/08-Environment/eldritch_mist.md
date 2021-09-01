@@ -14,7 +14,7 @@ Indistinguishable from normal fog, Eldritch Mist comes in 3 varieties and a [DC]
     <a href="eldritch-mist-wild-magic">Wild Magic<br/> 5-6</a>
 </div>
 
-| [1d10](/roll/1d10) | Thickness | [Heavy Obscurity](heavy-obscurity) |
+| [1d10](/roll/1d10) | Thickness | [Heavy Obscurity](heavily-obscured) |
 | :---: | :---------- | :-----------------: |
 |  1-3  | Light       |         30'         |
 |  4-7  | Moderate    |         20'         |

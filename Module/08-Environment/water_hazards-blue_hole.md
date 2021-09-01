@@ -18,7 +18,7 @@ A blue hole has a diameter of [1d10](/roll/1d10) x 100 feet and a depth of [1d10
 |   6    | [1d4](/roll/1d4) [Swarms of Quippers](/monster/swarm-of-quippers)          |
 |   7    | [2d4](/roll/2d4) [Reef Sharks](/monster/reef-shark)                        |
 |   8    | 1 [Giant Shark](/monster/giant-shark)                                      |
-|   9    | [1d6](/roll/1d6) [Magic Items from Table A](magic-items-table)             |
+|   9    | [1d6](/roll/1d6) Magic Items from Table A                                  |
 |   10   | [Treasure Hoard (CR 0-4)](treasure-generator)                              |
 {.gray .small-text}
 
