@@ -4,7 +4,7 @@ slug: languages
 parent: characters
 ---
 ### Languages
-[Home](dm-operations-center) > [Characters](characters) > Languages {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > Languages {.small-text}
 
 | Language    | Script             | Speakers                   |
 | ----------- | ------------------ | -------------------------- |

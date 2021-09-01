@@ -4,7 +4,7 @@ slug: advancement
 parent: characters
 ---
 ### Advancement
-[Home](dm-operations-center) > [Characters](characters) > Advancement {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > Advancement {.small-text}
 
 | Level   |     XP |     | Level   |      XP |
 | :-----: | -----: | --- | :-----: | ------: |

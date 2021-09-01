@@ -4,7 +4,7 @@ slug: multiclassing
 parent: characters
 ---
 ### Multiclassing
-[Home](dm-operations-center) > [Characters](characters) > Multiclassing {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > Multiclassing {.small-text}
 
 <div class="menu-container">
     <a href="multiclassing-class-features">Class Features</a>

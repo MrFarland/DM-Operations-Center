@@ -4,7 +4,7 @@ slug: custom-origin
 parent: characters
 ---
 ### Custom Origin
-[Home](dm-operations-center) > [Characters](characters) > Custom Origin {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > Custom Origin {.small-text}
 
 #### Ability Score Improvements
 - Can assign standard ASIs to any ability.

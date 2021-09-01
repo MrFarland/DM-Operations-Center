@@ -4,7 +4,7 @@ slug: starting-wealth
 parent: characters
 ---
 ### Starting Wealth
-[Home](dm-operations-center) > [Characters](characters) > Starting Wealth {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > Starting Wealth {.small-text}
 
 ||||||
 | :-------- | --------------------: | :-: | :------- | --------------------: |

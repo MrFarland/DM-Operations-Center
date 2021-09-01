@@ -5,7 +5,7 @@ parent: multiclassing
 ---
 
 ### Multiclassing Spellcasting
-[Home](dm-operations-center) > [Characters](characters) > [Multiclassing](multiclassing) > Spellcasting {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > [Multiclassing](multiclassing) > Spellcasting {.small-text}
 
 **Caster Level = Total # of Spellcaster Levels** {.text-center}
 

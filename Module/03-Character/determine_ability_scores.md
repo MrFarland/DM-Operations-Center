@@ -4,7 +4,7 @@ slug: determine-ability-scores
 parent: characters
 ---
 ### Determine Ability Scores
-[Home](dm-operations-center) > [Characters](characters) > Determine Ability Scores {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > Determine Ability Scores {.small-text}
 
 #### Rolling
 Roll [4d6](/roll/4d6) and drop the lowest die and repeat 5 more times to generate an array of 6 scores

@@ -4,7 +4,7 @@ slug: wild-shape
 parent: class-features
 ---
 ### Wild Shape
-[Home](dm-operations-center) > [Characters](characters) > [Class Features](class-featuers) > Wild Shape {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > [Class Features](class-featuers) > Wild Shape {.small-text}
 
 May use an [action](action) to change into a beast, the character has **seen** before, using the table below.
 

@@ -4,7 +4,7 @@ slug: class-features
 parent: characters
 ---
 ### Class Features
-[Home](dm-operations-center) > [Characters](characters) > Class Features {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > Class Features {.small-text}
 
 <div class="menu-container">
     <a href="extra-attack">Extra Attack</a>

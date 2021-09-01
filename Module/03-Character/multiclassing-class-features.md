@@ -4,7 +4,7 @@ slug: multiclassing-class-features
 parent: multiclassing
 ---
 ### Multiclassing Class Features
-[Home](dm-operations-center) > [Characters](characters) > [Multiclassing](multiclassing) > Class Features {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > [Multiclassing](multiclassing) > Class Features {.small-text}
 
 **Class features do not stack!** {.text-center}
 

@@ -5,7 +5,7 @@ parent: multiclassing
 ---
 ### Multiclassing Prerequisites
 
-[Home](dm-operations-center) > [Characters](characters) > [Multiclassing](multiclassing) > Prerequisites {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > [Multiclassing](multiclassing) > Prerequisites {.small-text}
 
 |||
 | :-------- | :-------------------------------------- |

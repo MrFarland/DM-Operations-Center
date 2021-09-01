@@ -4,7 +4,7 @@ slug: height-and-weight
 parent: characters
 ---
 ### Height & Weight
-[Home](dm-operations-center) > [Characters](characters) > Height & Weight {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > Height & Weight {.small-text}
 
 | Race             |           Height             | Weight    |
 | :--------------- | :--------------------------: | :-------: |

@@ -4,7 +4,7 @@ slug: sneak-attack
 parent: class-features
 ---
 ### Sneak Attack
-[Home](dm-operations-center) > [Characters](characters) > [Class Features](class-featuers) > Sneak Attack {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > [Class Features](class-featuers) > Sneak Attack {.small-text}
 
 A rogue may add sneak attack damage to 1 attack per turn if they meet the following criteria:
 - Have [advantage](advantage-and-disadvantage) on the attack roll.

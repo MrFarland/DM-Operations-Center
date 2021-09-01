@@ -5,7 +5,7 @@ parent: multiclassing
 ---
 
 ### Multiclassing Proficiencies
-[Home](dm-operations-center) > [Characters](characters) > [Multiclassing](multiclassing) > Proficiencies {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > [Multiclassing](multiclassing) > Proficiencies {.small-text}
 
 | | |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------- |
