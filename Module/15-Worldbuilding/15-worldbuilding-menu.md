@@ -7,20 +7,23 @@ parent: dm-operations-center
 [Home](dm-operations-center) > Worldbuilding {.small-text}
 
 <div class="menu-container">
-    <a href="group-patron">Group Patron</a>
-    <a href="location-generator">Location Generator</a>
     <a href="name-generator">Name<br/> Generator</a>
-    <a href="plot-hook">Plot Hook</a>
-    <a href="rival">Rival</a>
-    <a href="villain">Villain</a>
-    <a href="world-shaking-event">World Shaking Event</a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
 </div>
+
+<br/>
+<br/>
+
+#### Gondor calls for aid! {.text-center}
+
+I have ambitious plans for this module and a limited amount of talent and time. If your familiar with javascript and willing to help contact me via <a href="https://github.com/MrFarland">GitHub</a>.</p>
+
+Planned for this page are generators for:
+- Dungeons
+- Group Patrons
+- locations
+- NPCs
+- Plot Hooks
+- Settlements
+- Villains & Rivals
+
 <hr/>

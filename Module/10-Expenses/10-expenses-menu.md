@@ -7,11 +7,6 @@ parent: dm-operations-center
 [Home](dm-operations-center) > Expenses {.small-text}
 
 <div class="menu-container">
-    <a href="store-generator">Store Generator</a>
-    <a href="inn-and-tavern-generator">Inn & Tavern Generator</a>
-</div>
-<hr/>
-<div class="menu-container">
     <a href="exchange-rates">Exchange<br/> Rates</a>
     <a href="food-and-drink">Food<br/> & Drink</a>
     <a href="lifestyle">Lifestyle</a>
@@ -21,5 +16,16 @@ parent: dm-operations-center
     <a href="spellcasting-services">Spellcasting<br/> Services</a>
     <a href="upkeep">Upkeep</a>
     <a href="vehicles">Vehicles</a>
+</div>
+<hr/>
+
+<br/>
+<br/>
+
+**Coming Soon** {.text-center}
+
+<div class="menu-container">
+    <a href="store-generator">Store Generator</a>
+    <a href="inn-and-tavern-generator">Inn & Tavern Generator</a>
 </div>
 <hr/>

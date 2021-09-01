@@ -7,20 +7,19 @@ parent: dm-operations-center
 [Home](dm-operations-center) > Treasure  {.small-text}
 
 <div class="menu-container">
-    <a href="book-generator">Book Generator</a>
-    <a href="loot-generator">Loot Generator</a>
     <a href="treasure-generator">Treasure Generator</a>
-    <a href="magic-item-generator">Magic Item Generator</a>
-    <a href="magic-item-tables">Magic Item Tables</a>
-    <a href="spellbook-generator">Spellbook Generator</a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
-    <a href="."></a>
 </div>
+
+<br/>
+<br/>
+
+#### Gondor calls for aid! {.text-center}
+
+I have ambitious plans for this module and a limited amount of talent and time. If your familiar with javascript and willing to help contact me via <a href="https://github.com/MrFarland">GitHub</a>.</p>
+
+Planned for this page are generators for:
+- Books
+- Magic Item (Existing & New))
+- Pickpocket Loot
+- Spellbooks
 <hr/>
