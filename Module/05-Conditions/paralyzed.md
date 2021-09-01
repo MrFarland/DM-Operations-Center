@@ -9,7 +9,7 @@ parent: conditions
 - A paralyzed creature is [incapacitated](incapacitated) and can’t move or speak.
 - The creature automatically fails [Strength](strength) and [Dexterity](dexterity) saving throws.
 - Attack rolls against the creature have [advantage](advantage-and-disadvantage).
-- Any attack that hits the creature is a [critical hit](critical-hit) if the attacker is within 5 feet of the creature.
+- Any attack that hits the creature is a [critical hit](critical-hit-and-miss) if the attacker is within 5 feet of the creature.
 {.square}
 
 

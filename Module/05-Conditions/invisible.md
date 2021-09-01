@@ -7,7 +7,7 @@ parent: conditions
  [Home](dm-operations-center) > [Conditions](conditions-menu) > Invisible {.small-text}
 
 - An invisible creature is impossible to see without the aid of magic or a special sense.
-- For the purpose of [hiding](hiding), the creature is [heavily obscured](heavy-obscurity). 
+- For the purpose of [hiding](hiding), the creature is [heavily obscured](heavily-obscured). 
 - The creature’s location can be detected by any noise it makes or any tracks it leaves.
 - Attack rolls against the creature have [disadvantage](advantage-and-disadvantage),
 - The creature’s attack rolls have [advantage](advantage-and-disadvantage).
