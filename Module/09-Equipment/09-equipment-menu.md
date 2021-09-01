@@ -12,7 +12,6 @@ parent: dm-operations-center
     <a href="containers-and-capacity">Containers<br/> & Capacity</a>
     <a href="explosives">Explosives</a>
     <a href="firearms">Firearms<br/> (Gunslinger)</a>
-    <a href="mount-and-tack">Mount<br/> & Tack</a>
     <a href="musical-instruments">Musical Instruments</a>
     <a href="poisons">Poisons</a>
     <a href="trade-goods">Trade Goods</a>
