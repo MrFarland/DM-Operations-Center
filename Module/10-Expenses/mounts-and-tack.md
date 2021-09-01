@@ -9,7 +9,7 @@ parent: expenses
 | Mounts                              | Cost    | Speed| Carry | Pull    |
 | :---------------------------------- | ------: | ---: | :---: | ------: |
 | [Camel](/item/camel)                |    50gp |  50' |   480 |   2,400 |
-| [Donkey](/item/donkey)              |     8gp |  40' |   420 |   2,100 |
+| [Donkey or Mule](/item/donkey-or-mule)|     8gp |  40' |   420 |   2,100 |
 | [Elephant](/item/elephant)          |   200gp |  40' | 1,320 |   6,600 |
 | [Horse, draft](/item/draft-horse)   |    50gp |  40' |   540 |   2,700 |
 | [Horse, ride](/item/riding-horse)   |    75gp |  60' |   480 |   2,400 |
