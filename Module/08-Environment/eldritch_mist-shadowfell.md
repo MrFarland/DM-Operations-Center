@@ -4,7 +4,7 @@ slug: eldritch-mist-shadowfell
 parent: environment
 ---
 ### Eldritch Mist (Shadowfell)
-[Home](dm-operations-center) > [Environment](environment-menu) > Eldritch Mist (Shadowfell) {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Eldritch Mist](eldritch-mist) > Shadowfell {.small-text}
 
 For every hour in the mist, roll [1d20](/roll/1d20) and add the crew's Quality Score to the number.
 
