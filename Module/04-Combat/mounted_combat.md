@@ -4,7 +4,7 @@ slug: mounted-combat
 parent: combat
 ---
 ### Mounted Combat
-[Home](dm-operations-center) > [Combat](combat) > Mounted Combat {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Mounted Combat {.small-text}
 
 #### Mounting & Dismounting
 - Willing creature at least 1 size larger.

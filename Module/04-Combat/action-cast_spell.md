@@ -4,7 +4,7 @@ slug: cast-spell
 parent: action
 ---
 ### Cast Spell
-[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Cast Spell {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > [Action](action) > Cast Spell {.small-text}
 
 Cast a spell with a casting time of 1 [action](action). {.text-center}
 

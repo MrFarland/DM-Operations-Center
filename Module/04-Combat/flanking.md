@@ -4,7 +4,7 @@ slug: flanking
 parent: combat
 ---
 ### Flanking
-[Home](dm-operations-center) > [Combat](combat) > Flanking {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Flanking {.small-text}
 
 A creature is flanking an enemy if it has at least one ally adjacent to an enemy **and** on are opposite sides of the enemy.
 

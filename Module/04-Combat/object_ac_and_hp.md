@@ -4,7 +4,7 @@ slug: object-ac-and-hp
 parent: combat
 ---
 ### Object AC & HP
-[Home](dm-operations-center) > [Combat](combat) > Object AC & HP {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Object AC & HP {.small-text}
 
 | Object              |AC   | Object      | AC  |
 | ------------------- | :-: | ----------- | :-: |

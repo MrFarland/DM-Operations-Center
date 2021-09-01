@@ -4,7 +4,7 @@ slug: help
 parent: action
 ---
 ### Help
-[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Help {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > [Action](action) > Help {.small-text}
 
 Give [advantage](advantage-and-disadvantage) to another creature on it's next check or attack if the helper is within 5' of target. {.text-center}
 

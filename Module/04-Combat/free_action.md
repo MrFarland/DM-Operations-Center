@@ -4,7 +4,7 @@ slug: free-action
 parent: combat
 ---
 ### Free Action
-[Home](dm-operations-center) > [Combat](combat) > Free Action {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Free Action {.small-text}
 
 - Interactions that do no require an [action](action).
 - Simple communications and gestures.

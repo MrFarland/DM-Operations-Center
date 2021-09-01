@@ -4,7 +4,7 @@ slug: unarmed-strike
 parent: combat
 ---
 ### Unarmed Strike
-[Home](dm-operations-center) > [Combat](combat) > Unarmed Strike {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Unarmed Strike {.small-text}
 
 **Bludgeoning = 1 + [Strength](strength) [modifier](ability-modifiers)** {.text-center}
 

@@ -4,7 +4,7 @@ slug: opportunity-attack
 parent: combat
 ---
 ### Opportunity Attack
-[Home](dm-operations-center) > [Combat](combat) > Opportunity Attack {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Opportunity Attack {.small-text}
 
 - Initiated when a creature moves out of reach.
 - Occurs before the creature moves out of reach.

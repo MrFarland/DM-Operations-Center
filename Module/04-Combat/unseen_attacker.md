@@ -4,7 +4,7 @@ slug: unseen-attacker
 parent: combat
 ---
 ### Unseen Attacker
-[Home](dm-operations-center) > [Combat](combat) > Unseen Attacker {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Unseen Attacker {.small-text}
 
 | Unseen   | On the Attack                                     |
 | -------- | :------------------------------------------------ |

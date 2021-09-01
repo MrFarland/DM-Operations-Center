@@ -4,7 +4,7 @@ slug: bonus-action
 parent: combat
 ---
 ### Bonus Action
-[Home](dm-operations-center) > [Combat](combat) > Bonus Action {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Bonus Action {.small-text}
 
 - Available if ability, spell, or feature allows.
 - Occurs at any point in a character's turn.

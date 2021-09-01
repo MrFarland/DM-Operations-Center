@@ -4,7 +4,7 @@ slug: disengage
 parent: action
 ---
 ### Disengage
-[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Disengage {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > [Action](action) > Disengage {.small-text}
 
 Movement does not provoke any [opportunity attacks](opportunity-attack) for the rest of the creature's turn. {.text-center}
 

@@ -4,7 +4,7 @@ slug: use-object
 parent: action
 ---
 ### Use Object
-[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Use Object {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > [Action](action) > Use Object {.small-text}
 
 Interact with or use an object that<br/> requires an [action](action) to operate. {.text-center} 
 

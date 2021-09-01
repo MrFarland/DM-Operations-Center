@@ -4,7 +4,7 @@ slug: two-weapon-fighting
 parent: combat
 ---
 ### Two Weapon Fighting
-[Home](dm-operations-center) > [Combat](combat) > Two Weapon Fighting {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Two Weapon Fighting {.small-text}
 
 - Must use attack [action](action) for bonus attack.
 - Both weapons must be [light](weapon-properties) weapons.

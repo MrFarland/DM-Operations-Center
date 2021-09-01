@@ -4,7 +4,7 @@ slug: underwater-combat
 parent: combat
 ---
 ### Underwater Combat
-[Home](dm-operations-center) > [Combat](combat) > Underwater Combat {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Underwater Combat {.small-text}
 
 |||
 | :--------- | :------------------------------------------------------------------------------------------------------------------------- |

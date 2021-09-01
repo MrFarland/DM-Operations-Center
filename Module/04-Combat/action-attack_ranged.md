@@ -4,7 +4,7 @@ slug: attack-ranged
 parent: action
 ---
 ### Attack (Ranged)
-[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Attack (Ranged) {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > [Action](action) > Attack (Ranged) {.small-text}
 
 **[1d20](/roll/1d20)  + [Ability Mod](ability-modifiers) + ([Prof. Bonus](proficiency-bonus)) ≥ Target [AC](armor-class)** {.text-center}
 

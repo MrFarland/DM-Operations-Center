@@ -4,7 +4,7 @@ slug: critical-hit-and-miss
 parent: combat
 ---
 ## Critical Hit & Miss
-[Home](dm-operations-center) > [Combat](combat) > Critical Hit & Miss {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Critical Hit & Miss {.small-text}
 
 **Critical Hit**. An automatic hit in which **ALL** damage dice for the attack are doubled. {.text-center}
 

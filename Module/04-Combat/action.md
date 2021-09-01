@@ -4,7 +4,7 @@ slug: action
 parent: combat
 ---
 ### Action
-[Home](dm-operations-center) > [Combat](combat) > Action {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Action {.small-text}
 
 <div class="menu-container">
     <a href="attack-melee">Attack<br/> (Melee)</a>

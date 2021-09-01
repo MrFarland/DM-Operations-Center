@@ -4,7 +4,7 @@ slug: attack-melee
 parent: action
 ---
 ### Attack (Melee)
-[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Attack (Melee) {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > [Action](action) > Attack (Melee) {.small-text}
 
 **[1d20](/roll/1d20)  + [Ability Mod](ability-modifiers) + ([Prof. Bonus](proficiency-bonus)) ≥ Target [AC](armor-class)** {.text-center}
 

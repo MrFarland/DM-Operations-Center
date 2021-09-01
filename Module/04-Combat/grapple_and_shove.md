@@ -4,7 +4,7 @@ slug: grapple-and-shove
 parent: combat
 ---
 ### Grapple & Shove
-[Home](dm-operations-center) > [Combat](combat) > Grapple & Shove {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Grapple & Shove {.small-text}
 
 | Attacker               |     |        Defender                                    |
 | :--------------------: | --: | :------------------------------------------------: |

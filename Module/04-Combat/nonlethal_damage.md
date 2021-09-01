@@ -4,7 +4,7 @@ slug: nonlethal-damage
 parent: combat
 ---
 ### Nonlethal Damage
-[Home](dm-operations-center) > [Combat](combat) > Nonlethal Damage {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Nonlethal Damage {.small-text}
 
 - Attacker can opt to deal non-lethal damage the **instant** damage is dealt.
 - The creature is automatically rendered [unconscious](unconscious) and [stabilized](stabilizing).

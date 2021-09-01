@@ -4,7 +4,7 @@ slug: dodge
 parent: action
 ---
 ### Dodge
-[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Dodge {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > [Action](action) > Dodge {.small-text}
 
 [Disadvantage](advantage-and-disadvantage) on attacks against & [Advantage](advantage-and-disadvantage) on [Dexterity](dexterity) [saves](saving-throw) until start of the next turn. {.text-center}
 

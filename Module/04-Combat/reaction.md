@@ -4,7 +4,7 @@ slug: reaction
 parent: combat
 ---
 ### Reaction
-[Home](dm-operations-center) > [Combat](combat) > [Actions in Combat](actions-in-combat) > Reaction {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Reaction {.small-text}
 
 1 Reaction per Round of Combat. {.text-center}
 

@@ -4,7 +4,7 @@ slug: search
 parent: action
 ---
 ### Search
-[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Search {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > [Action](action) > Search {.small-text}
 
 Actively search for something using the [perception](perception) or [investigation](investigation) skill. {.text-center}
 

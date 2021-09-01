@@ -4,7 +4,7 @@ slug: ready
 parent: action
 ---
 ### Ready
-[Home](dm-operations-center) > [Combat](combat) > [Action](action) > Ready {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > [Action](action) > Ready {.small-text}
 
 Prepare an action to be taken based <br/> on a specific trigger or event. {.text-center}
 

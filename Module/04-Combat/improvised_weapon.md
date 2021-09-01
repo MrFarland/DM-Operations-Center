@@ -4,7 +4,7 @@ slug: improvised-weapon
 parent: combat
 ---
 ### Improvised Weapon
-[Home](dm-operations-center) > [Combat](combat) > Improvised Weapon {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Improvised Weapon {.small-text}
 
 - Use stats for a comparable [weapon](weapons)
 - If nothing comparable, use [1d4](/roll/1d4)

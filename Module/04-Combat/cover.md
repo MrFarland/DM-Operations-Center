@@ -4,7 +4,7 @@ slug: cover
 parent: combat
 ---
 ### Cover
-[Home](dm-operations-center) > [Combat](combat) > Cover {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Cover {.small-text}
 
 |||
 | :-----: | --------------------------------------------------------------------- |
