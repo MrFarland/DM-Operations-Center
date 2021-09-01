@@ -14,13 +14,13 @@ In special circumstances a creature may have [advantage or disadvantage](advanta
 
 | Proficiencies by Class |        |
 | ---------------------- | :----: |
-| Artificer              | [CON](CONSTITUTION), [INT](intelligence) | Paladin   | [WIS](wisdom), [CHA](charisma)        |
-| Barbarian              | [STR](strength), [CON](CONSTITUTION)     | Ranger    | [STR](strength), [DEX](dexterity)     |
-| Bard                   | [DEX](dexterity), [CHA](charisma)        | Rogue     | [DEX](dexterity), [INT](intelligence) |
-| Cleric                 | [WIS](wisdom), [CHA](charisma)           | Sorcerer  | [CON](CONSTITUTION), [CHA](charisma)  |
-| Druid                  | [INT](intelligence), [WIS](wisdom)       | Warlock   | [WIS](wisdom), [CHA](charisma)        |
-| Fighter                | [STR](strength), [CON](CONSTITUTION)     | Wizard    | [INT](intelligence), [WIS](wisdom)    |
-| Monk                   | [STR](strength), [DEX](dexterity)        | - | - |
+| Artificer              | [CON](CONSTITUTION),[INT](intelligence) | Paladin   | [WIS](wisdom),[CHA](charisma)        |
+| Barbarian              | [STR](strength),[CON](CONSTITUTION)     | Ranger    | [STR](strength),[DEX](dexterity)     |
+| Bard                   | [DEX](dexterity),[CHA](charisma)        | Rogue     | [DEX](dexterity),[INT](intelligence) |
+| Cleric                 | [WIS](wisdom),[CHA](charisma)           | Sorcerer  | [CON](CONSTITUTION),[CHA](charisma)  |
+| Druid                  | [INT](intelligence),[WIS](wisdom)       | Warlock   | [WIS](wisdom),[CHA](charisma)        |
+| Fighter                | [STR](strength),[CON](CONSTITUTION)     | Wizard    | [INT](intelligence),[WIS](wisdom)    |
+| Monk                   | [STR](strength),[DEX](dexterity)        | - | - |
 {.gray .small-text}
 
 ***See also**: [Death Saving Throws](death-saving-throws).*

@@ -9,7 +9,7 @@ parent: abilities
 Balance, agility, and general nimbleness
 
 #### Ability Checks
-- Pick a lock or disable a trap. ([Thieves' Tools](/item/thieves-tools))
+- Pick a lock**************************************************************************** ([Thieves' Tools](/item/thieves-tools))
 - Wriggle free after being tied up.
 - Craft a small or detailed object.
 {.square}
