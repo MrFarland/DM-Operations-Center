@@ -4,7 +4,7 @@ slug: animal-handling
 parent: wisdom
 ---
 ### Animal Handling
-[Home](dm-operations-center) > [Abilities](abilities-menu) > Animal Handling {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Wisdom](wisdom) > Animal Handling {.small-text}
 
 Ability to interact with, control & understand animals.
 
