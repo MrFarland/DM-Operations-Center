@@ -1,10 +1,10 @@
 ---
-name: Identifying Spells
-slug: identifying Spells
+name: Identify Spell
+slug: identify-spell
 parent: spellcasting
 ---
-### Identifying Spells
-[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Identifying Spells {.small-text}
+### Identify Spell
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Identify Spell {.small-text}
 
 A character may use their [reaction](reaction) to identify a spell being cast or an [action](action) to identify it's effects.
 

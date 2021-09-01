@@ -28,7 +28,7 @@ parent: combat
 {.square}
 
 **Damage Threshhold**<br/>
-Hardened objects are [immune](damage-resistance-and-vulnerability) to all damage unless the amount of damage in a single attack exceeds a certain number.
+Hardened objects are [immune](resistance-and-vulnerability) to all damage unless the amount of damage in a single attack exceeds a certain number.
 
 > **Sources** <br/>
 > Dungeon Masters' Guide, p. 246
