@@ -4,7 +4,7 @@ slug: encounter-distance
 parent: environment
 ---
 ### Encounter Distance
-[Home](dm-operations-center) > [Environment](environment) > Encounter Distance {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > Encounter Distance {.small-text}
 
 |||
 | :------------------------------------- | -------------------------: |

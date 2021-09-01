@@ -4,7 +4,7 @@ slug: depth
 parent: water-hazards
 ---
 ### Depth
-[Home](dm-operations-center) > [Environment](environment) > [Water Hazards](water-hazards) > Depth {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Water Hazards](water-hazards) > Depth {.small-text}
 
 The zones of the ocean and the light level relative to the surface are:
 ||||

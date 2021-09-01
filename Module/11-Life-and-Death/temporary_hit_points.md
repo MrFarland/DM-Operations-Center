@@ -4,7 +4,7 @@ slug: temporary-hit-points
 parent: life-and-death
 ---
 ### Temporary Hit Points
- [Home](dm-operations-center) > [Life & Death](life-and-death) > Temporary Hit Points {.small-text}
+ [Home](dm-operations-center) > [Life & Death](life-and-death-menu) > Temporary Hit Points {.small-text}
 
 Temporary Hit Points:
 - are not actual [hit points](hit-points), just a buffer,

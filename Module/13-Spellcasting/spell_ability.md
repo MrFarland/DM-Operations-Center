@@ -4,7 +4,7 @@ slug: spell-ability
 parent: spellcasting
 ---
 ### Spell Ability
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Ability {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Spell Ability {.small-text}
 
 [Spell Ability Modifier](spell-ability) + [Proficiency Bonus](proficiency-bonus) {.text-center}
 

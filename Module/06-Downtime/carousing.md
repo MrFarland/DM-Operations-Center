@@ -4,7 +4,7 @@ slug: carousing
 parent: downtime
 ---
 ### Carousing
-[Home](dm-operations-center) > [Downtime](downtime) > Carousing {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Carousing {.small-text}
 
 #### Resources
 |||

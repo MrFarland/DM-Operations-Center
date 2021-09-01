@@ -4,7 +4,7 @@ slug: craft-item
 parent: downtime
 ---
 ### Craft Item
-[Home](dm-operations-center) > [Downtime](downtime) > Craft Item {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Craft Item {.small-text}
 
 The time & materials needed to craft an item are:
 - Time = Item Value / 5

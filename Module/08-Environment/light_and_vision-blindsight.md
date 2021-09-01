@@ -4,7 +4,7 @@ slug: blindsight
 parent: light-and-vision
 ---
 ### Blindsight 
-[Home](dm-operations-center) > [Environment](environment) > [Light & Vision](light-and-vision) > Blindsight {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Light & Vision](light-and-vision) > Blindsight {.small-text}
 
 A creature with blindsight can:
 - perceive their surroundings without sight

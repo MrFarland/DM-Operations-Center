@@ -4,7 +4,7 @@ slug: vehicles
 parent: expenses
 ---
 ### Vehicles
-[Home](dm-operations-center) > [Expenses](expenses) > Vehicles {.small-text}
+[Home](dm-operations-center) > [Expenses](expenses-menu) > Vehicles {.small-text}
   
 | Vehicles                           | Cost     | Weight |Crew\*| Upkeep\*\* |
 | :--------------------------------- | -------: | -----: | :--: | ---------: |

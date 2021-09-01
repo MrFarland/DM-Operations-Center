@@ -4,7 +4,7 @@ slug: restrained
 parent: conditions
 ---
 ### Restrained
- [Home](dm-operations-center) > [Conditions](conditions) > Restrained {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions-menu) > Restrained {.small-text}
 
 - A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
 - Attack rolls against the creature have [advantage](advantage-and-disadvantage), 

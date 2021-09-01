@@ -4,7 +4,7 @@ slug: supernatural-regions
 parent: environment
 ---
 ### Supernatural Regions
-[Home](dm-operations-center) > [Environment](environment) > Supernatural Regions {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > Supernatural Regions {.small-text}
 
 <div class="menu-container">
     <a href="blessed-radiance">Blessed Radiance</a>

@@ -4,7 +4,7 @@ slug: relaxing
 parent: downtime
 ---
 ### Relaxing
-[Home](dm-operations-center) > [Downtime](downtime) > Relaxing {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Relaxing {.small-text}
 
 A character that maintains a [modest lifestyle](lifestyle-expenses) earn the following benefits by simply relaxing:
 - [Advantage](advantage-and-disadvantage) on [saving throws](saving-throw) to recover from long acting diseases and poisons.

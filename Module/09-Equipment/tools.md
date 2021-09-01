@@ -4,7 +4,7 @@ slug: tools
 parent: equipment
 ---
 ### Tools
-[Home](dm-operations-center) > [Equipment](equipment) > Tools {.small-text}
+[Home](dm-operations-center) > [Equipment](equipment-menu) > Tools {.small-text}
 
 A character proficient with a specific tool kit may add their [proficiency bonus](proficiency-bonus) to any [skill check](ability-checks) to use that tool kit. 
 

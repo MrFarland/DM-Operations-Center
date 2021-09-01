@@ -4,7 +4,7 @@ slug: concentration
 parent: spellcasting
 ---
 ### Concentration
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Concentration {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Concentration {.small-text}
 
 A caster loses **concentration** when they:
 - cast another concentration spell,

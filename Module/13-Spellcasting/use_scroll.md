@@ -4,7 +4,7 @@ slug: use-scroll
 parent: spellcasting
 ---
 ### Use Scroll
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Use Scroll {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Use Scroll {.small-text}
 
 |||
 | :---------------- | :-------------------------- |

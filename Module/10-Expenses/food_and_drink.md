@@ -4,7 +4,7 @@ slug: food-and-drink
 parent: expenses
 ---
 ### Food & Drink
-[Home](dm-operations-center) > [Expenses](expenses) > Food & Drink {.small-text}
+[Home](dm-operations-center) > [Expenses](expenses-menu) > Food & Drink {.small-text}
 
 |||
 | :-------------------- | ----: |

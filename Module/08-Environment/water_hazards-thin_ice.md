@@ -4,7 +4,7 @@ slug: thin-ice
 parent: water-hazards
 ---
 ### Thin Ice
-[Home](dm-operations-center) > [Environment](environment) > [Water Hazards](water-hazards) > Thin Ice {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Water Hazards](water-hazards) > Thin Ice {.small-text}
 
 [3d10](/roll/3d10) x 10 pounds per 10' square {.text-center}
 

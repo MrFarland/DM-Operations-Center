@@ -4,7 +4,7 @@ slug: containers-and-capacity
 parent: equipment
 ---
 ### Containers & Capacity
-[Home](dm-operations-center) > [Equipment](equipment) > Containers & Capacity {.small-text}
+[Home](dm-operations-center) > [Equipment](equipment-menu) > Containers & Capacity {.small-text}
 
 | Item                                            |       Dry |   Liquid |   Weight |
 | :---------------------------------------------- | --------: | -------: | -------: |

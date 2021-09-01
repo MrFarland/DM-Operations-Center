@@ -4,7 +4,7 @@ slug: instant-death
 parent: life-and-death
 ---
 ### Instant Death
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Instant Death {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death-menu) > Instant Death {.small-text}
 
 A creature is instantly killed if:
 

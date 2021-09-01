@@ -4,7 +4,7 @@ slug: gambling
 parent: downtime
 ---
 ### Gambling
-[Home](dm-operations-center) > [Downtime](downtime) > Gambling {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Gambling {.small-text}
 
 The character spends 1 week & 10 gp or more on wagers.
 

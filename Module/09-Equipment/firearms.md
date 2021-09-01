@@ -4,7 +4,7 @@ slug: firearms
 parent: equipment
 ---
 ### Firearms
-[Home](dm-operations-center) > [Equipment](equipment) > Firearms {.small-text}
+[Home](dm-operations-center) > [Equipment](equipment-menu) > Firearms {.small-text}
 
 *From Matthew Mercer's Gunslinger subclass<br/> and NOT the Dungeon Master's Guide.* {.text-center .small-text}
 

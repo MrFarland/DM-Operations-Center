@@ -4,7 +4,7 @@ slug: blue-hole
 parent: water-hazards
 ---
 ### Blue Hole
-[Home](dm-operations-center) > [Environment](environment) > [Water Hazards](water-hazards) > Blue Hole {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Water Hazards](water-hazards) > Blue Hole {.small-text}
 
 A blue hole has a diameter of [1d10](/roll/1d10) x 100 feet and a depth of [1d10](/roll/1d10) x 100 feet.
 

@@ -4,7 +4,7 @@ slug: weather
 parent: environment
 ---
 ## Weather
-[Home](dm-operations-center) > [Environment](environment) > Weather {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > Weather {.small-text}
 
 #### Temperature
 | [1d20](/roll/1d20)                                    ||

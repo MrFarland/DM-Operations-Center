@@ -4,7 +4,7 @@ slug: truesight
 parent: light-and-vision
 ---
 ### Truesight 
-[Home](dm-operations-center) > [Environment](environment) > [Light & Vision](light-and-vision) > Truesight {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Light & Vision](light-and-vision) > Truesight {.small-text}
 
 A creature with truesight can:
 - See in normal and magical [darkness](light-and-vision)

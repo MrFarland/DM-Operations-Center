@@ -4,7 +4,7 @@ slug: pit-fighting
 parent: downtime
 ---
 ### Pit Fighting
-[Home](dm-operations-center) > [Downtime](downtime) > Pit Fighting {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Pit Fighting {.small-text}
 
 #### Resources
 This requries a minimum of 1 workweek.

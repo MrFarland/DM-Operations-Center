@@ -4,7 +4,7 @@ slug: water-hazards
 parent: environment
 ---
 ### Water Hazards
-[Home](dm-operations-center) > [Environment](environment) > Water Hazards {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > Water Hazards {.small-text}
 
 <div class="menu-container">
     <a href="blue-hole">Blue<br/> Hole</a>

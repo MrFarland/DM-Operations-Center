@@ -4,7 +4,7 @@ slug: difficult-terrain
 parent: movement
 ---
 ### Difficult Terrain
-[Home](dm-operations-center) > [Movement](movement) > Difficult Terrain {.small-text}
+[Home](dm-operations-center) > [Movement](movement-menu) > Difficult Terrain {.small-text}
 
 **1' of Difficult Terrain = 2' of Movement** {.text-center}
 

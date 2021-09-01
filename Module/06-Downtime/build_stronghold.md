@@ -4,7 +4,7 @@ slug: build-stronghold
 parent: downtime
 ---
 ### Build Stronghold
-[Home](dm-operations-center) > [Downtime](downtime) > Build Stronghold {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Build Stronghold {.small-text}
 
 ||||
 | ----------------------- | --------: | -----: |

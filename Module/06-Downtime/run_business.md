@@ -4,7 +4,7 @@ slug: run-business
 parent: downtime
 ---
 ### Run Business
-[Home](dm-operations-center) > [Downtime](downtime) > Run Business {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Run Business {.small-text}
 
 [1d100](/roll/1d100) + # of days running the business {.text-center}
 

@@ -4,7 +4,7 @@ slug: crime
 parent: downtime
 ---
 ### Crime
-[Home](dm-operations-center) > [Downtime](downtime) > Crime {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Crime {.small-text}
 
 The character spends 25 gp and 1 week gathering information & deciding on a target.
 

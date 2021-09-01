@@ -4,7 +4,7 @@ slug: services
 parent: expenses
 ---
 ### Services
-[Home](dm-operations-center) > [Expenses](expenses) > Services {.small-text}
+[Home](dm-operations-center) > [Expenses](expenses-menu) > Services {.small-text}
 
 | Service                                                |   Cost   | Per      |
 | :----------------------------------------------------- | -------: | :------- |

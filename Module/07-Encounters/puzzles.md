@@ -4,7 +4,7 @@ slug: puzzles
 parent: encounters
 ---
 ### Puzzles
-[Home](dm-operations-center) > [Encounters](encounters) > Puzzles {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters-menu) > Puzzles {.small-text}
 
 **Easy** 
 <div class="menu-container">

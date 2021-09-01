@@ -4,7 +4,7 @@ slug: ritual-cast
 parent: spellcasting
 ---
 ### Ritual Cast
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Ritual Cast {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Ritual Cast {.small-text}
 
 **Casting Time + 10 minutes = No [Spell Slot](spell-levels-and-slots)** {.text-center}
 

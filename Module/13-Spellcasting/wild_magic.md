@@ -4,7 +4,7 @@ slug: wild-magic-surge
 parent: spellcasting
 ---
 ### Wild Magic Surge
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Wild Magic Surge {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Wild Magic Surge {.small-text}
 |||
 | :----: | :--------------------------------------------------------------------------------------------------------------------------------------- |
 | 01 02  | Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls.                     |

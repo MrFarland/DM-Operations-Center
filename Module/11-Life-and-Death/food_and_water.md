@@ -4,7 +4,7 @@ slug: food-and-water
 parent: life-and-death
 ---
 ### Food & Water
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Food & Water {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death-menu) > Food & Water {.small-text}
 
 | Size       | Food   | Water   |
 | :--------- | -----: | ------: |

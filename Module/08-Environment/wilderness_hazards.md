@@ -4,7 +4,7 @@ slug: wilderness-hazards
 parent: environment
 ---
 ### Wilderness Hazards
-[Home](dm-operations-center) > [Environment](environment) > Wilderness Hazards {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > Wilderness Hazards {.small-text}
 
 <div class="menu-container">
     <a href="avalanche-and-rock-slide">Avalanche & Rock Slide</a>

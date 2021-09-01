@@ -4,7 +4,7 @@ slug: religious-service
 parent: downtime
 ---
 ### Religious Service
-[Home](dm-operations-center) > [Downtime](downtime) > Religious Service {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Religious Service {.small-text}
 
 | Lifestyle                   | Time   | Cost   | Other                                   |
 | :-------------------------- | -----: | -----: | :-------------------------------------- |

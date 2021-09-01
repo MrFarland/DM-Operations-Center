@@ -4,7 +4,7 @@ slug: spell-save-dc
 parent: spellcasting
 ---
 ### Spell Save DC
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Save DC {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Spell Save DC {.small-text}
 
 **8 + [Spell Ability Modifier](spell-ability) + Proficiency Bonus** {.text-center}
 

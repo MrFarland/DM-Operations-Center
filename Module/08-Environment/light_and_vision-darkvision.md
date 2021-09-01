@@ -4,7 +4,7 @@ slug: darkvision
 parent: light-and-vision
 ---
 ### Darkvision 
-[Home](dm-operations-center) > [Environment](environment) > [Light & Vision](light-and-vision) > Darkvision {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Light & Vision](light-and-vision) > Darkvision {.small-text}
 
 A creature with darkvision can:
 - See in [darkness](light-and-vision) as if it is [dim](light-and-vision)

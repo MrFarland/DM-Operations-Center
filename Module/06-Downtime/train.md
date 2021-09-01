@@ -4,7 +4,7 @@ slug: train
 parent: downtime
 ---
 ### Train
-[Home](dm-operations-center) > [Downtime](downtime) > Train {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Train {.small-text}
 
 [Language](languages) or [Tool](tools) = 250 Days & 250 gp {.text-center}
 

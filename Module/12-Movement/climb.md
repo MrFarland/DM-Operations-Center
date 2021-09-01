@@ -4,7 +4,7 @@ slug: climb
 parent: movement
 ---
 ### Climb
-[Home](dm-operations-center) > [Movement](movement) > Climb {.small-text}
+[Home](dm-operations-center) > [Movement](movement-menu) > Climb {.small-text}
 
 **1' Climbing = 2' of Movement (3' [Difficult Terrain](difficult-terrain))** {.text-center}
 

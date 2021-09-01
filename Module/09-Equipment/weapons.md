@@ -4,7 +4,7 @@ slug: weapons
 parent: equipment
 ---
 ### Weapons
-[Home](dm-operations-center) > [Equipment](equipment) > Weapons {.small-text}
+[Home](dm-operations-center) > [Equipment](equipment-menu) > Weapons {.small-text}
 
 | Item                                    | Cost| DMG                | Lbs | [Properties](weapon-properties) |
 | :-------------------------------------- | --: | ------------------: | --: | :------------------------------ |

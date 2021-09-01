@@ -4,7 +4,7 @@ slug: long-term-madness
 parent: madness
 ---
 ### Long Term Madness
- [Home](dm-operations-center) > [Conditions](conditions) > [Madness](madness)  > Long Term {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions-menu) > [Madness](madness)  > Long Term {.small-text}
 
 Duration = [1d10](/roll/1d10) x 10 hours {.text-center}
 

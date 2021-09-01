@@ -4,7 +4,7 @@ slug: paralyzed
 parent: conditions
 ---
 ### Paralyzed
- [Home](dm-operations-center) > [Conditions](conditions) > Paralyzed {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions-menu) > Paralyzed {.small-text}
 
 - A paralyzed creature is [incapacitated](incapacitated) and can’t move or speak.
 - The creature automatically fails [Strength](strength) and [Dexterity](dexterity) saving throws.

@@ -4,7 +4,7 @@ slug: desecrated-ground
 parent: environment
 ---
 ### Desecrated Ground
-[Home](dm-operations-center) > [Environment](environment) > Desecrated Ground {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > Desecrated Ground {.small-text}
 
 Undead creatures on desecrated ground have [advantage](advantage-and-disadvantge) on all [saving throws](saving-throws).
 

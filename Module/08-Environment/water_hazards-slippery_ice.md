@@ -4,7 +4,7 @@ slug: slippery-ice
 parent: water-hazards
 ---
 ### Slippery Ice
-[Home](dm-operations-center) > [Environment](environment) > [Water Hazards](water-hazards) > Slippery Ice {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Water Hazards](water-hazards) > Slippery Ice {.small-text}
 
 Slippery ice is [difficult terrain](difficult-terrain) and a creature moving on to it for the first time must make a [DC](difficulty-class) 10 [Dexterity](dexterity) [saving throw](saving-throws) or fall [prone](prone).
 

@@ -4,7 +4,7 @@ slug: current
 parent: water-hazards
 ---
 ### Current
-[Home](dm-operations-center) > [Environment](environment) > [Water Hazards](water-hazards) > Current {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Water Hazards](water-hazards) > Current {.small-text}
 
 A creature or vessel travelling with a current has that speed added to their speed. If traveling against, the speed is subtracted form their speed. If the speed is negative, they move with it or may opt to fight the current.
 

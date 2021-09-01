@@ -4,7 +4,7 @@ slug: cube
 parent: area-of-effect
 ---
 ### Cube
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > [Area of Effect](area-of-effect) > Cube {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > [Area of Effect](area-of-effect) > Cube {.small-text}
 
 You select a cube's point of origin, which lies anywhere on a face of the cubic effect. The cube's size is expressed 
 as the length of each side. 

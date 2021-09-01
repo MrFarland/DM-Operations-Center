@@ -4,7 +4,7 @@ slug: quicksand
 parent: wilderness-hazards
 ---
 ### Quicksand
-[Home](dm-operations-center) > [Environment](environment) > [Wilderness Hazards](wilderness-hazards) > Quicksand {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Wilderness Hazards](wilderness-hazards) > Quicksand {.small-text}
 
 Quicksand covers the ground in a 10' square and is usually 10' deep. A creature entering the area sinks [1d4](/roll/1d4) + 1 feet and is [restrained](restrained). On the start of each turn, it sinks another [1d4](/roll/1d4).
 

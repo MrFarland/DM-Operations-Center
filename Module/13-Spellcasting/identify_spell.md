@@ -4,7 +4,7 @@ slug: identifying Spells
 parent: spellcasting
 ---
 ### Identifying Spells
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Identifying Spells {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Identifying Spells {.small-text}
 
 A character may use their [reaction](reaction) to identify a spell being cast or an [action](action) to identify it's effects.
 

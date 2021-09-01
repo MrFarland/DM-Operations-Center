@@ -4,7 +4,7 @@ slug: research
 parent: downtime
 ---
 ### Research
-[Home](dm-operations-center) > [Downtime](downtime) > Research {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Research {.small-text}
 
 
 | Lifestyle                   | Time   | Cost   | Other                        |

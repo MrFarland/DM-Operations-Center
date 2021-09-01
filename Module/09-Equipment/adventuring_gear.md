@@ -4,7 +4,7 @@ slug: adventuring-gear
 parent: equipment
 ---
 ### Adventuring Gear
-[Home](dm-operations-center) > [Equipment](equipment) > Adventuring Gear {.small-text}
+[Home](dm-operations-center) > [Equipment](equipment-menu) > Adventuring Gear {.small-text}
 
 | Item                                                   |   Cost   |       Weight |
 | :----------------------------------------------------- | -------: | -----------: |

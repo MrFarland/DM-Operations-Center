@@ -4,7 +4,7 @@ slug: spellcasting-services
 parent: expenses
 ---
 ### Spellcasting Services
-[Home](dm-operations-center) > [Expenses](expenses) > Spellcasting Services {.small-text}
+[Home](dm-operations-center) > [Expenses](expenses-menu) > Spellcasting Services {.small-text}
 
 **Cost = BC + CMC + UMC** {.text-center}
 - Base Cost = Spell Level^2^

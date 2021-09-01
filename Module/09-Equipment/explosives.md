@@ -4,7 +4,7 @@ slug: explosives
 parent: equipment
 ---
 ### Explosives
-[Home](dm-operations-center) > [Equipment](equipment) > Explosives {.small-text}
+[Home](dm-operations-center) > [Equipment](equipment-menu) > Explosives {.small-text}
 
 
 | Explosives                                            | Cost    | Weight |

@@ -4,7 +4,7 @@ slug: madness
 parent: conditions
 ---
 ### Madness
-[Home](dm-operations-center) > [Conditions](conditions) > Madness {.small-text}
+[Home](dm-operations-center) > [Conditions](conditions-menu) > Madness {.small-text}
 
 Various items, spells, and effects can cause a creature to suffer the effects of madness. The three types of madness are:
 

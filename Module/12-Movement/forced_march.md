@@ -4,7 +4,7 @@ slug: forced-march
 parent: movement
 ---
 ### Forced March
-[Home](dm-operations-center) > [Movement](movement) > Forced March {.small-text}
+[Home](dm-operations-center) > [Movement](movement-menu) > Forced March {.small-text}
 
 **1pt [Exhaustion](exhaustion) = [DC](difficulty-class) 10 [CON](CONSTITUTION) over 8 hours** {.text-center}
 

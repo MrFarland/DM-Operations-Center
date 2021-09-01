@@ -4,7 +4,7 @@ slug: prone
 parent: conditions
 ---
 ### Prone
- [Home](dm-operations-center) > [Conditions](conditions) > Prone {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions-menu) > Prone {.small-text}
 
 - A prone creature’s only movement option is to [crawl](crawl), unless it stands up and thereby ends the condition.
 - The creature has [disadvantage](advantage-and-disadvantage) on attack rolls.

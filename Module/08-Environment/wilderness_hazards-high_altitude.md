@@ -4,7 +4,7 @@ slug: high-altitude
 parent: wilderness-hazards
 ---
 ### High Altitude
-[Home](dm-operations-center) > [Environment](environment) > [Wilderness Hazards](wilderness-hazards) > High Altitude {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Wilderness Hazards](wilderness-hazards) > High Altitude {.small-text}
 
 At 10,000' and above, every hour of traveled equals 2 hours for determining the effects of prolonged travel and a [forced march](forced-march).
 

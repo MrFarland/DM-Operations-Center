@@ -4,7 +4,7 @@ slug: suffocating
 parent: life-and-death
 ---
 ### Suffocating
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Suffocating {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death-menu) > Suffocating {.small-text}
 
  **Hold Breath (min) = 1 + [CON](CONSTITUTION) modifier** {.text-center}
  

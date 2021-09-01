@@ -4,7 +4,7 @@ slug: counterspell
 parent: spellcasting
 ---
 ### Counterspell
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Counterspell {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Counterspell {.small-text}
 
 **[1d20](/roll/1d20) + [SAM](spellcasting-ability) ≥ [DC](difficulty-class) 10 + [Spell Level](spell-levels-and-slots)** {.text-center}
 

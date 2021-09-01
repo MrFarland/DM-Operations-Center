@@ -4,7 +4,7 @@ slug: sell-magic-item
 parent: downtime
 ---
 ### Sell Magic Item
-[Home](dm-operations-center) > [Downtime](downtime) > Sell Magic Item {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Sell Magic Item {.small-text}
 
 | Lifestyle | Time | Cost | Other |
 | :---------- | -----: | -----: | :------ |

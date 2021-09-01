@@ -4,7 +4,7 @@ slug: stunned
 parent: conditions
 ---
 ### Stunned
- [Home](dm-operations-center) > [Conditions](conditions) > Stunned {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions-menu) > Stunned {.small-text}
 
 - A stunned creature is [incapacitated](incapacitated), can’t move, and can speak only falteringly.
 - The creature automatically fails [Strength](strength) and [Dexterity](dexterity) [saving throws](saving-throw).

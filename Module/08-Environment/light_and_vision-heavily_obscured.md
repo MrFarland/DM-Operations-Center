@@ -4,7 +4,7 @@ slug: heavily-obscured
 parent: light-and-vision
 ---
 ### Heavily Obscured
-[Home](dm-operations-center) > [Environment](environment) > [Light & Vision](light-and-vision) > Heavily Obscured {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Light & Vision](light-and-vision) > Heavily Obscured {.small-text}
 
 A creature that is heavily obscured is [blinded](blinded).
 

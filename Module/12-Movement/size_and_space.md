@@ -4,7 +4,7 @@ slug: size-and-space
 parent: movement
 ---
 ### Size & Space
-[Home](dm-operations-center) > [Movement](movement) > Size & Space {.small-text}
+[Home](dm-operations-center) > [Movement](movement-menu) > Size & Space {.small-text}
 
 | Size            | Space                   |
 | :-------------- | :---------------------- |

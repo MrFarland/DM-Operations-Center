@@ -4,7 +4,7 @@ slug: sphere
 parent: area-of-effect
 ---
 ### Sphere
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > [Area of Effect](area-of-effect) > Sphere {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > [Area of Effect](area-of-effect) > Sphere {.small-text}
 
 You select a sphere's point of origin, and the sphere extends outward from that point. The sphere's size is expressed as a radius in feet that extends from the point. 
 

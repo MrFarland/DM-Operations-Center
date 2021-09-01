@@ -4,7 +4,7 @@ slug: lure-lights
 parent: water-hazards
 ---
 ### Lure Lights
-[Home](dm-operations-center) > [Environment](environment) > [Water Hazards](water-hazards) > Lure Lights {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Water Hazards](water-hazards) > Lure Lights {.small-text}
 
 Formed from the souls of dead [Aboleths](/monster/aboleth). They form 100' clusters of pale, yellow lights below 1,000'
 - [Bright Light](light-and-vision) (100' radius)

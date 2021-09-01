@@ -4,7 +4,7 @@ slug: grappled
 parent: conditions
 ---
 ### Grappled
-[Home](dm-operations-center) > [Conditions](conditions) > Grappled {.small-text}
+[Home](dm-operations-center) > [Conditions](conditions-menu) > Grappled {.small-text}
 
 - A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
 - The condition ends if the grappler is [incapacitated](incapacitated).

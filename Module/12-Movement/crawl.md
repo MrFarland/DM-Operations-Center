@@ -4,7 +4,7 @@ slug: crawl
 parent: movement
 ---
 ### Crawl
-[Home](dm-operations-center) > [Movement](movement) > Crawl {.small-text}
+[Home](dm-operations-center) > [Movement](movement-menu) > Crawl {.small-text}
 
 **1' Crawling = 2' of Movement (3' [Difficult Terrain](difficult-terrain))** {.text-center}
 

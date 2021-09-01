@@ -4,7 +4,7 @@ slug: store-generator
 parent: expenses
 ---
 ### Store Generator
-[Home](dm-operations-center) > [Expenses](expenses) > Store Generator {.small-text}
+[Home](dm-operations-center) > [Expenses](expenses-menu) > Store Generator {.small-text}
 
 <div style="margin-bottom: 1.5rem; text-align:center;">
     <select id="selectStore">

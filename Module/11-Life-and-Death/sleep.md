@@ -4,7 +4,7 @@ slug: sleep
 parent: life-and-death
 ---
 ### Sleep
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Sleep {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death-menu) > Sleep {.small-text}
 
 A creature that goes 24 hours without a [long rest](long-rest) 
 

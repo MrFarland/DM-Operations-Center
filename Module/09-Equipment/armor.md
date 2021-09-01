@@ -4,7 +4,7 @@ slug: armor
 parent: equipment
 ---
 ### Armor
-[Home](dm-operations-center) > [Equipment](equipment) > Armor {.small-text}
+[Home](dm-operations-center) > [Equipment](equipment-menu) > Armor {.small-text}
 
 | Armor                                  | Cost   | [AC](armor-class)                | Weight   |
 | :------------------------------------- | -----: | -------------------------------: | -------: |

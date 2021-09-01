@@ -4,7 +4,7 @@ slug: work
 parent: downtime
 ---
 ### Work
-[Home](dm-operations-center) > [Downtime](downtime) > Work {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Work {.small-text}
 
 The character makes one of the following checks to determine their lifestyle for the week.
 - [Strength](strength) ([Athletics](athletics))

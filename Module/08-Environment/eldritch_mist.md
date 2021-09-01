@@ -4,7 +4,7 @@ slug: eldritch-mist
 parent: environment
 ---
 ### Eldritch Mist
-[Home](dm-operations-center) > [Environment](environment) > Eldritch Mist {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > Eldritch Mist {.small-text}
 
 Indistinguishable from normal fog, Eldritch Mist comes in 3 varieties and a [DC](difficulty-class) 15 [Intelligence](intelligence) ([Arcana](arcana)) check is needed to tell them apart.
 

@@ -4,7 +4,7 @@ slug: incapacitated
 parent: conditions
 ---
  ### Incapacitated
- [Home](dm-operations-center) > [Conditions](conditions) > Incapacitated {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions-menu) > Incapacitated {.small-text}
 
  - An incapacitated creature can’t take [actions](action) or [reactions](reaction).
  {.square}

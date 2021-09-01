@@ -4,7 +4,7 @@ slug: travel-pace
 parent: movement
 ---
 ### Travel Pace
-[Home](dm-operations-center) > [Movement](movement) > Travel Pace {.small-text}
+[Home](dm-operations-center) > [Movement](movement-menu) > Travel Pace {.small-text}
 
 | Pace   | Minute | Hour | Day   | Effect              |
 | ------ | ------ | ---- | ----- | ------------------- |

@@ -4,7 +4,7 @@ slug: poisons
 parent: equipment
 ---
 ### Poisons
-[Home](dm-operations-center) > [Equipment](equipment) > Poisons {.small-text}
+[Home](dm-operations-center) > [Equipment](equipment-menu) > Poisons {.small-text}
 
 | Poison                                                 |   Type   |     Cost |
 | :----------------------------------------------------- | -------: | -------: |

@@ -4,7 +4,7 @@ slug: death-saving-throws
 parent: life-and-death
 ---
 ### Death Saving Throws
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Death Saving Throws {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death-menu) > Death Saving Throws {.small-text}
 
 A creature starting their turn with 0 [hit points](hit-points) must make a death saving throw.
 

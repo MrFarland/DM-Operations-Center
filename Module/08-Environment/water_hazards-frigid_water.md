@@ -4,7 +4,7 @@ slug: frigid-water
 parent: water-hazards
 ---
 ### Frigid Water
-[Home](dm-operations-center) > [Environment](environment) > [Water Hazards](water-hazards) > Frigid Water {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Water Hazards](water-hazards) > Frigid Water {.small-text}
 
 **# of Minutes = [Constitution](constitution) Score** {.text-center}
 

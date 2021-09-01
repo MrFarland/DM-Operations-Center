@@ -4,7 +4,7 @@ slug: diseased
 parent: conditions
 ---
 ### Diseased
-[Home](dm-operations-center) > [Conditions](conditions) > Diseased {.small-text}
+[Home](dm-operations-center) > [Conditions](conditions-menu) > Diseased {.small-text}
 
 A creature suffers the effects identified in the description of the disease.
 

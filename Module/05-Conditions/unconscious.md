@@ -4,7 +4,7 @@ slug: unconscious
 parent: conditions
 ---
 ### Unconscious
- [Home](dm-operations-center) > [Conditions](conditions) > Unconscious {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions-menu) > Unconscious {.small-text}
 
 - An unconscious creature is [incapacitated](incapacitated), can’t move or speak, and is unaware of its surroundings.
 - The creature drops whatever it’s holding and falls [prone](prone).

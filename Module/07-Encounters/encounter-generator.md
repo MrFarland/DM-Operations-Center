@@ -4,7 +4,7 @@ slug: encounter-generator
 parent: encounters
 ---
 ### Encounter Generator
-[Home](dm-operations-center) > [Encounters](encounters) > Encounter Generator {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters-menu) > Encounter Generator {.small-text}
 
 <div style="margin-bottom: 1.5rem; text-align:center;">
     <select id="selectEnvironment">

@@ -4,7 +4,7 @@ slug: tracking
 parent: environment
 ---
 ### Tracking
-[Home](dm-operations-center) > [Environment](environment) > Tracking {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > Tracking {.small-text}
 
 | Surface                                      | [DC](difficulty-class) |
 | -------------------------------------------- | :-: |

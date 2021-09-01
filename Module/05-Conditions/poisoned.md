@@ -4,7 +4,7 @@ slug: poisoned
 parent: conditions
 ---
 ### Poisoned
- [Home](dm-operations-center) > [Conditions](conditions) > Poisoned {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions-menu) > Poisoned {.small-text}
 
 - A poisoned creature has [disadvantage](advantage-and-disadvantage) on attack rolls and [ability checks](ability-checks).
 {.square}

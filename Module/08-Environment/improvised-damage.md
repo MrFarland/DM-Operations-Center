@@ -4,7 +4,7 @@ slug: improvised-damage
 parent: environment
 ---
 ### Improvised Damage
-[Home](dm-operations-center) > [Environment](environment) > Improvised Damage {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > Improvised Damage {.small-text}
 
 |||
 | :------------------: | :---------------------------------------------------------------------------- |

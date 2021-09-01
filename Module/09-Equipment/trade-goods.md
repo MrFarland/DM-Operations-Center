@@ -4,7 +4,7 @@ slug: trade-goods
 parent: equipment
 ---
 ### Trade Goods
-[Home](dm-operations-center) > [Equipment](equipment) > Trade Goods {.small-text}
+[Home](dm-operations-center) > [Equipment](equipment-menu) > Trade Goods {.small-text}
 
 | Trade Good                            | Cost   |   Weight |
 | :------------------------------------ | -----: | -------: |

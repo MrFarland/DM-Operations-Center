@@ -4,7 +4,7 @@ slug: spell-levels-and-slots
 parent: spellcasting
 ---
 ### Spell Levels & Slots
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Levels & Slots {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Spell Levels & Slots {.small-text}
 
 |||
 | :-------- | :-------------------------------------------------------------------------------------------------- |

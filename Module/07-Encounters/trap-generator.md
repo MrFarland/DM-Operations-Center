@@ -4,7 +4,7 @@ slug: trap-generator
 parent: encounters
 ---
 ### Trap Generator
-[Home](dm-operations-center) > [Encounters](encounters) > Trap Generator {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters-menu) > Trap Generator {.small-text}
 
 <div style="margin-bottom: 1.5rem; text-align:center;">
     <select id="selectTier">

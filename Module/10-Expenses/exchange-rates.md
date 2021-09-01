@@ -4,7 +4,7 @@ slug: exchange-rates
 parent: expenses
 ---
 ### Exchange Rates
-[Home](dm-operations-center) > [Expenses](expenses) > Exchange Rates {.small-text}
+[Home](dm-operations-center) > [Expenses](expenses-menu) > Exchange Rates {.small-text}
 
 | Coin           |    cp |       sp |       ep |       gp |       pp |
 | :------------- | ----: | -------: | -------: | -------: | -------: |

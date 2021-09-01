@@ -4,7 +4,7 @@ slug: swim
 parent: movement
 ---
 ### Swim
-[Home](dm-operations-center) > [Movement](movement) > Swim {.small-text}
+[Home](dm-operations-center) > [Movement](movement-menu) > Swim {.small-text}
 
 **1' Swimming = 2' of Movement (3' [Difficult Terrain](difficult-terrain))** {.text-center}
 

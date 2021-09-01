@@ -4,7 +4,7 @@ slug: resurrection
 parent: life-and-death
 ---
 ### Resurrection
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Resurrection {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death-menu) > Resurrection {.small-text}
 
 | Spell                                         | Lvl | Comp. Cost | Limit|
 | :-------------------------------------------- | :-: | ---------: | ---: |

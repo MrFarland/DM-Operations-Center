@@ -4,7 +4,7 @@ slug: healing
 parent: life-and-death
 ---
 ### Healing
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Healing {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death-menu) > Healing {.small-text}
 
 | Healing Potions                                      |Range| Amount of Healing|
 | :----------------------------------------------------| :-: | :-----------------------------------------------------: |

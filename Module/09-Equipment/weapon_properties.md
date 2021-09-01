@@ -4,7 +4,7 @@ slug: weapon-properties
 parent: equipment
 ---
 ### Weapon Properties
-[Home](dm-operations-center) > [Equipment](equipment) > Weapon Properties {.small-text}
+[Home](dm-operations-center) > [Equipment](equipment-menu) > Weapon Properties {.small-text}
 
 |||
 | :--------- | :-------------------------------------------------------------------------------------------------------- |

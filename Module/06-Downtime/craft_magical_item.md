@@ -4,7 +4,7 @@ slug: craft-magical-item
 parent: downtime
 ---
 ### Craft Magical Item
-[Home](dm-operations-center) > [Downtime](downtime) > Craft Magical Item {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Craft Magical Item {.small-text}
 
 #### Resources
 | Rarity  |     Cost | Wks | CR  |

@@ -4,7 +4,7 @@ slug: sow-rumor
 parent: downtime
 ---
 ### Sow Rumor
-[Home](dm-operations-center) > [Downtime](downtime) > Sow Rumor {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Sow Rumor {.small-text}
 
 | Size    | Time                  |    Cost   |
 | :------ | --------------------: | --------: |

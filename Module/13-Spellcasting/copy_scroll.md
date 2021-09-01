@@ -4,7 +4,7 @@ slug: copy-scroll
 parent: spellcasting
 ---
 ### Copy Scroll
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Copy Scroll {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Copy Scroll {.small-text}
 
 Copying a scroll into a spellbook requires an [Intelligence](intelligence) ([Arcana](arcana)) [skill check](ability-checks).
 

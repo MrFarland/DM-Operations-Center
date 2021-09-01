@@ -4,7 +4,7 @@ slug: whirlpool
 parent: water-hazards
 ---
 ### Whirlpool
-[Home](dm-operations-center) > [Environment](environment) > [Water Hazards](water-hazards) > Whirlpool {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Water Hazards](water-hazards) > Whirlpool {.small-text}
 
 A swirling vortex of water that sucks creatures and ships towards its center.
 

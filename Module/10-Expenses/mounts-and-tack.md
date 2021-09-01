@@ -4,7 +4,7 @@ slug: mounts-and-tack
 parent: expenses
 ---
 ### Mounts & Tack
-[Home](dm-operations-center) > [Expenses](expenses) > Mounts & Tack {.small-text}
+[Home](dm-operations-center) > [Expenses](expenses-menu) > Mounts & Tack {.small-text}
 
 | Mounts                              | Cost    | Speed| Carry | Pull    |
 | :---------------------------------- | ------: | ---: | :---: | ------: |

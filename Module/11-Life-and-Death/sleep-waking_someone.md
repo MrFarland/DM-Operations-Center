@@ -4,7 +4,7 @@ slug: waking-someone
 parent: life-and-death
 ---
 ### Waking Someone
-[Home](dm-operations-center) > [Life & Death](life-and-death) > [Sleep](sleep)> Waking Someone {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death-menu) > [Sleep](sleep)> Waking Someone {.small-text}
 
 **Whispers (10') = [Passive](passive-checks) [Perception](perception) ≥ 20** {.text-center}
 

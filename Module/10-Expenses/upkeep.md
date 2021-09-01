@@ -4,7 +4,7 @@ slug: upkeep
 parent: expenses
 ---
 ### Upkeep
-[Home](dm-operations-center) > [Expenses](expenses) > Upkeep {.small-text}
+[Home](dm-operations-center) > [Expenses](expenses-menu) > Upkeep {.small-text}
 
 The per day costs of various types of property are indicated below and includes the wages of the skilled (SH) and unskilled (UH) hirelings that run it.
 

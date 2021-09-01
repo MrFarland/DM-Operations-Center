@@ -4,7 +4,7 @@ slug: sleeping-in-armor
 parent: life-and-death
 ---
 ### Sleeping in Armor
-[Home](dm-operations-center) > [Life & Death](life-and-death) > [Sleep](sleep)> Sleeping in Armor {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death-menu) > [Sleep](sleep)> Sleeping in Armor {.small-text}
 
 Sleeping in medium or heavy [armor](armor) imposes the following restrictions on a [long rest](long-rest).
 

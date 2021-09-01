@@ -4,7 +4,7 @@ slug: light-and-vision
 parent: environment
 ---
 ### Light & Vision
-[Home](dm-operations-center) > [Environment](environment) > Light & Vision {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > Light & Vision {.small-text}
 
 | Level  | Obscurity                       | Examples                                                                         |
 | :----- | :-----------------------------: |:-------------------------------------------------------------------------------- |

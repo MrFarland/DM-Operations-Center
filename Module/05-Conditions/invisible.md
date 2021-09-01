@@ -4,7 +4,7 @@ slug: invisible
 parent: conditions
 ---
 ### Invisible
- [Home](dm-operations-center) > [Conditions](conditions) > Invisible {.small-text}
+ [Home](dm-operations-center) > [Conditions](conditions-menu) > Invisible {.small-text}
 
 - An invisible creature is impossible to see without the aid of magic or a special sense.
 - For the purpose of [hiding](hiding), the creature is [heavily obscured](heavy-obscurity). 

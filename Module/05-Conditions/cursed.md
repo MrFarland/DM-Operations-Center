@@ -4,7 +4,7 @@ slug: cursed
 parent: conditions
 ---
 ### Cursed
-[Home](dm-operations-center) > [Conditions](conditions) > Cursed {.small-text}
+[Home](dm-operations-center) > [Conditions](conditions-menu) > Cursed {.small-text}
 
 A cursed creature suffers the effects identified in the description of the item, spell, or other source. 
 

@@ -4,7 +4,7 @@ slug: jump
 parent: movement
 ---
 ### Jump
-[Home](dm-operations-center) > [Movement](movement) > Jump {.small-text}
+[Home](dm-operations-center) > [Movement](movement-menu) > Jump {.small-text}
 
 | Type                 | Distance                             |
 | :------------------- | :----------------------------------- |

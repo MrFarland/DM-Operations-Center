@@ -4,7 +4,7 @@ slug: stabilizing
 parent: life-and-death
 ---
 ### Stabilizing
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Stabilizing {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death-menu) > Stabilizing {.small-text}
 
 A creature can be stabilized to stop the process of rolling [death saving throws](death-saving-throws).
 

@@ -4,7 +4,7 @@ slug: extreme-cold
 parent: environment
 ---
 ### Extreme Cold
-[Home](dm-operations-center) > [Environment](environment) > Extreme Cold {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > Extreme Cold {.small-text}
 
 At or below 0°F, a creature must make a [DC](difficulty-class) 10 [Constitution](constitution) [saving throw](saving-throws) for each hour or gain 1 level of [exhaustion](exhaustion).
 

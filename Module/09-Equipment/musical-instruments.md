@@ -4,7 +4,7 @@ slug: musical-instruments
 parent: equipment
 ---
 ### Musical Instruments
-[Home](dm-operations-center) > [Equipment](equipment) > Musical Instruments {.small-text}
+[Home](dm-operations-center) > [Equipment](equipment-menu) > Musical Instruments {.small-text}
 
 A character proficient with a specific musical instrument may add their [proficiency bonus](proficiency-bonus) to any [skill check](ability-checks) to play music with that instrument. 
 

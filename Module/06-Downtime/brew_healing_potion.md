@@ -4,7 +4,7 @@ slug: brew-healing-potion
 parent: downtime
 ---
 ### Brew Healing Potion
-[Home](dm-operations-center) > [Downtime](downtime) > Brew Healing Potion {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Brew Healing Potion {.small-text}
 
 ||||
 | ---------------------------------------------------------------|----:|--------:|

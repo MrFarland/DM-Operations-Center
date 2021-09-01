@@ -4,7 +4,7 @@ slug: foraging
 parent: life-and-death
 ---
 ### Foraging
-[Home](dm-operations-center) > [Life & Death](life-and-death) > Foraging {.small-text}
+[Home](dm-operations-center) > [Life & Death](life-and-death-menu) > Foraging {.small-text}
 
 | Availability | [DC](difficulty-class)  |
 | ------------ | :-: |

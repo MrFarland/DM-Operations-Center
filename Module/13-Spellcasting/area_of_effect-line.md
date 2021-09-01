@@ -4,7 +4,7 @@ slug: line
 parent: area-of-effect
 ---
 ### Line
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > [Area of Effect](area-of-effect) > Line {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > [Area of Effect](area-of-effect) > Line {.small-text}
 
 A line extends from its point of origin in a straight path up to its length and covers an area defined by its width. 
 

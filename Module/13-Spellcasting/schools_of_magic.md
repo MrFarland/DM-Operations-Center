@@ -4,7 +4,7 @@ slug: schools-of-magic
 parent: spellcasting
 ---
 ### Schools of Magic
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Schools of Magic {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Schools of Magic {.small-text}
 
 ||| 
 | :---------- | :--------------------------------------------------------------------------|

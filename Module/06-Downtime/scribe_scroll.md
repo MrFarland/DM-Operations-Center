@@ -4,7 +4,7 @@ slug: scribe-scroll
 parent: downtime
 ---
 ### Scribe Scroll
-[Home](dm-operations-center) > [Downtime](downtime) > Scribe Scroll {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Scribe Scroll {.small-text}
 
 | Level  | Time |    Cost |
 | :------: | :----: | --------: |

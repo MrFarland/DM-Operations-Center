@@ -4,7 +4,7 @@ slug: magical-phenomena
 parent: environment
 ---
 ### Magical Phenomena
-[Home](dm-operations-center) > [Environment](environment) > Magical Phenomena {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > Magical Phenomena {.small-text}
 
 <div class="menu-container">
     <a href="eldritch-storm">Eldritch Storm</a>

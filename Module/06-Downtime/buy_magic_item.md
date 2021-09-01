@@ -4,7 +4,7 @@ slug: buy-magic-item
 parent: downtime
 ---
 ### Buy Magic Item
-[Home](dm-operations-center) > [Downtime](downtime) > Buy Magic Item {.small-text}
+[Home](dm-operations-center) > [Downtime](downtime-menu) > Buy Magic Item {.small-text}
 
 #### Resources
 - Minimum of 1 workweek
