@@ -13,7 +13,7 @@ parent: combat
 {.square}
 
 #### Getting Knocked Off
-[DC](difficulty-class) 10 [DEX](DEXTERITY) [Save](saving-throw) to avoid falling off and landing [prone](prone) within 5' of the mount if:
+[DC](difficulty-class) 10 [DEX](DEXTERITY) [Save](saving-throws) to avoid falling off and landing [prone](prone) within 5' of the mount if:
 - Mount is moved against its will.
 - Rider is knocked [prone](prone) while riding.
 {.square}

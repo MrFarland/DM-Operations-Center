@@ -8,8 +8,8 @@ parent: combat
 
 |||
 | :-----: | --------------------------------------------------------------------- |
-| ^1^/~2~ | +2 [AC](armor-class) & [DEX](DEXTERITY) [Saving Throws](saving-throw) |
-| ^3^/~4~ | +5 [AC](armor-class) & [DEX](DEXTERITY) [Saving Throws](saving-throw) |
+| ^1^/~2~ | +2 [AC](armor-class) & [DEX](DEXTERITY) [Saving Throws](saving-throws) |
+| ^3^/~4~ | +5 [AC](armor-class) & [DEX](DEXTERITY) [Saving Throws](saving-throws) |
 |  Full   | Cannot be seen or targeted directly.                                  |
 {.gray .small-text}
 

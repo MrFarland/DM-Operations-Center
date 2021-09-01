@@ -8,7 +8,7 @@ parent: falling
 
 A creature about to be landed on may attempt to avoid being hit by the falling creature.
 
-**[DC](difficulty-class) 15 [DEX](DEXTERITY) [saving throw](saving-throw)** {.text-center}
+**[DC](difficulty-class) 15 [DEX](DEXTERITY) [saving throw](saving-throws)** {.text-center}
 
 If successful they take no damage, otherwise they take 1/2 of the falling creature's damage and are knocked [prone](prone).
 

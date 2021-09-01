@@ -8,7 +8,7 @@ parent: conditions
 
 - An unconscious creature is [incapacitated](incapacitated), can’t move or speak, and is unaware of its surroundings.
 - The creature drops whatever it’s holding and falls [prone](prone).
-- The creature automatically fails [Strength](strength) and [Dexterity](dexterity) [saving throws](saving-throw).
+- The creature automatically fails [Strength](strength) and [Dexterity](dexterity) [saving throws](saving-throws).
 - Attack rolls against the creature have [advantage](advantage-and-disadvantage).
 - Any attack that hits the creature is a [critical hit](critical-hit) if the attacker is within 5 feet of the creature.
 {.square}

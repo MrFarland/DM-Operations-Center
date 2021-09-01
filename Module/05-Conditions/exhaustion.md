@@ -10,7 +10,7 @@ parent: conditions
 | :-: | :------------------------------------------------------------------------------ |
 |  1  | [Disadvantage](advantage-and-disadvantage) on [ability checks](ability-checks)  |
 |  2  | Speed halved                                                                    |
-|  3  | [Disadvantage](advantage-and-disadvantage) on attacks & [saves](saving-throw)   |
+|  3  | [Disadvantage](advantage-and-disadvantage) on attacks & [saves](saving-throws)   |
 |  4  | [Hit point](hit-point) maximum halved                                           |
 |  5  | Speed reduced to 0                                                              |
 |  6  | Death                                                                           |
