@@ -22,7 +22,7 @@ parent: downtime
 - Must have a formula/recipe for the object.
 - Must be proficient in the [Arcana](arcana) skill.
 - Must be able to cast any contained spells.
-- Must have the [material components](spell-component).
+- Must have the [material components](spell-components).
 - Assistants **MUST** meet all requirements.
 {.square}
 

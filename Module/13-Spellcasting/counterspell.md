@@ -6,7 +6,7 @@ parent: spellcasting
 ### Counterspell
 [Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Counterspell {.small-text}
 
-**[1d20](/roll/1d20) + [SAM](spellcasting-ability) ≥ [DC](difficulty-class) 10 + [Spell Level](spell-levels-and-slots)** {.text-center}
+**[1d20](/roll/1d20) + [Ability Mod](spell-ability) ≥ [DC](difficulty-class) 10 + [Spell Level](spell-levels-and-slots)** {.text-center}
 
 **Automatic if [Counterspell](/spell/counterspell) Level > Spell Level** {.text-center .small-text}
 

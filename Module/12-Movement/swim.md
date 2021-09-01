@@ -23,6 +23,7 @@ Swimming in deep water is similar to traveling at [high altitude](high-altitude)
 | :----- | :-: |
 | > 100' |  2h |
 | > 200' |  4h |
+{.gray .small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. 85<br/>

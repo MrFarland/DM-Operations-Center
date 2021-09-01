@@ -6,7 +6,7 @@ parent: spellcasting
 ### Spell Ability
 [Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Spell Ability {.small-text}
 
-[Spell Ability Modifier](spell-ability) + [Proficiency Bonus](proficiency-bonus) {.text-center}
+Spell Ability Mod. = Spell Ability + [Proficiency Bonus](proficiency-bonus) {.text-center}
 
 | Spellcasting Ability by Class ||
 | :----------- | :--------------------------- |

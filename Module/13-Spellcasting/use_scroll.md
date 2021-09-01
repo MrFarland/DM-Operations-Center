@@ -28,7 +28,7 @@ parent: spellcasting
 
 - Spell must be on the caster's class list.
 - Casting time is same as regular casting.
-- [Material components](spell-component) are not required.
+- [Material components](spell-components) are not required.
 - An available [spell slot](spell-levels-and-slots) is not required.
 {.square}
 

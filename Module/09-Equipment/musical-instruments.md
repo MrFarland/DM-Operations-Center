@@ -22,7 +22,7 @@ A character proficient with a specific musical instrument may add their [profici
 | [Viol](/item/viol)                                     |    30 gp |        1 lb. |
 {.gray .small-text}
 
-***\*** A bard may use a musical instrument as a [spellcasting focus](spell-component) for any material components without a cost.*
+***\*** A bard may use a musical instrument as a [spellcasting focus](spell-components) for any material components without a cost.*
 
 > **Sources** <br/>
 > System Reference Document, p. 70<br/>

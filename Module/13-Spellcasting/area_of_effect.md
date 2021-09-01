@@ -6,7 +6,7 @@ parent: spellcasting
 ### Area of Effect
 [Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Area of Effect {.small-text}
 
-![Image courtesy of Player's Handbook, p. 204](/Module/assets/img/area-of-effect.jpg) {.caption .text-center}
+![Image courtesy of Player's Handbook, p. 204](../assets/img/area-of-effect.jpg){.caption .text-center}
 
 <div class="menu-container">
     <a href="cone">Cone</a>

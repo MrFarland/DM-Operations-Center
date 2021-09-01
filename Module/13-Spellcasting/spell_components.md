@@ -1,10 +1,10 @@
 ---
-name: Spell Component
-slug: spell-component
+name: Spell Components
+slug: spell-components
 parent: spellcasting
 ---
-### Spell Component
-[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Spell Component {.small-text}
+### Spell Components
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Spell Components {.small-text}
 
 |||
 | :----------- | :------------------------------------------------------------------ |

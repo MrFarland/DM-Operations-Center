@@ -13,7 +13,7 @@ Extra cost is ignored if creature has a climb speed. {.text-center}
 #### Skill Check
 A character climbing a slippery surface or with few handholds may need a [Strength](strength) ([Athletics](athletics)) check.
 
-Using a [Climber's Kit](/item/climbers-kit) or [Rope](/item/hempen-rope) may be used to give the character [advantage](advantage-and-disadvantage) on the check.
+Using a [Climber's Kit](/item/climbers-kit) or [Rope](/item/hempen-rope-50-feet) may be used to give the character [advantage](advantage-and-disadvantage) on the check.
 
 > **Sources** <br/>
 > System Reference Document, p. 85<br/>
