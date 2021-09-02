@@ -10,7 +10,7 @@ Interact with or use an object that<br/> requires an [action](action) to operate
 
 OR {.text-center}
 
-Perform more than 1 [free action](free-action) in a turn. {.text-center}
+Perform more than 1 [free action](free-action) on a turn. {.text-center}
 
 > **Sources** <br/>
 > System Reference Document, p. 94 <br/>

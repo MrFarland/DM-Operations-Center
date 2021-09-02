@@ -8,7 +8,7 @@ parent: combat
 
 |||
 | :--------- | :------------------------------------------------------------------------------------------------------------------------- |
-| **Melee**  | Attacker has a [swim](swim) speed **OR** weapon is a [dagger](/item/dagger), [javelin](/item/javelin), [shortsword](/item/shortsword), [spear](/item/spear), or [trident](/item/trident) |
+| **Melee**  | An attacker has a [swim](swim) speed **or** weapon is a [Dagger](/item/dagger), [Javelin](/item/javelin), [Shortsword](/item/shortsword), [Spear](/item/spear), or [Trident](/item/trident). |
 | **Ranged** | Crossbows, [Net](/item/net), [Spear](/item/spear), [Trident](/item/trident), [Dart](/item/dart) - Attacks beyond normal range automatically miss.|
 {.gray .small-text} 
 

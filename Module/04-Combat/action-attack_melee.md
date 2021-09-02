@@ -12,7 +12,7 @@ parent: action
 - weapons with [finesse](weapon-properties) property may use a creatures's [strength](strength) or [dexterity](dexterity) modifier.
 - In some situations a creature may have [advantage or disadvantage](advantage-and-disadvantage) on the roll.
 
-***\*** The character must be proficient with the weapon being used to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
+***\*** A character must be proficient with the weapon being used to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. <br/>

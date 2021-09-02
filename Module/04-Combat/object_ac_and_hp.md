@@ -27,9 +27,10 @@ parent: combat
 - All objects are immune to poison & psychic damage.
 {.square}
 
-**Damage Threshhold**<br/>
-Hardened objects are [immune](resistance-and-vulnerability) to all damage unless the amount of damage in a single attack exceeds a certain number.
+**Damage Threshold**<br/>
+Hardened objects are [immune](resistance-and-vulnerability) to all damage unless the amount of damage in a single attack exceeds its damage threshold.
 
 > **Sources** <br/>
+> System Reference Document, p. 203<br/>
 > Dungeon Masters' Guide, p. 246
 {.read .small-text}

@@ -10,7 +10,7 @@ parent: combat
 - The creature is automatically rendered [unconscious](unconscious) and [stabilized](stabilizing).
 {.square}
 
-***Note:** It does not matter how much damage is dealt, the target is "knocked out".*
+***Note:** It does not matter how much damage is dealt. The target is "knocked out".*
 
 > **Sources** <br/>
 > System Reference Document, p. 98<br/>

@@ -6,8 +6,8 @@ parent: combat
 ### Free Action
 [Home](dm-operations-center) > [Combat](combat-menu) > Free Action {.small-text}
 
-- Interactions that do no require an [action](action).
-- Simple communications and gestures.
+- Interactions that do no require an [action](action)
+- Simple communications and gestures
 - Draw or sheathe a sword
 - Open or close a door
 - Withdraw a potion from your backpack
