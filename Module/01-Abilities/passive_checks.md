@@ -16,7 +16,7 @@ Use passive checks to:
 - Make a check without alerting the player.
 {.square}
 
-***\*** Character must be proficient in the related save, skill, tool or weapon to add their [proficiency bonus](proficiency-bonus) to the [ability check](ability-checks).* {.small-text}
+***\*** A character must be proficient in the related save, skill, tool, or weapon to add their [proficiency bonus](proficiency-bonus) to the [ability check](ability-checks).* {.small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. 78<br/>

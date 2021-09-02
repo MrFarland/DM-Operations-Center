@@ -10,7 +10,7 @@ parent: abilities
 
 In special circumstances a creature may have [advantage or disadvantage](advantage-and-disadvantage) on the roll.
 
-***\*** The character must be proficient in the saving throw in order to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
+***\*** The character must be proficient in the saving throw to add their [proficiency bonus](proficiency-bonus) to the roll.* {.small-text}
 
 | Proficiencies by Class |        |
 | ---------------------- | :----: |

@@ -9,7 +9,7 @@ parent: abilities
 - Character leading activity has [advantage](advantage-and-disadvantage).
 - Assistance must be practical for the task.
 - Helper must be able to do it alone.
-- Helper must use [help](help) [action](action) if in combat.
+- Helper must use the [help](help) [action](action) if in combat.
 {.square}
 
 > **Sources** <br/>
