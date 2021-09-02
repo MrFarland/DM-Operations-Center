@@ -1,10 +1,10 @@
 ---
-name: Known & Prepared Spells
+name: Known & Prepared
 slug: known-and-prepared-spells
 parent: spellcasting
 ---
-### Known & Prepared Spells
-[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Known & Prepared Spells {.small-text}
+### Known & Prepared
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Known & Prepared {.small-text}
 
 |||
 |:-|:-|

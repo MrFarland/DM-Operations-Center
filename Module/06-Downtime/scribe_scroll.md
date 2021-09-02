@@ -25,7 +25,7 @@ parent: downtime
 **Requirements**
 - The caster must be proficient in [Arcana](arcana).
 - Must provide [material components](spell-components).
-- The spell must be [known and prepared](known-and-prepared-spells).
+- The spell must be [known and prepared](known-and-prepared).
 {.square}
 
 #### Complications (10%)
