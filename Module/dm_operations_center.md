@@ -4,7 +4,7 @@ slug: dm-operations-center
 order: 00
 ---
 ## DM Operations Center
-*by MrFarland (<a href="https://donfarland.com">donfarland.com</a>)* {.small-text}
+*by <a href="https://twitter.com/MrFarland">MrFarland</a>* {.small-text}
 
 <div class="menu-container">
     <a href="abilities-menu">Abilities</a>
@@ -25,8 +25,7 @@ order: 00
 </div>
 <hr/>
 
-*Preview Release 0.4.6* {.text-right .small-text}
-
+*v0.5.0 Beta - [GitHub Project](https://github.com/MrFarland/DM-Operations-Center)* {.text-right .small-text}
 
 <div class="footer">
     <div class="fan-content-policy">

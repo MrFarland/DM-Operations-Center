@@ -8,22 +8,25 @@ parent: dm-operations-center
 
 <div class="menu-container">
     <a href="name-generator">Name<br/> Generator</a>
+    <a href="world-shaking-events">World Shaking<br/> Events</a>
 </div>
 
 <br/>
 <br/>
 
+
 #### Gondor calls for aid! {.text-center}
 
-I have ambitious plans for this module and a limited amount of talent and time. If your familiar with javascript and willing to help contact me via <a href="https://github.com/MrFarland">GitHub</a>.</p>
+![Gondor calls for air!](../assets/img/lotr-gondor.gif) {.text-center}
 
-Planned for this page are generators for:
-- Dungeons
-- Group Patrons
-- locations
-- NPCs
-- Plot Hooks
-- Settlements
-- Villains & Rivals
+I have ambitious plans for this module and a limited amount of talent and time. If your familiar with javascript and willing to help contact me via <a href="https://github.com/MrFarland">GitHub</a>.
+
+The vision for this section includes the following features:
+
+- **Dungeons**. Create simple 5 room dungeons with dressing.
+- **Group Patron**. A quick generator for patron contacts & quests.
+- **Location**. Quickly create an interesting building or geographic feature.
+- **Plot Hooks**. Come up with quick ideas for rumors, notice boards, etc.
+- **Settlements**. Create realistic settlements with demographics & lore.
 
 <hr/>

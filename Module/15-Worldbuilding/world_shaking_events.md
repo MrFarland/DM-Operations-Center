@@ -18,6 +18,7 @@ parent: worldbuilding
 |  8  | Discovery, expansion, invention  |
 |  9  | Prediction, omen, prophecy       |
 | 10  | Myth and legend                  |
+{.gray .small-text}
 
 > **Sources** <br/>
 > Dungeon Master's Guide, p. 27

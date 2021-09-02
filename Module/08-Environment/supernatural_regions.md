@@ -6,7 +6,7 @@ parent: environment
 ### Supernatural Regions
 [Home](dm-operations-center) > [Environment](environment-menu) > Supernatural Regions {.small-text}
 
-**Coming in a future release.** {.text-center}
+Supernatural regions are areas that exhibit lasting effects as a result of some unnatural or magical event.
 
 <div class="menu-container">
     <a href="blessed-radiance">Blessed Radiance</a>
