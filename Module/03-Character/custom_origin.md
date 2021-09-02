@@ -13,7 +13,7 @@ parent: characters
 {.square}
 
 #### Proficiencies
-Proficiencies with an [armor](armor), [language](languages), skill, [tool](tools), [musical instruments](musical-instruments), or [weapon](weapons) may be changed:
+Proficiencies with an [armor](armor), [language](languages), skill, [tool](tools), [musical instrument](musical-instruments), or [weapon](weapons) may be changed:
 
 | Original              | Alternate                                         |
 | :-------------------- | :------------------------------------------------ |
