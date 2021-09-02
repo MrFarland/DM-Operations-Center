@@ -13,7 +13,7 @@ Cast a spell with a casting time of 1 [action](action). {.text-center}
 ***Note**: If a [bonus action](bonus-action) spell has been cast, any spell cast using an [action](action) **MUST** be a cantrip.*
 {.square .small-text}
 
-*A spellcaster must be proficient with a class of [armor](armor) in order to be able to cast spells while wearing it.* {.small-text}
+*A spellcaster must be proficient with a class of [armor](armor) to cast spells while wearing it.* {.small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. 93<br/>

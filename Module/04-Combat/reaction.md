@@ -9,7 +9,7 @@ parent: combat
 1 Reaction per Round of Combat. {.text-center}
 
 **Examples**
-- [Cast a spell](cast-spell) with cast time of **1 reaction**.
+- [Cast a spell](cast-spell) with a cast time of **1 reaction**.
 - [Identifying a spell](identify-spell) as it is being cast.
 - Make an [opportunity attack](opportunity-attack).
 - Perform a [readied](ready) action.

@@ -8,8 +8,8 @@ parent: combat
 
 - Must use attack [action](action) for bonus attack.
 - Both weapons must be [light](weapon-properties) weapons.
-- [STR](STRENGTH) or [DEX](DEXTERITY) mod is not added to damage roll, unless it is negative.
-- Allowed for [ranged attacks](attack-ranged) with [thrown](weapon-properties)) property.
+- [STR](STRENGTH) or [DEX](DEXTERITY) mod is not added to the damage roll, unless it is negative.
+- Allowed for [ranged attacks](attack-ranged) with the [thrown](weapon-properties) property.
 
 > **Sources** <br/>
 > System Reference Document, p. 95<br/>

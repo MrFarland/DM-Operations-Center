@@ -9,7 +9,7 @@ parent: combat
 - Initiated when a creature moves out of reach.
 - Occurs before the creature moves out of reach.
 - Requires the attacker to use their [reaction](reaction).
-- [Disengage](disengage) prevents an opportunity attacks.
+- [Disengage](disengage) prevents an opportunity attack.
 - Not triggered if the target isn't using movement.
 
 *Alternate: Attack of Opportunity* {.small-text}
