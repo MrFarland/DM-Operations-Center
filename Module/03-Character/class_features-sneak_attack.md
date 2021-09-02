@@ -13,7 +13,7 @@ A rogue may add sneak attack damage to 1 attack per turn if they meet the follow
 
 #### Additional Notes
 - Gain [advantage](advantage-and-disadvantage) if the target has an enemy within 5' that is not [incapacitated](incapacitated).
-- Sneak attack may be used on an [attack of opportunity](opportunity-attack) if all other criteria has been met.
+- Sneak attack may be used on an [attack of opportunity](opportunity-attack) if all other criteria have been met.
 
 | Lvl   | DMG                |     | Lvl   | DMG                 |
 | :---: | :----------------: | --- | :---: | :-----------------: |

@@ -26,7 +26,7 @@ parent: characters
 | Undercommon | Dwarvish / Elvish* | Deep Gnomes, Drow, Duergar |
 {.gray .small-text}
 
-***Note**: Forest Gnomes write in an elvish script, while Duergar write with dwarvish letters.*
+***Note**: Forest Gnomes write in an Elvish script, while Duergars write in a Dwarvish script.*
 {.small-text}
 
 > **Sources** <br/>

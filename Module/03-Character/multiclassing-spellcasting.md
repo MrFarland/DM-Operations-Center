@@ -16,7 +16,7 @@ parent: multiclassing
 | ^1^/~3~ | Eldritch Knight, Arcane Trickster     |
 {.gray .small-text}
 
-*(ie. Druid (4), Ranger (3), Arcane Trickster (3) = 7)* {.text-center .small-text}
+*(i.e. Druid (4), Ranger (3), Arcane Trickster (3) = 7)* {.text-center .small-text}
 
 
 #### Spell Slots per Spell Level
@@ -46,7 +46,7 @@ parent: multiclassing
 {.gray .small-text}
 
 - Known/prepared based on class level.
-- Warlocks with Pact Magic & Spellcasting, can use warlock slots to cast spells from other classes. 
+- Warlocks with Pact Magic & Spellcasting can use warlock slots to cast spells from other classes. 
 {.square}
 
 > **Sources** <br/>
