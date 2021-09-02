@@ -6,7 +6,7 @@ parent: charisma
 ### Persuasion
 [Home](dm-operations-center) > [Abilities](abilities-menu) > [Charisma](charisma) > Persuasion {.small-text}
 
-Influence others with logic, tact or good nature.
+Influence others with logic, tact, or good nature.
 
 | [DC](difficulty-class) | Example                 |
 | :--: | :---------------------------------------- |

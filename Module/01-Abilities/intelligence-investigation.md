@@ -6,7 +6,7 @@ parent: intelligence
 ### Investigation
 [Home](dm-operations-center) > [Abilities](abilities-menu) > [Intelligence](intelligence) > Investigation {.small-text}
 
-Ability to find clues and make deducations.
+Ability to find clues and make deductions.
 
 | [DC](difficulty-class) | Example                 |
 | :--: | :---------------------------------------- |

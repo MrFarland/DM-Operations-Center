@@ -6,10 +6,10 @@ parent: abilities
 ### Charisma
 [Home](dm-operations-center) > [Abilities](abilities-menu) > Charisma {.small-text}
 
-Charm, confidence, eloquence, and personality
+Charm, confidence, eloquence, and personality.
     
 #### Ability Checks
-- Mingle at party or ball.
+- Mingle at a party or ball.
 - Gather rumors or news in a tavern.
 - Develop a rapport with an individual.
 {.square}

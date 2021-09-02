@@ -6,7 +6,7 @@ parent: abilities
 ### Wisdom
 [Home](dm-operations-center) > [Abilities](abilities-menu) > Wisdom {.small-text}
 
-General awareness, perceptiveness and intuition.
+General awareness, perceptiveness, and intuition.
 
 #### Ability Checks
 - Get a gut feeling about a decision.

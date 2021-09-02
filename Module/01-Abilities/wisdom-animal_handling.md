@@ -6,7 +6,7 @@ parent: wisdom
 ### Animal Handling
 [Home](dm-operations-center) > [Abilities](abilities-menu) > [Wisdom](wisdom) > Animal Handling {.small-text}
 
-Ability to interact with, control & understand animals.
+Ability to interact with, control, and understand animals.
 
 | [DC](difficulty-class) | Example                     |
 | :--: | :-------------------------------------------- |

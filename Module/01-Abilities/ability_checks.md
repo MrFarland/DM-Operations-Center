@@ -8,7 +8,7 @@ parent: abilities
 
 **[1d20](/roll/1d20) + [Ability Mod](ability-modifiers) + ([Prof. Bonus](proficiency-bonus)) ≥ [DC](difficulty-class)** {.text-center}
 
-***\*** Character must be proficient in the save, skill, tool or weapon to add their [proficiency bonus](proficiency-bonus) to the ability check.* {.small-text}
+***\*** A character must be proficient in the save, skill, tool, or weapon to add their [proficiency bonus](proficiency-bonus) to the ability check.* {.small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. 77<br/>

@@ -16,7 +16,7 @@ parent: dexterity
 {.square}
 
 #### Active -v- Passive Perception
-A creature's [passive perception](passive-checks) should be used if the creature is not alerted to the hider's presence.
+Use a creature's [passive perception](passive-checks) if the creature is not alerted to a hider's presence.
 
 > **Sources** <br/>
 > System Reference Document, p. 80<br/>

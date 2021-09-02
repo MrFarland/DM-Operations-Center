@@ -6,10 +6,10 @@ parent: abilities
 ### Dexterity
 [Home](dm-operations-center) > [Abilities](abilities-menu) > Dexterity {.small-text}
 
-Balance, agility, and general nimbleness
+Balance, agility, and general nimbleness.
 
 #### Ability Checks
-- Pick a lock ([Thieves' Tools](/item/thieves-tools))
+- Pick a lock ([Thieves' Tools](/item/thieves-tools)).
 - Wriggle free after being tied up.
 - Craft a small or detailed object.
 {.square}

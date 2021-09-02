@@ -11,8 +11,8 @@ Knowledge of religions, gods, cults, and traditions.
 | [DC](difficulty-class) | Example                      |
 | :--: | :--------------------------------------------- |
 |  10  | Recognize the holy symbol of a god.            |
-|  15  | Recall the details to a ritual or prayer.      |
-|  20  | Identify the symbology of an ancient religion. |
+|  15  | Recall the details of a ritual or prayer.      |
+|  20  | Identify the symbology of ancient religion.    |
 {.gray .small-text}
 
 > **Sources** <br/>
