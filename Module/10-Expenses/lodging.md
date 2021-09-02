@@ -19,6 +19,6 @@ parent: expenses
 {.gray .small-text}
 
 > **Sources** <br/>
-> System Reference Document, p. XXX<br/>
+> System Reference Document, p. 73-74<br/>
 > Player's Handbook, p. 157-158<br/>
 {.read .small-text}

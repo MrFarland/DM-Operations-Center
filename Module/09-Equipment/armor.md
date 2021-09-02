@@ -30,6 +30,6 @@ parent: equipment
 ***\*** [Disadvantage](advantage-and-disadvantage) on [stealth](stealth) checks.* {.small-text}
 
 > **Sources** <br/>
-> System Reference Document, p. XXX<br/>
+> System Reference Document, p. 63<br/>
 > Player's Handbook, p. 144
 {.read .small-text}

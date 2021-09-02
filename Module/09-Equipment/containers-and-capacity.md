@@ -26,6 +26,6 @@ parent: equipment
 ***\*** Items can also be strapped to the outside.* {.small-text}
 
 > **Sources** <br/>
-> System Reference Document, p. XXX<br/>
+> System Reference Document, p. 69-70<br/>
 > Player's Handbook, p. 148
 {.read .small-text}

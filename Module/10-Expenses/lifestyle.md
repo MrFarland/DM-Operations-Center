@@ -18,6 +18,6 @@ parent: expenses
 {.gray .small-text}
 
 > **Sources** <br/>
-> System Reference Document, p. XXX<br/>
+> System Reference Document, p. 72-73<br/>
 > Player's Handbook, p. 157
 {.read .small-text}

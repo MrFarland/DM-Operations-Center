@@ -31,7 +31,6 @@ parent: expenses
 ***Note**. "Meal" is for a whole day's worth of meals. Divide by 3 for a single meal.* {.small-text}
 
 > **Sources** <br/>
-> System Reference Document, p. XXX<br/>
+> System Reference Document, p. 73-74<br/>
 > Player's Handbook, p. 158<br/>
-> Dungeons & Dragons versus Rick & Morty, p. XXX
 {.read .small-text}

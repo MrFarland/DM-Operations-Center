@@ -35,5 +35,5 @@ May use an [action](action) to change into a beast, the character has **seen** b
 
 > **Sources** <br/>
 > System Reference Document, p. 20<br/>
-> Player's Handbook, p. XXX
+> Player's Handbook, p. 66-67
 {.read .small-text}
