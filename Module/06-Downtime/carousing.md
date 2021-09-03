@@ -14,21 +14,21 @@ parent: downtime
 | Upper Class*  | 250 gp |
 {.gray .small-text}
 
-***\*** Character must have access to the local nobility or make a disguise and a successful [deception](deception) check to pass themselves off as a visiting noble.* {.small-text}
+***\*** A character must have access to the local nobility or make a disguise and a successful [deception](deception) check to pass themselves off as a visiting noble.* {.small-text}
 
 #### Resolution
 Make a [Charisma](charisma) ([Persuasion](persuasion)) check.
 |||
 | :---: | :---------------------------------------- |
-| 01 05 | Character has made a hostile contact.     |
-| 06 10 | Character has made no new contacts.       |
-| 11 15 | Character has made an allied contact.     |
-| 16 20 | Character has made two allied contacts.   |
+| 01-05 | Character has made a hostile contact.     |
+| 06-10 | Character has made no new contacts.       |
+| 11-15 | Character has made an allied contact.     |
+| 16-20 | Character has made two allied contacts.   |
 |  21+  | Character has made three allied contacts. |
 {.gray .small-text}
 
 #### Contacts
-Share a bond with the character, owing a favor or bearing a grudge. They are one-time use, but are generally friendly or hostile unless given a reason to be otherwise.
+Contacts share a bond with a character, either owing them a favor or bearing a grudge. A contact provides help or hinders once, but they will remain friendly (or hostile) afterward.
 |||
 | :----------- | :------------------------------------------------------------- |
 | Lower Class  | Criminals, laborers, mercenaries, guards, or other commoners.  |
@@ -46,7 +46,7 @@ Share a bond with the character, owing a favor or bearing a grudge. They are one
 |  5  | After a few drinks, you swore in the town square to pursue a dangerous quest.                                                |
 |  6  | Surprise! You're married.                                                                                                    |
 |  7  | Streaking naked through the streets seemed like a great idea at the time.                                                    |
-|  8  | Everyone is calling you by some weird , embarrassing nickname, like Puddle Drinker or Bench Slayer, and no one will say why. |
+|  8  | Everyone is calling you by some weird, embarrassing nickname, like Puddle Drinker or Bench Slayer, and no one will say why.  |
 {.gray .small-text}
 
 |[1d8](/roll/1d8)| Middle Class Complication                                                                                         |

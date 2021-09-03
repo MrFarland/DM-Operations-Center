@@ -26,7 +26,8 @@ The character makes 3 [checks](ability-checks) with a different [DC](difficulty-
 |    0    |   +100%    | Recover gambling expenses & win 100% more.                      |
 {.gray .small-text}
 
-#### Complications (10%)
+#### Complications
+There is a 10% chance of a complication for every 1 week of gambling.
 |[1d6](/roll/1d6)| Complications                                                                         |
 | :-: | :----------------------------------------------------------------------------------------------- |
 |  1  | You are accused of cheating. You decide whether you actually did cheat or were framed.           | 

@@ -8,7 +8,7 @@ parent: downtime
 
 | Lifestyle                   | Time   | Cost   | Other                                   |
 | :-------------------------- | -----: | -----: | :-------------------------------------- |
-| [Modest](lifestyle-expense) |     1w |    0gp | Access to a temple or religious figure. |
+| [Modest](lifestyle-expense) |     1w |   0 gp | Access to a temple or religious figure. |
 {.gray .small-text}
 
 #### Resolution
@@ -16,14 +16,15 @@ The character makes an [Intelligence](intelligence) ([Religion](religion)) or [C
 
 |||
 | :---: | :--------------------------------------------------------- |
-|  1 10 | No effect. Your efforts fail to make a lasting impression. |
-| 11 20 | You earn one favor.                                        |
-|  21 + | You earn two favors.                                       |
+|  1-10 | No effect. Your efforts fail to make a lasting impression. |
+| 11-20 | You earn one favor.                                        |
+|  21+  | You earn two favors.                                       |
 {.gray .small-text}
 
-**Favor**. Promise of assistance from a representative of the temple or a 50% discount on [spellcasting services](spellcasting-services). Maximum of (1 + [Charisma](charisma) Modifier) favors.{.small-text}
+**Favor**. A promise of assistance from a representative of the temple or a 50% discount on [spellcasting services](spellcasting-services). Maximum of (1 + [Charisma](charisma) Modifier) favors.{.small-text}
 
-#### Complications (10%)
+#### Complications
+There is a 10% chance of a complication for every 1 week of service.
 |[1d6](/roll/1d6)| Complications                                                               |
 | :-: | :------------------------------------------------------------------------------------- |
 |  1  | You have offended a priest through your words or actions.                              |

@@ -16,7 +16,7 @@ Character makes a [Charisma](charisma) ([Persuasion](persuasion)) check:
 
 |||
 | :---: | :------------------ |
-|  1-10 | 50% of base price.  |
+| 01-10 | 50% of base price.  |
 | 11-20 | 100% of base price. |
 |  21+  | 150% of base price. |
 {.gray .small-text}
@@ -32,7 +32,8 @@ Character makes a [Charisma](charisma) ([Persuasion](persuasion)) check:
 
 ***\*** I prefer the pricing from [Buy Magic Item](buy-magic-item).* {.small-text}
 
-#### Complications (10%)
+#### Complications
+There is a 10% chance of a complication for every 1 week of selling.
 |[1d6](/roll/1d6)| Complications |
 |:-:|-|
 | 1 | Your enemy secretly arranges to buy the item to use it against you. |

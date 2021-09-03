@@ -8,25 +8,25 @@ parent: downtime
 
 #### Resources
 - Minimum of 1 workweek
-- 100gp in expenses (inc. Wealthy lifestyle)
+- 100 gp in expenses (inc. Wealthy lifestyle)
 {.square}
 
 **Resolotion**<br/>
-[Charisma](charisma) ([Persuasion](persuasion)) 
+Make a [Charisma](charisma) ([Persuasion](persuasion)) check.
 - +1 per workweek spent on search
 - +1 per 100gp spent in expenses
 - Maximum of +10
 
 | Total   | Items Acquired                                                         |
 | :-----: | :--------------------------------------------------------------------- |
-|  01 05  | Roll [1d6](/roll/1d6) times on [Magic Item Table](magic-item-tables) A |
-|  06 10  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) B |
-|  11 15  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) C |
-|  16 20  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) D |
-|  21 25  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) E |
-|  26 30  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) F |
-|  31 35  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) G |
-|  36 40  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) H |
+|  01-05  | Roll [1d6](/roll/1d6) times on [Magic Item Table](magic-item-tables) A |
+|  06-10  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) B |
+|  11-15  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) C |
+|  16-20  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) D |
+|  21-25  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) E |
+|  26-30  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) F |
+|  31-35  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) G |
+|  36-40  | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) H |
 |   40+   | Roll [1d4](/roll/1d4) times on [Magic Item Table](magic-item-tables) I |
 {.gray .small-text}
 

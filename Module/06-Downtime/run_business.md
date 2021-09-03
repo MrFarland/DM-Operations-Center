@@ -10,13 +10,13 @@ parent: downtime
 
 |||
 | :---: | :----------------------------------------------------------------------------------------------------------------- |
-| 01 20 | You must pay one and a half times the business's maintenance cost for each of the days.                            |
-| 21 30 | You must pay the business's full maintenance cost for each of the days.                                            |
-| 31 40 | You must pay half the business's maintenance cost for each of the days. Profits cover the other half.              |
-| 41 60 | The business covers its own maintenance cost for each of the days.                                                 |
-| 61 80 | The business covers its own maintenance cost for each of the days. It earns a profit of [1d6](/roll/1d6) x 5 gp.   |
-| 81 90 | The business covers its own maintenance cost for each of the days. It earns a profit of [2d8](/roll/2d8) x 5 gp.   |
-| 91 100| The business covers its own mai ntenance cost for higher each of the days. It earns a profit of [3d10](/roll/3d10) x 5 gp |
+| 01-20 | You must pay one and a half times the business's maintenance cost for each of the days.                            |
+| 21-30 | You must pay the business's full maintenance cost for each of the days.                                            |
+| 31-40 | You must pay half the business's maintenance cost for each of the days. Profits cover the other half.              |
+| 41-60 | The business covers its own maintenance cost for each of the days.                                                 |
+| 61-80 | The business covers its own maintenance cost for each of the days. It earns a profit of [1d6](/roll/1d6) x 5 gp.   |
+| 81-90 | The business covers its own maintenance cost for each of the days. It earns a profit of [2d8](/roll/2d8) x 5 gp.   |
+| 91-100| The business covers its own maintenance cost for higher each of the days. It earns a profit of [3d10](/roll/3d10) x 5 gp |
 {.gray .small-text}
 
 If maintenance cost underruns are not paid, the business begins to fail.
