@@ -7,7 +7,7 @@ parent: downtime
 [Home](dm-operations-center) > [Downtime](downtime-menu) > Pit Fighting {.small-text}
 
 #### Resources
-This requries a minimum of 1 workweek.
+This requires a minimum of 1 workweek.
 
 #### Resolution
 The character makes 3 checks with a different [DC](difficulty-class) (5 + [2d10](/roll/2d10)) for each successive check.
@@ -17,7 +17,7 @@ The character makes 3 checks with a different [DC](difficulty-class) (5 + [2d10]
 3. [Constitution](constitution) ([Hit Die](hit-dice))
 {.square}
 
-***Note**: If the nature of the fighting is gladitorial (not boxing, MMA), the character may substitute one roll with a standard attack roll.* {.small-text}
+***Note**: If the nature of the fighting is gladiatorial (not boxing, MMA, etc.), the character may substitute one roll with a standard attack roll.* {.small-text}
 
 #### Results
 | Losses   | Winnings   |
@@ -36,7 +36,7 @@ The character makes 3 checks with a different [DC](difficulty-class) (5 + [2d10]
 |  3  | You defeat a popular local champion, drawing the crowd's ire.                                     |
 |  4  | You defeat a noble's servant, drawing the wrath of the noble's house.                             |
 |  5  | You are accused of cheating. Whether the allegation is true or not, your reputation is tarnished. |
-|  6  | You accidentally deliver a near-fatal wound to a foe. |
+|  6  | You accidentally deliver a near-fatal wound to a foe.                                             |
 {.gray .small-text}
 
 > **Sources** <br/>

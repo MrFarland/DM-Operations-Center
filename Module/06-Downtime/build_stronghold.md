@@ -7,20 +7,20 @@ parent: downtime
 [Home](dm-operations-center) > [Downtime](downtime-menu) > Build Stronghold {.small-text}
 
 ||||
-| ----------------------- | --------: | -----: |
-| Abbey                   |  50,000gp |   400d |
-| Guildhall, (Town/City)  |   5,000gp |    60d |
-| Keep or small castle    |  50,000gp |   400d |
-| Noble estate with manor |  25,000gp |   150d |
-| Outpost or fort         |  15,000gp |   100d |
-| Palace or large castle  | 500,000gp | 1,200d |
-| Temple                  |  50,000gp |   400d |
-| Tower, fortified        |  15,000gp |   100d |
-| Trading post            |   5,000gp |    60d |
+| ----------------------- | -----: | ---------: |
+| Abbey                   |   400d |  50,000 gp |
+| Guildhall, (Town/City)  |    60d |   5,000 gp |
+| Keep or small castle    |   400d |  50,000 gp |
+| Noble estate with manor |   150d |  25,000 gp |
+| Outpost or fort         |   100d |  15,000 gp |
+| Palace or large castle  | 1,200d | 500,000 gp |
+| Temple                  |   400d |  50,000 gp |
+| Tower, fortified        |   100d |  15,000 gp |
+| Trading post            |    60d |   5,000 gp |
 {.gray .small-text}
 
-- A charter, permit, deed, may be needed.
-- Each day a character not present adds 3d.
+- A charter, permit, or deed may be needed.
+- Each day, a character not present adds 3d.
 {.square}
 
 ***See Also:** [Upkeep](upkeep)*
