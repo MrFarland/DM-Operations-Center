@@ -9,11 +9,11 @@ parent: downtime
 The character spends 25 gp and 1 week gathering information & deciding on a target.
 
 | [DC](difficulty-class) | Value | Description   |
-| :--: | ------: | ----------------------------- |
-|  10  |     50g | Rob a struggling merchant.    |
-|  15  |    100g | Rob a prosperous merchant.    |
-|  20  |    200g | Rob a noble.                  |
-|  25  |  1,000g | Rob a rich & powerful figure. |
+| :--: | --------: | ----------------------------- |
+|  10  |     50 gp | Rob a struggling merchant.    |
+|  15  |    100 gp | Rob a prosperous merchant.    |
+|  20  |    200 gp | Rob a noble.                  |
+|  25  |  1,000 gp | Rob a rich & powerful figure. |
 {.gray .small-text}
 
 The character makes three successive checks 
@@ -24,12 +24,12 @@ The character makes three successive checks
     - [Intelligence](intelligence) ([Investigation](investigation))
     - [Charisma](charisma) ([Deception](deception))
 
-| Fails   | Result   | Outcome                            |
-| :------ | :------: | :--------------------------------- |
-| 3       |  Jailed  | Fine = Profit, Sentence 1w per 25g |
-| 2       | Escaped  | Roll for Complication              |
-| 1       | Partial  | Profit 50%, Complication (Rival)   |
-| 0       | Success  | Profit 100%                        |
+| Fails   | Result   | Outcome                              |
+| :------ | :------: | :----------------------------------- |
+| 3       |  Jailed  | Fine = Profit, Sentence 1w per 25 gp |
+| 2       | Escaped  | Roll for Complication                |
+| 1       | Partial  | Profit 50%, Complication (Rival)     |
+| 0       | Success  | Profit 100%                          |
 {.gray .small-text}
 
 #### Complications

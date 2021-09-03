@@ -23,7 +23,7 @@ parent: downtime
 - Must be proficient in the [Arcana](arcana) skill.
 - Must be able to cast any contained spells.
 - Must have the [material components](spell-components).
-- Assistants **MUST** meet all requirements.
+- Assistants **must** meet all requirements.
 {.square}
 
 While enchanting, the creator can maintain a [modest lifestyle](lifestyle) at no cost or 1/2 a [comfortable](lifestyle) one.

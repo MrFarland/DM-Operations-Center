@@ -17,15 +17,16 @@ The character declares a specific person, place or thing. The character makes an
 
 |||
 | :---: | :-------------------------- |
-|  1 5  | No effect.                  |
-| 6 10  | You learn 1 piece of lore.  |
-| 11 20 | You learn 2 pieces of lore. |
-| 21 +  | You learn 3 pieces of lore. |
+| 01-05 | No effect.                  |
+| 06-10 | You learn 1 piece of lore.  |
+| 11-20 | You learn 2 pieces of lore. |
+|  21+  | You learn 3 pieces of lore. |
 {.gray .small-text}
 
 **Lore**. A creature's resistances, the location of a dungeon, the spells favored by a group of wizards.{.small-text}
 
-#### Complications (10%)
+#### Complications
+There is a 10% chance of a complication for every 1 week of research.
 |[1d6](/roll/1d6)| Complications                                                                 |
 |:-:| :----------------------------------------------------------------------------------------- |
 | 1 | You accidentally damage a rare book.                                                       |
