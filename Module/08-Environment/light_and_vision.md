@@ -10,7 +10,7 @@ parent: environment
 | :----- | :-----------------------------: |:-------------------------------------------------------------------------------- |
 | Bright | N/A                             | Daylight, immediate area of light sources like fires and [torches](/item/torch). |
 | Dim    | [Lightly](lightly-obscured)     | Shadow, Twilight, and boundaries between bright & dark.                          |
-| Dark   | [Heavily](heavily-obscured)     | Night (even w/ moonlight), caves, and magical darkness                           |
+| Dark   | [Heavily](heavily-obscured)     | Night (even w/ moonlight), caves, and magical darkness.                          |
 {.gray .small-text}
 
 <div class="menu-container">

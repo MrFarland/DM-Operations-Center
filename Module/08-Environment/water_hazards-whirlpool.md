@@ -17,20 +17,20 @@ A swirling vortex of water that sucks creatures and ships towards its center.
 {.gray .small-text}
 
 #### Creatures
-Make a [Strength](strength) ([Athletics](athletics)) check upon entering or starting it's turn inside the whirlpool.
+Make a [Strength](strength) ([Athletics](athletics)) check upon entering or starting its turn inside the whirlpool.
 
 On a failure:
-- Moved towards center (distance = whirlpool velocity)
-- Restrained until the start of it's next turn.
+- Moved towards the center (distance = whirlpool velocity).
+- Restrained until the start of its next turn.
 - At the center, it is pulled under and appears:
-    - A number of feet equal to velocity
-    - or a special location.
+    - A number of feet equal to its velocity.
+    - Or a special location.
 
 On a success:
 - May move normally, but it is [difficult terrain](difficult-terrain).
 
 #### Vessels (Length < Diameter)
-Officers and crew make a group hazard check to escape. It represents 5 minutes of work and the [DC](difficulty-class) is chosen randomly or using a [1d4](/roll/1d4) on the table above.
+Officers and crew make a group hazard check to escape. It represents 5 minutes of work, and the [DC](difficulty-class) is chosen randomly or using a [1d4](/roll/1d4) on the table above.
 
 | Group Check                                                                                   ||
 | :-------------- | :--------------------------------------------------------------------------- |
@@ -45,7 +45,7 @@ Officers and crew make a group hazard check to escape. It represents 5 minutes o
 | :------------ | :-------------------------------------------------------------------------------------------- |
 | Total Success | Increases speed by 20' in current turn.                                                       |
 | Success       | The vessel can move normally.                                                                 |
-| Failure       | Moved toward center at whirlpool velocity, [restrained](restrained) until start of next turn. |
+| Failure       | Moved toward center at the whirlpool's velocity, [restrained](restrained) until start of next turn. |
 | Total Failure | As a failure. Additionally, if in whirlpool at start of next turn, repeat checks have [disadvantage](advantage-and-disadvantage) on that turn |
 {.gray .small-text}
 

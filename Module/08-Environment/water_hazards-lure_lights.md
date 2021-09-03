@@ -17,14 +17,14 @@ A creature that sees the lights must make a [DC](difficulty-class) 14 [Wisdom](w
 
 **Fail**<br/>
 - [Charmed](charmed) for 24 hrs or lights are destroyed.
-- Cannot move out of line of sight of lights.
+- Cannot move out of the line of sight of the lights.
 - Will fight to the death to defend them.
 - If moved away, will return.
 - Cannot take a [short](short-rest) or [long rest](long-rest).
 - Gain 1 point of [exhaustion](exhaustion) after 24 hours.
 - Must repeat [saving throw](saving-throws) if still in LoS.
 
-Each cluster of lure lights has an [AC](armor-class) 17, 100 [hit points](hit-points). and [immunity](resistance-and-vulnerability) to necrotic and poison damage.
+Each cluster of lure lights has an [AC](armor-class) of 17, 100 [hit points](hit-points) and [immunity](resistance-and-vulnerability) to necrotic and poison damage.
 
 > **Sources** <br/>
 > Ghosts of Saltmarsh, p. 205

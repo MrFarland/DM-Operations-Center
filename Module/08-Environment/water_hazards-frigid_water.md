@@ -11,8 +11,8 @@ parent: water-hazards
 Each additional minute requires a [DC](difficulty-class) 10 [Constitution](constitution) [saving throw](saving-throws) or gain 1 level of [exhaustion](exhaustion).
 
 Creatures automatically succed if they:
-- have [resistance or immunity](resistance-and-vulnerability) to cold,
-- are naturally adapted to cold climates.
+- Have [resistance or immunity](resistance-and-vulnerability) to cold.
+- Are naturally adapted to cold climates.
 
 > **Sources** <br/>
 > Dungeon Master's Guide, p. 110

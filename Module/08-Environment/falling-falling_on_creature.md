@@ -8,11 +8,11 @@ parent: falling
 
 A creature about to be landed on may attempt to avoid being hit by the falling creature.
 
-**[DC](difficulty-class) 15 [DEX](DEXTERITY) [saving throw](saving-throws)** {.text-center}
+**[DC](difficulty-class) 15 [DEX](dexterity) [saving throw](saving-throws)** {.text-center}
 
-If successful they take no damage, otherwise they take 1/2 of the falling creature's damage and are knocked [prone](prone).
+If successful, it takes no damage. Otherwise, it takes 1/2 of the falling creature's damage and is knocked [prone](prone).
 
-***Note**: The creature takes no damage if they are two or more sizes larger than the falling creature.*
+***Note**: A creature takes no damage if it is two or more sizes larger than the falling creature.*
 
 > **Sources** <br/>
 > Tasha's Cauldron of Everything, p. 170

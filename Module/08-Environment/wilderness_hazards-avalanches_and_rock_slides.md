@@ -12,7 +12,7 @@ parent: wilderness-hazards
 - Creatures roll [initiative](initiative)
 - Moves 300' at [initiative](initiative) 10 and 0
 - Creatures move with it and are [prone](prone)
-- [DC](difficulty-class) 15 [STR](STRENGTH) [saving throw](saving-throws)
+- [DC](difficulty-class) 15 [STR](strength) [saving throw](saving-throws)
 - Fail: [1d10](/roll/1d10) bludgeoning, 1/2 on success
 {.square}
 
@@ -21,7 +21,7 @@ parent: wilderness-hazards
 - Gains 1 point [exhaustion](exhaustion) every 5 minutes
 - May use an action to attempt to free itself
 - Make a [DC](difficulty-class) 15 [Strength](strength) ([Athletics](athletics)) check
-- 3 failures and they cannot try again
+- 3 failures, and they cannot try again
 {.square}
 
 It takes an unrestrained creature 1 minute to dig out a buried creature.

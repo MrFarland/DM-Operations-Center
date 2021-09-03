@@ -9,7 +9,7 @@ parent: light-and-vision
 A creature with truesight can:
 - See in normal and magical [darkness](light-and-vision)
 - See [invisible](invisible) creatures
-- Detect illusions and succeed on [saves](saving-throws) against them.
+- Detect illusions and succeed in [saves](saving-throws) against them
 - Perceive the original form of a shapechanger
 - See into the Ethereal Plane
 {.square}
