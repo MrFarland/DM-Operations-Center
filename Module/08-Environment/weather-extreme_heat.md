@@ -11,8 +11,8 @@ At or above 100°F, a creature without access to [water](food-and-water) must ma
 Creatures wearing heavy [armor](armor) or clothing have [disadvantage](advantage-and-disadvantage) on the [saving throw](saving-throws).
 
 Creatures automatically succeed if they:
-- have [resistance or immunity](resistance-and-vulnerability) to fire,
-- are naturally adapted to hot climates.
+- Have [resistance or immunity](resistance-and-vulnerability) to fire
+- Are naturally adapted to hot climates
 
 > **Sources** <br/>
 > Dungeon Master's Guide, p. 110

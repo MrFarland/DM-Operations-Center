@@ -7,7 +7,7 @@ parent: light-and-vision
 [Home](dm-operations-center) > [Environment](environment-menu) > [Light & Vision](light-and-vision) > Blindsight {.small-text}
 
 A creature with blindsight can:
-- perceive their surroundings without sight
+- Perceive their surroundings without sight
 {.square}
 
 ***Note**: The range of this ability is specified in the monster's description.* {.small-text}

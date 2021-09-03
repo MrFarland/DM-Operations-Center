@@ -8,7 +8,7 @@ parent: supernatural-regions
 
 The area is touched by the Upper Planes. You **may** roll on the table below when the following occur:
 - Creature succeeds on [saving throw](saving-throws) compelled by fiend/undead
-- Creatures is a target of a cleric / paladin spell of 3rd level or higher
+- Creature is a target of a cleric / paladin spell of 3rd level or higher
 - Score a [critical hit](critical-hit-and-miss) against a fiend / undead
 - Epiphany or triumph in service of righteousness or in defiance of evil
 

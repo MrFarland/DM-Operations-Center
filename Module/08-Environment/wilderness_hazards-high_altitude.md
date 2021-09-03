@@ -8,7 +8,7 @@ parent: wilderness-hazards
 
 At 10,000' and above, every hour of traveled equals 2 hours for determining the effects of prolonged travel and a [forced march](forced-march).
 
-Acclimation to high altitude takes 30 days or more at that altitude. A creature cannot acclimate above 20,000 unless they are native to that altitude.
+Acclimation to a high altitude takes 30 days or more at that altitude. A creature cannot acclimate above 20,000 unless they are native to that altitude.
 
 > **Sources** <br/>
 > Dungeon Master's Guide, p. 110
