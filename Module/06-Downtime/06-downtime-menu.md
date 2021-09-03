@@ -20,13 +20,14 @@ parent: dm-operations-center
     <a href="relaxing">Relaxing</a>
     <a href="religious-service">Religious<br/> Service</a>
     <a href="research">Research</a>
-    <a href="scribe-scroll">Scribe<br/> Scroll</a>
-    <a href="sow-rumor">Sow<br/> Rumor</a>
+    <a href="run-business">Run<br/> Business</a>
+    <a href="sell-magic-item">Sell<br/> Magic Item</a>
 </div>
 <div class="more">▼ More ▼</div>
 <div class="menu-container">
+    <a href="scribe-scroll">Scribe<br/> Scroll</a>
+    <a href="sow-rumor">Sow<br/> Rumor</a>
     <a href="train">Train</a>
     <a href="work">Work</a>
-    <a href="."></a>
 </div>
 <hr/>
