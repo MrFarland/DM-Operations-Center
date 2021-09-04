@@ -10,7 +10,7 @@ parent: spellcasting
 
 **Automatic if [Counterspell](/spell/counterspell) Level > Spell Level** {.text-center .small-text}
 
-***Note**. The same formula is used to [dispel magic](/spell/dispel-magic).* {.small-text}
+***Note**. The same formula is used for [dispel magic](/spell/dispel-magic).* {.small-text}
 
 > **Sources** <br/>
 > System Reference Document, p. 131<br/>
