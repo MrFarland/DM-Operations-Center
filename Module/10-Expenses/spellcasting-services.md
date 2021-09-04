@@ -29,7 +29,7 @@ These prices are just a rough guide and should be considered a starting price. O
 - Prevalence of magic/casters in the world.
 {.square}
 
-Even if a caster of high enough level is available, spells above a certain level are not for sale. The characters may need to convince or perform a task for the caster to persuade them to cast it.
+Even if a caster of a high enough level is available, spells above a certain level are not for sale. The characters may need to convince or perform a task for the caster to persuade them to cast it.
 
 > **Sources** <br/>
 > System Reference Document, p. 74<br/>
