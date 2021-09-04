@@ -6,7 +6,7 @@ parent: spellcasting
 ### Identify Spell
 [Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Identify Spell {.small-text}
 
-A character may use their [reaction](reaction) to identify a spell being cast or an [action](action) to identify it's effects.
+A character may use their [reaction](reaction) to identify a spell being cast or an [action](action) to identify its effects.
 
 **[Intelligence](intelligence) ([Arcana](arcana)) ≥ [DC](difficulty-class) 15 + Spell Level**
 

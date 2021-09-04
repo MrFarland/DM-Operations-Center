@@ -9,10 +9,10 @@ parent: spellcasting
 ||| 
 | :---------- | :--------------------------------------------------------------------------|
 | Abjuration  | Protective in nature. Create barriers, negate effects, or banish creatures.|
-| Conjuration | Transport objects & creatures. Summon allies, teleport.                    |
-| Divination  | Reveal secrets forgotten, glimpse the future, locate of hidden things.     |
+| Conjuration | Transport objects and creatures. Summon allies, teleport.                  |
+| Divination  | Reveal secrets forgotten, glimpse the future, locate hidden things.        |
 | Dunamancy   | Manipulate the fabric of time and space to bend it to your will.           |
-| Enchantment | Affect the minds of others. Influence behavior, or take control.           |
+| Enchantment | Affect the minds of others. Influence behavior or take control.            |
 | Evocation   | Manipulate energy to produce an effect like fire or lightning.             |
 | Illusion    | Deceive others. Cause people to see, hear, remember things.                |
 | Necromancy  | Manipulate life & death. Drain energy, create undead, restore life.        |

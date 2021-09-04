@@ -11,7 +11,7 @@ Copying a scroll into a spellbook requires an [Intelligence](intelligence) ([Arc
  [DC](difficulty-class) = 10 + Spell Level {.text-center}
  
 - Copying takes 2 hours & 50 gp per level
-- The scroll is destroyed regardless of roll.
+- The scroll is destroyed regardless of the roll.
 {.square}
 
 > **Sources** <br/>

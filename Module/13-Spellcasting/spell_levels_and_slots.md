@@ -14,7 +14,7 @@ parent: spellcasting
 
 - A spell must be cast using a spell slot of equal level or higher.
 - A spell slot is used regardless of the spell level it was used to cast.
-- Casting some spells at a higher level makes the spell more powerful or affect more creatures.
+- Casting some spells at a higher level makes the spell more powerful or affects more creatures.
 {.square}
 
 > **Sources** <br/>
