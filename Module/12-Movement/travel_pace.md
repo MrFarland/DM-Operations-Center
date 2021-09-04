@@ -13,7 +13,7 @@ parent: movement
 | Slow   | 200 ft | 2 mi | 18 mi | [Stealth](stealth)  |
 {.gray .small-text}
 
-Travel by wagon or cart is the same speed as on foot. Passengers are not subject to effects of a [Forced March](forced-march), but the beasts are.
+Travel by wagon or cart is the same speed as on foot. Passengers are not subject to the effects of a [Forced March](forced-march), but the beasts are.
 
 Mounted (Horse) travel can cover double the distance for 1 hour up to 10 miles.
 

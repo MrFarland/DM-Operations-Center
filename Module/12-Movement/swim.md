@@ -8,7 +8,7 @@ parent: movement
 
 **1' Swimming = 2' of Movement (3' [Difficult Terrain](difficult-terrain))** {.text-center}
 
-Extra cost is ignored if creature has a swim speed. {.text-center}
+The extra cost is ignored if a creature has a swim speed. {.text-center}
 
 #### Long Distance
 Creatures without a swim speed cannot swim long distances without magical assistance.
