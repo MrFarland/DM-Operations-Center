@@ -16,7 +16,7 @@ parent: dm-operations-center
     <a href="spells-as-hazards">Spells as<br/> Hazards</a>
     <a href="tracking">Tracking</a>
     <a href="water-hazards">Water<br/> Hazards</a>
-    <a href="weather">Water<br/> Hazards</a>
+    <a href="weather">Weather</a>
     <a href="wilderness-hazards">Wilderness<br/> Hazards</a>
 </div>
 <hr/>
