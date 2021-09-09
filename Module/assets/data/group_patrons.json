@@ -44,5 +44,49 @@
                 {"min":"6", "max":"6", "name":"Evolutionary Divinity", "html":" You dare to explore what no mortal was meant to know: the origins of divinity."}
             ]
         }
+    },
+    "military":{
+        "type":{
+            "die":"6",
+            "items":[
+                {"min":"1", "max":"1", "name":"", "html":""},
+                {"min":"2", "max":"2", "name":"", "html":""},
+                {"min":"3", "max":"3", "name":"", "html":""},
+                {"min":"4", "max":"4", "name":"", "html":""},
+                {"min":"5", "max":"5", "name":"", "html":""},
+                {"min":"6", "max":"6", "name":"", "html":""}
+            ]
+        },
+        "contact":{
+            "die":"6",
+            "items":[
+                {"min":"1", "max":"1", "name":"", "html":""},
+                {"min":"2", "max":"2", "name":"", "html":""},
+                {"min":"3", "max":"3", "name":"", "html":""},
+                {"min":"4", "max":"4", "name":"", "html":""},
+                {"min":"5", "max":"5", "name":"", "html":""},
+                {"min":"6", "max":"6", "name":"", "html":""}
+            ]
+        },
+        "role":{
+            "die":"6",
+            "items":[
+                {"min":"1", "max":"1", "name":"", "html":""},
+                {"min":"2", "max":"2", "name":"", "html":""},
+                {"min":"3", "max":"3", "name":"", "html":""},
+                {"min":"4", "max":"4", "name":"", "html":""},
+                {"min":"5", "max":"5", "name":"", "html":""},
+                {"min":"6", "max":"6", "name":"", "html":""}            ]
+        },
+        "quest":{
+            "die":"6",
+            "items":[
+                {"min":"1", "max":"1", "name":"", "html":""},
+                {"min":"2", "max":"2", "name":"", "html":""},
+                {"min":"3", "max":"3", "name":"", "html":""},
+                {"min":"4", "max":"4", "name":"", "html":""},
+                {"min":"5", "max":"5", "name":"", "html":""},
+                {"min":"6", "max":"6", "name":"", "html":""}            ]
+        }
     }
 }

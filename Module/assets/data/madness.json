@@ -17,18 +17,18 @@
     "LongTerm":{
         "die":"100",
         "items":[
-            { "min":"01","max":"10","html":"The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins."},
-            { "min":"11","max":"20","html":"The character experiences vivid hallucinations and has <a href=\"advantage-and-disadvantage\">disadvantage</a> on <a href=\"ability-checks\">ability checks</a>."},
-            { "min":"21","max":"30","html":"The character suffers extreme paranoia. The character has <a href=\"advantage-and-disadvantage\">disadvantage</a> on <a href=\"wisdom\">Wisdom</a> and <a href=\"charisma\">Charisma</a>  checks."},
-            { "min":"31","max":"40","html":"The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the <a href=\"/spell/antipathysympathy\">antipathy/sympathy</a> spell."},
-            { "min":"41","max":"45","html":"The character experiences a powerful delusion. Choose a potion. The character imagines that he or she is under its effects."},
-            { "min":"46","max":"55","html":"The character becomes attached to a lucky charm, such as a person or an object, and has <a href=\"advantage-and-disadvantage\">disadvantage</a> on attack rolls, <a href=\"ability-checks\">ability checks</a>, and <a href=\"saving-throws\">saving throws</a> unless more than 30 feet from it."},
-            { "min":"56","max":"65","html":"The character is <a href=\"blinded\">blinded</a> (25%) or <a href=\"deafened\">deafened</a> (75%)."},
-            { "min":"66","max":"75","html":"The character experiences uncontrollable tremors or tics, which impose <a href=\"advantage-and-disadvantage\">disadvantage</a> on attack rolls, <a href=\"ability-checks\">ability checks</a>, and <a href=\"saving-throws\">saving throws</a> that involve <a href=\"strength\">Strength</a> or <a href=\"dexterity\">Dexterity</a>."},
-            { "min":"76","max":"85","html":"The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn't recognize other people or remember anything that happened before the madness took effect."},
-            { "min":"86","max":"90","html":"Whenever the character takes damage, he or she must succeed on a <a href=\"difficulty-class\">DC</a> 15 <a href=\"wisdom\">Wisdom</a> <a href=\"saving-throws\">saving throw</a> or be affected as though he or she failed a <a href=\"saving-throws\">saving throw</a> against the <a href=\"/spell/confusion\"confusion</a> spell. The confusion effect lasts for l minute."},
-            { "min":"91","max":"95","html":"The character loses the ability to speak."},
-            { "min":"96","max":"100","html":"The character falls <a href=\"unconscious\">unconscious</a>. No amount of jostling or damage can wake the character."}
+            { "min":"01","max":"10","html":""},
+            { "min":"11","max":"20","html":""},
+            { "min":"21","max":"30","html":""},
+            { "min":"31","max":"40","html":""},
+            { "min":"41","max":"45","html":""},
+            { "min":"46","max":"55","html":""},
+            { "min":"56","max":"65","html":""},
+            { "min":"66","max":"75","html":""},
+            { "min":"76","max":"85","html":""},
+            { "min":"86","max":"90","html":""},
+            { "min":"91","max":"95","html":""},
+            { "min":"96","max":"100","html":""}
         ]
     },
     "Indefinite":{
