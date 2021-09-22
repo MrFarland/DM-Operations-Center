@@ -10,8 +10,7 @@ parent: equipment
 | :----------------------------------------------------- | -------: | -----------: |
 | [Abacus](/item/abacus)                                 |     2 gp |        2 lb. |
 | [Acid (vial)](/item/acid-vial)                         |    25 gp |        1 lb. |
-| [Alchemist's Fire (flask)](/item/alchemists-fire-flask)
-|    50 gp |        1 lb. |
+| [Alchemist's Fire (flask)](/item/alchemists-fire-flask)|    50 gp |        1 lb. |
 | **Ammunition**                                                                 |||
 | - [Arrows](/item/arrows) (20)                          |     1 gp |        1 lb. |
 | - [Blowgun Needles](/item/blowgun-needles) (50)        |     1 gp |        1 lb. |
