@@ -9,7 +9,7 @@ parent: downtime
 
 | Lifestyle                   | Time   | Cost   | Other                        |
 | :-------------------------- | -----: | -----: | :--------------------------- |
-| [Modest](lifestyle-expense) |     1w |   50gp | Access to a sage or library. |
+| [Modest](lifestyle-expense) |     1w |  50 gp | Access to a sage or library. |
 {.gray .small-text}
 
 #### Resolution
