@@ -5,6 +5,8 @@
  character-name-generator.js
  */
 
+
+    
     // Generate a random named based on the selected name lists.
     
     function generateName() {
@@ -27,6 +29,16 @@
         familyName.innerHTML = 
             familyNameList[Math.floor(Math.random() * familyNameList.length)];
     }
+
+    /*
+    Felix MIL
+    */
+
+        // Generate a random name using centralized generator data and generate_text function
+        
+        function generateCharacterName(race, gender) {
+            return generate_text(race+gender+"FullName");    
+        }
 
     // Data
     const DragonbornFemale = ["Aakra","Aasathra","Antrara","Arava","Biri","Blendaeth","Burana","Chassath","Daar","Dentratha","Doudra","Driindar","Eggren","Farideh","Findex","Furrele","Gesrethe","Gilkass","Harann","Havilar","Hethress","Hillanot","Jaxi","Jezean","Jheri","Kadana","Kava","Korinn","Megren","Mijira","Mishann","Nala","Nuthra","Perra","Pogranix","Pyxrin","Quespa","Raiann","Rezena","Ruloth","Saphara","Savaran","Surina","Sora","Synthrin","Tatyan","Thava","Uadjit","Vezera","Zykroff"];
