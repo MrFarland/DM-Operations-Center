@@ -32,7 +32,7 @@ gen_data["DwarfFamily"] = ["Aranore","Balderk","Battlehammer","Bigtoe","Bloodkit
 gen_data["DragonBornFemaleDescription"] = ["A {Age} female dragonbon with {Scales}, wearing a {Cloth}"];
 gen_data["DragonBornMaleDescription"] = ["A {Age} male dragonbon with {Scales}, wearing a {Cloth}"];
 gen_data["DwarfFemaleDescription"] = ["A {Age} female dwarf with {Hair}, wearing a {Cloth}"];
-gen_data["DwarfMaleDescription"] = ["A {Age} female dwarf with {Beard}, wearing a {Cloth}"];
+gen_data["DwarfMaleDescription"] = ["A {Age} male dwarf with {Beard}, wearing a {Cloth}"];
 
 //Age
 gen_data["Age"] = ["very young","young", "adult","elderly"];
@@ -65,17 +65,19 @@ gen_data["Attitude"] = ["Welcoming","Sad","Discrete","Stoic"]
 gen_data['JewelerLocation'] = ['a {locationAdjective} place,'];
 
 gen_data['JewelerDescription'] = ['A {gender} {race},'];
-  gen_data['JewelerItems'] = {
-    '1-2' : '{precious_stone}',
-    '3-6' : '{magical_jewel}'
-  };
 
-  gen_data['locationAdjective'] = [
-    'warm', 'cold'
-  ];
-  gen_data['precious_stone'] = [
-    'Ruby', 'Topaz', 'Quartz','Emerald', 'Jade','Amethyst','Sapphire'
-  ];
-  gen_data['magical_jewel'] = [
-    'Invisibility Ring', 'Driftglobe','Necklace of Adaptation','Figurine of Wondrous Power, Golden Lions','Ring of Protection', 'Crystal Ball','Spell Gem (Amber)'
-  ];
+// It is possible to tweak randomness by giving some element more chance than others
+gen_data['JewelerItems'] = {
+  '1-5' : '{precious_stone}',
+  '6' : '{magical_jewel}'
+};
+
+gen_data['locationAdjective'] = [
+  'warm', 'cold'
+];
+gen_data['precious_stone'] = [
+  'Ruby', 'Topaz', 'Quartz','Emerald', 'Jade','Amethyst','Sapphire'
+];
+gen_data['magical_jewel'] = [
+  'Invisibility Ring', 'Driftglobe','Necklace of Adaptation','Figurine of Wondrous Power, Golden Lions','Ring of Protection', 'Crystal Ball','Spell Gem (Amber)'
+];
