@@ -8,9 +8,9 @@ parent: constitution
 
 Hit Points represent a character's ability to fight as well as their physical health.
 
-**Max HP = ([Hit Die](hit-dice) + [CON](constitution)) per level** {.text-center}
+**Max HP = ([Hit Die](hit-dice) + [CON](constitution) Mod) per level** {.text-center}
 
-- Current HP cannot exceed Maximum HP.
+- Current HP cannot exceed Maximum HP*.
 - 0 HP = [unconscious](unconscious) and ([stabilized](stablizing) or [dying](death-saving-throw))
 {.square}
 
@@ -19,6 +19,8 @@ When a character levels up, they can choose to roll their [hit die](hit-dice) or
 
 #### Changes to Constitution
 Changes to the character's [constitution](constitution) modifier are **retroactive**. Increases or decreases are applied for each character level.
+
+***\*** [Temporary Hit Points](temporary-hit-points) may exceed a character's maximum HP.* {.small-text}
 
 > **Sources** <br/>
 > Player's Handbook, p. 177

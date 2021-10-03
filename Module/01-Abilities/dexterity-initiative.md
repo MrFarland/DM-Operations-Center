@@ -9,13 +9,13 @@ parent: dexterity
 **Initiative = [1d20](/roll/1d20) + [Dexterity](dexterity) [modifier](ability-modifiers)** {.text-center}
 
 #### Tiebreakers
-- Players go before monsters.
 - Players decide ties between players.
-- DM decides between monsters.
+- DM decides ties between monsters.
+- DM **can** decide ties between player & monster.
 {.square}
 
 > **MrFarland House Rule**<br/>
-> If the players cannot agree, We use the following tiebreakers:<br/>
+> I use the following tiebreakers if the players cannot decide amongst themselves or for ties between a player and monster:<br/>
 > 1\. Higher initiative bonus.<br/>
 > 2\. Higher [Dexterity](dexterity) score.<br/>
 > 3\. Roll [1d20](/roll/1d20), highest goes first.
