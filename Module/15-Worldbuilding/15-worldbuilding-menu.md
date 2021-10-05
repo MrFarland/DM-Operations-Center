@@ -8,6 +8,7 @@ parent: dm-operations-center
 
 <div class="menu-container">
     <a href="name-generator">Name<br/> Generator</a>
+    <a href="npc-generator">NPC<br/> Generator</a>
     <a href="world-shaking-events">World Shaking<br/> Events</a>
 </div>
 
