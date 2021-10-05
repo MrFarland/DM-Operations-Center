@@ -62,7 +62,7 @@ gen_data["HairColor"] = ["black", "blond", "brown", "red"];
 
 //Beard
 gen_data["Beard"] = ["{BeardStyle} {HairColor} beard"];
-gen_data["BeardStyle"] = ["long","moustache","breaded","tied"];
+gen_data["BeardStyle"] = ["long","moustache","bearded","tied"];
 
 //Scales
 gen_data["Scales"] = ["{Color} {ScalesType} scales"];
