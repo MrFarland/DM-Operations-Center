@@ -2,7 +2,7 @@
  Donald Farland
  version 1.0
  ----------------
- character-name-generator.js
+ generateName-character.js
  */
  
     // Generate a random named based on the selected name lists.

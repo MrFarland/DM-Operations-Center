@@ -10,7 +10,7 @@ parent: worldbuilding
 
 <div class="controls">
     <select id="selectRace">
-        <option value="">-- Race --</option>
+        <option value="none">-- Race --</option>
         <option value="dragonborn">Dragonborn</option>
         <option value="dwarf">Dwarf</option>
         <option value="elf">Elf</option>
@@ -41,7 +41,7 @@ parent: worldbuilding
         <option value="tiefling">Tiefling</option>
     </select>
     <select id="selectGender">
-        <option value="">-- Gender --</option>
+        <option value="none">-- Gender --</option>
         <option value="female">Female</option>
         <option value="male">Male</option>
     </select>
@@ -56,14 +56,6 @@ parent: worldbuilding
 </div>
 
 <hr/>
-
-**Notes**
-- I still need to fix the order of Chinese names to (surname given). {.small-text}
-- Drow names are planned but haven't been implemented yet.
-- Elf child names are not yet implemented.
-- Orcs do not have clan/family names yet.
-
-*I don't have "Half" names. I choose names for half-elves and orcs based on the culture in which they were raised.*
 
 <script src="../assets/js/generateName-character.js"></script>
 <script src="../assets/data/names-character.js"></script>
