@@ -20,7 +20,7 @@ gen_data["Age"] = {
   '31-70':"An adult",
   '71-90':"An old",
   '91-100':"A very old"
-}
+};
 
 // Gender
 gen_data["Gender"] = ["female","male"];
@@ -81,7 +81,7 @@ gen_data["Height"] = {
   '31-70':"average",
   '71-90':"tall",
   '91-100':"very tall"
-}
+};
 
 //Race
 gen_data["Race"] = {
