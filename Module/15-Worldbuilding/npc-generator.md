@@ -16,7 +16,11 @@ Use the following generator to quickly generate an NPC.
 
 <div class="result">
     <h4 id="npcFullName">Character Name</h4>
-    <span id="npcRace">Race</span> - <span id="npcGender">Gender</span><br/><br/>
+    <div class="small-text">
+        Race: <strong id="npcRace"></strong><br/>
+        Gender: <strong id="npcGender"></strong>
+    </div>
+    <br/>
     <p id="npcDescription">Description</p>
 </div>
 

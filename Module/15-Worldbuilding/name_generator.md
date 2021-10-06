@@ -63,4 +63,4 @@ parent: worldbuilding
 
 *I don't have "Half" names. I choose names for half-elves and orcs based on the culture in which they were raised.*
 
-<script src="assets/js/character-name-generator.js"></script>
+<script src="../assets/js/character-name-generator.js"></script>

@@ -2,34 +2,111 @@
 // generators_data.js
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+//NPC Description
+gen_data["DragonbornFemaleDescription"] = ["{{Age} female dragonbon with {Scales}."];
+gen_data["DragonbornMaleDescription"] = ["{Age} male dragonbon with {Scales}."];
+gen_data["DwarfFemaleDescription"] = ["{Age} female dwarf with {Hair}."];
+gen_data["DwarfMaleDescription"] = ["{Age} male dwarf with {Hair}."];
+gen_data["ElfFemaleDescription"] = ["{Age} female elf with {Hair}."];
+gen_data["ElfMaleDescription"] = ["{Age} male elf with {Hair}."];
 
-//Gender
-gen_data["Gender"] = ["Male", "Female"];
 
-//Races
-gen_data["Race"] = ["DragonBorn", "Dwarf", "Elf"];
+// CHARACTER OPTIONS
 
-//Names
+// Age
+gen_data["Age"] = {
+  '1-10':"A very young",
+  '11-30':"A young",
+  '31-70':"An adult",
+  '71-90':"An old",
+  '91-100':"A very old"
+}
+
+// Gender
+gen_data["Gender"] = ["Female","Male"];
+
+//Hair
+gen_data["Hair"] = ["{HairLength}, {HairType}, {HairColor} hair"];
+
+gen_data["HairColor"] = {
+  "1-30":"black",
+  "31-38":"dark brown",
+  "39-46":"natural brown",
+  "47-53":"light brown",
+  "54-60":"chestnut brown",
+  "61-65":"light blond",
+  "66-70":"golden blond",
+  "71-75":"natural blond",
+  "76-80":"platinum blond",
+  "81-83":"auburn",
+  "84-87":"red",
+  "88-90":"orange",
+  "91-93":"copper",
+  "94-96":"strawberry blond",
+  "97-98":"salt and pepper",
+  "99":"gray",
+  "100":"white"
+};
+gen_data["HairLength"] = {
+  "1-10":"very short",
+  "6-45":"short",
+  "46-95":"shoulder-length",
+  "90-100":"long"
+};
+gen_data["HairType"] = {
+  "1":"neatly combed",
+  "2":"braided",
+  "3":"coarse",
+  "4":"curly",
+  "5":"dirty",
+  "6":"fine",
+  "7":"frizzy",
+  "8":"greasy",
+  "9":"matted",
+  "10":"messy",
+  "11":"oily",
+  "12":"slicked-back",
+  "13":"straight",
+  "14":"tangled",
+  "15":"thick",
+  "16":"thin",
+  "17":"tied-up",
+  "18":"wavy"
+};
+
+// Height
+gen_data["Height"] = {
+  '1-10':"very short",
+  '11-30':"short",
+  '31-70':"average",
+  '71-90':"tall",
+  '91-100':"very tall"
+}
+
+//Race
+gen_data["Race"] = {
+  '1-10':"Dragonborn",
+  '11-46':"Dwarf",
+  '47-100':"Elf"
+};
+
+
+// CHARACTER NAMES
 
 //Names - Dragonborn
-gen_data["DragonBornFemaleFullName"] = ["{DragonbornFemaleName} {DragonbornFamily}"];
-gen_data["DragonBornMaleFullName"] = ["{DragonbornMaleName} {DragonbornFamily}"];
+gen_data["DragonbornFemaleFullName"] = ["{DragonbornFemaleName} {DragonbornFamily}"];
+gen_data["DragonbornMaleFullName"] = ["{DragonbornMaleName} {DragonbornFamily}"];
 
 gen_data["DragonbornFemaleName"] = ["Aakra","Aasathra","Antrara","Arava","Biri","Blendaeth","Burana","Chassath","Daar","Dentratha","Doudra","Driindar","Eggren","Farideh","Findex","Furrele","Gesrethe","Gilkass","Harann","Havilar","Hethress","Hillanot","Jaxi","Jezean","Jheri","Kadana","Kava","Korinn","Megren","Mijira","Mishann","Nala","Nuthra","Perra","Pogranix","Pyxrin","Quespa","Raiann","Rezena","Ruloth","Saphara","Savaran","Surina","Sora","Synthrin","Tatyan","Thava","Uadjit","Vezera","Zykroff"];
-
 gen_data["DragonbornMaleName"] = ["Adrex","Arjhan","Azzakh","Balasar","Baradad","Bharash","Bidreked","Dadalan","Dazzazn","Direcris","Donaar","Fax","Gargax","Ghesh","Gorbundus","Greethen","Heskan","Hirrathak","Ildrex","Kaladan","Kerkad","Kiirith","Kriv","Maagog","Medrash","Mehen","Mozikth","Mreksh","Mugrunden","Nadarr","Nithther","Norkruuth","Nykkan","Pandjed","Patrin","Pijjirik","Quarethon","Rathkran","Rhogar","Rivaan","Sethrekar","Sharnash","Shedinn","Srorthen","Tarhun","Torinn","Trynnicus","Valorean","Vrondiss","Zedaar"];
-
 gen_data["DragonbornFamily"] = ["Akambherylliax","Argenthrixus","Baharoosh","Beryntolthropal","Bhenkumbyrznaax","Caavylteradyn","Chumbyxirinnish","Clethtinthiallor","Daardendrian","Delmirev","Dhyrktelonis","Ebynichtomonis","Esstyrlynn","Fharngnarthnost","Ghaallixirn","Grrrmmballhyst","Gygazzylyshrift","Hashphronyxadyn","Hshhsstoroth","Imbixtellrhyst","Jerynomonis","Jharthraxyn","Kerrhylon","Kimbatuul","Lhamboldennish","Linxakasendalor","Mohradyllion","Mystan","Nemmonis","Norixius","Ophinshtalajiir","Orexijandilin","Pfaphnyrennish","Phrahdrandon","Pyraxtallinost","Qyxpahrgh","Raghthroknaar","Shestendeliath","Skaarzborroosh","Sumnarghthrysh","Tiammanthyllish","Turnuroth","Umbyrphrael","Vangdondalor","Verthisathurgiesh","Wivvyrholdalphiax","Wystongjiir","Xephyrbahnor","Yarjerit","Zzzxaaxthroth"];
-
 
 //Names - Dwarf
 gen_data["DwarfFemaleFullName"] = ["{DwarfFemaleName} {DwarfFamily}"];
 gen_data["DwarfMaleFullName"] = ["{DwarfMaleName} {DwarfFamily}"];
 
 gen_data["DwarfFemaleName"] = ["Anbera","Artin","Audhild","Balifra","Barbena","Bardryn","Bolhild","Dagnal","Dariff","Delre","Diesa","Eldeth","Eridred","Falkrunn","Fallthra","Finellen","Gillydd","Gunnloda","Gurdis","Helgret","Helja","Hlin","Ilde","Jarana","Kathra","Kilia","Kristryd","Liftrasa","Marastyr","Mardred","Morana","Nalaed","Nora","Nurkara","Oriff","Ovina","Riswynn","Sannl","Therlin","Thodris","Torbera","Tordrid","Torgga","Urshar","Valida","Vistra","Vonana","Werydd","Whurdred","Yurgunn"];
-
 gen_data["DwarfMaleName"] = ["Adrik","Alberich","Baern","Barendd","Beloril","Brottor","Dain","Dalgal","Darrak","Delg","Duergath","Dworic","Eberk","Einkil","Elaim","Erias","Fallond","Fargrim","Gardain","Gilthur","Gimgen","Gimurt","Harbek","Kildrak","Kilvar","Morgran","Morkral","Nalral","Nordak","Nuraval","Oloric","Olunt","Orsik","Oskar","Rangrim","Reirak","Rurik","Taklinn","Thoradin","Thorin","Thradal","Tordek","Traubon","Travok","Ulfgar","Uraim","Veit","Vonbin","Vondal","Whurbin"];
-
 gen_data["DwarfFamily"] = ["Aranore","Balderk","Battlehammer","Bigtoe","Bloodkith","Bofdann","Brawnanvil","Brazzik","Broodfist","Burrowfound","Caebrek","Daerdahk","Dankil","Daraln","Deepdelver","Durthane","Eversharp","Fallack","Fireforge","Foamtankard","Frostbeard","Glanhig","Goblinbane","Goldfinder","Gorunn","Graybeard","Hammerstone","Helcral","Holderhek","Ironfist","Loderr","Lutgehr","Morigak","Orcfoe","Rakankrak","Ruby-Eye","Rumnaheim","Silveraxe","Silverstone","Steelfist","Stoutale","Strakeln","Strongheart","Thrahak","Torevir","Torunn","Trollbleeder","Trueanvil","Trueblood","Ungart"];
 
 //Names - Elf
@@ -37,28 +114,12 @@ gen_data["ElfFemaleFullName"] = ["{ElfFemaleName} {ElfFamily}"];
 gen_data["ElfMaleFullName"] = ["{ElfMaleName} {ElfFamily}"];
 
 gen_data["ElfFemaleName"] = ["Adrie","Ahinar","Althaea","Anastrianna","Andraste","Antinua","Arara","Baelitae","Bethrynna","Birel","Caelynn","Chaedi","Claira","Dara","Drusilia","Elama","Enna","Faral","Felosial","Hatae","Ielenia","Ilanis","Irann","Jarsali","Jelenneth","Keyleth","Leshanna","Lia","Maiathah","Malquis","Meriele","Mialee","Myathethil","Naivara","Quelenna","Quillathe","Ridaro","Sariel","Shanairla","Shava","Silaqui","Sumnes","Theirastra","Thiala","Tiaathque","Traulam","Vadania","Valanthe","Valna","Xanaphia"];
-
 gen_data["ElfMaleName"] = ["Adran","Aelar","Aerdeth","Ahvain","Aramil","Arannis","Aust","Azaki","Beiro","Berrian","Caeldrim","Carric","Dayereth","Dreali","Efferil","Eiravel","Enialis","Erdan","Erevan","Fivin","Galinndan","Gennal","Hadarai","Halimath","Heian","Himo","Immeral","Ivellios","Korfel","Lamlis","Laucian","Lucan","Mindartis","Naal","Nutae","Paelias","Peren","Quarion","Riardon","Rolen","Soveliss","Suhnae","Thamior","Tharivol","Theren","Theriatis","Thervan","Uthemar","Vanuath","Varis"];
-
 gen_data["ElfFamily"] = ["Aloro","Amakiir","Amastacia","Ariessus","Arnuanna","Berevan","Caerdonel","Caphaxath","Casilltenirra","Cithreth","Dalanthan","Eathalena","Erenaeth","Ethanasath","Fasharash","Firahel","Floshem","Galanodel","Goltorah","Hanali","Holimion","Horineth","Iathrana","Ilphelkiir","Iranapha","Koehlanna","Lathalas","Liadon","Meliamne","Mellerelel","Mystralath","Naïlo","Netyoive","Ofandrus","Ostoroth","Othronus","Qualanthri","Raethran","Rothenel","Selevarun","Siannodel","Suithrasas","Sylvaranth","Teinithra","Tiltathana","Wasanthi","Withrethin","Xiloscient","Xistsrith","Yaeldrin"];
 
 
 
-//NPC Description
-gen_data["DragonBornFemaleDescription"] = ["A {Age} female dragonbon with {Scales}, wearing a {Cloth}"];
-gen_data["DragonBornMaleDescription"] = ["A {Age} male dragonbon with {Scales}, wearing a {Cloth}"];
-gen_data["DwarfFemaleDescription"] = ["A {Age} female dwarf with {Hair}, wearing a {Cloth}"];
-gen_data["DwarfMaleDescription"] = ["A {Age} male dwarf with {Beard}, wearing a {Cloth}"];
-gen_data["ElfFemaleDescription"] = ["A {Age} female elf with {Hair}, wearing a {Cloth}"];
-gen_data["ElfMaleDescription"] = ["A {Age} male elf with {Beard}, wearing a {Cloth}"];
 
-//Age
-gen_data["Age"] = ["very young","young", "adult","elderly"];
-
-//Hair
-gen_data["Hair"] = ["{HairSize} {HairColor} hair"];
-gen_data["HairSize"] = ["very short", "short", "should-length", "long"];
-gen_data["HairColor"] = ["black", "blond", "brown", "red"];
 
 //Beard
 gen_data["Beard"] = ["{BeardStyle} {HairColor} beard"];
