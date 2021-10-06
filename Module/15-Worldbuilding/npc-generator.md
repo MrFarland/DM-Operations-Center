@@ -27,5 +27,5 @@ Use the following generator to quickly generate an NPC.
 <script src="../assets/js/generator.js"></script>
 <script src="../assets/js/dice.js"></script>
 <script src="../assets/js/generateName.js"></script>
-<script src="../assets/js/generateNPC.js"></script>
+<script src="../assets/js/generateNPC-2.js"></script>
 <script src="../assets/data/generators_data.js"></script>
