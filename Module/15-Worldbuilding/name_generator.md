@@ -8,40 +8,42 @@ parent: worldbuilding
 
 <p>Use the following generator to quickly generate a few names based on the character's race (or culture) and gender identity.</p>
 
-<div style="margin-bottom: 1.5rem; text-align:center;">
+<div class="controls">
     <select id="selectRace">
         <option value="">-- Race --</option>
-        <option value="Dragonborn">Dragonborn</option>
-        <option value="Dwarf">Dwarf</option>
-        <option value="Elf">Elf</option>
-        <option value="Gnome">Gnome</option>
-        <option value="Halfling">Halfling</option>
-        <option value="HumanArabic">Human (Arabic)</option>
-        <option value="HumanBarovian">Human (Barovian)</option>
-        <option value="HumanCeltic">Human (Celtic)</option>
-        <option value="HumanChinese">Human (Chinese)</option>
-        <option value="HumanEgyptian">Human (Egyptian)</option>
-        <option value="HumanEnglish">Human (English)</option>
-        <option value="HumanFrench">Human (French)</option>
-        <option value="HumanGerman">Human (German)</option>
-        <option value="HumanGreek">Human (Greek)</option>
-        <option value="HumanIndian">Human (Indian)</option>
-        <option value="HumanMaori">Human (Maori)</option>
-        <option value="HumanMesoamerican">Human (Mesoamerican)</option>
-        <option value="HumanJapanese">Human (Japanese)</option>
-        <option value="HumanNigerCongo">Human (Niger-Congo)</option>
-        <option value="HumanNorse">Human (Norse)</option>
-        <option value="HumanPolynesian">Human (Polynesian)</option>
-        <option value="HumanRoman">Human (Roman)</option>
-        <option value="HumanSlavic">Human (Slavic)</option>
-        <option value="HumanSpanish">Human (Spanish)</option>
-        <option value="Orc">Orc</option>
-        <option value="Tiefling">Tiefling</option>
+        <option value="dragonborn">Dragonborn</option>
+        <option value="dwarf">Dwarf</option>
+        <option value="elf">Elf</option>
+        <option value="gnome">Gnome</option>
+        <option value="halfling">Halfling</option>
+        <optgroup label="Human">
+            <option value="arabic">Arabic</option>
+            <option value="barovian">Barovian</option>
+            <option value="celtic">Celtic</option>
+            <option value="chinese">Chinese</option>
+            <option value="egyptian">Egyptian</option>
+            <option value="english">English</option>
+            <option value="french">French</option>
+            <option value="german">German</option>
+            <option value="greek">Greek</option>
+            <option value="indian">Indian</option>
+            <option value="maori">Maori</option>
+            <option value="mesoamerican">Mesoamerican</option>
+            <option value="japanese">Japanese</option>
+            <option value="nigercongo">Niger-Congo</option>
+            <option value="norse">Norse</option>
+            <option value="polynesian">Polynesian</option>
+            <option value="roman">Roman</option>
+            <option value="slavic">Slavic</option>
+            <option value="spanish">Spanish</option>
+        </optgroup>
+        <option value="orc">Orc</option>
+        <option value="tiefling">Tiefling</option>
     </select>
     <select id="selectGender">
         <option value="">-- Gender --</option>
-        <option value="Female">Female</option>
-        <option value="Male">Male</option>
+        <option value="female">Female</option>
+        <option value="male">Male</option>
     </select>
     <button id="buttonGenerateName" onclick="generateName()"> 
         Generate 
@@ -63,5 +65,5 @@ parent: worldbuilding
 
 *I don't have "Half" names. I choose names for half-elves and orcs based on the culture in which they were raised.*
 
-<script src="../assets/js/character-name-generator.js"></script>
+<script src="../assets/js/generateName-character.js"></script>
 <script src="../assets/data/names-character.js"></script>

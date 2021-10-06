@@ -19,7 +19,7 @@
 
         // Combine the race and gender variables to identify desired arrays.
         let givenNameList = eval(race + gender);
-        let familyNameList = eval(race + "Family");
+        let familyNameList = eval(race + "family");
         
         // Select the given and family names at random from the appropriate list.
         givenName.innerHTML = 
