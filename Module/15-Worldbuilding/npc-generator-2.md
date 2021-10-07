@@ -28,10 +28,10 @@ parent: worldbuilding
     <em class="small-text">This is tempoary output used to test the retrieval of data.</em>
     <div class="small-text">
         <h5>Name</h5>
-        Given Name List: <strong id="npcGivenNameList"></strong><br/>
         Family Name List: <strong id="npcFamilyNameList"></strong><br/>
-        Given Name: <strong id="npcGivenName"></strong><br/>
         Family Name: <strong id="npcFamilyName"></strong><br/>
+        Given Name List: <strong id="npcGivenNameList"></strong><br/>
+        Given Name: <strong id="npcGivenName"></strong><br/>
         <br/>
         <h5>Character Details</h5>
         Race: <strong id="npcRace"></strong><br/>
@@ -51,6 +51,5 @@ parent: worldbuilding
 
 <script src="../assets/js/generator.js"></script>
 <script src="../assets/js/dice.js"></script>
-<script src="../assets/js/generateName.js"></script>
 <script src="../assets/js/generateNPC-2.js"></script>
 <script src="../assets/data/generators_data.js"></script>

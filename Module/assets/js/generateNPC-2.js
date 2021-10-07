@@ -1,15 +1,14 @@
 /*
-Felix MIL
+MrFarland & Felix MIL
 version 1.0
 ----------------
-npc-generator.js
+generateNPC.js
 */
 
+ // Pull race and gender for an NPC based on the selections in the dropdown menus.
+ // --------------------------------------------------------------------------------
 
-
-
-// Generates an NPC with a name, appearance, attire, personality, clothing, class, and goals.
-function generateNPC() {
+ function getRaceGender() {
 
     // Get the NPCs race from the selectRace dropdown.
     selectRace = document.getElementById('selectRace');
@@ -29,23 +28,69 @@ function generateNPC() {
         gender = generate_text("Gender");
     }
 
-        
+    // Return the values for race and gender in an array.
+    return [race, gender];
+}
+
+
+
+// Generate a name based on the race & gender provided by getRaceGender.
+// --------------------------------------------------------------------------------
+
+function generateName() {
+
+    // Get the race and gender for the name from the getRaceGender function.
+    getRaceGender();
+
+    // Generate the character's name based on their race and gender.
+    familyNameList = (race+"family");
+    givenNameList = (race+gender);
+
+    // Generate the character's given & family names based on the above lists.
+    familyName = generate_text(familyNameList);
+    givenName = generate_text(givenNameList);
+
+    // If the race is 'chinese' swap the order of the family & given names.
+    if (race=="chinese"){
+        fullName = (familyName+" "+givenName);
+    } else {
+        fullName = (givenName+" "+familyName);
+    }
+
+    // Return the family, given and full names for the character.
+    return [familyName, givenName, fullName]; 
+
+ }
+
+    
+// Generate an NPC with a name & description of their appearance, personality, etc.
+// --------------------------------------------------------------------------------
+
+function generateNPC() {
+
+    // Get the race and gender for the NPC from the getRaceGender function.
+    getRaceGender();
+    
+    // Pulling the variables from the returned array does not appear to be necessary.
+    // valuesRaceGender = getRaceGender();
+    // race = (valuesRaceGender[0]);
+    // gender = (valuesRaceGender[1]);
+
+    // Get a name for the NPC based on the race and gender selections.
+    generateName();
+
+    // Pulling the variables from the returned array does not appear to be necessary.
+    // valuesNames = generateName();
+    // familyName = (valuesNames[0]);
+    // givenName = (valuesNames[1]);
+    // fullName = (valuesNames[2]);
+
+
+
+
     // Select the character's age, race and gender.
     age = generate_text("Age");
     //gender = generate_text("Gender");
-
-    // Generate the character's name based on their race and gender.
-    givenNameList = (race+gender);
-    familyNameList = (race+"family");
-
-    givenName = generate_text(givenNameList);
-    familyName = generate_text(familyNameList);
-
-    // Generates a name based on race and gender
-    fullName = generateCharacterName(race, gender);
-
-    // Get a random age
-    
     // Get a random eyes.
     eyes = generate_text("Eyes");
     // Get a random hair color and style.
@@ -78,8 +123,8 @@ function displayNPC() {
     npcFamilyNameList.innerHTML = familyNameList;
     npcGivenNameList.innerHTML = givenNameList;
 
-    npcFamilyName = familyName;
-    npcGivenName = givenName;
+    npcFamilyName.innerHTML = familyName;
+    npcGivenName.innerHTML = givenName;
 
     // Appearance
     npcEyes.innerHTML = eyes;
