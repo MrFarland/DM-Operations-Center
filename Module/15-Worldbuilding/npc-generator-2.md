@@ -17,8 +17,8 @@ parent: worldbuilding
     </select>
     <select id="selectGender">
         <option value="none">-- Gender --</option>
-        <option value="female">Female</option>
-        <option value="male">Male</option>
+        <option value="feminine">Feminine</option>
+        <option value="masculine">Masculine</option>
     </select>
     <button id="buttonGenerateNPC" onclick="generateNPC()">Generate</button> 
 </div>
