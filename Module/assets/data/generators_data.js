@@ -124,7 +124,7 @@ gen_data["Weight"] = {
 
 
 
-//Race
+// Races
 gen_data["Race"] = {
   '1-10':"dragonborn",
   '11-46':"dwarf",
@@ -132,7 +132,7 @@ gen_data["Race"] = {
 };
 
 
-// CHARACTER NAMES
+// NAMES
 
 //Names - Dragonborn
 gen_data["dragonbornfeminine"] = ["Aakra","Aasathra","Antrara","Arava","Biri","Blendaeth","Burana","Chassath","Daar","Dentratha","Doudra","Driindar","Eggren","Farideh","Findex","Furrele","Gesrethe","Gilkass","Harann","Havilar","Hethress","Hillanot","Jaxi","Jezean","Jheri","Kadana","Kava","Korinn","Megren","Mijira","Mishann","Nala","Nuthra","Perra","Pogranix","Pyxrin","Quespa","Raiann","Rezena","Ruloth","Saphara","Savaran","Surina","Sora","Synthrin","Tatyan","Thava","Uadjit","Vezera","Zykroff"];
