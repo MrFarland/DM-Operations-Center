@@ -6,16 +6,26 @@ parent: worldbuilding
 ### NPC Generator 2
 [Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > NPC Generator {.small-text}
 
-Use the following generator to quickly generate an NPC.
+*The dropdown menus do not work at this time.* {.text-center .small-text}
 
 <div class="controls">
-    <button id="buttonGenerateNPC" onclick="generateNPC()"> 
-        Generate 
-    </button> 
+    <select id="selectRace">
+        <option value="none">-- Race --</option>
+        <option value="dragonborn">Dragonborn</option>
+        <option value="dwarf">Dwarf</option>
+        <option value="elf">Elf</option>
+    </select>
+    <select id="selectGender">
+        <option value="none">-- Gender --</option>
+        <option value="female">Female</option>
+        <option value="male">Male</option>
+    </select>
+    <button id="buttonGenerateNPC" onclick="generateNPC()">Generate</button> 
 </div>
 
 <div class="result">
     <h4 id="npcFullName">Character Name</h4>
+    <em class="small-text">This is tempoary output used to test the retrieval of data.</em>
     <div class="small-text">
         <h5>Name</h5>
         Given Name List: <strong id="npcGivenNameList"></strong><br/>

@@ -5,14 +5,34 @@ version 1.0
 npc-generator.js
 */
 
- // Generates a NPC with race, gender, name, description and attitude
 
+
+
+// Generates an NPC with a name, appearance, attire, personality, clothing, class, and goals.
 function generateNPC() {
 
+    // Get the NPCs race from the selectRace dropdown.
+    selectRace = document.getElementById('selectRace');
+    race = selectRace.options[selectRace.selectedIndex].value;
+
+    // If the NPCs race is not defined, choose one randomly.
+    if (race=="none"){
+        race = generate_text("Race");
+    }
+
+    // Get the NPCs gender from the selectGender dropdown.
+    selectGender= document.getElementById('selectGender');
+    gender = selectGender.options[selectGender.selectedIndex].value;
+
+    // If the NPCs gender is not defined, choose one randomly.
+    if (gender=="none"){
+        gender = generate_text("Gender");
+    }
+
+        
     // Select the character's age, race and gender.
     age = generate_text("Age");
-    race = generate_text("Race");
-    gender = generate_text("Gender");
+    //gender = generate_text("Gender");
 
     // Generate the character's name based on their race and gender.
     givenNameList = (race+gender);

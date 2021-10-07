@@ -64,6 +64,8 @@
 
  /* Controls */
  .controls {
+   font-size: 1.0rem;
+   line-height: 1.0rem;
    margin-bottom: 1.5rem;
    text-align:center;
  }
@@ -103,6 +105,10 @@
 .small-text {
    font-size: 1.2rem;
    line-height: 1.2rem;
+}
+.very-small-text {
+   font-size: 1.0rem;
+   line-height: 1.0rem;
 }
 
 /* General UI */
