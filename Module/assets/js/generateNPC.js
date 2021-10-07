@@ -16,7 +16,7 @@ generateNPC.js
 
     // If the NPCs race is not defined, choose one randomly.
     if (race=="none"){
-        race = generate_text("Race");
+        race = generate_text("races");
     }
 
     // Get the NPCs genderForm from the selectGender dropdown.
