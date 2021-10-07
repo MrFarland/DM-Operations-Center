@@ -64,10 +64,11 @@
 
  /* Controls */
  .controls {
-   font-size: 1.0rem;
-   line-height: 1.0rem;
    margin-bottom: 1.5rem;
    text-align:center;
+ }
+ .controls select,button {
+    font-size: 1.1rem;
  }
  .result {
    background: #f2f2f2; 

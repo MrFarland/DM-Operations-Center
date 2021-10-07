@@ -10,13 +10,13 @@ parent: worldbuilding
 
 <div class="controls">
     <select id="selectRace">
-        <option value="none">-- Race --</option>
+        <option value="none">- Any Race -</option>
         <option value="dragonborn">Dragonborn</option>
         <option value="dwarf">Dwarf</option>
         <option value="elf">Elf</option>
     </select>
     <select id="selectGender">
-        <option value="none">-- Gender --</option>
+        <option value="none">- Any Gender -</option>
         <option value="feminine">Feminine</option>
         <option value="masculine">Masculine</option>
     </select>
