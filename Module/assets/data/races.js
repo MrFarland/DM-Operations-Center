@@ -62,7 +62,21 @@
  gen_data["GnomeFeminine"] = ["Abalaba","Bimpnottin","Breena","Buvvie","Callybon","Caramip","Carlin","Cumpen","Dalaba","Donella","Duvamil","Ella","Ellyjoybell","Ellywick","Enidda","Lilli","Loopmottin","Lorilla","Luthra","Mardnab","Meena","Menny","Mumpena","Nissa","Numba","Nyx","Oda","Oppah","Orla","Panana","Pyntle","Quilla","Ranala","Reddlepop","Roywyn","Salanop","Shamil","Siffress","Symma","Tana","Tenena","Tervaround","Tippletoe","Ulla","Unvera","Veloptima","Virra","Waywocket","Yebe","Zanna"];
  gen_data["GnomeMasculine"] = ["Alston","Alvyn","Anverth","Arumawann","Bilbron","Boddynock","Brocc","Burgell","Cockaby","Crampernap","Dabbledob","Delebean","Dimble","Eberdeb","Eldon","Erky","Fablen","Fibblestib","Fonkin","Frouse","Frug","Gerbo","Gimble","Glim","Igden","Jabble","Jebeddo","Kellen","Kipper","Namfoodle","Oppleby","Orryn","Paggen","Pallabar","Pog","Qualen","Ribbles","Rimple","Roondar","Sapply","Seebo","Senteq","Sindri","Umpen","Warryn","Wiggens","Wobbles","Wrenn","Zaffrab","Zook"];
  
-// Halfling
+// Half-Elf
+//--------------------------------------------------------------------------------
+gen_data["Half-ElfSubrace"] = {
+   "1-40":"Human",
+   "41-80":"Elf"
+}
+
+// Half-Orc
+//--------------------------------------------------------------------------------
+gen_data["Half-OrcSubrace"] = {
+   "1-40":"Human",
+   "41-80":"Orc"
+}
+
+ // Halfling
 //--------------------------------------------------------------------------------
  gen_data["HalflingSubrace"] = {
     "1":"Lightfoot",
@@ -76,7 +90,7 @@
 // Human
 //--------------------------------------------------------------------------------
 
- gen_data["HumanSubrace"] = {
+ gen_data["HumanCulture"] = {
     "1":"Arabic",
     "2":"Barovian",
     "3":"Celtic",

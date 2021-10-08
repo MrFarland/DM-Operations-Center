@@ -8,18 +8,18 @@ generateNPC.js
  // Pull race and gender for an NPC based on the selections in the dropdown menus.
  // --------------------------------------------------------------------------------
 
- function getRaceGender() {
+ function getRace() {
 
-    // Get the NPCs race from the selectRace dropdown.
+    // Get the current value from the selectRace dropdown menu.
     selectRace = document.getElementById('selectRace');
     race = selectRace.options[selectRace.selectedIndex].value;
 
-    // If the NPCs race is not defined, choose one randomly.
+    // If no race has been selected, generate one randomly.
     if (race == "None"){
         race = generate_text("Race");
     }
     
-    // Get the NPCs subrace based on the selected race.
+    // Generate a subrace randomly based on the value of the race variable.
     subRaceLookup = (race + "Subrace");
     subRace = generate_text(subRaceLookup);
 
@@ -38,6 +38,13 @@ generateNPC.js
     } else {
         fullRace = (race + " (" + subRace + ")");
     }
+
+    // Return the values for racein an array.
+    return [race, subRace, fullRace];
+
+}
+
+function getGender() {
 
     // Get the NPCs genderForm from the selectGender dropdown.
     // - genderForm refers to the feminine or masculine form of the given name.
@@ -62,10 +69,9 @@ generateNPC.js
     }
 
     // Return the values for race and gender in an array.
-    return [race, subRace, fullRace, genderForm, genderID];
+    return [genderForm, genderID];
 
 }
-
 
 
 // Generate a name based on the race & gender provided by getRaceGender.
@@ -74,10 +80,20 @@ generateNPC.js
 function generateName() {
 
     // Get the race and gender for the name from the getRaceGender function.
-    getRaceGender();
+    getRace();
+    getGender();
 
-    // Generate name based on race and gender or subrace for humans.
-    if (race == "Human"){
+    // Identify the appropriate name lists to select from based on race/subrace.
+    if (race == "Half-Elf" || "Half-Orc"){
+        if (subRace == "Elf" || subRace == "Orc"){
+            familyNameList = (subRace + "Family");
+            givenNameList = (subRace + genderForm);
+        } else {
+            subRace = generate_text("HumanCulture");
+            familyNameList = (subRace + "Family");
+            givenNameList = (subRace + genderForm);
+        }
+    } else if (race == "Human"){
         familyNameList = (subRace + "Family");
         givenNameList = (subRace + genderForm);
     } else {
@@ -85,7 +101,6 @@ function generateName() {
         givenNameList = (race + genderForm);
     }
 
-    // Generate names based on the conventions for specific races and subraces.
     familyName = generate_text(familyNameList);
     givenName = generate_text(givenNameList);
     
@@ -95,7 +110,7 @@ function generateName() {
     } else {
         childName = "";
     }
-
+    
     // Generate a virtue name for Tieflings.
     if (race == "Tiefling"){
         virtueName = generate_text(race + "Virtue");
