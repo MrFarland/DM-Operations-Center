@@ -40,7 +40,7 @@ gen_data["EyeType"] = {
 };
 
 // Gender
-gen_data["Gender"] = ["feminine","masculine"];
+gen_data["Gender"] = ["Feminine","Masculine"];
 
 //Hair
 gen_data["Hair"] = ["{HairLength}, {HairType}, {HairColor} hair"];
@@ -112,18 +112,6 @@ gen_data["Weight"] = {
   "8":"wiry",
   "9":"fat"
 };
-
-
-
-// Races
-gen_data["Race"] = {
-  '1-10':"dragonborn",
-  '11-46':"dwarf",
-  '47-100':"elf"
-};
-
-
-
 
 
 

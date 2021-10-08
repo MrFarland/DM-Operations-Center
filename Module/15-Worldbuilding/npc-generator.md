@@ -8,7 +8,7 @@ parent: worldbuilding
 
 <div class="controls">
     <select id="selectRace">
-        <option value="none">Any Race</option>
+        <option value="None">Any Race</option>
         <optgroup label="Human">
             <option value="Arabic">Arabic</option>
             <option value="Barovian">Barovian</option>
@@ -53,19 +53,21 @@ parent: worldbuilding
 
 <div class="result">
     <h4 id="npcFullName">Character Name</h4>
-    <em class="small-text">This is tempoary output used to test the retrieval of data.</em>
     <div class="small-text">
         <h5>Name</h5>
-        GenderForm: <strong id="npcGenderForm"></strong><br/>
         Family Name: <strong id="npcFamilyName"></strong><br/>
         Given Name: <strong id="npcGivenName"></strong><br/>
-        <br/>
-        <h5>Character Details</h5>
+        Child Name: <strong id="npcChildName"></strong><br/>
+        Virtue Name: <strong id="npcVirtueName"></strong><br/>
+        <h5>Race</h5>
         Race: <strong id="npcRace"></strong><br/>
         SubRace: <strong id="npcSubRace"></strong><br/>
+        FullRace: <strong id="npcFullRace"></strong><br/>
+        <h5>Gender</h5>
+        GenderForm: <strong id="npcGenderForm"></strong><br/>    
         GenderID: <strong id="npcGenderID"></strong><br/>
+        <h5>Age</h5>
         Age: <strong id="npcAge"></strong><br/>
-        <br/>
         <h5>Appearance</h5>
         Height: <strong id="npcHeight"></strong><br/>
         Weight: <strong id="npcWeight"></strong><br/>

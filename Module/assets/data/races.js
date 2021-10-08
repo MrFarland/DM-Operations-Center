@@ -19,7 +19,7 @@
 
  // Dragonborn
  //--------------------------------------------------------------------------------
- gen_data["Dragonbornsubrace"] = {
+ gen_data["DragonbornSubrace"] = {
      "1":"Draconblood",
      "2":"Ravenite"
  };
@@ -30,7 +30,7 @@
 
  // Dwarf
  //--------------------------------------------------------------------------------
- gen_data["Dwarfsubrace"] = {
+ gen_data["DwarfSubrace"] = {
     "1":"Hill",
     "2":"Mountain"
  };
@@ -41,18 +41,19 @@
  
  // Elf
  //--------------------------------------------------------------------------------
- gen_data["Elfsubrace"] = {
+ gen_data["ElfSubrace"] = {
     "1":"High",
     "2":"Wood"
  };
 
+ gen_data["ElfChild"] = ["Ael","Ang","Ara","Ari","Arn","Aym","Broe","Bryn","Cael","Cy","Dae","Del","Eli","Eryn","Faen","Fera","Gael","Gar","Innil","Jar","Kan","Koeth","Lael","Lue","Mai","Mara","Mella","Mya","Naeris","Naill","Nim","Phann","Py","Rael","Raer","Ren","Rinn","Rua","Sael","Sai","Sumi","Syllin","Ta","Thia","Tia","Traki","Vall","Von","Wil","Za"];
  gen_data["ElfFamily"] = ["Aloro","Amakiir","Amastacia","Ariessus","Arnuanna","Berevan","Caerdonel","Caphaxath","Casilltenirra","Cithreth","Dalanthan","Eathalena","Erenaeth","Ethanasath","Fasharash","Firahel","Floshem","Galanodel","Goltorah","Hanali","Holimion","Horineth","Iathrana","Ilphelkiir","Iranapha","Koehlanna","Lathalas","Liadon","Meliamne","Mellerelel","Mystralath","Naïlo","Netyoive","Ofandrus","Ostoroth","Othronus","Qualanthri","Raethran","Rothenel","Selevarun","Siannodel","Suithrasas","Sylvaranth","Teinithra","Tiltathana","Wasanthi","Withrethin","Xiloscient","Xistsrith","Yaeldrin"];
  gen_data["ElfFeminine"] = ["Adrie","Ahinar","Althaea","Anastrianna","Andraste","Antinua","Arara","Baelitae","Bethrynna","Birel","Caelynn","Chaedi","Claira","Dara","Drusilia","Elama","Enna","Faral","Felosial","Hatae","Ielenia","Ilanis","Irann","Jarsali","Jelenneth","Keyleth","Leshanna","Lia","Maiathah","Malquis","Meriele","Mialee","Myathethil","Naivara","Quelenna","Quillathe","Ridaro","Sariel","Shanairla","Shava","Silaqui","Sumnes","Theirastra","Thiala","Tiaathque","Traulam","Vadania","Valanthe","Valna","Xanaphia"];
  gen_data["ElfMasculine"] = ["Adran","Aelar","Aerdeth","Ahvain","Aramil","Arannis","Aust","Azaki","Beiro","Berrian","Caeldrim","Carric","Dayereth","Dreali","Efferil","Eiravel","Enialis","Erdan","Erevan","Fivin","Galinndan","Gennal","Hadarai","Halimath","Heian","Himo","Immeral","Ivellios","Korfel","Lamlis","Laucian","Lucan","Mindartis","Naal","Nutae","Paelias","Peren","Quarion","Riardon","Rolen","Soveliss","Suhnae","Thamior","Tharivol","Theren","Theriatis","Thervan","Uthemar","Vanuath","Varis"];
 
  // Gnome
  //--------------------------------------------------------------------------------
- gen_data["Gnomesubrace"] = {
+ gen_data["GnomeSubrace"] = {
     "1":"Forest",
     "2":"Rock"
  };
@@ -63,7 +64,7 @@
  
 // Halfling
 //--------------------------------------------------------------------------------
- gen_data["Halflingsubrace"] = {
+ gen_data["HalflingSubrace"] = {
     "1":"Lightfoot",
     "2":"Stout"
  };
@@ -75,26 +76,26 @@
 // Human
 //--------------------------------------------------------------------------------
 
- gen_data["Humansubrace"] = {
+ gen_data["HumanSubrace"] = {
     "1":"Arabic",
-    "1":"Barovian",
-    "1":"Celtic",
-    "1":"Chinese",
-    "1":"Egyptian",
-    "1":"English",
-    "1":"French",
-    "1":"German",
-    "1":"Greek",
-    "1":"Indian",
-    "1":"Japanese",
-    "1":"Maori",
-    "1":"Mesoamerican",
-    "1":"Niger-Congo",
-    "1":"Norse",
-    "1":"Polynesian",
-    "1":"Roman",
-    "1":"Slavic",
-    "1":"Spanish"
+    "2":"Barovian",
+    "3":"Celtic",
+    "4":"Chinese",
+    "5":"Egyptian",
+    "6":"English",
+    "7":"French",
+    "8":"German",
+    "9":"Greek",
+    "10":"Indian",
+    "11":"Japanese",
+    "12":"Maori",
+    "13":"Mesoamerican",
+    "14":"Niger-Congo",
+    "15":"Norse",
+    "16":"Polynesian",
+    "17":"Roman",
+    "18":"Slavic",
+    "19":"Spanish"
  };
 
 // -- Arabic
@@ -223,16 +224,21 @@
  
 // Orc
 //--------------------------------------------------------------------------------
+ gen_data["OrcSubrace"] = {
+   "1":"None"
+ };
+
  gen_data["OrcFeminine"] = ["Arha","Baggi","Bendoo","Bilga","Brakka","Creega","Drenna","Ekk","Emen","Engong","Fistula","Gaaki","Gorga","Grai","Greeba","Grigi","Gynk","Hrathy","Huru","Ilga","Kabbarg","Kansif","Lagazi","Lezre","Murgen","Murook","Myev","Nagrette","Neega","Nella","Nogu","Oolah","Ootah","Ovak","Ownka","Puyet","Reeza","Shautha","Silgre","Sutha","Tagga","Tawar","Tomph","Ubada","Vanchu","Vola","Volen","Vorka","Yevelda","Zagga"];
  gen_data["OrcMasculine"] = ["Argran","Braak","Brug","Cagak","Dench","Dorn","Dren","Druuk","Feng","Gell","Gnarsh","Grumbar","Gubrash","Hagren","Henk","Hogar","Holg","Imsh","Karash","Karg","Keth","Korag","Krusk","Lubash","Megged","Mhurren","Mord","Morg","Nil","Nybarg","Odorr","Ohr","Rendar","Resh","Ront","Rrath","Sark","Scrag","Sheggen","Shump","Tanglar","Tarak","Thar","Thokk","Trag","Ugarth","Varg","Vilberg","Yurk","Zed"];
   
 
 // Tiefling
 //--------------------------------------------------------------------------------
- gen_data["Tieflingsubrace"] = {
+ gen_data["TieflingSubrace"] = {
     "1":"Feral",
     "2-10":"Infernal"
  };
 
  gen_data["TieflingFeminine"] = ["Akta","Anakis","Armara","Astaro","Aym","Azza","Beleth","Bryseis","Bune","Criella","Damaia","Decarabia","Ea","Gadreel","Gomory","Hecat","Ishte","Jezebeth","Kali","Kallista","Kasdeya","Lerissa","Lilith","Makaria","Manea","Markosian","Mastema","Naamah","Nemeia","Nija","Orianna","Osah","Phelaia","Prosperine","Purah","Pyra","Rieta","Ronobe","Ronwe","Seddit","Seere","Sekhmet","Semyaza","Shava","Shax","Sorath","Uzza","Vapula","Vepar","Verin"];
  gen_data["TieflingMasculine"] = ["Abad","Ahrim","Akmen","Amnon","Andram","Astar","Balam","Barakas","Bathin","Caim","Chem","Cimer","Cressel","Damakos","Ekemon","Euron","Fenriz","Forcas","Habor","Iados","Kairon","Leucis","Mamnen","Mantus","Marbas","Melech","Merihim","Modean","Mordai","Mormo","Morthos","Nicor","Nirgel","Oriax","Paymon","Pelaios","Purson","Qemuel","Raam","Rimmon","Sammal","Skamos","Tethren","Thamuz","Therai","Valafar","Vassago","Xappan","Zepar","Zephan"];
+ gen_data["TieflingVirtue"] = ["Ambition","Art","Carrion","Chant","Creed","Death","Debauchery","Despair","Doom","Doubt","Dread","Ecstasy","Ennui","Entropy","Excellence","Fear","Glory","Gluttony","Grief","Hate","Hope","Horror","Ideal","Ignominy","Laughter","Love","Lust","Mayhem","Mockery","Murder","Muse","Music","Mystery","Nowhere","Open","Pain","Passion","Poetry","Quest","Random","Reverence","Revulsion","Sorrow","Temerity","Torment","Tragedy","Vice","Virtue","Weary","Wit"];

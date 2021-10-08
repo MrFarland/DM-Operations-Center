@@ -15,36 +15,54 @@ generateNPC.js
     race = selectRace.options[selectRace.selectedIndex].value;
 
     // If the NPCs race is not defined, choose one randomly.
-    if (race=="none"){
+    if (race == "None"){
         race = generate_text("Race");
     }
+    
+    // Get the NPCs subrace based on the selected race.
+    subRaceLookup = (race + "Subrace");
+    subRace = generate_text(subRaceLookup);
 
-    // If the race is "human"
+    // Fix the race and subrace variables for Humans.
+    // --- This should be compared against the HumanSubrace array dynamically.
+    humanCultures = ["Arabic","Barovian","Celtic","Chinese","Egyptian","English","French","German","Greek","Indian","Japanese","Maori","Mesoamerican","Niger-Congo","Norse","Polynesian","Roman","Slavic","Spanish"];
+
+    if (humanCultures.includes(race)){
+        subRace = race;
+        race = "Human";
+    }
+
+    // Create a variable to combine race and subrace, if there is one.
+    if (subRace == "None"){
+        fullRace = (race);
+    } else {
+        fullRace = (race + " (" + subRace + ")");
+    }
 
     // Get the NPCs genderForm from the selectGender dropdown.
     // - genderForm refers to the feminine or masculine form of the given name.
-    selectGender= document.getElementById('selectGender');
+    selectGender = document.getElementById('selectGender');
     genderForm = selectGender.options[selectGender.selectedIndex].value;
 
     // If the NPCs genderForm is not defined, choose one randomly.
-    if (genderForm=="none"){
+    if (genderForm == "None"){
         genderForm = generate_text("Gender");
     }
 
     // Get the NPCs genderID from the selectGender dropdown.
     // - GenderID refers to the preferred gender identity of the NPC.
-    selectGender= document.getElementById('selectGender');
+    selectGender = document.getElementById('selectGender');
     genderID = selectGender.options[selectGender.selectedIndex].text;
  
     // If the NPCs genderID is not defined, default to cisgender equivalent for the genderForm.
-    if (genderID=="Any Gender" && genderForm=="Feminine"){
+    if (genderID == "Any Gender" && genderForm=="Feminine"){
         genderID = "Cisgender (F)";
     } else {
         genderID = "Cisgender (M)";
     }
 
     // Return the values for race and gender in an array.
-    return [race, genderForm, genderID];
+    return [race, subRace, fullRace, genderForm, genderID];
 
 }
 
@@ -58,23 +76,42 @@ function generateName() {
     // Get the race and gender for the name from the getRaceGender function.
     getRaceGender();
 
-    // Generate the character's name based on their race and gender.
-    familyNameList = (race+"Family");
-    givenNameList = (race+genderForm);
+    // Generate name based on race and gender or subrace for humans.
+    if (race == "Human"){
+        familyNameList = (subRace + "Family");
+        givenNameList = (subRace + genderForm);
+    } else {
+        familyNameList = (race + "Family");
+        givenNameList = (race + genderForm);
+    }
 
-    // Generate the character's given & family names based on the above lists.
+    // Generate names based on the conventions for specific races and subraces.
     familyName = generate_text(familyNameList);
     givenName = generate_text(givenNameList);
+    
+    // Generate a child name for Elves.
+    if (race == "Elf"){
+        childName = generate_text(race + "Child");
+    } else {
+        childName = "";
+    }
+
+    // Generate a virtue name for Tieflings.
+    if (race == "Tiefling"){
+        virtueName = generate_text(race + "Virtue");
+    } else {
+        virtueName = "";
+    }
 
     // If the race is 'chinese' swap the order of the family & given names.
-    if (race=="Chinese"){
-        fullName = (familyName+" "+givenName);
+    if (race == "Chinese"){
+        fullName = (familyName + " " + givenName);
     } else {
-        fullName = (givenName+" "+familyName);
+        fullName = (givenName + " " + familyName);
     }
 
     // Return the family, given and full names for the character.
-    return [familyName, givenName, fullName]; 
+    return [familyName, givenName, fullName, childName, virtueName]; 
 
  }
 
@@ -90,19 +127,14 @@ function generateNPC() {
 
     // Generate the variables to define the NPCs appearance.
     
-    // Select the character's age, race and gender.
     age = generate_text("Age");
-    // Get a random eyes.
     eyes = generate_text("Eyes");
-    // Get a random hair color and style.
     hair = generate_text("Hair");
-    // Get a random height.
     height = generate_text("Height");
-    // Get a random weight.
     weight = generate_text("Weight");
 
     // Generates a random description based on race and gender
-    description = generate_text(race+genderForm+"Description"); 
+    description = generate_text(race + genderForm + "Description"); 
 
     // Generates a random attitude for the NPC
     attitude = generate_text("Attitude")
@@ -118,12 +150,16 @@ function displayNPC() {
     // Character Details
     npcAge.innerHTML = age;
     npcGenderID.innerHTML = genderID;
-    npcRace.innerHTML = race; 
+    npcRace.innerHTML = race;
+    npcSubRace.innerHTML = subRace;
+    npcFullRace.innerHTML = fullRace; 
 
     // Character Name
     npcGenderForm.innerHTML = genderForm;
     npcFamilyName.innerHTML = familyName;
     npcGivenName.innerHTML = givenName;
+    npcChildName.innerHTML = childName;
+    npcVirtueName.innerHTML = virtueName;
     npcFullName.innerHTML = fullName;
 
     // Appearance
