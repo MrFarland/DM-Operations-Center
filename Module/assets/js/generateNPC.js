@@ -19,21 +19,33 @@ generateNPC.js
         race = generate_text("Race");
     }
     
-    // Generate a subrace randomly based on the value of the race variable.
-    subRaceLookup = (race + "Subrace");
-    subRace = generate_text(subRaceLookup);
-
-    // Fix the race and subrace variables for Humans.
-    // --- This should be compared against the HumanSubrace array dynamically.
+    // Fix the race and subrace variables for Humans, Half-Elves, and Half-Orcs.
     humanCultures = ["Arabic","Barovian","Celtic","Chinese","Egyptian","English","French","German","Greek","Indian","Japanese","Maori","Mesoamerican","Niger-Congo","Norse","Polynesian","Roman","Slavic","Spanish"];
 
     if (humanCultures.includes(race)){
         subRace = race;
         race = "Human";
+    } else if (race == "Half-Elf"){
+        subRaceLookup = (race + "Subrace");
+        subRace = generate_text(subRaceLookup);
+        if (subRace == "Human"){
+            subRaceLookup = (subRace + "Subrace");
+            subRace = generate_text(subRaceLookup);
+        }
+    } else if (race == "Half-Orc"){
+        subRaceLookup = (race + "Subrace");
+        subRace = generate_text(subRaceLookup);
+        if (subRace == "Human"){
+            subRaceLookup = (subRace + "Subrace");
+            subRace = generate_text(subRaceLookup);
+        }
+    } else {
+        subRaceLookup = (race + "Subrace");
+        subRace = generate_text(subRaceLookup);   
     }
 
     // Create a variable to combine race and subrace, if there is one.
-    if (subRace == "None"){
+    if (subRace == "None" || race == "Half-Elf" || race == "Half-Orc"){
         fullRace = (race);
     } else {
         fullRace = (race + " (" + subRace + ")");
@@ -84,7 +96,10 @@ function generateName() {
     getGender();
 
     // Identify the appropriate name lists to select from based on race/subrace.
-    if (race == "Human"){
+    // --- Human names are based on their subrace and not their race.
+    // --- Half-Elves & Half-Orcs can have a name from either of their parent's cultures.
+    // --- Half-Elves & Half-Orcs with human names need to draw from the various culturws.
+    if (race == "Human" || race == "Half-Elf" || race == "Half-Orc"){
         familyNameList = (subRace + "Family");
         givenNameList = (subRace + genderForm);
     } else {
@@ -98,6 +113,8 @@ function generateName() {
     // Generate a child name for Elves.
     if (race == "Elf"){
         childName = generate_text(race + "Child");
+    } else if (subRace == "Elf"){
+        childName = generate_text(subRace + "Child");
     } else {
         childName = "";
     }

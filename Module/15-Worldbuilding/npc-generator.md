@@ -53,8 +53,12 @@ parent: worldbuilding
 
 <div class="result">
     <h4 id="npcFullName">Character Name</h4>
-    <div class="small-text">
-        <h5>Name</h5>
+    <div class="small-text"><span id="npcFullRace">Race</span></div>
+    </div>
+    <br/>
+</div>
+<div class="result">
+<h5>Debugging Variables</h5>
         Family Name: <strong id="npcFamilyName"></strong><br/>
         Given Name: <strong id="npcGivenName"></strong><br/>
         Child Name: <strong id="npcChildName"></strong><br/>
@@ -62,7 +66,6 @@ parent: worldbuilding
         <h5>Race</h5>
         Race: <strong id="npcRace"></strong><br/>
         SubRace: <strong id="npcSubRace"></strong><br/>
-        FullRace: <strong id="npcFullRace"></strong><br/>
         <h5>Gender</h5>
         GenderForm: <strong id="npcGenderForm"></strong><br/>    
         GenderID: <strong id="npcGenderID"></strong><br/>
@@ -73,11 +76,7 @@ parent: worldbuilding
         Weight: <strong id="npcWeight"></strong><br/>
         Eyes: <strong id="npcEyes"></strong><br/>
         Hair: <strong id="npcHair"></strong><br/>
-        <br/>
-    </div>
-    <br/>
 </div>
-
 <script src="../assets/js/generator.js"></script>
 <script src="../assets/js/dice.js"></script>
 <script src="../assets/js/generateNPC.js"></script>
