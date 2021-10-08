@@ -103,9 +103,13 @@ function generateName() {
         virtueName = "";
     }
 
-    // If the race is 'chinese' swap the order of the family & given names.
-    if (race == "Chinese"){
+    // Generate the full name based on the race/subrace convention.
+    if (familyName == null){
+        fullName = (givenName);
+    } else if (subRace == "Chinese"){
         fullName = (familyName + " " + givenName);
+    } else if (race == "Tiefling"){
+        fullName = (givenName + "  \"" + virtueName + "\"");
     } else {
         fullName = (givenName + " " + familyName);
     }
