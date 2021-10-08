@@ -84,16 +84,7 @@ function generateName() {
     getGender();
 
     // Identify the appropriate name lists to select from based on race/subrace.
-    if (race == "Half-Elf" || "Half-Orc"){
-        if (subRace == "Elf" || subRace == "Orc"){
-            familyNameList = (subRace + "Family");
-            givenNameList = (subRace + genderForm);
-        } else {
-            subRace = generate_text("HumanCulture");
-            familyNameList = (subRace + "Family");
-            givenNameList = (subRace + genderForm);
-        }
-    } else if (race == "Human"){
+    if (race == "Human"){
         familyNameList = (subRace + "Family");
         givenNameList = (subRace + genderForm);
     } else {

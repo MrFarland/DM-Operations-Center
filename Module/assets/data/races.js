@@ -89,6 +89,9 @@ gen_data["Half-OrcSubrace"] = {
 
 // Human
 //--------------------------------------------------------------------------------
+ gen_data["HumanSubrace"] = {
+   "1":"None"
+ };
 
  gen_data["HumanCulture"] = {
     "1":"Arabic",

@@ -59,7 +59,6 @@ parent: worldbuilding
         Given Name: <strong id="npcGivenName"></strong><br/>
         Child Name: <strong id="npcChildName"></strong><br/>
         Virtue Name: <strong id="npcVirtueName"></strong><br/>
-        Name Race: <strong id="npcNameRace"></strong><br/>
         <h5>Race</h5>
         Race: <strong id="npcRace"></strong><br/>
         SubRace: <strong id="npcSubRace"></strong><br/>
