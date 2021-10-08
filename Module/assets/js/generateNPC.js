@@ -16,8 +16,10 @@ generateNPC.js
 
     // If the NPCs race is not defined, choose one randomly.
     if (race=="none"){
-        race = generate_text("races");
+        race = generate_text("Race");
     }
+
+    // If the race is "human"
 
     // Get the NPCs genderForm from the selectGender dropdown.
     // - genderForm refers to the feminine or masculine form of the given name.
@@ -35,7 +37,7 @@ generateNPC.js
     genderID = selectGender.options[selectGender.selectedIndex].text;
  
     // If the NPCs genderID is not defined, default to cisgender equivalent for the genderForm.
-    if (genderID=="Any Gender" && genderForm=="feminine"){
+    if (genderID=="Any Gender" && genderForm=="Feminine"){
         genderID = "Cisgender (F)";
     } else {
         genderID = "Cisgender (M)";
@@ -57,7 +59,7 @@ function generateName() {
     getRaceGender();
 
     // Generate the character's name based on their race and gender.
-    familyNameList = (race+"family");
+    familyNameList = (race+"Family");
     givenNameList = (race+genderForm);
 
     // Generate the character's given & family names based on the above lists.
@@ -65,7 +67,7 @@ function generateName() {
     givenName = generate_text(givenNameList);
 
     // If the race is 'chinese' swap the order of the family & given names.
-    if (race=="chinese"){
+    if (race=="Chinese"){
         fullName = (familyName+" "+givenName);
     } else {
         fullName = (givenName+" "+familyName);
