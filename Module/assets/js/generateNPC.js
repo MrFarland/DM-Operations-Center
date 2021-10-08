@@ -152,8 +152,33 @@ function generateNPC() {
     // - This will also get the race and gender for the NPC.
     generateName();
 
-    // Generate the variables to define the NPCs appearance.
     
+    // Class
+    // --------------------------------------------------
+
+    // NPC Class with link to statblock
+    // Adjustable level / CR
+    // Possession, goals, and attire based on class.
+    // Occupation
+    // Stake, interest
+    
+    // Appearance
+    // --------------------------------------------------
+
+    // Body - Height, weight, and general appearance
+    // Eyes - Adjective and Color
+    // Hair - Length, style, and color.
+    // Skin - Color and condition.
+
+    // Personality
+    // --------------------------------------------------
+
+    // Disposition towards party
+    // Outlook on life
+    // General mood
+    // Alignment
+
+
     age = generate_text("Age");
     eyes = generate_text("Eyes");
     hair = generate_text("Hair");

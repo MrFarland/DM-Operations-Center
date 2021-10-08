@@ -53,14 +53,16 @@ parent: worldbuilding
 
 <div class="result">
     <h4 id="npcFullName">Character Name</h4>
-    <div class="small-text"><span id="npcFullRace">Race</span></div>
-    </div>
+    <div class="small-text"><span id="npcFullRace">Race</span> - <span>Age (Group)</span> - <span>Class</span></div>
+    <h5>Appearance</h5>
+    <span id="npcGivenName">Name</span> is 
+    <h5>Personality</h5>
+    <h5>Occupation</h5>
     <br/>
 </div>
 <div class="result">
 <h5>Debugging Variables</h5>
         Family Name: <strong id="npcFamilyName"></strong><br/>
-        Given Name: <strong id="npcGivenName"></strong><br/>
         Child Name: <strong id="npcChildName"></strong><br/>
         Virtue Name: <strong id="npcVirtueName"></strong><br/>
         <h5>Race</h5>
