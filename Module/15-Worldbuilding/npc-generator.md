@@ -74,6 +74,8 @@ parent: worldbuilding
         npcRace: <strong id="npcRace"></strong><br/>
 </div>
 <script src="../assets/js/generator.js"></script>
+<script src="../assets/js/getRace.js"></script>
+<script src="../assets/js/getGender.js"></script>
 <script src="../assets/js/dice.js"></script>
 <script src="../assets/js/generateNPC.js"></script>
 <script src="../assets/data/characterData.js"></script>
