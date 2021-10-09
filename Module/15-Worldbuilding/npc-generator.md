@@ -51,7 +51,7 @@ parent: worldbuilding
     <select id="selectCharacterLevel">
         <option value="None">Any Level</option>
         <option value="Low">Low (<1)</option>
-        <option value="Medium">Medium (1-3)</option>
+        <option value="Medium">Med (1-3)</option>
         <option value="High">High (5+)</option>
     </select>
     <button id="buttonGenerateNPC" onclick="generateNPC()">Generate</button> 
@@ -74,11 +74,18 @@ parent: worldbuilding
     Variable: <span id="">Value</span><br/>
 </div>
 
+<!-- Load the dice and generator js files from drow@bin.sh -->
 <script src="../assets/js/dice.js"></script>
 <script src="../assets/js/generator.js"></script>
+
+<!-- Load the functions to pull data form the dropdowns -->
 <script src="../assets/js/getCharacterClass.js"></script>
 <script src="../assets/js/getGender.js"></script>
 <script src="../assets/js/getRace.js"></script>
+
+<!-- Load the heavy lifting js to generate names and npcs. -->
 <script src="../assets/js/generateName.js"></script>
 <script src="../assets/js/generateNPC.js"></script>
+
+<!-- Load the js files containing data for the generators. -->
 <script src="../assets/data/characterData.js"></script>
