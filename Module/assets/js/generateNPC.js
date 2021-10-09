@@ -22,9 +22,22 @@ function generateNPC() {
     // Choose an age group based on the AgeGroup array in characterData.js.
     ageGroup = generate_text("AgeGroup");
     
-    ageGroupMin = 1;
-    ageGroupMax = 10;
+    // Determine the min and max ages for a the ageGroup based on the NPCs race.
+    if (ageGroup == "Young"){
+        ageGroupMin = 18;
+        ageGroupMax = 25;
+    } else if (ageGroup == "Adult"){
+        ageGroupMin = 26;
+        ageGroupMax = 45;
+    } else if (ageGroup == "Mature"){
+        ageGroupMin = 46;
+        ageGroupMax = 65;
+    } else if (ageGroup == "Elderly"){
+        ageGroupMin = 66;
+        ageGroupMax = 100;
+    }
 
+    // Generate a random age based on the NPC's race and age group.
     function randomNum(ageGroupMin, ageGroupMax) {
         return Math.floor(Math.random() * (ageGroupMax - ageGroupMin + 1)) + ageGroupMin;
       }
