@@ -1,39 +1,62 @@
 /*
- Donald Farland
- version 1.0
- ----------------
- generateName-character.js
- */
- 
-    // Generate a random named based on the selected name lists.
-    
-    function generateName() {
+MrFarlands
+version 1.0
+----------------
+generateName.js
+*/
 
-        // Populate race variable based on the selection in the dropdown menus.
-        let selectRace = document.getElementById('selectRace');
-        let race = selectRace.options[selectRace.selectedIndex].value;
+ // Get the selected (or randomly generated) gender from the selectGender dropdown menu.
+ // --------------------------------------------------------------------------------
 
-        // Populate gender variable based on the selection in the dropdown menus.
-        let selectGender= document.getElementById('selectGender');
-        let gender = selectGender.options[selectGender.selectedIndex].value;
+function generateName() {
 
-        // Combine the race and gender variables to identify desired arrays.
-        let givenNameList = eval(race + gender);
-        let familyNameList = eval(race + "family");
-        
-        // Select the given and family names at random from the appropriate list.
-        givenName.innerHTML = 
-            givenNameList[Math.floor(Math.random() * givenNameList.length)];
-        familyName.innerHTML = 
-            familyNameList[Math.floor(Math.random() * familyNameList.length)];
+    // Get the race and gender for the name from the getRaceGender function.
+    getRace();
+    getGender();
+
+    // Identify the appropriate name lists to select from based on race/subrace.
+    // --- Human names are based on their subrace and not their race.
+    // --- Half-Elves & Half-Orcs can have a name from either of their parent's cultures.
+    // --- Half-Elves & Half-Orcs with human names need to draw from the various culturws.
+    if (race == "Human" || race == "Half-Elf" || race == "Half-Orc"){
+        familyNameList = (subRace + "Family");
+        givenNameList = (subRace + genderForm);
+    } else {
+        familyNameList = (race + "Family");
+        givenNameList = (race + genderForm);
     }
 
-    /*
-    Felix MIL
-    */
+    familyName = generate_text(familyNameList);
+    givenName = generate_text(givenNameList);
+    
+    // Generate a child name for Elves.
+    if (race == "Elf"){
+        childName = generate_text(race + "Child");
+    } else if (subRace == "Elf"){
+        childName = generate_text(subRace + "Child");
+    } else {
+        childName = "";
+    }
+    
+    // Generate a virtue name for Tieflings.
+    if (race == "Tiefling"){
+        virtueName = generate_text(race + "Virtue");
+    } else {
+        virtueName = "";
+    }
 
-        // Generate a random name using centralized generator data and generate_text function
-        
-        function generateCharacterName(race, gender) {
-            return generate_text(race+gender+"FullName");    
-        }
+    // Generate the full name based on the race/subrace convention.
+    if (familyName == null){
+        fullName = (givenName);
+    } else if (subRace == "Chinese"){
+        fullName = (familyName + " " + givenName);
+    } else if (race == "Tiefling"){
+        fullName = (givenName + "  \"" + virtueName + "\"");
+    } else {
+        fullName = (givenName + " " + familyName);
+    }
+
+    // Return the family, given and full names for the character.
+    return [familyName, givenName, fullName, childName, virtueName]; 
+
+ }

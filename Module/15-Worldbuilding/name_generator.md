@@ -57,5 +57,5 @@ parent: worldbuilding
 
 <hr/>
 
-<script src="../assets/js/generateName.js"></script>
+<script src="../assets/js/generateNameLegacy.js"></script>
 <script src="../assets/data/names-character.js"></script>

@@ -73,10 +73,12 @@ parent: worldbuilding
         npcChildName: <strong id="npcChildName"></strong><br/>
         npcRace: <strong id="npcRace"></strong><br/>
 </div>
-<script src="../assets/js/generator.js"></script>
-<script src="../assets/js/getRace.js"></script>
-<script src="../assets/js/getGender.js"></script>
 <script src="../assets/js/dice.js"></script>
+<script src="../assets/js/generator.js"></script>
+<script src="../assets/js/getCharacterClass.js"></script>
+<script src="../assets/js/getGender.js"></script>
+<script src="../assets/js/getRace.js"></script>
+<script src="../assets/js/generateName.js"></script>
 <script src="../assets/js/generateNPC.js"></script>
 <script src="../assets/data/characterData.js"></script>
 <script src="../assets/data/generators_data.js"></script>

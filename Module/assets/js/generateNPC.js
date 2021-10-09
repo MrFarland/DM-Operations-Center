@@ -5,88 +5,6 @@ version 1.0
 generateNPC.js
 */
 
-function getCharacterClass() {
-
-    // Get the NPCs tier from the selectCharacterLevel dropdown.
-    selectCharacterLevel = document.getElementById('selectCharacterLevel');
-    characterLevel = selectCharacterLevel.options[selectCharacterLevel.selectedIndex].value;
-
-    // If the NPCs NPCLevel is not defined, choose one randomly.
-    if (characterLevel == "None"){
-        characterLevel = generate_text("CharacterLevel");
-    }
-
-    // Use the characterLevel to determine the exact Class for the NPC.
-    characterClass = generate_text("CharacterLevel" + characterLevel);
- 
-    // Create a slug for the characterClass.
-    characterLower = characterClass.toLowerCase();
-    characterSlug = characterLower.replace(/ /g, '-');
-    
-    characterURL = ("<a href=\"/monster/" + characterSlug + "\">" + characterClass + "</a>");
-
-    // Return the values for race and gender in an array.
-    return [characterLevel, characterClass, characterLower, characterSlug, characterURL];
-
-}
-
-// Generate a name based on the race & gender provided by getRaceGender.
-// --------------------------------------------------------------------------------
-
-function generateName() {
-
-    // Get the race and gender for the name from the getRaceGender function.
-    getRace();
-    getGender();
-
-    // Identify the appropriate name lists to select from based on race/subrace.
-    // --- Human names are based on their subrace and not their race.
-    // --- Half-Elves & Half-Orcs can have a name from either of their parent's cultures.
-    // --- Half-Elves & Half-Orcs with human names need to draw from the various culturws.
-    if (race == "Human" || race == "Half-Elf" || race == "Half-Orc"){
-        familyNameList = (subRace + "Family");
-        givenNameList = (subRace + genderForm);
-    } else {
-        familyNameList = (race + "Family");
-        givenNameList = (race + genderForm);
-    }
-
-    familyName = generate_text(familyNameList);
-    givenName = generate_text(givenNameList);
-    
-    // Generate a child name for Elves.
-    if (race == "Elf"){
-        childName = generate_text(race + "Child");
-    } else if (subRace == "Elf"){
-        childName = generate_text(subRace + "Child");
-    } else {
-        childName = "";
-    }
-    
-    // Generate a virtue name for Tieflings.
-    if (race == "Tiefling"){
-        virtueName = generate_text(race + "Virtue");
-    } else {
-        virtueName = "";
-    }
-
-    // Generate the full name based on the race/subrace convention.
-    if (familyName == null){
-        fullName = (givenName);
-    } else if (subRace == "Chinese"){
-        fullName = (familyName + " " + givenName);
-    } else if (race == "Tiefling"){
-        fullName = (givenName + "  \"" + virtueName + "\"");
-    } else {
-        fullName = (givenName + " " + familyName);
-    }
-
-    // Return the family, given and full names for the character.
-    return [familyName, givenName, fullName, childName, virtueName]; 
-
- }
-
-    
 // Generate an NPC with a name & description of their appearance, personality, etc.
 // --------------------------------------------------------------------------------
 
@@ -104,6 +22,14 @@ function generateNPC() {
     // Choose an age group based on the AgeGroup array in characterData.js.
     ageGroup = generate_text("AgeGroup");
     
+    ageGroupMin = 1;
+    ageGroupMax = 10;
+
+    function randomNum(ageGroupMin, ageGroupMax) {
+        return Math.floor(Math.random() * (ageGroupMax - ageGroupMin + 1)) + ageGroupMin;
+      }
+    age = randomNum(ageGroupMin, ageGroupMax);
+
     // Appearance
     // --------------------------------------------------
 
@@ -121,7 +47,6 @@ function generateNPC() {
     // Alignment
 
 
-    age = generate_text("Age");
     eyes = generate_text("Eyes");
     hair = generate_text("Hair");
     height = generate_text("Height");
@@ -146,6 +71,7 @@ function displayNPC() {
     npcFullRace.innerHTML = fullRace;
     npcGenderID.innerHTML = genderID;
     npcAgeGroup.innerHTML = ageGroup;
+    npcAge.innerHTML = age;
     npcCharacterURL.innerHTML = characterURL;
 
     // Allocated - Appearance
