@@ -63,28 +63,54 @@ function getGender() {
     selectGender = document.getElementById('selectGender');
     genderForm = selectGender.options[selectGender.selectedIndex].value;
 
+    // Get the NPCs genderID from the selectGender dropdown.
+    // - GenderID refers to the preferred gender identity of the NPC.
+    selectGender = document.getElementById('selectGender');
+    genderID = selectGender.options[selectGender.selectedIndex].text;
+
     // If the NPCs genderForm is not defined, choose one randomly.
     if (genderForm == "None"){
         genderForm = generate_text("Gender");
     }
 
-    // Get the NPCs genderID from the selectGender dropdown.
-    // - GenderID refers to the preferred gender identity of the NPC.
-    selectGender = document.getElementById('selectGender');
-    genderID = selectGender.options[selectGender.selectedIndex].text;
- 
-    // If the NPCs genderID is not defined, default to cisgender equivalent for the genderForm.
-    if (genderID == "Any Gender" && genderForm=="Feminine"){
+    // If the NPCs genderID hasn't been selected the genderID defaults to 
+    // the cisgender equivalent for the randomly selected genderForm.
+
+    if (genderID == "Any Gender" && genderForm == "Feminine"){
         genderID = "Cisgender (F)";
-    } else {
+    } else if (genderID == "Any Gender" && genderForm == "Masculine"){
         genderID = "Cisgender (M)";
     }
-
+    
     // Return the values for race and gender in an array.
     return [genderForm, genderID];
 
 }
 
+function generateClass() {
+
+    // Get the NPCs tier from the selectCharacterLevel dropdown.
+    selectCharacterLevel = document.getElementById('selectCharacterLevel');
+    characterLevel = selectCharacterLevel.options[selectCharacterLevel.selectedIndex].value;
+
+    // If the NPCs NPCLevel is not defined, choose one randomly.
+    if (characterLevel == "None"){
+        characterLevel = generate_text("CharacterLevel");
+    }
+
+    // Use the characterLevel to determine the exact Class for the NPC.
+    characterClass = generate_text("CharacterLevel" + characterLevel);
+ 
+    // Create a slug for the characterClass.
+    characterLower = characterClass.toLowerCase();
+    characterSlug = characterLower.replace(/ /g, '-');
+    
+    characterURL = ("<a href=\"/monster/" + characterSlug + "\">" + characterClass + "</a>");
+
+    // Return the values for race and gender in an array.
+    return [characterLevel, characterClass, characterLower, characterSlug, characterURL];
+
+}
 
 // Generate a name based on the race & gender provided by getRaceGender.
 // --------------------------------------------------------------------------------
@@ -148,14 +174,13 @@ function generateName() {
 
 function generateNPC() {
 
-    // Get a name for the NPC based on the race and gender selections.
-    // - This will also get the race and gender for the NPC.
+    // Get a name for this NPC by calling the generateName function.
+    // -- This will also get the race and gender for the NPC.
     generateName();
-
     
-    // Class
-    // --------------------------------------------------
-
+    // Get a class for this NPC by calling the getNPCClass function.
+    generateClass();
+ 
     // NPC Class with link to statblock
     // Adjustable level / CR
     // Possession, goals, and attire based on class.
@@ -213,6 +238,13 @@ function displayNPC() {
     npcChildName.innerHTML = childName;
     npcVirtueName.innerHTML = virtueName;
     npcFullName.innerHTML = fullName;
+
+    // Class
+    npcCharacterLevel.innerHTML = characterLevel;
+    npcCharacterClass.innerHTML = characterClass;
+    npcCharacterLower.innerHTML = characterLower;
+    npcCharacterSlug.innerHTML = characterSlug;
+    npcCharacterURL.innerHTML = characterURL;
 
     // Appearance
     npcEyes.innerHTML = eyes;

@@ -48,12 +48,18 @@ parent: worldbuilding
         <option value="Feminine">Transgender (F)</option>
         <option value="Masculine">Transgender (M)</option>
     </select>
+    <select id="selectCharacterLevel">
+        <option value="None">Any Level</option>
+        <option value="CharacterLevelLow">Low (<1)</option>
+        <option value="CharacterLevelMedium">Medium (1-3)</option>
+        <option value="CharacterLevelHigh">High (5+)</option>
+    </select>
     <button id="buttonGenerateNPC" onclick="generateNPC()">Generate</button> 
 </div>
 
 <div class="result">
     <h4 id="npcFullName">Character Name</h4>
-    <div class="small-text"><span id="npcFullRace">Race</span> - <span>Age (Group)</span> - <span>Class</span></div>
+    <div class="small-text"><span id="npcFullRace">Race</span> - <span id="none">Gender Identity</span> - <span>Age (Group)</span> - <span id="npcCharacterURL"></span></div>
     <h5>Appearance</h5>
     <span id="npcGivenName">Name</span> is 
     <h5>Personality</h5>
@@ -69,8 +75,13 @@ parent: worldbuilding
         Race: <strong id="npcRace"></strong><br/>
         SubRace: <strong id="npcSubRace"></strong><br/>
         <h5>Gender</h5>
-        GenderForm: <strong id="npcGenderForm"></strong><br/>    
-        GenderID: <strong id="npcGenderID"></strong><br/>
+        GenderForm: <strong id="npcGenderForm"></strong><br/>
+        GenderID: <strong id="npcGenderID"></strong><br/>       
+        <h5>Class</h5>
+        Character Level: <strong id="npcCharacterLevel"></strong><br/>
+        Character Class: <strong id="npcCharacterClass"></strong><br/>
+        Character Lower: <strong id="npcCharacterLower"></strong><br/>
+        Character Slug: <strong id="npcCharacterSlug"></strong><br/>
         <h5>Age</h5>
         Age: <strong id="npcAge"></strong><br/>
         <h5>Appearance</h5>
