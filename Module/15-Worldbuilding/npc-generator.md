@@ -66,13 +66,7 @@ parent: worldbuilding
     <h5>Occupation</h5>
     <br/>
 </div>
-<div class="result">
-<h5>Debugging Variables</h5>
-        npcCharacterClass: <strong id="npcCharacterClass"></strong><br/>
-        npcCharacterLower: <strong id="npcCharacterLower"></strong><br/>
-        npcChildName: <strong id="npcChildName"></strong><br/>
-        npcRace: <strong id="npcRace"></strong><br/>
-</div>
+
 <script src="../assets/js/dice.js"></script>
 <script src="../assets/js/generator.js"></script>
 <script src="../assets/js/getCharacterClass.js"></script>

@@ -90,12 +90,4 @@ function displayNPC() {
     // Allocated - Appearance
     npcGivenName.innerHTML = givenName;
 
-    // May Use
-    npcCharacterClass.innerHTML = characterClass;
-    npcCharacterLower.innerHTML = characterLower;
-    npcChildName.innerHTML = childName;
-    npcRace.innerHTML = race;
-
-    // Debugging Only
-
 }
