@@ -59,7 +59,7 @@ parent: worldbuilding
 
 <div class="result">
     <h4 id="npcFullName">Character Name</h4>
-    <div class="small-text"><span id="npcFullRace">Race</span> - <span id="npcGenderID">Gender Identity</span> - <span>Age (Group)</span> - <span id="npcCharacterURL"></span></div>
+    <div class="small-text"><span id="npcFullRace">Race</span> - <span id="npcGenderID">Gender Identity</span> - <span id="npcAge">Age</span> (<span id="npcAgeGroup">Group</span>) - <span id="npcCharacterURL">Class</span></div>
     <h5>Appearance</h5>
     <span id="npcGivenName">Name</span> is 
     <h5>Personality</h5>
@@ -68,7 +68,6 @@ parent: worldbuilding
 </div>
 <div class="result">
 <h5>Debugging Variables</h5>
-        npcAge: <strong id="npcAge"></strong><br/>
         npcCharacterClass: <strong id="npcCharacterClass"></strong><br/>
         npcCharacterLower: <strong id="npcCharacterLower"></strong><br/>
         npcChildName: <strong id="npcChildName"></strong><br/>

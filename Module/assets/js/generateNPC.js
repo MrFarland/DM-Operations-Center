@@ -183,6 +183,8 @@ function generateNPC() {
  
     // Determine the NPCs age based on their race.
 
+    // Choose an age group based on the AgeGroup array in characterData.js.
+    ageGroup = generate_text("AgeGroup");
     
     // Appearance
     // --------------------------------------------------
@@ -225,13 +227,13 @@ function displayNPC() {
     npcFullName.innerHTML = fullName;
     npcFullRace.innerHTML = fullRace;
     npcGenderID.innerHTML = genderID;
+    npcAgeGroup.innerHTML = ageGroup;
     npcCharacterURL.innerHTML = characterURL;
 
     // Allocated - Appearance
     npcGivenName.innerHTML = givenName;
 
     // May Use
-    npcAge.innerHTML = age;
     npcCharacterClass.innerHTML = characterClass;
     npcCharacterLower.innerHTML = characterLower;
     npcChildName.innerHTML = childName;

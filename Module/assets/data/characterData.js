@@ -2,8 +2,18 @@
  races.js
  */
 
+ // --------------------------------------------------------------------------------
  // Common
  // --------------------------------------------------------------------------------
+ 
+ // AgeGroup
+ gen_data["AgeGroup"] = {
+    "1-20":"Young",        // i.e. Young Adult  - 18 to 25 year old human
+    "21-50":"Adult",       // i.e. Adult        - 26 to 45 year old human
+    "51-80":"Mature",      // i.e. Mature Adult - 46 to 65 year old human
+    "81-100":"Elderly"     // i.e. Elderly      - 66 to 100 year old human
+ };
+
 
  // --------------------------------------------------------------------------------
  // Classes
@@ -13,7 +23,7 @@
     "1-60":"Low",
     "61-90":"Medium",
     "91-100":"High"
- }
+ };
 
 gen_data["CharacterLevelLow"] = {
    "1":"Commoner",
@@ -24,7 +34,8 @@ gen_data["CharacterLevelLow"] = {
    "6":"Acolyte",
    "7":"Scout",
    "8":"Thug",
-}
+};
+
 gen_data["CharacterLevelMedium"] = {
    "1":"Spy",
    "2":"Bandit Captain",
@@ -34,13 +45,14 @@ gen_data["CharacterLevelMedium"] = {
    "6":"Priest",
    "7":"Knight",
    "8":"Veteran"
-}
+};
+
 gen_data["CharacterLevelHigh"] = {
    "1":"Gladiator",
    "2":"Mage",
    "3":"Assassin",
    "4":"Archmage"
-}
+};
 
 
 
