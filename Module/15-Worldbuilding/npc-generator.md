@@ -82,5 +82,5 @@ parent: worldbuilding
 <script src="../assets/js/generator.js"></script>
 <script src="../assets/js/dice.js"></script>
 <script src="../assets/js/generateNPC.js"></script>
-<script src="../assets/data/races.js"></script>
+<script src="../assets/data/characterData.js"></script>
 <script src="../assets/data/generators_data.js"></script>
