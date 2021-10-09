@@ -50,9 +50,9 @@ parent: worldbuilding
     </select>
     <select id="selectCharacterLevel">
         <option value="None">Any Level</option>
-        <option value="CharacterLevelLow">Low (<1)</option>
-        <option value="CharacterLevelMedium">Medium (1-3)</option>
-        <option value="CharacterLevelHigh">High (5+)</option>
+        <option value="Low">Low (<1)</option>
+        <option value="Medium">Medium (1-3)</option>
+        <option value="High">High (5+)</option>
     </select>
     <button id="buttonGenerateNPC" onclick="generateNPC()">Generate</button> 
 </div>
@@ -65,6 +65,13 @@ parent: worldbuilding
     <h5>Personality</h5>
     <h5>Occupation</h5>
     <br/>
+</div>
+
+<div class="result">
+    <h5>Debugging Variables</h5>
+    Variable: <span id="">Value</span><br/>
+    Variable: <span id="">Value</span><br/>
+    Variable: <span id="">Value</span><br/>
 </div>
 
 <script src="../assets/js/dice.js"></script>

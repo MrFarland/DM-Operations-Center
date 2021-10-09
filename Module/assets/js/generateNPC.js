@@ -90,4 +90,8 @@ function displayNPC() {
     // Allocated - Appearance
     npcGivenName.innerHTML = givenName;
 
+    // Debugging Variables
+    //npcCharacterLevel.innerHTML = characterLevel;
+    //npcCharacterClass.innerHTML = characterClass;
+
 }
