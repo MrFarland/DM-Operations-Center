@@ -87,7 +87,7 @@ function getGender() {
 
 }
 
-function generateClass() {
+function getCharacterClass() {
 
     // Get the NPCs tier from the selectCharacterLevel dropdown.
     selectCharacterLevel = document.getElementById('selectCharacterLevel');
@@ -178,14 +178,11 @@ function generateNPC() {
     // -- This will also get the race and gender for the NPC.
     generateName();
     
-    // Get a class for this NPC by calling the getNPCClass function.
-    generateClass();
+    // Get a class for this NPC by calling the getCharacterClass function.
+    getCharacterClass();
  
-    // NPC Class with link to statblock
-    // Adjustable level / CR
-    // Possession, goals, and attire based on class.
-    // Occupation
-    // Stake, interest
+    // Determine the NPCs age based on their race.
+
     
     // Appearance
     // --------------------------------------------------
@@ -224,32 +221,22 @@ function generateNPC() {
 
 function displayNPC() {
 
-    // Character Details
-    npcAge.innerHTML = age;
-    npcGenderID.innerHTML = genderID;
-    npcRace.innerHTML = race;
-    npcSubRace.innerHTML = subRace;
-    npcFullRace.innerHTML = fullRace; 
-
-    // Character Name
-    npcGenderForm.innerHTML = genderForm;
-    npcFamilyName.innerHTML = familyName;
-    npcGivenName.innerHTML = givenName;
-    npcChildName.innerHTML = childName;
-    npcVirtueName.innerHTML = virtueName;
+    // Allocated - Header
     npcFullName.innerHTML = fullName;
-
-    // Class
-    npcCharacterLevel.innerHTML = characterLevel;
-    npcCharacterClass.innerHTML = characterClass;
-    npcCharacterLower.innerHTML = characterLower;
-    npcCharacterSlug.innerHTML = characterSlug;
+    npcFullRace.innerHTML = fullRace;
+    npcGenderID.innerHTML = genderID;
     npcCharacterURL.innerHTML = characterURL;
 
-    // Appearance
-    npcEyes.innerHTML = eyes;
-    npcHair.innerHTML = hair;
-    npcHeight.innerHTML = height;
-    npcWeight.innerHTML = weight;
+    // Allocated - Appearance
+    npcGivenName.innerHTML = givenName;
+
+    // May Use
+    npcAge.innerHTML = age;
+    npcCharacterClass.innerHTML = characterClass;
+    npcCharacterLower.innerHTML = characterLower;
+    npcChildName.innerHTML = childName;
+    npcRace.innerHTML = race;
+
+    // Debugging Only
 
 }

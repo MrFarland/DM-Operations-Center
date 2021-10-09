@@ -59,7 +59,7 @@ parent: worldbuilding
 
 <div class="result">
     <h4 id="npcFullName">Character Name</h4>
-    <div class="small-text"><span id="npcFullRace">Race</span> - <span id="none">Gender Identity</span> - <span>Age (Group)</span> - <span id="npcCharacterURL"></span></div>
+    <div class="small-text"><span id="npcFullRace">Race</span> - <span id="npcGenderID">Gender Identity</span> - <span>Age (Group)</span> - <span id="npcCharacterURL"></span></div>
     <h5>Appearance</h5>
     <span id="npcGivenName">Name</span> is 
     <h5>Personality</h5>
@@ -68,27 +68,11 @@ parent: worldbuilding
 </div>
 <div class="result">
 <h5>Debugging Variables</h5>
-        Family Name: <strong id="npcFamilyName"></strong><br/>
-        Child Name: <strong id="npcChildName"></strong><br/>
-        Virtue Name: <strong id="npcVirtueName"></strong><br/>
-        <h5>Race</h5>
-        Race: <strong id="npcRace"></strong><br/>
-        SubRace: <strong id="npcSubRace"></strong><br/>
-        <h5>Gender</h5>
-        GenderForm: <strong id="npcGenderForm"></strong><br/>
-        GenderID: <strong id="npcGenderID"></strong><br/>       
-        <h5>Class</h5>
-        Character Level: <strong id="npcCharacterLevel"></strong><br/>
-        Character Class: <strong id="npcCharacterClass"></strong><br/>
-        Character Lower: <strong id="npcCharacterLower"></strong><br/>
-        Character Slug: <strong id="npcCharacterSlug"></strong><br/>
-        <h5>Age</h5>
-        Age: <strong id="npcAge"></strong><br/>
-        <h5>Appearance</h5>
-        Height: <strong id="npcHeight"></strong><br/>
-        Weight: <strong id="npcWeight"></strong><br/>
-        Eyes: <strong id="npcEyes"></strong><br/>
-        Hair: <strong id="npcHair"></strong><br/>
+        npcAge: <strong id="npcAge"></strong><br/>
+        npcCharacterClass: <strong id="npcCharacterClass"></strong><br/>
+        npcCharacterLower: <strong id="npcCharacterLower"></strong><br/>
+        npcChildName: <strong id="npcChildName"></strong><br/>
+        npcRace: <strong id="npcRace"></strong><br/>
 </div>
 <script src="../assets/js/generator.js"></script>
 <script src="../assets/js/dice.js"></script>
