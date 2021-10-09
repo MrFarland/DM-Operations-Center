@@ -59,18 +59,6 @@ function generateNPC() {
     // General mood
     // Alignment
 
-
-    eyes = generate_text("Eyes");
-    hair = generate_text("Hair");
-    height = generate_text("Height");
-    weight = generate_text("Weight");
-
-    // Generates a random description based on race and gender
-    description = generate_text(race + genderForm + "Description"); 
-
-    // Generates a random attitude for the NPC
-    attitude = generate_text("Attitude")
-
     displayNPC()
      
 }
@@ -91,7 +79,7 @@ function displayNPC() {
     npcGivenName.innerHTML = givenName;
 
     // Debugging Variables
-    //npcCharacterLevel.innerHTML = characterLevel;
+    //npcTestArray.innerHTML = testArray;
     //npcCharacterClass.innerHTML = characterClass;
 
 }
