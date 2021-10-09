@@ -60,3 +60,12 @@ function generateName() {
     return [familyName, givenName, fullName, childName, virtueName]; 
 
 }
+
+function displayName() {
+
+    // Allocated - Header
+    npcFullName.innerHTML = fullName;
+    npcFullRace.innerHTML = fullRace;
+    npcGenderForm.innerHTML = genderForm;
+
+}
