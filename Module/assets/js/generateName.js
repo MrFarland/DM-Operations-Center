@@ -5,8 +5,8 @@ version 1.0
 generateName.js
 */
 
- // Get the selected (or randomly generated) gender from the selectGender dropdown menu.
- // --------------------------------------------------------------------------------
+// Get the selected (or randomly generated) gender from the selectGender dropdown menu.
+// --------------------------------------------------------------------------------
 
 function generateName() {
 
@@ -59,4 +59,4 @@ function generateName() {
     // Return the family, given and full names for the character.
     return [familyName, givenName, fullName, childName, virtueName]; 
 
- }
+}

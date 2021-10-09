@@ -5,10 +5,10 @@ version 1.0
 getRace.js
 */
 
- // Get the selected (or randomly generated) race & subrace from the selectRace dropdown menu.
- // --------------------------------------------------------------------------------
+// Get the selected (or randomly generated) race & subrace from the selectRace dropdown menu.
+// --------------------------------------------------------------------------------
 
- function getRace() {
+function getRace() {
 
     // Get the current value from the selectRace dropdown menu.
     selectRace = document.getElementById('selectRace');

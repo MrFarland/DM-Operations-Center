@@ -5,10 +5,10 @@ version 1.0
 getCharacterClass.js
 */
 
- // Get the selected (or randomly generated) NPC class from the selectCharacterLevel dropdown menu.
- // --------------------------------------------------------------------------------
+// Get the selected (or randomly generated) NPC class from the selectCharacterLevel dropdown menu.
+// --------------------------------------------------------------------------------
 
- function getCharacterClass() {
+function getCharacterClass() {
 
     // Get the NPCs tier from the selectCharacterLevel dropdown.
     selectCharacterLevel = document.getElementById('selectCharacterLevel');

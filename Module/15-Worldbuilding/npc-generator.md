@@ -82,4 +82,3 @@ parent: worldbuilding
 <script src="../assets/js/generateName.js"></script>
 <script src="../assets/js/generateNPC.js"></script>
 <script src="../assets/data/characterData.js"></script>
-<script src="../assets/data/generators_data.js"></script>

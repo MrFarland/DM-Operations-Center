@@ -22,7 +22,7 @@ getGender.js
 
     // If the NPCs genderForm is not defined, choose one randomly.
     if (genderForm == "None"){
-        genderForm = generate_text("Gender");
+        genderForm = generate_text("GenderForm");
     }
 
     // If the NPCs genderID hasn't been selected the genderID defaults to 

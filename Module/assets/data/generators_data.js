@@ -39,8 +39,6 @@ gen_data["EyeType"] = {
   "12":"jaundiced"
 };
 
-// Gender
-gen_data["Gender"] = ["Feminine","Masculine"];
 
 //Hair
 gen_data["Hair"] = ["{HairLength}, {HairType}, {HairColor} hair"];
