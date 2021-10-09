@@ -17,14 +17,13 @@ function generateNPC() {
     // Get a class for this NPC by calling the getCharacterClass function.
     getCharacterClass();
  
-    // Determine the NPCs age based on their race.
-
     // Choose an age group based on the AgeGroup array in characterData.js.
     ageGroup = generate_text("AgeGroup");
+    ageGroupArray = (race + "AgeGroup");
     
     // Determine the min and max ages for a the ageGroup based on the NPCs race.
     if (ageGroup == "Young"){
-        ageGroupMin = 18;
+        ageGroupMin = 1;
         ageGroupMax = 25;
     } else if (ageGroup == "Adult"){
         ageGroupMin = 26;
@@ -79,7 +78,6 @@ function displayNPC() {
     npcGivenName.innerHTML = givenName;
 
     // Debugging Variables
-    //npcTestArray.innerHTML = testArray;
-    //npcCharacterClass.innerHTML = characterClass;
+    npcAgeGroupArray.innerHTML = ageGroupArray;
 
 }
