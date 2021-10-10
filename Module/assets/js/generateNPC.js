@@ -84,6 +84,7 @@ function displayNPC() {
 
     // Allocated - Appearance
     npcGivenName.innerHTML = givenName;
+    npcEyes.innerHTML = eyes;
 
     // Debugging Variables
     npcAgeGroupValues.innerHTML = ageGroupValues;

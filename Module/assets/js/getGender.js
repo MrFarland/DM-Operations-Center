@@ -36,9 +36,9 @@ getGender.js
     
     // Define pronouns based on genderID.
     if (genderID == "Cisgender (F)"){
-        pronouns = ["she","her","hers","her","herself"];
+        pronouns = ["She","Her","hers","her","herself"];
     } else if (genderID == "Cisgender (M)"){
-        pronouns = ["he","his","his","him","himself"];
+        pronouns = ["He","His","his","him","himself"];
     } else {
         pronouns = ["they","their","theirs","them","themself"];
     }

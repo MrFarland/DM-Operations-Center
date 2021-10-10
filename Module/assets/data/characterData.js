@@ -43,8 +43,36 @@
     //"Yuan-Ti": [16,20,40,60,80,100]
  }
 
+ // Eye Adjectives
+ gen_data["EyeType"] = {
+   "1":"large",
+   "2":"wide",
+   "3":"piercing",
+   "4":"blank",
+   "5":"crossed",
+   "6":"deep-set",
+   "7":"bulging",
+   "8":"narrow",
+   "9":"glassy",
+   "10":"squinting",
+   "11":"bloodshot",
+   "12":"jaundiced"
+ };
+ 
+ // Eye Color
+ gen_data["EyeColor"] = {
+  '1-10':"brown",
+  '11-30':"green",
+  '31-70':"blue",
+  '71-90':"hazel",
+  '91-100':"gray"
+ };
+
+
+
  // GenderForm
  gen_data["GenderForm"] = ["Feminine","Masculine"];
+
 
 
  // --------------------------------------------------------------------------------

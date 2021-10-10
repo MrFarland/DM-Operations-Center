@@ -61,7 +61,8 @@ parent: worldbuilding
     <h4 id="npcFullName">Character Name</h4>
     <div class="small-text"><span id="npcFullRace">Race</span> - <span id="npcGenderID">Gender Identity</span> - <span id="npcAge">Age</span> (<span id="npcAgeGroup">Group</span>) - <span id="npcCharacterURL">Class</span></div>
     <h5>Appearance</h5>
-    <span id="npcGivenName">Name</span> is 
+    <span id="npcGivenName">Name</span> is <br/>
+    <span id="npcEyes">Eyes</span><br/>
     <h5>Personality</h5>
     <h5>Occupation</h5>
     <br/>
