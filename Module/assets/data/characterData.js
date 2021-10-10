@@ -8,11 +8,40 @@
  
  // AgeGroup
  gen_data["AgeGroup"] = {
-    "1-20":"Young",        // i.e. Young Adult  - 18 to 25 year old human
-    "21-50":"Adult",       // i.e. Adult        - 26 to 45 year old human
-    "51-80":"Mature",      // i.e. Mature Adult - 46 to 65 year old human
-    "81-100":"Elderly"     // i.e. Elderly      - 66 to 100 year old human
+    "1-10":"Young",        // 20% - 16 to 25  - 10 years - 11% of Adult Life
+    "11-30":"Adult",       // 30% - 26 to 45  - 20 years - 22% of Adult Life
+    "31-50":"Mature",      // 30% - 46 to 65  - 20 years - 22% of Adult Life
+    "51-60":"Elderly",     // 15% - 66 to 85  - 20 years - 22% of Adult Life
+    "96-100":"Venerable"   //  5% - 86 to 105 - 20 years - 22% of Adult Life
  };
+
+ // AgeGroups by Race
+ // - Lifespan divided by 5 age groups, Young starts 1/2 point of 1st age group.
+ raceAgeGroups = {
+    //"Aarakocra": [3,6,12,18,24,30],         
+    //"Aasimar": [16,32,64,96,128,160],
+    "Dragonborn": [15,16,32,48,64,80],
+    "Dwarf": [50,70,140,210,280,350],
+    "Elf": [100,150,300,450,600,750],
+    //"Firbolg": [16,20,40,60,80,100],
+    //"Genasi": [16,24,48,72,96,120],
+    //"Gith": [16,20,40,60,80,100],
+    "Gnome": [16,100,180,260,320,400],
+    //"Goblin": [8,12,24,36,48,60],
+    //"Goliath": [16,20,40,60,80,100],
+    "Half-Elf": [20,36,72,108,144,180],
+    "Half-Orc": [14,15,30,45,60,75],
+    "Halfling": [20,50,100,150,200,250],
+    "Human": [16,20,40,60,80,100],
+    //"Kenku": [12,18,30,42,54,60],
+    //"Kobold": [6,24,48,72,96,120],
+    //"Lizardfolk": [14,18,30,42,54,60],
+    "Orc": [14,20,25,35,45,50],
+    //"Tabaxi": [16,20,40,60,80,100],
+    "Tiefling": [16,20,40,60,80,100],
+    //"Tortle": [14,20,25,35,45,50],
+    //"Yuan-Ti": [16,20,40,60,80,100]
+ }
 
  // GenderForm
  gen_data["GenderForm"] = ["Feminine","Masculine"];
@@ -77,7 +106,6 @@ gen_data["CharacterLevelHigh"] = {
 
  // Dragonborn
  //--------------------------------------------------------------------------------
- DragonbornAgeGroup = [10,15,20,25,30,35,40,45];
  gen_data["DragonbornFamily"] = ["Akambherylliax","Argenthrixus","Baharoosh","Beryntolthropal","Bhenkumbyrznaax","Caavylteradyn","Chumbyxirinnish","Clethtinthiallor","Daardendrian","Delmirev","Dhyrktelonis","Ebynichtomonis","Esstyrlynn","Fharngnarthnost","Ghaallixirn","Grrrmmballhyst","Gygazzylyshrift","Hashphronyxadyn","Hshhsstoroth","Imbixtellrhyst","Jerynomonis","Jharthraxyn","Kerrhylon","Kimbatuul","Lhamboldennish","Linxakasendalor","Mohradyllion","Mystan","Nemmonis","Norixius","Ophinshtalajiir","Orexijandilin","Pfaphnyrennish","Phrahdrandon","Pyraxtallinost","Qyxpahrgh","Raghthroknaar","Shestendeliath","Skaarzborroosh","Sumnarghthrysh","Tiammanthyllish","Turnuroth","Umbyrphrael","Vangdondalor","Verthisathurgiesh","Wivvyrholdalphiax","Wystongjiir","Xephyrbahnor","Yarjerit","Zzzxaaxthroth"];
  gen_data["DragonbornFeminine"] = ["Aakra","Aasathra","Antrara","Arava","Biri","Blendaeth","Burana","Chassath","Daar","Dentratha","Doudra","Driindar","Eggren","Farideh","Findex","Furrele","Gesrethe","Gilkass","Harann","Havilar","Hethress","Hillanot","Jaxi","Jezean","Jheri","Kadana","Kava","Korinn","Megren","Mijira","Mishann","Nala","Nuthra","Perra","Pogranix","Pyxrin","Quespa","Raiann","Rezena","Ruloth","Saphara","Savaran","Surina","Sora","Synthrin","Tatyan","Thava","Uadjit","Vezera","Zykroff"];
  gen_data["DragonbornMasculine"] = ["Adrex","Arjhan","Azzakh","Balasar","Baradad","Bharash","Bidreked","Dadalan","Dazzazn","Direcris","Donaar","Fax","Gargax","Ghesh","Gorbundus","Greethen","Heskan","Hirrathak","Ildrex","Kaladan","Kerkad","Kiirith","Kriv","Maagog","Medrash","Mehen","Mozikth","Mreksh","Mugrunden","Nadarr","Nithther","Norkruuth","Nykkan","Pandjed","Patrin","Pijjirik","Quarethon","Rathkran","Rhogar","Rivaan","Sethrekar","Sharnash","Shedinn","Srorthen","Tarhun","Torinn","Trynnicus","Valorean","Vrondiss","Zedaar"];
