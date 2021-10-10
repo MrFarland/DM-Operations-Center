@@ -23,17 +23,17 @@ function generateNPC() {
     
     // Determine the min and max ages for a the ageGroup based on the NPCs race.
     if (ageGroup == "Young"){
-        ageGroupMin = 1;
-        ageGroupMax = 25;
+        ageGroupMin = DragonbornAgeGroup[0];
+        ageGroupMax = DragonbornAgeGroup[1];
     } else if (ageGroup == "Adult"){
-        ageGroupMin = 26;
-        ageGroupMax = 45;
+        ageGroupMin = DragonbornAgeGroup[2];
+        ageGroupMax = DragonbornAgeGroup[3];
     } else if (ageGroup == "Mature"){
-        ageGroupMin = 46;
-        ageGroupMax = 65;
+        ageGroupMin = DragonbornAgeGroup[4];
+        ageGroupMax = DragonbornAgeGroup[5];
     } else if (ageGroup == "Elderly"){
-        ageGroupMin = 66;
-        ageGroupMax = 100;
+        ageGroupMin = DragonbornAgeGroup[6];
+        ageGroupMax = DragonbornAgeGroup[7];
     }
 
     // Generate a random age based on the NPC's race and age group.
@@ -79,5 +79,7 @@ function displayNPC() {
 
     // Debugging Variables
     npcAgeGroupArray.innerHTML = ageGroupArray;
+    npcPronounSubject.innerHTML = pronounSubject;
+    npcPronounObject.innerHTML = pronounObject;
 
 }

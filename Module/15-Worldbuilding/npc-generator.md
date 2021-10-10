@@ -70,7 +70,8 @@ parent: worldbuilding
 <div class="result">
     <h5>Debugging Variables</h5>
     npcAgeGroupArray: <span id="npcAgeGroupArray">Value</span><br/>
-    Variable: <span id="">Value</span><br/>
+    npcPronounSubject: <span id="npcPronounSubject">Value</span><br/>
+    npcPronounObject: <span id="npcPronounObject">Value</span><br/>
     Variable: <span id="">Value</span><br/>
 </div>
 

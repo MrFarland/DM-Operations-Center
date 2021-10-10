@@ -34,7 +34,22 @@ getGender.js
         genderID = "Cisgender (M)";
     }
     
+    // Define pronouns based on genderID.
+    if (genderID == "Cisgender (F)"){
+        pronouns = ["she","her","hers","her","herself"];
+    } else if (genderID == "Cisgender (M)"){
+        pronouns = ["he","his","his","him","himself"];
+    } else {
+        pronouns = ["they","their","theirs","them","themself"];
+    }
+
+    pronounSubject = pronouns[0];
+    pronounObject = pronouns[1];
+    pronounPossesive1 = pronouns[2];
+    pronounPossesive2 = pronouns[3];
+    prounounReflexive = pronouns[4];
+
     // Return the values for race and gender in an array.
-    return [genderForm, genderID];
+    return [genderForm, genderID, pronounSubject, pronounObject, pronounPossesive1, pronounPossesive2, prounounReflexive];
 
 }
