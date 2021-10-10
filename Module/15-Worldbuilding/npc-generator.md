@@ -63,6 +63,8 @@ parent: worldbuilding
     <h5>Appearance</h5>
     <span id="npcGivenName">Name</span> is <br/>
     <span id="npcEyes">Eyes</span><br/>
+    <p>Don has short, thick dark brown hair and a beard that he keeps cut short.</p>
+    <p>He is average height for a human and carrying a good deal of weight, mostly in his belly.</p> 
     <h5>Personality</h5>
     <h5>Occupation</h5>
     <br/>
