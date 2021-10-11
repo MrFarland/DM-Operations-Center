@@ -43,6 +43,25 @@
     //"Yuan-Ti": [16,20,40,60,80,100]
  }
 
+ // Body Height
+ gen_data["BodySize"] = {
+   "1":"Small",
+   "2":"Medium",
+   "3":"Large"
+ };
+
+ gen_data["BodyTypeSmall"] = {
+    "1":"thin and wiry"
+ };
+
+ gen_data["BodyTypeMedium"] = {
+   "1":"average build"
+};
+
+gen_data["BodyTypeLarge"] = {
+   "1":"big, strong frame"
+};
+
  // Eye Adjectives
  gen_data["EyeType"] = {
    "1":"large",
@@ -156,66 +175,15 @@
    "27":"oily"
  };
 
- // Height
- gen_data["Height"] = {
-   '1-10':"very short",
-   '11-30':"short",
-   '31-70':"average",
-   '71-90':"tall",
-   '91-100':"very tall"
- };
- 
- // Weight
- gen_data["Weight"] = {
-   "1":"thin",
-   "2":"heavy-set",
-   "3":"rotund",
-   "4":"lean",
-   "5":"stout",
-   "6":"muscular",
-   "7":"athletic",
-   "8":"wiry",
-   "9":"fat"
- };
+
 
  // --------------------------------------------------------------------------------
  // Classes
  // --------------------------------------------------------------------------------
-
- gen_data["CharacterLevel"] = {
-    "1-60":"Low",
-    "61-90":"Medium",
-    "91-100":"High"
- };
-
-gen_data["CharacterLevelLow"] = {
-   "1":"Commoner",
-   "2":"Bandit",
-   "3":"Guard",
-   "4":"Noble",
-   "5":"Tribal Warrior",
-   "6":"Acolyte",
-   "7":"Scout",
-   "8":"Thug",
-};
-
-gen_data["CharacterLevelMedium"] = {
-   "1":"Spy",
-   "2":"Bandit Captain",
-   "3":"Berserker",
-   "4":"Cult Fanatic",
-   "5":"Druid",
-   "6":"Priest",
-   "7":"Knight",
-   "8":"Veteran"
-};
-
-gen_data["CharacterLevelHigh"] = {
-   "1":"Gladiator",
-   "2":"Mage",
-   "3":"Assassin",
-   "4":"Archmage"
-};
+ gen_data["CharacterLevel"] = {"1-60":"Low","61-90":"Medium","91-100":"High"};
+ gen_data["CharacterLevelLow"] = {"1":"Commoner","2":"Bandit","3":"Guard","4":"Noble","5":"Tribal Warrior","6":"Acolyte","7":"Scout","8":"Thug"};
+ gen_data["CharacterLevelMedium"] = {"1":"Spy","2":"Bandit Captain","3":"Berserker","4":"Cult Fanatic","5":"Druid","6":"Priest","7":"Knight","8":"Veteran"};
+ gen_data["CharacterLevelHigh"] = {"1":"Gladiator","2":"Mage","3":"Assassin","4":"Archmage"};
 
 
  // --------------------------------------------------------------------------------
@@ -263,13 +231,14 @@ gen_data["CharacterLevelHigh"] = {
  gen_data["GnomeFeminine"] = ["Abalaba","Bimpnottin","Breena","Buvvie","Callybon","Caramip","Carlin","Cumpen","Dalaba","Donella","Duvamil","Ella","Ellyjoybell","Ellywick","Enidda","Lilli","Loopmottin","Lorilla","Luthra","Mardnab","Meena","Menny","Mumpena","Nissa","Numba","Nyx","Oda","Oppah","Orla","Panana","Pyntle","Quilla","Ranala","Reddlepop","Roywyn","Salanop","Shamil","Siffress","Symma","Tana","Tenena","Tervaround","Tippletoe","Ulla","Unvera","Veloptima","Virra","Waywocket","Yebe","Zanna"];
  gen_data["GnomeMasculine"] = ["Alston","Alvyn","Anverth","Arumawann","Bilbron","Boddynock","Brocc","Burgell","Cockaby","Crampernap","Dabbledob","Delebean","Dimble","Eberdeb","Eldon","Erky","Fablen","Fibblestib","Fonkin","Frouse","Frug","Gerbo","Gimble","Glim","Igden","Jabble","Jebeddo","Kellen","Kipper","Namfoodle","Oppleby","Orryn","Paggen","Pallabar","Pog","Qualen","Ribbles","Rimple","Roondar","Sapply","Seebo","Senteq","Sindri","Umpen","Warryn","Wiggens","Wobbles","Wrenn","Zaffrab","Zook"];
  gen_data["GnomeSubrace"] = {"1":"Forest","2":"Rock"};
+
  // Half-Elf
  //--------------------------------------------------------------------------------
- gen_data["Half-ElfSubrace"] = {"1-40":"Human","41-80":"Elf"}
+ gen_data["Half-ElfSubrace"] = {"1-40":"Human","41-80":"Elf"};
 
  // Half-Orc
  //--------------------------------------------------------------------------------
- gen_data["Half-OrcSubrace"] = {"1-40":"Human","41-80":"Orc"}
+ gen_data["Half-OrcSubrace"] = {"1-40":"Human","41-80":"Orc"};
 
  // Halfling
  //--------------------------------------------------------------------------------

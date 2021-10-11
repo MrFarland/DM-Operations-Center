@@ -69,15 +69,8 @@ parent: worldbuilding
 
 <div class="result">
     <h5>Debugging Variables</h5>
-    <p id="npcBodyDescription">npcBodyDescription</p>
     <p id="npcHairDescription">npcHairDescription</p>
 </div>
-
-> **Sources** <br/>
-> A lot of sources were used to create this NPC Generator, but there are a few that merit being singled out.<br/>
->
-> \- [D&D Ages](https://docs.google.com/spreadsheets/d/11lCHNgkgQ0MG0nRKB0eTZ1oVer5rkH5PhMZnxLIAS4Q/edit#gid=0) by [r/Eviltoon](https://www.reddit.com/user/Eviltoon/) w/ some modifications by me.
-{.read .small-text}
 
 <!-- Load the custom.js for common functions -->
 <script src="../assets/js/custom.js"></script>

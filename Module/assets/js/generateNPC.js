@@ -53,15 +53,11 @@ function generateNPC() {
     // Appearance
     // --------------------------------------------------
 
-    //const a=w=>(w.match(/^[aeiou]/i))?`an ${w}`:`a ${w}`
-
-    
-
     // Body
-    height = generate_text("Height");
-    weight = generate_text("Weight");
+    ageDescription = ageGroup.toLowerCase();
+    bodySize = generate_text("BodySize");
+    bodyType = generate_text("BodyType" + bodySize);
     bodyRace = race.toLowerCase();
-    bodyDescription = (givenName + " is " + height + " for " + a(bodyRace) + " and " + weight + ".");
 
     // Eyes
     eyeType = generate_text("EyeType");
@@ -73,9 +69,10 @@ function generateNPC() {
     hairLength = generate_text("HairLength");
     hairStyle = generate_text(hairLength + "HairStyle");
     hairType = generate_text("HairType");
+
     hairDescription = (pronounSubject + " has " + hairLength + ", " + hairType + ", " + hairColor + " hair " + hairStyle + ". ");
 
-    appearance = ("Donald is tall for a human with an athletic build and long blond hair he keeps in a ponytail. His piercing blue eyes are ");
+    appearance = (givenName + " is " + a(ageDescription) + " " + bodyRace + " with " + a(bodyType) + ".");
     
 
     // Body - Height, weight, and general appearance
@@ -110,7 +107,6 @@ function displayNPC() {
     npcAppearance.innerHTML = appearance;
 
     // Debugging Variables
-    npcBodyDescription.innerHTML = bodyDescription;
     npcHairDescription.innerHTML = hairDescription;
 
 }
