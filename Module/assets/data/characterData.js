@@ -68,12 +68,115 @@
   '91-100':"gray"
  };
 
-
-
  // GenderForm
  gen_data["GenderForm"] = ["Feminine","Masculine"];
 
+ // Hair
+ gen_data["HairColor"] = {
+   "1-30":"black",
+   "31-38":"dark brown",
+   "39-46":"natural brown",
+   "47-53":"light brown",
+   "54-60":"chestnut brown",
+   "61-65":"light blond",
+   "66-70":"golden blond",
+   "71-75":"natural blond",
+   "76-80":"platinum blond",
+   "81-83":"auburn",
+   "84-87":"red",
+   "88-90":"orange",
+   "91-93":"copper",
+   "94-96":"strawberry blond",
+   "97-98":"salt and pepper",
+   "99":"gray",
+   "100":"white"
+ };
+ gen_data["HairLength"] = {
+   "1-50":"short",
+   "51-100":"long"
+ };
+ gen_data["shortHairStyle"] = {
+   "1-2":"parted in the middle",
+   "3-4":"parted on the side",
+   "5-6":"cut close to the scalp",
+   "7-8":"swept over to one side",
+   "9-10":"slicked back",
+   "11-12":"that is wild and untamed",
+   "13-14":"swept-up in the front",
+   "15-16":"cropped and undercut on one side",
+   "17-18":"tied up in a small bun",
+   "19-20":"with short, veritcal spikes",
+   "21-22":"pulled to one side and shaved on the other",
+   "23":"shaved on the sides and pulled up into a top-knot",
+   "24":"shaved on both sides and swept up into a mohawk",
+   "25-26":"tied back in a short ponytail",
+   "27":"in tight, short dreads",
+   "28-29":"with a small cowlick in the back",
+   "30":"with a flat top"
+ };
+ gen_data["longHairStyle"] = {
+   "1-2":"tied back in a loose ponytail",
+   "3-4":"slicked back",
+   "5-6":"down to the top of the collar",
+   "7-8":"worn up in a bun",
+   "9-10":"parted in the middle",
+   "11-12":"pulled back into a messy bun",
+   "13-14":"in long, tight dreadlocks",
+   "15-16":"worn half-up and half-down",
+   "17":"flowing naturally down to the middle of the back",
+   "18":"long in the back and short up top",
+   "19-20":"long on the top and shaved on one side",
+   "21-22":"in a shaggy, half ponytail",
+   "23":"with a series of small braids framing the face",
+   "24-25":"swept back behind the ears",
+   "26-27":"pulled back and braided tightly",
+   "28-29":"pulled over to one side",
+   "40":"in a high mohawk",
+   "41":"tied up with a leather strap",
+   "42-43":"tied back in a series of braids",
+   "44":"pulled over to one side and tied in a bun"
+ };
+ gen_data["HairType"] = {
+   "1-2":"straight",
+   "3-4":"messy",
+   "5-6":"wavy",
+   "7-8":"curly",
+   "9":"frizzy",
+   "10":"tangled",
+   "11-12":"thick",
+   "13-14":"thin",
+   "15-16":"fine",
+   "17-18":"coarse",
+   "19-20":"dirty",
+   "21":"matted",
+   "22":"frayed",
+   "23":"thinning",
+   "24-25":"greasy",
+   "26":"patchy",
+   "27":"oily"
+ };
 
+ // Height
+ gen_data["Height"] = {
+   '1-10':"very short",
+   '11-30':"short",
+   '31-70':"average",
+   '71-90':"tall",
+   '91-100':"very tall"
+ };
+ 
+ // Weight
+ gen_data["Weight"] = {
+   "1":"thin",
+   "2":"heavy-set",
+   "3":"rotund",
+   "4":"lean",
+   "5":"stout",
+   "6":"muscular",
+   "7":"athletic",
+   "8":"wiry",
+   "9":"fat"
+ };
 
  // --------------------------------------------------------------------------------
  // Classes

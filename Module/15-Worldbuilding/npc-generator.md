@@ -61,10 +61,7 @@ parent: worldbuilding
     <h4 id="npcFullName">Character Name</h4>
     <div class="small-text"><span id="npcFullRace">Race</span> - <span id="npcGenderID">Gender Identity</span> - <span id="npcAge">Age</span> (<span id="npcAgeGroup">Group</span>) - <span id="npcCharacterURL">Class</span></div>
     <h5>Appearance</h5>
-    <span id="npcGivenName">Name</span> is <br/>
-    <span id="npcEyes">Eyes</span><br/>
-    <p>Don has short, thick dark brown hair and a beard that he keeps cut short.</p>
-    <p>He is average height for a human and carrying a good deal of weight, mostly in his belly.</p> 
+    <p id="npcAppearance"></p>
     <h5>Personality</h5>
     <h5>Occupation</h5>
     <br/>
@@ -72,12 +69,8 @@ parent: worldbuilding
 
 <div class="result">
     <h5>Debugging Variables</h5>
-    npcAgeGroupValues: <span id="npcAgeGroupValues">Value</span><br/>
-    npcAgeGroupMin: <span id="npcAgeGroupMin">Value</span><br/>
-    npcAgeGroupMax: <span id="npcAgeGroupMax">Value</span><br/>
-    npcPronounSubject: <span id="npcPronounSubject">Value</span><br/>
-    npcPronounObject: <span id="npcPronounObject">Value</span><br/>
-    Variable: <span id="">Value</span><br/>
+    <p id="npcBodyDescription">npcBodyDescription</p>
+    <p id="npcHairDescription">npcHairDescription</p>
 </div>
 
 > **Sources** <br/>
@@ -85,6 +78,9 @@ parent: worldbuilding
 >
 > \- [D&D Ages](https://docs.google.com/spreadsheets/d/11lCHNgkgQ0MG0nRKB0eTZ1oVer5rkH5PhMZnxLIAS4Q/edit#gid=0) by [r/Eviltoon](https://www.reddit.com/user/Eviltoon/) w/ some modifications by me.
 {.read .small-text}
+
+<!-- Load the custom.js for common functions -->
+<script src="../assets/js/custom.js"></script>
 
 <!-- Load the dice and generator js files from drow@bin.sh -->
 <script src="../assets/js/dice.js"></script>

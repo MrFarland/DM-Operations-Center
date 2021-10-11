@@ -53,8 +53,32 @@ function generateNPC() {
     // Appearance
     // --------------------------------------------------
 
+    //const a=w=>(w.match(/^[aeiou]/i))?`an ${w}`:`a ${w}`
+
+    
+
+    // Body
+    height = generate_text("Height");
+    weight = generate_text("Weight");
+    bodyRace = race.toLowerCase();
+    bodyDescription = (givenName + " is " + height + " for " + a(bodyRace) + " and " + weight + ".");
+
+    // Eyes
+    eyeType = generate_text("EyeType");
+    eyeColor = generate_text("EyeColor");
+    eyeDescription = (givenName + " has " + eyeType + ", " + eyeColor + " eyes.");
+
+    // Hair
+    hairColor = generate_text("HairColor")
+    hairLength = generate_text("HairLength");
+    hairStyle = generate_text(hairLength + "HairStyle");
+    hairType = generate_text("HairType");
+    hairDescription = (pronounSubject + " has " + hairLength + ", " + hairType + ", " + hairColor + " hair " + hairStyle + ". ");
+
+    appearance = ("Donald is tall for a human with an athletic build and long blond hair he keeps in a ponytail. His piercing blue eyes are ");
+    
+
     // Body - Height, weight, and general appearance
-    // Eyes - Adjective and Color
     // Hair - Length, style, and color.
     // Skin - Color and condition.
 
@@ -83,14 +107,10 @@ function displayNPC() {
     npcCharacterURL.innerHTML = characterURL;
 
     // Allocated - Appearance
-    npcGivenName.innerHTML = givenName;
-    npcEyes.innerHTML = eyes;
+    npcAppearance.innerHTML = appearance;
 
     // Debugging Variables
-    npcAgeGroupValues.innerHTML = ageGroupValues;
-    npcAgeGroupMin.innerHTML = ageGroupMin;
-    npcAgeGroupMax.innerHTML = ageGroupMax;
-    npcPronounSubject.innerHTML = pronounSubject;
-    npcPronounObject.innerHTML = pronounObject;
+    npcBodyDescription.innerHTML = bodyDescription;
+    npcHairDescription.innerHTML = hairDescription;
 
 }
