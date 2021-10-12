@@ -43,24 +43,70 @@
     //"Yuan-Ti": [16,20,40,60,80,100]
  }
 
- // Body Height
- gen_data["BodySize"] = {
-   "1":"Small",
-   "2":"Medium",
-   "3":"Large"
+ gen_data["YoungBodyType"] = {
+   "1":", tall and gangly",
+   "2":",  ",
+   "3":" YoungBodyType",
+   "4":" YoungBodyType",
+   "5":" YoungBodyType",
+   "6":" YoungBodyType",
+   "7":" YoungBodyType",
+   "8":" YoungBodyType",
+   "9":" YoungBodyType",
+   "10":" YoungBodyType"
  };
 
- gen_data["BodyTypeSmall"] = {
-    "1":"thin and wiry"
+ gen_data["AdultBodyType"] = {
+   "1":" of average build",
+   "2":", with a strong, athletic build",
+   "3":" tall ",
+   "4":" AdultBodyType",
+   "5":" AdultBodyType",
+   "6":" AdultBodyType",
+   "7":" AdultBodyType",
+   "8":" AdultBodyType",
+   "9":" AdultBodyType",
+   "10":" AdultBodyType"
  };
 
- gen_data["BodyTypeMedium"] = {
-   "1":"average build"
-};
+ gen_data["MatureBodyType"] = {
+   "1":" MatureBodyType",
+   "2":" MatureBodyType",
+   "3":" MatureBodyType",
+   "4":" MatureBodyType",
+   "5":" MatureBodyType",
+   "6":" MatureBodyType",
+   "7":" MatureBodyType",
+   "8":" MatureBodyType",
+   "9":" MatureBodyType",
+   "10":" MatureBodyType"
+ };
 
-gen_data["BodyTypeLarge"] = {
-   "1":"big, strong frame"
-};
+ gen_data["ElderlyBodyType"] = {
+   "1":" ElderlyBodyType",
+   "2":" ElderlyBodyType",
+   "3":" ElderlyBodyType",
+   "4":" ElderlyBodyType",
+   "5":" ElderlyBodyType",
+   "6":" ElderlyBodyType",
+   "7":" ElderlyBodyType",
+   "8":" ElderlyBodyType",
+   "9":" ElderlyBodyType",
+   "10":" ElderlyBodyType"
+ };
+
+ gen_data["VenerableBodyType"] = {
+   "1":", who ",
+   "2":", bent and broken from years of hard work",
+   "3":", VenerableBodyType",
+   "4":", VenerableBodyType",
+   "5":", VenerableBodyType",
+   "6":", VenerableBodyType",
+   "7":", VenerableBodyType",
+   "8":", VenerableBodyType",
+   "9":", VenerableBodyType",
+   "10":", VenerableBodyType"
+ };
 
  // Eye Adjectives
  gen_data["EyeType"] = {
@@ -74,7 +120,6 @@ gen_data["BodyTypeLarge"] = {
    "8":"narrow",
    "9":"glassy",
    "10":"squinting",
-   "11":"bloodshot",
    "12":"jaundiced"
  };
  
@@ -86,6 +131,30 @@ gen_data["BodyTypeLarge"] = {
   '71-90':"hazel",
   '91-100':"gray"
  };
+
+ // Eye Flourish
+ gen_data["EyeFlourish"] = {
+  '1-2':"wander aimlessly while speaking",
+  '3-4':"are firmly fixed on their feet when speaking",
+  '5-6':"are red and irritated",
+  '7-8':"look out from under a heavy brow",
+  '9-10':"look fresh and well-rested",
+  '15-16':"look heavy and tired",
+  '17-18':"have deep, heavy bags under them",
+  '19-20':"wince and close at any loud noises",
+  '21-22':"are magnified by thick glasses",
+  '23-24':"peer over a pair of horn-rimmed glasses",
+  '25-26':"look out from behind a pair of thin, wire-frame spectacles",
+  '27-28':"try to see out a pair of badly cracked glasses",
+  '29-30':"are kind and caring",
+  '31-32':"are inquisitive",
+  '33-34':"look menacing",
+  '35-36':"dart around, looking for the best route of escape",
+  '37-38':"seem to stare right into your soul",
+  '39-40':"are keen and miss little",
+  '41-42':"are nearly swollen shut",
+  '43-44':"are framed by two, vicious black eyes"
+};
 
  // GenderForm
  gen_data["GenderForm"] = ["Feminine","Masculine"];
@@ -142,7 +211,7 @@ gen_data["BodyTypeLarge"] = {
    "11-12":"pulled back into a messy bun",
    "13-14":"in long, tight dreadlocks",
    "15-16":"worn half-up and half-down",
-   "17":"flowing naturally down to the middle of the back",
+   "17":"that stretches down to the middle of the back",
    "18":"long in the back and short up top",
    "19-20":"long on the top and shaved on one side",
    "21-22":"in a shaggy, half ponytail",
