@@ -130,25 +130,3 @@ gen_data["Color"] = ["black", "grey", "brown", "red", "blue"];
 
 //Attitude
 gen_data["Attitude"] = ["Welcoming","Sad","Discrete","Stoic"]
-
-
-//Store
-gen_data['JewelerLocation'] = ['a {locationAdjective} place,'];
-
-gen_data['JewelerDescription'] = ['A {gender} {race},'];
-
-// It is possible to tweak randomness by giving some element more chance than others
-gen_data['JewelerItems'] = {
-  '1-5' : '{precious_stone}',
-  '6' : '{magical_jewel}'
-};
-
-gen_data['locationAdjective'] = [
-  'warm', 'cold'
-];
-gen_data['precious_stone'] = [
-  'Ruby', 'Topaz', 'Quartz','Emerald', 'Jade','Amethyst','Sapphire'
-];
-gen_data['magical_jewel'] = [
-  'Invisibility Ring', 'Driftglobe','Necklace of Adaptation','Figurine of Wondrous Power, Golden Lions','Ring of Protection', 'Crystal Ball','Spell Gem (Amber)'
-];

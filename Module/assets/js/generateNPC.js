@@ -96,7 +96,7 @@ function generateNPC() {
 
 function displayNPC() {
 
-    // Allocated - Header
+    // Header
     npcFullName.innerHTML = fullName;
     npcFullRace.innerHTML = fullRace;
     npcGenderID.innerHTML = genderID;
@@ -104,10 +104,11 @@ function displayNPC() {
     npcAge.innerHTML = age;
     npcCharacterURL.innerHTML = characterURL;
 
-    // Allocated - Appearance
+    // Appearance
     npcAppearance.innerHTML = appearance;
 
-    // Debugging Variables
-    npcHairDescription.innerHTML = hairDescription;
-
+    // Personality
+    
+    // Occupation
+    
 }

@@ -67,11 +67,6 @@ parent: worldbuilding
     <br/>
 </div>
 
-<div class="result">
-    <h5>Debugging Variables</h5>
-    <p id="npcHairDescription">npcHairDescription</p>
-</div>
-
 <!-- Load the custom.js for common functions -->
 <script src="../assets/js/custom.js"></script>
 

@@ -44,8 +44,8 @@
  }
 
  gen_data["YoungBodyType"] = {
-   "1":", tall and gangly",
-   "2":",  ",
+   "1":" YoungBodyType",
+   "2":" YoungBodyType",
    "3":" YoungBodyType",
    "4":" YoungBodyType",
    "5":" YoungBodyType",
@@ -57,9 +57,9 @@
  };
 
  gen_data["AdultBodyType"] = {
-   "1":" of average build",
-   "2":", with a strong, athletic build",
-   "3":" tall ",
+   "1":" AdultBodyType",
+   "2":" AdultBodyType",
+   "3":" AdultBodyType",
    "4":" AdultBodyType",
    "5":" AdultBodyType",
    "6":" AdultBodyType",
@@ -70,16 +70,16 @@
  };
 
  gen_data["MatureBodyType"] = {
-   "1":" MatureBodyType",
-   "2":" MatureBodyType",
-   "3":" MatureBodyType",
-   "4":" MatureBodyType",
-   "5":" MatureBodyType",
-   "6":" MatureBodyType",
-   "7":" MatureBodyType",
-   "8":" MatureBodyType",
-   "9":" MatureBodyType",
-   "10":" MatureBodyType"
+   "1":" AdultBodyType",
+   "2":" AdultBodyType",
+   "3":" AdultBodyType",
+   "4":" AdultBodyType",
+   "5":" AdultBodyType",
+   "6":" AdultBodyType",
+   "7":" AdultBodyType",
+   "8":" AdultBodyType",
+   "9":" AdultBodyType",
+   "10":" AdultBodyType"
  };
 
  gen_data["ElderlyBodyType"] = {
@@ -96,8 +96,8 @@
  };
 
  gen_data["VenerableBodyType"] = {
-   "1":", who ",
-   "2":", bent and broken from years of hard work",
+   "1":", VenerableBodyType",
+   "2":", VenerableBodyType",
    "3":", VenerableBodyType",
    "4":", VenerableBodyType",
    "5":", VenerableBodyType",
@@ -110,17 +110,17 @@
 
  // Eye Adjectives
  gen_data["EyeType"] = {
-   "1":"large",
-   "2":"wide",
-   "3":"piercing",
-   "4":"blank",
-   "5":"crossed",
-   "6":"deep-set",
-   "7":"bulging",
-   "8":"narrow",
-   "9":"glassy",
-   "10":"squinting",
-   "12":"jaundiced"
+   "1-3":"large",
+   "4-5":"wide",
+   "6-7":"piercing",
+   "8-9":"blank",
+   "10":"crossed",
+   "11-13":"deep-set",
+   "14":"bulging",
+   "15-16":"narrow",
+   "17-18":"glassy",
+   "19-20":"squinting",
+   "21":"jaundiced"
  };
  
  // Eye Color
@@ -255,6 +255,7 @@
  gen_data["CharacterLevelHigh"] = {"1":"Gladiator","2":"Mage","3":"Assassin","4":"Archmage"};
 
 
+
  // --------------------------------------------------------------------------------
  // Races
  // --------------------------------------------------------------------------------
@@ -271,6 +272,8 @@
     "9":"Orc",
     "10":"Tiefling"
 };
+
+
 
  // Dragonborn
  //--------------------------------------------------------------------------------
