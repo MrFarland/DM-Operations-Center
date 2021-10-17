@@ -55,40 +55,21 @@ function generateNPC() {
 
     // Body
     ageDescription = ageGroup.toLowerCase();
-
-
     bodyRace = race.toLowerCase();
-
-    bodyDescription = (givenName)
+    bodyDescription = (givenName + " is " + a(ageDescription) + " " + bodyRace + " with " + ". ");
 
     // Eyes
-    eyeType = generate_text("EyeType");
     eyeColor = generate_text("EyeColor");
     eyeDetail = generate_text("EyeDetail");
-    eyeDescription = (pronounObject + " " + eyeType + ", " + eyeColor + " eyes " + eyeDetail);
+    eyeType = generate_text("EyeType");
+    eyeDescription = (pronounObject + " " + eyeType + ", " + eyeColor + " eyes " + eyeDetail + ". ");
 
     // Hair
-    hairColor = generate_text("HairColor")
+    hairColor = generate_text("HairColor");
     hairLength = generate_text("HairLength");
     hairStyle = generate_text(hairLength + "HairStyle");
     hairType = generate_text("HairType");
-
-    hairDescription = (hairLength + ", " + hairType + ", " + hairColor + " hair " + hairStyle);
-
-    appearance = (givenName + " is " + a(ageDescription) + " " + bodyRace + " with " + hairDescription + ". " + eyeDescription + ". " + bodyDescription + ". " );
-    
-
-    // Body - Height, weight, and general appearance
-    // Hair - Length, style, and color.
-    // Skin - Color and condition.
-
-    // Personality
-    // --------------------------------------------------
-
-    // Disposition towards party
-    // Outlook on life
-    // General mood
-    // Alignment
+    hairDescription = (givenName + " has " + hairLength + ", " + hairType + ", " + hairColor + " hair " + hairStyle + ". ");
 
     displayNPC()
      
@@ -102,12 +83,14 @@ function displayNPC() {
     npcFullName.innerHTML = fullName;
     npcFullRace.innerHTML = fullRace;
     npcGenderID.innerHTML = genderID;
-    npcAgeGroup.innerHTML = ageGroup;
     npcAge.innerHTML = age;
-    npcCharacterURL.innerHTML = characterURL;
+    npcAgeGroup.innerHTML = ageGroup;
+    npcCharacterClassURL.innerHTML = characterClassURL;
 
     // Appearance
-    npcAppearance.innerHTML = appearance;
+    npcBodyDescription.innerHTML = bodyDescription;
+    npcEyeDescription.innerHTML = eyeDescription;
+    npcHairDescription.innerHTML = hairDescription;
 
     // Personality
     

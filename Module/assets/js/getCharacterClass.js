@@ -26,9 +26,9 @@ function getCharacterClass() {
     characterLower = characterClass.toLowerCase();
     characterSlug = characterLower.replace(/ /g, '-');
     
-    characterURL = ("<a href=\"/monster/" + characterSlug + "\">" + characterClass + "</a>");
+    characterClassURL = ("<a href=\"/monster/" + characterSlug + "\">" + characterClass + "</a>");
 
     // Return the values for race and gender in an array.
-    return [characterLevel, characterClass, characterLower, characterSlug, characterURL];
+    return [characterLevel, characterClass, characterLower, characterClassURL];
 
 }
