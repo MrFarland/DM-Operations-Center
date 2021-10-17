@@ -55,15 +55,17 @@ function generateNPC() {
 
     // Body
     ageDescription = ageGroup.toLowerCase();
-    bodyType = generate_text(ageGroup + "BodyType");
+
+
     bodyRace = race.toLowerCase();
-    bodyDescription = (givenName + " is " + a(ageDescription) + " " + bodyRace + bodyType + ". ")
+
+    bodyDescription = (givenName)
 
     // Eyes
     eyeType = generate_text("EyeType");
     eyeColor = generate_text("EyeColor");
-    eyeFlourish = generate_text("EyeFlourish");
-    eyeDescription = (pronounObject + " " + eyeType + ", " + eyeColor + " eyes " + eyeFlourish + ". ");
+    eyeDetail = generate_text("EyeDetail");
+    eyeDescription = (pronounObject + " " + eyeType + ", " + eyeColor + " eyes " + eyeDetail);
 
     // Hair
     hairColor = generate_text("HairColor")
@@ -71,9 +73,9 @@ function generateNPC() {
     hairStyle = generate_text(hairLength + "HairStyle");
     hairType = generate_text("HairType");
 
-    hairDescription = (pronounSubject + " has " + hairLength + ", " + hairType + ", " + hairColor + " hair " + hairStyle + ". ");
+    hairDescription = (hairLength + ", " + hairType + ", " + hairColor + " hair " + hairStyle);
 
-    appearance = (bodyDescription + hairDescription + eyeDescription);
+    appearance = (givenName + " is " + a(ageDescription) + " " + bodyRace + " with " + hairDescription + ". " + eyeDescription + ". " + bodyDescription + ". " );
     
 
     // Body - Height, weight, and general appearance

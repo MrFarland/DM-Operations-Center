@@ -16,7 +16,7 @@
  };
 
  // AgeGroups by Race
- // - Lifespan divided by 5 age groups, Young starts 1/2 point of 1st age group.
+ // - Lifespan divided by 5 age groups, Young starts ~1/2 point of 1st age group.
  raceAgeGroups = {
     //"Aarakocra": [3,6,12,18,24,30],         
     //"Aasimar": [16,32,64,96,128,160],
@@ -43,71 +43,6 @@
     //"Yuan-Ti": [16,20,40,60,80,100]
  }
 
- gen_data["YoungBodyType"] = {
-   "1":" YoungBodyType",
-   "2":" YoungBodyType",
-   "3":" YoungBodyType",
-   "4":" YoungBodyType",
-   "5":" YoungBodyType",
-   "6":" YoungBodyType",
-   "7":" YoungBodyType",
-   "8":" YoungBodyType",
-   "9":" YoungBodyType",
-   "10":" YoungBodyType"
- };
-
- gen_data["AdultBodyType"] = {
-   "1":" AdultBodyType",
-   "2":" AdultBodyType",
-   "3":" AdultBodyType",
-   "4":" AdultBodyType",
-   "5":" AdultBodyType",
-   "6":" AdultBodyType",
-   "7":" AdultBodyType",
-   "8":" AdultBodyType",
-   "9":" AdultBodyType",
-   "10":" AdultBodyType"
- };
-
- gen_data["MatureBodyType"] = {
-   "1":" AdultBodyType",
-   "2":" AdultBodyType",
-   "3":" AdultBodyType",
-   "4":" AdultBodyType",
-   "5":" AdultBodyType",
-   "6":" AdultBodyType",
-   "7":" AdultBodyType",
-   "8":" AdultBodyType",
-   "9":" AdultBodyType",
-   "10":" AdultBodyType"
- };
-
- gen_data["ElderlyBodyType"] = {
-   "1":" ElderlyBodyType",
-   "2":" ElderlyBodyType",
-   "3":" ElderlyBodyType",
-   "4":" ElderlyBodyType",
-   "5":" ElderlyBodyType",
-   "6":" ElderlyBodyType",
-   "7":" ElderlyBodyType",
-   "8":" ElderlyBodyType",
-   "9":" ElderlyBodyType",
-   "10":" ElderlyBodyType"
- };
-
- gen_data["VenerableBodyType"] = {
-   "1":", VenerableBodyType",
-   "2":", VenerableBodyType",
-   "3":", VenerableBodyType",
-   "4":", VenerableBodyType",
-   "5":", VenerableBodyType",
-   "6":", VenerableBodyType",
-   "7":", VenerableBodyType",
-   "8":", VenerableBodyType",
-   "9":", VenerableBodyType",
-   "10":", VenerableBodyType"
- };
-
  // Eye Adjectives
  gen_data["EyeType"] = {
    "1-3":"large",
@@ -120,7 +55,8 @@
    "15-16":"narrow",
    "17-18":"glassy",
    "19-20":"squinting",
-   "21":"jaundiced"
+   "21":"jaundiced",
+   "22-23":"small"
  };
  
  // Eye Color
@@ -132,16 +68,16 @@
   '91-100':"gray"
  };
 
- // Eye Flourish
- gen_data["EyeFlourish"] = {
+ // Eye Detail
+ gen_data["EyeDetail"] = {
   '1-2':"wander aimlessly while speaking",
   '3-4':"are firmly fixed on their feet when speaking",
   '5-6':"are red and irritated",
   '7-8':"look out from under a heavy brow",
-  '9-10':"look fresh and well-rested",
-  '15-16':"look heavy and tired",
-  '17-18':"have deep, heavy bags under them",
-  '19-20':"wince and close at any loud noises",
+  '9-11':"look fresh and well-rested",
+  '15-17':"look heavy and tired",
+  '18':"have deep, heavy bags under them",
+  '19-20':"wince and blink at any loud noises",
   '21-22':"are magnified by thick glasses",
   '23-24':"peer over a pair of horn-rimmed glasses",
   '25-26':"look out from behind a pair of thin, wire-frame spectacles",
@@ -149,7 +85,7 @@
   '29-30':"are kind and caring",
   '31-32':"are inquisitive",
   '33-34':"look menacing",
-  '35-36':"dart around, looking for the best route of escape",
+  '35':"dart around, looking for the best route of escape",
   '37-38':"seem to stare right into your soul",
   '39-40':"are keen and miss little",
   '41-42':"are nearly swollen shut",
@@ -241,7 +177,10 @@
    "23":"thinning",
    "24-25":"greasy",
    "26":"patchy",
-   "27":"oily"
+   "27":"oily",
+   "28-29":"shiny",
+   "30":"receeding",
+   "31-33":"natural"
  };
 
 
