@@ -62,7 +62,7 @@ function generateNPC() {
     eyeColor = generate_text("EyeColor");
     eyeDetail = generate_text("EyeDetail");
     eyeType = generate_text("EyeType");
-    eyeDescription = (pronounObject + " " + eyeType + ", " + eyeColor + " eyes " + eyeDetail + ". ");
+    eyeDescription = (pronounSubject + " has " + eyeType + ", " + eyeColor + " eyes that " + eyeDetail + ". ");
 
     // Hair
     hairColor = generate_text("HairColor");
