@@ -53,6 +53,24 @@ function generateNPC() {
     // Appearance
     // --------------------------------------------------
 
+    // Body
+    ageDescription = ageGroup.toLowerCase();
+    bodyRace = race.toLowerCase();
+    bodyDescription = (givenName + " is " + a(ageDescription) + " " + bodyRace + " with " + ". ");
+
+    // Eyes
+    eyeColor = generate_text("EyeColor");
+    eyeDetail = generate_text("EyeDetail");
+    eyeType = generate_text("EyeType");
+    eyeDescription = (pronounSubject + " has " + eyeType + ", " + eyeColor + " eyes that " + eyeDetail + ". ");
+
+    // Hair
+    hairColor = generate_text("HairColor");
+    hairLength = generate_text("HairLength");
+    hairStyle = generate_text(hairLength + "HairStyle");
+    hairType = generate_text("HairType");
+    hairDescription = (givenName + " has " + hairLength + ", " + hairType + ", " + hairColor + " hair " + hairStyle + ". ");
+
     displayNPC()
      
 }
@@ -70,6 +88,9 @@ function displayNPC() {
     npcCharacterClassURL.innerHTML = characterClassURL;
 
     // Appearance
+    npcBodyDescription.innerHTML = bodyDescription;
+    npcEyeDescription.innerHTML = eyeDescription;
+    npcHairDescription.innerHTML = hairDescription;
 
     // Personality
     
