@@ -8,17 +8,15 @@
 
 // AgeGroup
 gen_data["AgeGroup"] = {
-  "1-10":"Young",
-  "11-30":"Adult",
-  "31-50":"Mature",
-  "51-60":"Elderly",
-  "96-100":"Venerable"
+  "1-20":"Young",
+  "21-50":"Adult",
+  "51-80":"Mature",
+  "81-97":"Elderly",
+  "98-100":"Venerable"
 };
 
 // AgeGroups by Race
 raceAgeGroups = {
-  //"Aarakocra": [3,6,12,18,24,30],         
-  //"Aasimar": [16,32,64,96,128,160],
   "Dragonborn": [15,16,32,48,64,80],
   "Dwarf": [50,70,140,210,280,350],
   "Elf": [100,150,300,450,600,750],

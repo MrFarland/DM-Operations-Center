@@ -61,7 +61,7 @@ parent: worldbuilding
     <h4 id="npcFullName">Character Name</h4>
     <div class="small-text"><span id="npcFullRace">Race</span> - <span id="npcGenderID">Gender Identity</span> - <span id="npcAge">Age</span> (<span id="npcAgeGroup">Group</span>) - <span id="npcCharacterClassURL">Class</span></div>
     <h5>Appearance</h5>
-    <p id="npcPhysicalAppearance"></p>
+    <p id="npcAppearance"></p>
     <h5>Personality</h5>
     <h5>Occupation</h5>
     <br/>
@@ -80,6 +80,8 @@ parent: worldbuilding
 <script src="../assets/js/getRace.js"></script>
 
 <!-- Load the heavy lifting js to generate names and npcs. -->
+<script src="../assets/js/generateAge.js"></script>
+<script src="../assets/js/generateAppearance.js"></script>
 <script src="../assets/js/generateName.js"></script>
 <script src="../assets/js/generateNPC.js"></script>
 
