@@ -63,6 +63,7 @@ parent: worldbuilding
     <h5>Appearance</h5>
     <p id="npcAppearance"></p>
     <h5>Personality</h5>
+    <p id="npcPersonality"></p>
     <h5>Occupation</h5>
     <br/>
 </div>
@@ -82,6 +83,7 @@ parent: worldbuilding
 <!-- Load the heavy lifting js to generate names and npcs. -->
 <script src="../assets/js/generateAge.js"></script>
 <script src="../assets/js/generateAppearance.js"></script>
+<script src="../assets/js/generatePersonality.js"></script>
 <script src="../assets/js/generateName.js"></script>
 <script src="../assets/js/generateNPC.js"></script>
 
