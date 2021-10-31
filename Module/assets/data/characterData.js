@@ -5,7 +5,7 @@
 // --------------------------------------------------------------------------------
 // Common
 // --------------------------------------------------------------------------------
- 
+
 // AgeGroup
 gen_data["AgeGroup"] = {
   "1-10":"Young",
@@ -44,46 +44,17 @@ raceAgeGroups = {
 
 
 
-// Eyes
-gen_data["EyeColor"] = {
-  '1-10':"brown",
-  '11-30':"green",
-  '31-70':"blue",
-  '71-90':"hazel",
-  '91-100':"gray"
-};
-gen_data["EyeDetail"] = {
-  '1-2':"wander aimlessly when speaking",
-  '3-4':"are emotionless and blank",
-  '5-6':"look red and irritated",
-  '7-8':"look out from under a heavy brow",
-  '9-11':"look fresh and well-rested",
-  '12-14':"look heavy and tired",
-  '15-16':"have deep bags underneath",
-  '17':"wince and blink at loud noises",
-  '18-19':"are magnified by thick glasses",
-  '20-21':"peer over horn-rimmed glasses",
-  '22-23':"are framed by thin, wire-frame spectacles",
-  '24-25':"look swollen and puffy",
-  '26-27':"look kind and caring",
-  '28-29':"look icy and hard",
-  '30-31':"are always scanning for potential threats",
-  '32-33':"stare into your soul",
-  '34-35':"are keen and miss little",
-  '36-37':"are nearly swollen shut",
-  '38':"are framed by two, vicious black eyes",
-  '39':"look heavy-lidded and drowsy",
-  '40-41':"have a blank, vacant stare",
-  '42-43':"shine brightly",
-  '44-45':"are alert and looking for signs of trouble",
-  '46':"look soft and soulful",
-  '47':"look wild and crazy",
-  '48':"always seem a little dazed and confused",
-  '49':"always look sleepy",
-  '50':"look cruel and menacing"
-};
+
+
+// GenderForm
+gen_data["GenderForm"] = ["Feminine","Masculine"];
+
+// Body
+gen_data["BodyHeight"] = ["average","short","tall"];
+gen_data["BodyWeight"] = ["average","atheltic","doughy","fit","heavy","lean","powerful","rotund","skinny","soft","stocky","strong","thin"];
+
 gen_data["EyeType"] = {
-  "1":"bug-eyed",
+  "1":"cloudy",
   "2":"bulging",
   "3-4":"close-set",
   "5-6":"deep-set",
@@ -103,19 +74,168 @@ gen_data["EyeType"] = {
   "33-34":"wide-set",
   "35":"bloodshot",
   "36":"beady",
-  "37":"dopey"
+  "37":"dopey",
+  "38-39":"oval-shaped",
+  "40-42":"round",
 };
 
-// GenderForm
-gen_data["GenderForm"] = ["Feminine","Masculine"];
-
-// Hair Color
-
-gen_data["HairLength"] = {
-  "1-50":"short",
-  "51-100":"long"
+// Facial Hair
+gen_data["FacialHairStyleBeard"] = [
+  "well-trimmed and brushed",
+  "growing wild and untamed",
+  "braided into multiple braids and capped with small gold rings",
+  "braided on both sides of the mouth",
+  "gathered into a single braid at the chin",
+  "gathered at the chin and tied with string",
+  "scruffy and untrimmed",
+  "growing more outward than down",
+  "styled into a point",
+  "boxed and full",
+  "neatly styled and capped with a large handlebar mustache",
+  "with bits of crumbs tangled amongst the hairs",
+  "patchy and uneven"
+];
+gen_data["FacialHairStyleGoatee"] = [
+  "well-trimmed and brushed",
+  "growing wild and untamed",
+  "braided into multiple braids and capped with small gold rings",
+  "braided on both sides of the mouth",
+  "gathered into a single braid at the chin",
+  "gathered at the chin and tied with string",
+  "scruffy and untrimmed",
+  "growing more outward than down",
+  "styled into a van dyke",
+  "boxed and full",
+  "neatly styled and capped with a large handlebar mustache",
+  "with bits of crumbs tangled amongst the hairs",
+  "patchy and uneven"
+];
+gen_data["FacialHairStyleMustache"] = [
+  "well-trimmed and brushed",
+  "growing wild and untamed",
+  "styled into an elaborate handlebar",
+  "overflowing into a long fu-manchu",
+  "braided at the corners",
+  "scruffy and untrimmed",
+  "with bits of crumbs tangled amongst the hairs",
+  "parted in the middle",
+  "parted and waxed at the tips into a point",
+  "with a small, soul patch above the chin"
+];
+// Features
+gen_data["Feature"] = [
+  "a large, broad nose",
+  "a small, narrow nose",
+  "a short, broad nose",
+  "a short, narrow nose",
+  "a pronounced brow",
+  "a receding hairline",
+  "a cleft lip",
+  "a strong, jutting chin",
+  "abnormally large ears",
+  "a big, toothy grin",
+  "a permanent smirk",
+  "freckles",
+  "a big smile",
+  "a warm smile",
+  "a wry smile",
+  "an inquisitive look",
+  "a blank expression",
+  "a thousand mile stare",
+  "a dazed expression",
+  "a look of confusion",
+  "flared nostrils",
+  "noticeably crooked-teeth",
+  "thin, wire-framed spectacles",
+  "thick glasses",
+  "a gold-framed, monocle",
+  "horn-rimmed glasses",
+  "small, round glasses",
+  "cracked glasses",
+  "thick, dust-caked goggles",
+  "a patch over their right eye",
+  "a patch over their left eye",
+  "a scar over the right eye",
+  "a scar over the left eye",
+  "a scar on the right cheek",
+  "a scar on the left cheek",
+  "a fresh bruise under the right eye",
+  "a fresh bruise under the left eye",
+  "burns on the right side of the face",
+  "burns on the left side of the face",
+  "bags under both eyes",
+  "missing numerous teeth",
+  "a missing right ear",
+  "a missing left ear",
+  "intricately drawn tattoos on their face",
+  "a birthmark on the left cheek",
+  "a birthmark on the right cheek",
+  "a mole on the left cheek",
+  "a mole on the left cheek",
+  "a large wart on their nose",
+  "a gold ring in their nose",
+  "numerous piercings in both ears",
+  "an acid burn on their left cheek",
+  "an acid burn on their right cheek",
+  "are red and irritated",
+  "are nearly swollen shut",
+  "a golden tooth"
+];
+// Hair
+gen_data["HairColor"] = {
+  "1-30":"black",
+  "31-38":"dark brown",
+  "39-46":"natural brown",
+  "47-53":"light brown",
+  "54-60":"chestnut brown",
+  "61-65":"light blond",
+  "66-70":"golden blond",
+  "71-75":"natural blond",
+  "76-80":"platinum blond",
+  "81-83":"auburn",
+  "84-87":"red",
+  "88-90":"orange",
+  "91-93":"copper",
+  "94-96":"strawberry blond",
+  "97-98":"salt and pepper",
+  "99":"gray","100":"white",
+  "101":"bright blue",
+  "102":"dark blue",
+  "103":"light blue",
+  "104":"bright green",
+  "105":"dark green",
+  "106":"light green",
+  "107":"bright pink",
+  "108":"light pink",
+  "109":"dark purple",
+  "110":"bright purple",
+  "111":"light purple",
+  "112":"bright red"
 };
-gen_data["shortHairStyle"] = {
+gen_data["HairLength"] = ["Short","Long"];
+gen_data["HairStyleLong"] = {
+  "1-2":"tied back in a loose ponytail",
+  "3-4":"slicked back",
+  "5-6":"down to the top of the collar",
+  "7-8":"worn in a bun",
+  "9-10":"parted in the middle",
+  "11-12":"pulled back into a messy bun",
+  "13-14":"in long, tight dreadlocks",
+  "15-16":"worn half-up and half-down",
+  "17":"that stretches down to the middle of the back",
+  "18":"long in the back and short up top",
+  "19-20":"long on the top and shaved on one side",
+  "21-22":"in a shaggy, half ponytail",
+  "23":"with a series of small braids framing the face",
+  "24-25":"swept back behind the ears",
+  "26-27":"pulled back and braided tightly",
+  "28-29":"pulled over to one side",
+  "40":"in a high mohawk",
+  "41":"tied up with a leather strap",
+  "42-43":"tied back in a series of braids",
+  "44":"pulled over to one side and tied in a bun"
+};
+gen_data["HairStyleShort"] = {
   "1-2":"parted in the middle",
   "3-4":"parted on the side",
   "5-6":"cut close to the scalp",
@@ -133,28 +253,6 @@ gen_data["shortHairStyle"] = {
   "27":"in tight, short dreads",
   "28-29":"with a small cowlick in the back",
   "30":"with a flat top"
-};
-gen_data["longHairStyle"] = {
-  "1-2":"tied back in a loose ponytail",
-  "3-4":"slicked back",
-  "5-6":"down to the top of the collar",
-  "7-8":"worn up in a bun",
-  "9-10":"parted in the middle",
-  "11-12":"pulled back into a messy bun",
-  "13-14":"in long, tight dreadlocks",
-  "15-16":"worn half-up and half-down",
-  "17":"that stretches down to the middle of the back",
-  "18":"long in the back and short up top",
-  "19-20":"long on the top and shaved on one side",
-  "21-22":"in a shaggy, half ponytail",
-  "23":"with a series of small braids framing the face",
-  "24-25":"swept back behind the ears",
-  "26-27":"pulled back and braided tightly",
-  "28-29":"pulled over to one side",
-  "40":"in a high mohawk",
-  "41":"tied up with a leather strap",
-  "42-43":"tied back in a series of braids",
-  "44":"pulled over to one side and tied in a bun"
 };
 gen_data["HairType"] = {
   "1-2":"straight",
@@ -176,8 +274,10 @@ gen_data["HairType"] = {
   "27":"oily",
   "28-29":"shiny",
   "30":"receeding",
-  "31-33":"natural"
+  "31-33":"natural",
+  "34-36":"bushy"
 };
+
 
 // --------------------------------------------------------------------------------
 // Classes
@@ -186,6 +286,8 @@ gen_data["CharacterLevel"] = {"1-60":"Low","61-90":"Medium","91-100":"High"};
 gen_data["CharacterLevelLow"] = {"1":"Commoner","2":"Bandit","3":"Guard","4":"Noble","5":"Tribal Warrior","6":"Acolyte","7":"Scout","8":"Thug"};
 gen_data["CharacterLevelMedium"] = {"1":"Spy","2":"Bandit Captain","3":"Berserker","4":"Cult Fanatic","5":"Druid","6":"Priest","7":"Knight","8":"Veteran"};
 gen_data["CharacterLevelHigh"] = {"1":"Gladiator","2":"Mage","3":"Assassin","4":"Archmage"};
+
+
 
 // --------------------------------------------------------------------------------
 // Races
@@ -203,219 +305,266 @@ gen_data["Race"] = {
   "10":"Tiefling"
 };
 
-
-
 // Dragonborn
 //--------------------------------------------------------------------------------
-gen_data["DragonbornSubrace"] = {"1":"Draconblood","2":"Ravenite"};
+gen_data["DragonbornSubrace"] = {
+  "1":"Draconblood",
+  "2":"Ravenite"
+};
+gen_data["DragonbornBodyColorBase"] = {
+  "1":"amethyst",
+  "2-4":"black",
+  "5-7":"blue",
+  "8-10":"brass",
+  "11-13":"bronze",
+  "14-16":"copper",
+  "17-19":"crystal",
+  "20-22":"emerald",
+  "23-25":"gold",
+  "26-28":"green",
+  "29-31":"red",
+  "32-34":"sapphire",
+  "35-37":"silver",
+  "38-40":"topaz",
+  "41-43":"white"
+};
+gen_data["DragonbornBodyColorTone"] = ["bright","cool","dark","deep","glassy","light","medium","pale","warm"];
+gen_data["DragonbornEyeColor"] = {
+  "1-2":"amber",
+  "3-4":"blue",
+  "5-6":"brown",
+  "7-8":"gray",
+  "9-10":"green",
+  "11-12":"hazel",
+  "13-14":"red"
+};
+gen_data["DragonbornFacialHairFeminine"] = {"1":"None"};
+gen_data["DragonbornFacialHairMasculine"] = {"1":"None"};
+gen_data["DragonbornHornDirection"] = ["up and around the side of the head","up and over the top of the head","up and back","up and forward","backward","forward","straight out","straight up",];
+gen_data["DragonbornHornPlacement"] = ["forehead","top of the head","side of the head","back of the head","temples"];
+gen_data["DragonbornHornStyle"] = ["angle","bend","curl","hook","poke","protrude","sweep","twist"];
+gen_data["DragonbornHornType"] = ["blunt","rough","sharp","smooth","thick","thin"];
+
 
 gen_data["DragonbornFamily"] = ["Akambherylliax","Argenthrixus","Baharoosh","Beryntolthropal","Bhenkumbyrznaax","Caavylteradyn","Chumbyxirinnish","Clethtinthiallor","Daardendrian","Delmirev","Dhyrktelonis","Ebynichtomonis","Esstyrlynn","Fharngnarthnost","Ghaallixirn","Grrrmmballhyst","Gygazzylyshrift","Hashphronyxadyn","Hshhsstoroth","Imbixtellrhyst","Jerynomonis","Jharthraxyn","Kerrhylon","Kimbatuul","Lhamboldennish","Linxakasendalor","Mohradyllion","Mystan","Nemmonis","Norixius","Ophinshtalajiir","Orexijandilin","Pfaphnyrennish","Phrahdrandon","Pyraxtallinost","Qyxpahrgh","Raghthroknaar","Shestendeliath","Skaarzborroosh","Sumnarghthrysh","Tiammanthyllish","Turnuroth","Umbyrphrael","Vangdondalor","Verthisathurgiesh","Wivvyrholdalphiax","Wystongjiir","Xephyrbahnor","Yarjerit","Zzzxaaxthroth"];
 gen_data["DragonbornFeminine"] = ["Aakra","Aasathra","Antrara","Arava","Biri","Blendaeth","Burana","Chassath","Daar","Dentratha","Doudra","Driindar","Eggren","Farideh","Findex","Furrele","Gesrethe","Gilkass","Harann","Havilar","Hethress","Hillanot","Jaxi","Jezean","Jheri","Kadana","Kava","Korinn","Megren","Mijira","Mishann","Nala","Nuthra","Perra","Pogranix","Pyxrin","Quespa","Raiann","Rezena","Ruloth","Saphara","Savaran","Surina","Sora","Synthrin","Tatyan","Thava","Uadjit","Vezera","Zykroff"];
 gen_data["DragonbornMasculine"] = ["Adrex","Arjhan","Azzakh","Balasar","Baradad","Bharash","Bidreked","Dadalan","Dazzazn","Direcris","Donaar","Fax","Gargax","Ghesh","Gorbundus","Greethen","Heskan","Hirrathak","Ildrex","Kaladan","Kerkad","Kiirith","Kriv","Maagog","Medrash","Mehen","Mozikth","Mreksh","Mugrunden","Nadarr","Nithther","Norkruuth","Nykkan","Pandjed","Patrin","Pijjirik","Quarethon","Rathkran","Rhogar","Rivaan","Sethrekar","Sharnash","Shedinn","Srorthen","Tarhun","Torinn","Trynnicus","Valorean","Vrondiss","Zedaar"];
 
 
-gen_data["DragonbornFacialHair"] = {"1":"None"};
-gen_data["DragonbornHair"] = {"1":"None"};
-gen_data["DragonbornSkinColor"] = {"1-2":"black","3-4":"blue","5-6":"brass","7-8":"bronze","9-10":"copper","11-12":"gold","13-14":"green","15-16":"red","17-18":"silver","19-20":"white"};
-
 // Dwarf
 //--------------------------------------------------------------------------------
-gen_data["DwarfSubrace"] = {"1":"Hill","2":"Mountain"};
-
+gen_data["DwarfSubrace"] = {
+  "1":"Hill",
+  "2":"Mountain"
+};
+gen_data["DwarfBodyColorBase"] = ["beige","bronze","brown","ivory","pink"];
+gen_data["DwarfBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["DwarfEyeColor"] = {
+  "1-40":"brown",
+  "41-65":"blue",
+  "66-85":"hazel",
+  "86-95":"green",
+  "96-97":"gray",
+  "98":"hetachromatic (brown/blue)",
+  "99":"hetachromatic (blue/hazel)",
+  "100":"hetachromatic (blue/green)"
+};
+gen_data["DwarfFacialHairFeminine"] = {
+  "1-70":"None",
+  "75-90":"Beard",
+  "91-95":"Goatee",
+  "96-100":"Mustache"
+};
+gen_data["DwarfFacialHairMasculine"] = {
+  "1-10":"None",
+  "11-90":"Beard",
+  "91-95":"Goatee",
+  "96-100":"Mustache"
+};
 gen_data["DwarfFamily"] = ["Aranore","Balderk","Battlehammer","Bigtoe","Bloodkith","Bofdann","Brawnanvil","Brazzik","Broodfist","Burrowfound","Caebrek","Daerdahk","Dankil","Daraln","Deepdelver","Durthane","Eversharp","Fallack","Fireforge","Foamtankard","Frostbeard","Glanhig","Goblinbane","Goldfinder","Gorunn","Graybeard","Hammerstone","Helcral","Holderhek","Ironfist","Loderr","Lutgehr","Morigak","Orcfoe","Rakankrak","Ruby-Eye","Rumnaheim","Silveraxe","Silverstone","Steelfist","Stoutale","Strakeln","Strongheart","Thrahak","Torevir","Torunn","Trollbleeder","Trueanvil","Trueblood","Ungart"];
 gen_data["DwarfFeminine"] = ["Anbera","Artin","Audhild","Balifra","Barbena","Bardryn","Bolhild","Dagnal","Dariff","Delre","Diesa","Eldeth","Eridred","Falkrunn","Fallthra","Finellen","Gillydd","Gunnloda","Gurdis","Helgret","Helja","Hlin","Ilde","Jarana","Kathra","Kilia","Kristryd","Liftrasa","Marastyr","Mardred","Morana","Nalaed","Nora","Nurkara","Oriff","Ovina","Riswynn","Sannl","Therlin","Thodris","Torbera","Tordrid","Torgga","Urshar","Valida","Vistra","Vonana","Werydd","Whurdred","Yurgunn"];
 gen_data["DwarfMasculine"] = ["Adrik","Alberich","Baern","Barendd","Beloril","Brottor","Dain","Dalgal","Darrak","Delg","Duergath","Dworic","Eberk","Einkil","Elaim","Erias","Fallond","Fargrim","Gardain","Gilthur","Gimgen","Gimurt","Harbek","Kildrak","Kilvar","Morgran","Morkral","Nalral","Nordak","Nuraval","Oloric","Olunt","Orsik","Oskar","Rangrim","Reirak","Rurik","Taklinn","Thoradin","Thorin","Thradal","Tordek","Traubon","Travok","Ulfgar","Uraim","Veit","Vonbin","Vondal","Whurbin"];
 
-gen_data["DwarfFacialHair"] = {"1":"None","2-90":"beard","91-95":"goatee","96-100":"mustache"};
-gen_data["DwarfHairColor"] = {
-  "1-30":"black",
-  "31-38":"dark brown",
-  "39-46":"natural brown",
-  "47-53":"light brown",
-  "54-60":"chestnut brown",
-  "61-65":"light blond",
-  "66-70":"golden blond",
-  "71-75":"natural blond",
-  "76-80":"platinum blond",
-  "81-83":"auburn",
-  "84-87":"red",
-  "88-90":"orange",
-  "91-93":"copper",
-  "94-96":"strawberry blond",
-  "97-98":"salt and pepper",
-  "99":"gray",
-  "100":"white"
-};
-gen_data["DwarfSkinColor"] = {"1-2":"black","3-4":"pink","5-6":"brown","7-8":"beige","9-10":"white"};
-
 // Elf
 //--------------------------------------------------------------------------------
-gen_data["ElfSubrace"] = {"1":"High","2":"Wood"};
+gen_data["ElfSubrace"] = {
+  "1":"High",
+  "2":"Wood"
+};
+gen_data["ElfBodyColorBase"] = ["beige","bronze","brown","ivory","pink"];
+gen_data["ElfBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["ElfEyeColor"] = {
+  "1-40":"brown",
+  "41-65":"blue",
+  "66-85":"hazel",
+  "86-95":"green",
+  "96-97":"gray",
+  "98":"hetachromatic (brown/blue)",
+  "99":"hetachromatic (blue/hazel)",
+  "100":"hetachromatic (blue/green)"
+};
+gen_data["ElfFacialHairFeminine"] = {"1-100":"None"};
+gen_data["ElfFacialHairMasculine"] = {"1-100":"None"};
 
 gen_data["ElfChild"] = ["Ael","Ang","Ara","Ari","Arn","Aym","Broe","Bryn","Cael","Cy","Dae","Del","Eli","Eryn","Faen","Fera","Gael","Gar","Innil","Jar","Kan","Koeth","Lael","Lue","Mai","Mara","Mella","Mya","Naeris","Naill","Nim","Phann","Py","Rael","Raer","Ren","Rinn","Rua","Sael","Sai","Sumi","Syllin","Ta","Thia","Tia","Traki","Vall","Von","Wil","Za"];
 gen_data["ElfFamily"] = ["Aloro","Amakiir","Amastacia","Ariessus","Arnuanna","Berevan","Caerdonel","Caphaxath","Casilltenirra","Cithreth","Dalanthan","Eathalena","Erenaeth","Ethanasath","Fasharash","Firahel","Floshem","Galanodel","Goltorah","Hanali","Holimion","Horineth","Iathrana","Ilphelkiir","Iranapha","Koehlanna","Lathalas","Liadon","Meliamne","Mellerelel","Mystralath","Naïlo","Netyoive","Ofandrus","Ostoroth","Othronus","Qualanthri","Raethran","Rothenel","Selevarun","Siannodel","Suithrasas","Sylvaranth","Teinithra","Tiltathana","Wasanthi","Withrethin","Xiloscient","Xistsrith","Yaeldrin"];
 gen_data["ElfFeminine"] = ["Adrie","Ahinar","Althaea","Anastrianna","Andraste","Antinua","Arara","Baelitae","Bethrynna","Birel","Caelynn","Chaedi","Claira","Dara","Drusilia","Elama","Enna","Faral","Felosial","Hatae","Ielenia","Ilanis","Irann","Jarsali","Jelenneth","Keyleth","Leshanna","Lia","Maiathah","Malquis","Meriele","Mialee","Myathethil","Naivara","Quelenna","Quillathe","Ridaro","Sariel","Shanairla","Shava","Silaqui","Sumnes","Theirastra","Thiala","Tiaathque","Traulam","Vadania","Valanthe","Valna","Xanaphia"];
 gen_data["ElfMasculine"] = ["Adran","Aelar","Aerdeth","Ahvain","Aramil","Arannis","Aust","Azaki","Beiro","Berrian","Caeldrim","Carric","Dayereth","Dreali","Efferil","Eiravel","Enialis","Erdan","Erevan","Fivin","Galinndan","Gennal","Hadarai","Halimath","Heian","Himo","Immeral","Ivellios","Korfel","Lamlis","Laucian","Lucan","Mindartis","Naal","Nutae","Paelias","Peren","Quarion","Riardon","Rolen","Soveliss","Suhnae","Thamior","Tharivol","Theren","Theriatis","Thervan","Uthemar","Vanuath","Varis"];
 
-gen_data["ElfFacialHair"] = {"1":"None"};
-gen_data["ElfHairColor"] = {
-  "1-30":"black",
-  "31-38":"dark brown",
-  "39-46":"natural brown",
-  "47-53":"light brown",
-  "54-60":"chestnut brown",
-  "61-65":"light blond",
-  "66-70":"golden blond",
-  "71-75":"natural blond",
-  "76-80":"platinum blond",
-  "81-83":"auburn",
-  "84-87":"red",
-  "88-90":"orange",
-  "91-93":"copper",
-  "94-96":"strawberry blond",
-  "97-98":"salt and pepper",
-  "99":"gray",
-  "100":"white"
-};
-gen_data["ElfSkinColor"] = {"1-2":"black","3-4":"pink","5-6":"brown","7-8":"beige","9-10":"white"};
-
 // Gnome
 //--------------------------------------------------------------------------------
-gen_data["GnomeSubrace"] = {"1":"Forest","2":"Rock"};
+gen_data["GnomeSubrace"] = {
+  "1":"Forest",
+  "2":"Rock"
+};
+gen_data["GnomeBodyColorBase"] = ["beige","bronze","brown","ivory","pink"];
+gen_data["GnomeBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["GnomeEyeColor"] = {
+  "1-40":"brown",
+  "41-65":"blue",
+  "66-85":"hazel",
+  "86-95":"green",
+  "96-97":"gray",
+  "98":"hetachromatic (brown/blue)",
+  "99":"hetachromatic (blue/hazel)",
+  "100":"hetachromatic (blue/green)"
+};
+gen_data["GnomeFacialHairFeminine"] = {"1-100":"None"};
+gen_data["GnomeFacialHairMasculine"] = {
+  "1-40":"None",
+  "41-60":"Beard",
+  "61-80":"Goatee",
+  "81-100":"Mustache"
+};
 
 gen_data["GnomeFamily"] = ["Albaratie","Bafflestone","Beren","Boondiggles","Cobblelob","Daergel","Dunben","Fabblestabble","Fapplestamp","Fiddlefen","Folkor","Garrick","Gimlen","Glittergem","Gobblefirn","Gummen","Horcusporcus","Humplebumple","Ironhide","Leffery","Lingenhall","Loofollue","Maekkelferce","Miggledy","Munggen","Murnig","Musgraben","Nackle","Ningel","Nopenstallen","Nucklestamp","Offund","Oomtrowl","Pilwicken","Pingun","Quillsharpener","Raulnor","Reese","Rofferton","Scheppen","Shadowcloak","Silverthread","Sympony","Tarkelby","Timbers","Turen","Umbodoben","Waggletop","Welber","Wildwander"];
 gen_data["GnomeFeminine"] = ["Abalaba","Bimpnottin","Breena","Buvvie","Callybon","Caramip","Carlin","Cumpen","Dalaba","Donella","Duvamil","Ella","Ellyjoybell","Ellywick","Enidda","Lilli","Loopmottin","Lorilla","Luthra","Mardnab","Meena","Menny","Mumpena","Nissa","Numba","Nyx","Oda","Oppah","Orla","Panana","Pyntle","Quilla","Ranala","Reddlepop","Roywyn","Salanop","Shamil","Siffress","Symma","Tana","Tenena","Tervaround","Tippletoe","Ulla","Unvera","Veloptima","Virra","Waywocket","Yebe","Zanna"];
 gen_data["GnomeMasculine"] = ["Alston","Alvyn","Anverth","Arumawann","Bilbron","Boddynock","Brocc","Burgell","Cockaby","Crampernap","Dabbledob","Delebean","Dimble","Eberdeb","Eldon","Erky","Fablen","Fibblestib","Fonkin","Frouse","Frug","Gerbo","Gimble","Glim","Igden","Jabble","Jebeddo","Kellen","Kipper","Namfoodle","Oppleby","Orryn","Paggen","Pallabar","Pog","Qualen","Ribbles","Rimple","Roondar","Sapply","Seebo","Senteq","Sindri","Umpen","Warryn","Wiggens","Wobbles","Wrenn","Zaffrab","Zook"];
 
-gen_data["GnomeFacialHair"] = {"1-25":"None","26-50":"beard","51-75":"goatee","76-100":"mustache"};
-gen_data["GnomeHairColor"] = {
-  "1-30":"black",
-  "31-38":"dark brown",
-  "39-46":"natural brown",
-  "47-53":"light brown",
-  "54-60":"chestnut brown",
-  "61-65":"light blond",
-  "66-70":"golden blond",
-  "71-75":"natural blond",
-  "76-80":"platinum blond",
-  "81-83":"auburn",
-  "84-87":"red",
-  "88-90":"orange",
-  "91-93":"copper",
-  "94-96":"strawberry blond",
-  "97-98":"salt and pepper",
-  "99":"gray",
-  "100":"white"
-};
-gen_data["GnomeSkinColor"] = {"1-2":"black","3-4":"pink","5-6":"brown","7-8":"beige","9-10":"white"};
-
 // Half-Elf
 //--------------------------------------------------------------------------------
-gen_data["Half-ElfSubrace"] = {"1-40":"Human","41-80":"Elf"};
-
-gen_data["Half-ElfFacialHair"] = {"1-70":"None","71-80":"beard","81-90":"goatee","91-100":"mustache"};
-gen_data["Half-ElfHairColor"] = {
-  "1-30":"black",
-  "31-38":"dark brown",
-  "39-46":"natural brown",
-  "47-53":"light brown",
-  "54-60":"chestnut brown",
-  "61-65":"light blond",
-  "66-70":"golden blond",
-  "71-75":"natural blond",
-  "76-80":"platinum blond",
-  "81-83":"auburn",
-  "84-87":"red",
-  "88-90":"orange",
-  "91-93":"copper",
-  "94-96":"strawberry blond",
-  "97-98":"salt and pepper",
-  "99":"gray",
-  "100":"white"
+gen_data["Half-ElfSubrace"] = {
+  "1-40":"Human",
+  "41-80":"Elf"
 };
-gen_data["Half-ElfSkinColor"] = {"1-2":"black","3-4":"pink","5-6":"brown","7-8":"beige","9-10":"white"};
+gen_data["Half-ElfBodyColorBase"] = ["beige","bronze","brown","ivory","pink"];
+gen_data["Half-ElfBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["Half-ElfEyeColor"] = {
+  "1-40":"brown",
+  "41-65":"blue",
+  "66-85":"hazel",
+  "86-95":"green",
+  "96-97":"gray",
+  "98":"hetachromatic (brown/blue)",
+  "99":"hetachromatic (blue/hazel)",
+  "100":"hetachromatic (blue/green)"
+};
+gen_data["Half-ElfFacialHairFeminine"] = {"1-100":"None"};
+gen_data["Half-ElfFacialHairMasculine"] = {
+  "1-70":"None",
+  "71-80":"Beard",
+  "81-90":"Goatee",
+  "91-100":"Mustache"
+};
 
 // Half-Orc
 //--------------------------------------------------------------------------------
-gen_data["Half-OrcSubrace"] = {"1-40":"Human","41-80":"Orc"};
-
-gen_data["Half-OrcFacialHair"] = {"1-25":"None","26-50":"beard","51-75":"goatee","76-100":"mustache"};
-gen_data["Half-OrcHairColor"] = {
-  "1-30":"black",
-  "31-38":"dark brown",
-  "39-46":"natural brown",
-  "47-53":"light brown",
-  "54-60":"chestnut brown",
-  "61-65":"light blond",
-  "66-70":"golden blond",
-  "71-75":"natural blond",
-  "76-80":"platinum blond",
-  "81-83":"auburn",
-  "84-87":"red",
-  "88-90":"orange",
-  "91-93":"copper",
-  "94-96":"strawberry blond",
-  "97-98":"salt and pepper",
-  "99":"gray",
-  "100":"white"
+gen_data["Half-OrcSubrace"] = {
+  "1-40":"Human",
+  "41-80":"Orc"
 };
-gen_data["Half-OrcSkinColor"] = {"1-2":"black","3-4":"pink","5-6":"brown","7-8":"beige","9-10":"white","11-12":"light green","13-14":"grayish-green"};
+gen_data["Half-OrcBodyColorBase"] = ["beige","bronze","brown","ivory","gray","green","pink"];
+gen_data["Half-OrcBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["Half-OrcEyeColor"] = {
+  "1-40":"brown",
+  "41-65":"blue",
+  "66-85":"hazel",
+  "86-95":"green",
+  "96-97":"gray",
+  "98":"hetachromatic (brown/blue)",
+  "99":"hetachromatic (blue/hazel)",
+  "100":"hetachromatic (blue/green)"
+};
+gen_data["Half-OrcFacialHairFeminine"] = {"1-100":"None"};
+gen_data["Half-OrcFacialHairMasculine"] = {
+  "1-40":"None",
+  "41-80":"Beard",
+  "81-90":"Goatee",
+  "91-100":"Mustache"
+};
 
 // Halfling
 //--------------------------------------------------------------------------------
-gen_data["HalflingSubrace"] = {"1":"Lightfoot","2":"Stout"};
+gen_data["HalflingSubrace"] = {
+  "1":"Lightfoot",
+  "2":"Stout"
+};
+gen_data["HalflingBodyColorBase"] = ["beige","bronze","brown","ivory","pink"];
+gen_data["HalflingBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["HalflingEyeColor"] = {
+  "1-40":"brown",
+  "41-65":"blue",
+  "66-85":"hazel",
+  "86-95":"green",
+  "96-97":"gray",
+  "98":"hetachromatic (brown/blue)",
+  "99":"hetachromatic (blue/hazel)",
+  "100":"hetachromatic (blue/green)"
+};
+gen_data["HalflingFacialHairFeminine"] = {"1-100":"None"};
+gen_data["HalflingFacialHairMasculine"] = {
+  "1-50":"None",
+  "51-80":"Beard",
+  "81-90":"Goatee",
+  "91-100":"Mustache"
+};
 
 gen_data["HalflingFamily"] = ["Appleblossom","Bigheart","Brightmoon","Brushgather","Cherrycheeks","Copperkettle","Deephollow","Elderberry","Fastfoot","Fatrabbit","Glenfellow","Goldfound","Goodbarrel","Goodearth","Greenbottle","Greenleaf","High-hill","Hilltopple","Hogcollar","Honeypot","Jamjar","Kettlewhistle","Leagallow","Littlefoot","Nimblefingers","Porridgepot","Quickstep","Reedfellow","Shadowquick","Silvereyes","Smoothhands","Stonebridge","Stoutbridge","Stoutman","Strongbones","Sunmeadow","Swiftwhistle","Tallfellow","Tealeaf","Tenpenny","Thistletop","Thorngage","Tosscobble","Underbough","Underfoot","Warmwater","Whispermouse","Wildcloak","Wildheart","Wiseacre"];
 gen_data["HalflingFeminine"] = ["Alain","Andry","Anne","Bella","Blossom","Bree","Callie","Chenna","Cora","Dee","Dell","Eida","Eran","Euphemia","Georgina","Gynnie","Harriet","Jasmine","Jillian","Jo","Kithri","Lavinia","Lidda","Maegan","Marigold","Merla","Myria","Nedda","Nikki","Nora","Olivia","Paela","Pearl","Pennie","Philomena","Portia","Robbie","Rose","Saral","Seraphina","Shaena","Stacee","Tawna","Thea","Trym","Tyna","Vani","Verna","Wella","Willow"];
 gen_data["HalflingMasculine"] = ["Alton","Ander","Bernie","Bobbin","Cade","Callus","Corrin","Dannad","Danniel","Eddie","Egart","Eldon","Errich","Fildo","Finnan","Franklin","Garret","Garth","Gilbert","Gob","Harol","Igor","Jasper","Keith","Kevin","Lazam","Lerry","Lindal","Lyle","Merric","Mican","Milo","Morrin","Nebin","Nevil","Osborn","Ostran","Oswalt","Perrin","Poppy","Reed","Roscoe","Sam","Shardon","Tye","Ulmo","Wellby","Wendel","Wenner","Wes"];
 
-gen_data["HalflingFacialHair"] = {"1-25":"None","26-50":"beard","51-75":"goatee","76-100":"mustache"};
-gen_data["HalflingHairColor"] = {
-  "1-30":"black",
-  "31-38":"dark brown",
-  "39-46":"natural brown",
-  "47-53":"light brown",
-  "54-60":"chestnut brown",
-  "61-65":"light blond",
-  "66-70":"golden blond",
-  "71-75":"natural blond",
-  "76-80":"platinum blond",
-  "81-83":"auburn",
-  "84-87":"red",
-  "88-90":"orange",
-  "91-93":"copper",
-  "94-96":"strawberry blond",
-  "97-98":"salt and pepper",
-  "99":"gray",
-  "100":"white"
-};
-gen_data["HalflingSkinColor"] = {"1-2":"black","3-4":"pink","5-6":"brown","7-8":"beige","9-10":"white"};
-
 // Human
 //--------------------------------------------------------------------------------
-gen_data["HumanSubrace"] = {"1":"Arabic","2":"Barovian","3":"Celtic","4":"Chinese","5":"Egyptian","6":"English","7":"French","8":"German","9":"Greek","10":"Indian","11":"Japanese","12":"Maori","13":"Mesoamerican","14":"Niger-Congo","15":"Norse","16":"Polynesian","17":"Roman","18":"Slavic","19":"Spanish"};
-
-gen_data["HumanFacialHair"] = {"1-25":"None","26-50":"beard","51-75":"goatee","76-100":"mustache"};
-gen_data["HumanHairColor"] = {
-  "1-30":"black",
-  "31-38":"dark brown",
-  "39-46":"natural brown",
-  "47-53":"light brown",
-  "54-60":"chestnut brown",
-  "61-65":"light blond",
-  "66-70":"golden blond",
-  "71-75":"natural blond",
-  "76-80":"platinum blond",
-  "81-83":"auburn",
-  "84-87":"red",
-  "88-90":"orange",
-  "91-93":"copper",
-  "94-96":"strawberry blond",
-  "97-98":"salt and pepper",
-  "99":"gray",
-  "100":"white"
+gen_data["HumanSubrace"] = {
+  "1":"Arabic",
+  "2":"Barovian",
+  "3":"Celtic",
+  "4":"Chinese",
+  "5":"Egyptian",
+  "6":"English",
+  "7":"French",
+  "8":"German",
+  "9":"Greek",
+  "10":"Indian",
+  "11":"Japanese",
+  "12":"Maori",
+  "13":"Mesoamerican",
+  "14":"Niger-Congo",
+  "15":"Norse",
+  "16":"Polynesian",
+  "17":"Roman",
+  "18":"Slavic",
+  "19":"Spanish"
 };
-gen_data["HumanSkinColor"] = {"1-2":"black","3-4":"pink","5-6":"brown","7-8":"beige","9-10":"white"};
+gen_data["HumanBodyColorBase"] = ["beige","bronze","brown","ivory","pink"];
+gen_data["HumanBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["HumanEyeColor"] = {
+  "1-40":"brown",
+  "41-65":"blue",
+  "66-85":"hazel",
+  "86-95":"green",
+  "96-97":"gray",
+  "98":"hetachromatic (brown/blue)",
+  "99":"hetachromatic (blue/hazel)",
+  "100":"hetachromatic (blue/green)"
+};
+gen_data["HumanFacialHairFeminine"] = {"1-100":"None"};
+gen_data["HumanFacialHairMasculine"] = {
+  "1-40":"None",
+  "41-60":"Beard",
+  "61-80":"Goatee",
+  "81-100":"Mustache"
+};
 
 // -- Arabic
 gen_data["ArabicFamily"] = ["al-Abbasi","al-Ajmani","al-Amelai","al-Anazahi","al-Aqeeli","al-Asadi","al-Atiyahi","al-Awazemi","al-Baggarai","al-Bahilai","al-Balawii","al-Balharethi","al-Bariqi","al-Buainaini","al-Darodi","al-Dawasiri","al-Dhafeeri","al-Dhubyani","al-Fahami","al-Farahidi","al-Fazarai","al-Gaini","al-Gashaami","al-Ghaithi","al-Ghamidi","al-Ghassani","al-Ghifari","al-Hakami","al-Hakli","al-Hamidai","al-Hammyari","al-Harithi","al-Hashimi","al-Hawajiri","al-Hilali","al-Humaydahi","al-Jabari","al-Jaidi","al-Jalafi","al-Jiburi","al-Judhami","al-Jumahi","al-Jushami","al-Kaabi","al-Karimi","al-Kathiri","al-Kendahi","al-Khalidi","al-Khashami","al-Khawlani","al-Khazraji","al-Kinanahi","al-Lakhmi","al-Maadeedi","al-Makhzumi","al-Maliki","al-Manaseeri","al-Mehrii","al-Mukhtari","al-Murrahi","al-Mustafai","al-Mutayri","al-Nabhani","al-Nadiri","al-Najjari","al-Nawfali","al-Nuaimi","al-Otaibi","al-Qahtani","al-Qurayshi","al-Rabiahi","al-Rasheedi","al-Saidai","al-Sabai","al-Saeedi","al-Sahali","al-Sahmi","al-Shabeebi","al-Shahrani","al-Sharari","al-Shehiri","al-Shuraifi","al-Subaiei","al-Sulaymi","al-Suwaidi","al-Taghlibi","al-Tahiri","al-Tamimi","al-Thamudi","al-Tuhari","al-Ubaydi","al-Udhrahi","al-Umayyahi","al-Utaybahi","al-Waili","al-Yafai","al-Yami","al-Zahrani","al-Zaydi","al-Zuhrahi"]
@@ -512,60 +661,66 @@ gen_data["SpanishMasculine"] = ["Alexandre","Alfonso","Alonso","Anthon","Arcos",
  
 // Orc
 //--------------------------------------------------------------------------------
-gen_data["OrcSubrace"] = {"1":"None"};
+gen_data["OrcSubrace"] = {
+  "1":"None"
+};
+gen_data["OrcBodyColorBase"] = ["beige","bronze","brown","ivory","gray","green"];
+gen_data["OrcBodyColorTone"] = ["cool","dark","golden","light","medium","pale","warm"];
+gen_data["OrcEyeColor"] = {
+  "1-40":"brown",
+  "41-65":"blue",
+  "66-85":"hazel",
+  "86-95":"green",
+  "96-97":"gray",
+  "98":"hetachromatic (brown/blue)",
+  "99":"hetachromatic (blue/hazel)",
+  "100":"hetachromatic (blue/green)"
+};
+gen_data["OrcFacialHairFeminine"] = {"1-100":"None"};
+gen_data["OrcFacialHairMasculine"] = {
+  "1-40":"None",
+  "41-70":"Beard",
+  "71-90":"Goatee",
+  "91-100":"Mustache"
+};
 
 gen_data["OrcFeminine"] = ["Arha","Baggi","Bendoo","Bilga","Brakka","Creega","Drenna","Ekk","Emen","Engong","Fistula","Gaaki","Gorga","Grai","Greeba","Grigi","Gynk","Hrathy","Huru","Ilga","Kabbarg","Kansif","Lagazi","Lezre","Murgen","Murook","Myev","Nagrette","Neega","Nella","Nogu","Oolah","Ootah","Ovak","Ownka","Puyet","Reeza","Shautha","Silgre","Sutha","Tagga","Tawar","Tomph","Ubada","Vanchu","Vola","Volen","Vorka","Yevelda","Zagga"];
 gen_data["OrcMasculine"] = ["Argran","Braak","Brug","Cagak","Dench","Dorn","Dren","Druuk","Feng","Gell","Gnarsh","Grumbar","Gubrash","Hagren","Henk","Hogar","Holg","Imsh","Karash","Karg","Keth","Korag","Krusk","Lubash","Megged","Mhurren","Mord","Morg","Nil","Nybarg","Odorr","Ohr","Rendar","Resh","Ront","Rrath","Sark","Scrag","Sheggen","Shump","Tanglar","Tarak","Thar","Thokk","Trag","Ugarth","Varg","Vilberg","Yurk","Zed"];
 
-gen_data["OrcFacialHair"] = {"1-25":"None","26-50":"beard","51-75":"goatee","76-100":"mustache"};
-gen_data["OrcHairColor"] = {
-  "1-30":"black",
-  "31-38":"dark brown",
-  "39-46":"natural brown",
-  "47-53":"light brown",
-  "54-60":"chestnut brown",
-  "61-65":"light blond",
-  "66-70":"golden blond",
-  "71-75":"natural blond",
-  "76-80":"platinum blond",
-  "81-83":"auburn",
-  "84-87":"red",
-  "88-90":"orange",
-  "91-93":"copper",
-  "94-96":"strawberry blond",
-  "97-98":"salt and pepper",
-  "99":"gray",
-  "100":"white"
-};
-gen_data["OrcSkinColor"] = {"1-2":"dark grey","3-4":"grey","5-6":"grey-green","7-8":"green","9-10":"pale green",};
-
-
 // Tiefling
 //--------------------------------------------------------------------------------
-gen_data["TieflingSubrace"] = {"1":"Feral","2-10":"Infernal"};
+gen_data["TieflingSubrace"] = {
+  "1":"Feral",
+  "2-10":"Infernal"
+};
+gen_data["TieflingBodyColorBase"] = ["black","beige","blue","bronze","brown","gray","green","ivory","pink","purple","red","white"];
+gen_data["TieflingBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["TieflingEyeColor"] = {
+  "1-40":"brown",
+  "41-65":"blue",
+  "66-85":"hazel",
+  "86-95":"green",
+  "96-97":"gray",
+  "98":"hetachromatic (brown/blue)",
+  "99":"hetachromatic (blue/hazel)",
+  "100":"hetachromatic (blue/green)",
+  "101-130":"black",
+  "131-160":"red",
+  "161-180":"white",
+  "181-200":"amber"
+};
+gen_data["TieflingFacialHairFeminine"] = {"1-100":"None"};
+gen_data["TieflingFacialHairMasculine"] = {
+  "1-85":"None",
+  "86-90":"Beard",
+  "91-95":"Goatee",
+  "96-100":"Mustache"
+};
+gen_data["TieflingHornDirection"] = ["up and around the side of the head","up and over the top of the head","up and back","up and forward","backward","forward","straight out","straight up",];
+gen_data["TieflingHornPlacement"] = ["forehead","top of the head","side of the head","back of the head","temples"];
+gen_data["TieflingHornStyle"] = ["angle","bend","curl","hook","poke","protrude","sweep","twist"];
+gen_data["TieflingHornType"] = ["blunt","rough","sharp","smooth","thick","thin"];
 
 gen_data["TieflingFeminine"] = ["Akta","Anakis","Armara","Astaro","Aym","Azza","Beleth","Bryseis","Bune","Criella","Damaia","Decarabia","Ea","Gadreel","Gomory","Hecat","Ishte","Jezebeth","Kali","Kallista","Kasdeya","Lerissa","Lilith","Makaria","Manea","Markosian","Mastema","Naamah","Nemeia","Nija","Orianna","Osah","Phelaia","Prosperine","Purah","Pyra","Rieta","Ronobe","Ronwe","Seddit","Seere","Sekhmet","Semyaza","Shava","Shax","Sorath","Uzza","Vapula","Vepar","Verin"];
 gen_data["TieflingMasculine"] = ["Abad","Ahrim","Akmen","Amnon","Andram","Astar","Balam","Barakas","Bathin","Caim","Chem","Cimer","Cressel","Damakos","Ekemon","Euron","Fenriz","Forcas","Habor","Iados","Kairon","Leucis","Mamnen","Mantus","Marbas","Melech","Merihim","Modean","Mordai","Mormo","Morthos","Nicor","Nirgel","Oriax","Paymon","Pelaios","Purson","Qemuel","Raam","Rimmon","Sammal","Skamos","Tethren","Thamuz","Therai","Valafar","Vassago","Xappan","Zepar","Zephan"];
 gen_data["TieflingVirtue"] = ["Ambition","Art","Carrion","Chant","Creed","Death","Debauchery","Despair","Doom","Doubt","Dread","Ecstasy","Ennui","Entropy","Excellence","Fear","Glory","Gluttony","Grief","Hate","Hope","Horror","Ideal","Ignominy","Laughter","Love","Lust","Mayhem","Mockery","Murder","Muse","Music","Mystery","Nowhere","Open","Pain","Passion","Poetry","Quest","Random","Reverence","Revulsion","Sorrow","Temerity","Torment","Tragedy","Vice","Virtue","Weary","Wit"];
-
-gen_data["TieflingFacialHair"] = {"1-25":"None","26-50":"beard","51-75":"goatee","76-100":"mustache"};
-gen_data["TieflingHairColor"] = {
-  "1-30":"black",
-  "31-38":"dark brown",
-  "39-46":"natural brown",
-  "47-53":"light brown",
-  "54-60":"chestnut brown",
-  "61-65":"light blond",
-  "66-70":"golden blond",
-  "71-75":"natural blond",
-  "76-80":"platinum blond",
-  "81-83":"auburn",
-  "84-87":"red",
-  "88-90":"orange",
-  "91-93":"copper",
-  "94-96":"strawberry blond",
-  "97-98":"salt and pepper",
-  "99":"gray",
-  "100":"white"
-};
-gen_data["TieflingSkinColor"] = {"1-2":"black","3-4":"pink","5-6":"brown","7-8":"beige","9-10":"white","11-12":"blue","11-12":"red","11-12":"green"};

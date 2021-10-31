@@ -38,9 +38,9 @@ getGender.js
     if (genderID == "Cisgender (F)"){
         pronouns = ["She","Her","hers","her","herself"];
     } else if (genderID == "Cisgender (M)"){
-        pronouns = ["He","His","his","him","himself"];
+        pronouns = ["He","His","is","him","himself"];
     } else {
-        pronouns = ["they","their","theirs","them","themself"];
+        pronouns = ["They","Their","theirs","them","themself"];
     }
 
     pronounSubject = pronouns[0];
