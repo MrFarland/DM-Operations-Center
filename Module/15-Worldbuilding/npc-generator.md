@@ -9,7 +9,7 @@ parent: worldbuilding
 <div class="controls">
     <select id="selectRace">
         <option value="None">Any Race</option>
-        <optgroup label="Human">
+        <optgroup label="Humn an">
             <option value="Arabic">Arabic</option>
             <option value="Barovian">Barovian</option>
             <option value="Celtic">Celtic</option>
