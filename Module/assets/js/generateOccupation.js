@@ -7,8 +7,13 @@ generateOccupation.js
 
 function generateOccupation() {
 
+    // Available classes: 
+    // -- Commoner, Bandit, Guard, Noble, Acolyte, Scout, Thug
+    // -- Spy, Bandit Captain, Druid, Priest, Knight, Veteran
+    // -- Gladiator, Mage, Assassin, Archmage
+
     occupationClass = generate_text("Occupation" + characterSlug);
-    occupationEmployer = generate_text("Occupation" + characterSlug + alignmentLC);
+    occupationEmployer = generate_text("Occupation" + occupationClass + alignmentLC);
 
     if (ageGroup == "Young"){
         experienceLevel = ("inexperienced");
