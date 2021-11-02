@@ -3,10 +3,8 @@
 */
 
 // --------------------------------------------------------------------------------
-// Common
+// AgeGroups & Ages
 // --------------------------------------------------------------------------------
-
-// AgeGroup
 gen_data["AgeGroup"] = {
   "1-20":"Young",
   "21-50":"Adult",
@@ -14,8 +12,6 @@ gen_data["AgeGroup"] = {
   "81-97":"Elderly",
   "98-100":"Venerable"
 };
-
-// AgeGroups by Race
 raceAgeGroups = {
   "Dragonborn": [15,16,32,48,64,80],
   "Dwarf": [50,70,140,210,280,350],
@@ -40,28 +36,17 @@ raceAgeGroups = {
   //"Yuan-Ti": [16,20,40,60,80,100]
 }
 
+// --------------------------------------------------------------------------------
 // Alignment
-gen_data["Alignment"] = {
-  "1-15":"LG",
-  "16-30":"NG",
-  "31-45":"CG",
-  "46-60":"LN",
-  "61-75":"N",
-  "76-80":"CN",
-  "81-90":"LE",
-  "91-95":"NE",
-  "96-100":"CE"
-};
+// --------------------------------------------------------------------------------
+gen_data["AlignmentGE"] = {"1-4":"Good","5-8":"Neutral","9-10":"Evil"};
+gen_data["AlignmentLC"] = {"1-4":"Lawful","5-8":"Neutral","9-10":"Chaotic"};
 
-
-
-// GenderForm
-gen_data["GenderForm"] = ["Feminine","Masculine"];
-
-// Body
+// --------------------------------------------------------------------------------
+// Appearance
+// --------------------------------------------------------------------------------
 gen_data["BodyHeight"] = ["average","short","tall"];
 gen_data["BodyWeight"] = ["average","atheltic","doughy","fit","heavy","lean","powerful","rotund","skinny","soft","stocky","strong","thin"];
-
 gen_data["EyeType"] = {
   "1":"cloudy",
   "2":"bulging",
@@ -87,8 +72,6 @@ gen_data["EyeType"] = {
   "38-39":"oval-shaped",
   "40-42":"round",
 };
-
-// Facial Hair
 gen_data["FacialHairStyleBeard"] = [
   "well-trimmed and brushed",
   "growing wild and untamed",
@@ -131,7 +114,6 @@ gen_data["FacialHairStyleMustache"] = [
   "parted and waxed at the tips into a point",
   "with a small, soul patch above the chin"
 ];
-// Features
 gen_data["Feature"] = [
   "a large, broad nose",
   "a small, narrow nose",
@@ -190,7 +172,6 @@ gen_data["Feature"] = [
   "are nearly swollen shut",
   "a golden tooth"
 ];
-// Hair
 gen_data["HairColor"] = {
   "1-30":"black",
   "31-38":"dark brown",
@@ -296,7 +277,614 @@ gen_data["CharacterLevelLow"] = {"1":"Commoner","2":"Bandit","3":"Guard","4":"No
 gen_data["CharacterLevelMedium"] = {"1":"Spy","2":"Bandit Captain","3":"Berserker","4":"Cult Fanatic","5":"Druid","6":"Priest","7":"Knight","8":"Veteran"};
 gen_data["CharacterLevelHigh"] = {"1":"Gladiator","2":"Mage","3":"Assassin","4":"Archmage"};
 
+// --------------------------------------------------------------------------------
+// Gender
+// --------------------------------------------------------------------------------
+gen_data["GenderForm"] = ["Feminine","Masculine"];
 
+// --------------------------------------------------------------------------------
+// Occupation
+// --------------------------------------------------------------------------------
+
+gen_data["OccupationAcolyte"] = [
+  "Acolyte",
+  "Healer"
+];
+gen_data["OccupationAcolyteLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationAcolyteNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationAcolyteChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationArchmage"] = [
+  "archmage",
+  "vizier"
+];
+gen_data["OccupationArchmageLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationArchmageNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationArchmageChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationAssassin"] = [
+  "assassin",
+  "spy",
+  "serial killer"
+];
+gen_data["OccupationAssassinLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationAssassinNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationAssassinChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationBandit"] = [
+  "bandit",
+  "thief",
+  "raider"
+];
+gen_data["OccupationBanditLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationBanditNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationBanditChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationBandit-Captain"] = [
+  "gang leader",
+  "bandit",
+  "thief"
+];
+gen_data["OccupationBandit-CaptainLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationBandit-CaptainNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationBandit-CaptainChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationBerserker"] = [
+  "unemployed",
+  "bouncer",
+  "raider",
+  "barbarian"
+];
+gen_data["OccupationBerserkerLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationBerserkerNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationBerserkerChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationCommoner"] = [
+  "baker",
+  "butcher",
+  "glassblower",
+  "blacksmith",
+  "tinker",
+  "cartographer",
+  "farmer"
+];
+gen_data["OccupationCommonerLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationCommonerNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationCommonerChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationCult-Fanatic"] = [
+  "cultist",
+  "zealot",
+  "lay minister"
+];
+gen_data["OccupationCult-FanaticLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationCult-FanaticNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationCult-FanaticChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationDruid"] = [
+  "druid",
+  "herbalist",
+  "warden",
+  "hermit"
+];
+gen_data["OccupationDruidLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationDruidNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationDruidChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationGladiator"] = [
+  "gladiator",
+  "mercenary",
+  "soldier",
+  "adventurer"
+];
+gen_data["OccupationGladiatorLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationGladiatorNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationGladiatorChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationGuard"] = [
+  "guard",
+  "bodyguard",
+  "private security",
+  "conscript"
+];
+gen_data["OccupationGuardLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationGuardNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationGuardChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationKnight"] = [
+  "knight",
+  "officer",
+  "cavalier",
+  "adventurer",
+  "jouster"
+];
+gen_data["OccupationKnightLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationKnightNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationKnightChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationMage"] = [
+  "mage",
+  "enchanter",
+  "wanderer",
+  "researcher",
+  "arcane-arcaelogist"
+];
+gen_data["OccupationMageLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationMageNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationMageChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationNoble"] = [
+  "noble",
+  "bored Noble"
+];
+gen_data["OccupationNobleLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationNobleNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationNobleChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationPriest"] = [
+  "Priest",
+  "CLERIC",
+  "Adventurer"
+];
+gen_data["OccupationPriestLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationPriestNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationPriestChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationScout"] = [
+  "Scout",
+  "Hunter",
+  "Ranger",
+  "Warden",
+  "Farmer"
+];
+gen_data["OccupationScoutLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationScoutNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationScoutChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationSpy"] = [
+  "Spy",
+  "Thief",
+  "Agent",
+  "Investigator",
+  "PI",
+  "Former Cop"
+];
+gen_data["OccupationSpyLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationSpyNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationSpyChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationThug"] = [
+  "Thug",
+  "Bouncer",
+  "Adventurer",
+  "Hired Tough"
+];
+gen_data["OccupationThugLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationThugNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationThugChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationTribal-Warrior"] = [
+  "Warrior",
+  "Nomad",
+  "Hunter",
+  "Hermit",
+  "Fisher",
+  "Conscript"
+];
+gen_data["OccupationTribal-WarriorLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationTribal-WarriorNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationTribal-WarriorChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+gen_data["OccupationVeteran"] = [
+  "Adventurer",
+  "Soldier",
+  "Mercenary",
+  "Sell-sword",
+  "Bodyguard",
+  "Enforcer"
+];
+gen_data["OccupationVeteranLawful"] = [
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful",
+  "Lawful"
+];
+gen_data["OccupationVeteranNeutral"] = [
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral",
+  "Neutral"
+];
+gen_data["OccupationVeteranChaotic"] = [
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic",
+  "Chaotic"
+];
+
+// --------------------------------------------------------------------------------
+// Personality
+// --------------------------------------------------------------------------------
+gen_data["IdealChaos"] = [
+  "Change",
+  "Creativity",,
+  "Freedom",
+  "Independence",
+  "No Limits",
+  "Whimsy"
+];
+gen_data["IdealGood"] = [
+  "beauty",
+  "charity",
+  "greater good",
+  "Life",
+  "respect",
+  "Self-sacrifice"
+];
+gen_data["IdealEvil"] = [
+  "Domination",
+  "Greed",,
+  "Might",
+  "Pain",
+  "Retribution",
+  "Slaughter"
+];
+gen_data["IdealLawful"] = [
+  "Community",
+  "Fairness",,
+  "Honor",
+  "Logic",
+  "Responsibility",
+  "Tradition"
+];
+gen_data["IdealNeutral"] = [
+  "Balance",
+  "Knowledge",
+  "Live and let live",
+  "Moderation",
+  "Neutrality",
+  "People"
+];
+gen_data["Interaction"] = [
+  "Argumentative",
+  "Arrogant",
+  "Blustering",
+  "Rude",
+  "Curious",
+  "Friendly",
+  "Honest",
+  "Hot tempered",
+  "Irritable",
+  "Ponderous",
+  "Quiet",
+  "Suspicious"
+];
 
 // --------------------------------------------------------------------------------
 // Races
@@ -353,7 +941,6 @@ gen_data["DragonbornHornDirection"] = ["up and around the side of the head","up 
 gen_data["DragonbornHornPlacement"] = ["forehead","top of the head","side of the head","back of the head","temples"];
 gen_data["DragonbornHornStyle"] = ["angle","bend","curl","hook","poke","protrude","sweep","twist"];
 gen_data["DragonbornHornType"] = ["blunt","rough","sharp","smooth","thick","thin"];
-
 
 gen_data["DragonbornFamily"] = ["Akambherylliax","Argenthrixus","Baharoosh","Beryntolthropal","Bhenkumbyrznaax","Caavylteradyn","Chumbyxirinnish","Clethtinthiallor","Daardendrian","Delmirev","Dhyrktelonis","Ebynichtomonis","Esstyrlynn","Fharngnarthnost","Ghaallixirn","Grrrmmballhyst","Gygazzylyshrift","Hashphronyxadyn","Hshhsstoroth","Imbixtellrhyst","Jerynomonis","Jharthraxyn","Kerrhylon","Kimbatuul","Lhamboldennish","Linxakasendalor","Mohradyllion","Mystan","Nemmonis","Norixius","Ophinshtalajiir","Orexijandilin","Pfaphnyrennish","Phrahdrandon","Pyraxtallinost","Qyxpahrgh","Raghthroknaar","Shestendeliath","Skaarzborroosh","Sumnarghthrysh","Tiammanthyllish","Turnuroth","Umbyrphrael","Vangdondalor","Verthisathurgiesh","Wivvyrholdalphiax","Wystongjiir","Xephyrbahnor","Yarjerit","Zzzxaaxthroth"];
 gen_data["DragonbornFeminine"] = ["Aakra","Aasathra","Antrara","Arava","Biri","Blendaeth","Burana","Chassath","Daar","Dentratha","Doudra","Driindar","Eggren","Farideh","Findex","Furrele","Gesrethe","Gilkass","Harann","Havilar","Hethress","Hillanot","Jaxi","Jezean","Jheri","Kadana","Kava","Korinn","Megren","Mijira","Mishann","Nala","Nuthra","Perra","Pogranix","Pyxrin","Quespa","Raiann","Rezena","Ruloth","Saphara","Savaran","Surina","Sora","Synthrin","Tatyan","Thava","Uadjit","Vezera","Zykroff"];

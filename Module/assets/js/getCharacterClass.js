@@ -23,12 +23,12 @@ function getCharacterClass() {
     characterClass = generate_text("CharacterLevel" + characterLevel);
  
     // Create a slug for the characterClass.
-    characterLower = characterClass.toLowerCase();
-    characterSlug = characterLower.replace(/ /g, '-');
+    characterSlug = characterClass.replace(/ /g, '-');
+    characterLower = characterSlug.toLowerCase();
     
     characterClassURL = ("<a href=\"/monster/" + characterSlug + "\">" + characterClass + "</a>");
 
     // Return the values for race and gender in an array.
-    return [characterLevel, characterClass, characterLower, characterClassURL];
+    return [characterLevel, characterClass, characterLower, characterClassURL, characterSlug];
 
 }

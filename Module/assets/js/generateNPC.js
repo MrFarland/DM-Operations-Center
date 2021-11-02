@@ -27,7 +27,7 @@ function generateNPC() {
     generatePersonality();
 
     // Generate an occupation for the NPC based on their class.
-    // generateOccupation();
+    generateOccupation();
 
     // Display the NPC and provide the variables to the interface.
     displayNPC()
@@ -53,6 +53,6 @@ function displayNPC() {
     npcPersonality.innerHTML = personality;
 
     // Occupation
-    // npcOccupation.innerHTML = occupation;
+    npcOccupation.innerHTML = occupation;
     
 }
