@@ -286,16 +286,10 @@ gen_data["GenderForm"] = ["Feminine","Masculine"];
 // Occupations
 // --------------------------------------------------------------------------------
 
-gen_data["OccupationListCommoner"] = ["Agriculture","Artisan","Artist","CivilServant","Laborer","Merchant"];
-gen_data["OccupationListGuard"] = [];
 
-gen_data["OccupationsAdventurer"] = ["Cartographer", "Explorer", "Monster Hunter", "Tomb Raider"];
-gen_data["OccupationsAgriculture"] = ["Farmer","Shepherd"];
-gen_data["OccupationsArtisan"] = ["Armorer","Bookbinder","Blacksmith","Bowyer","Carpenter","Cartwright","Cobbler","Glassblower","Goldsmith","Jeweler","Leathersmith","Shipwright","Silversmith","Stonemason","Tailor","Tinker","Weaponsmith"];
-gen_data["OccupationsCivilServant"] = ["Bureaucrat","Courier","Crier","Customs Inspector","Diplomat","Tax Collector"];
-gen_data["OccupationsLaborer"] = ["Bartender","Dockhand","Farmhand","Laborer","Servant","Stablehand"];
-gen_data["OccupationsMerchant"] = ["Bookseller","Innkeeper","Shopkeeper","Tavern-keeper","Trader"];
-gen_data["OccupationsMilitary" = ["Scout","Soldier",""]]
+
+gen_data["OccupationCommoner"] = ["Actor","Armorer","Baker","Barkeep","Beekeeper","Blacksmith","Bookbinder","Bookseller","Bowyer","Brewer","Bureaucrat","Butcher","Carpenter","Cartographer",,"Cartwright","Clerk","Cobbler","Cooper","Courier","Crier","Dancer","Distiller","Dockhand","Explorer","Farmer","Farmhand","Fisher","Glassblower","Grocer","Innkeeper","Jeweler","Laborer","Leathersmith","Mercer","Metalsmith","Miller","Musician","Painter","Servant","Shepherd","Shipwright","Shopkeeper","Stablehand","Stonemason","Surveyor","Tailor","Tavernkeeper","Tax Collector","Tinker","Trader","Vinter","Weaponsmith"];
+
 
 // --------------------------------------------------------------------------------
 // Personality
