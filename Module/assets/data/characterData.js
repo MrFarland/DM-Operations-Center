@@ -274,7 +274,7 @@ gen_data["HairType"] = {
 // --------------------------------------------------------------------------------
 gen_data["CharacterLevel"] = {"1-60":"Low","61-90":"Medium","91-100":"High"};
 gen_data["CharacterLevelLow"] = {"1":"Commoner","2":"Bandit","3":"Guard","4":"Noble","5":"Acolyte","6":"Scout","7":"Thug"};
-gen_data["CharacterLevelMedium"] = {"1":"Spy","2":"Bandit Captain","4":"Druid","5":"Priest","6":"Knight","7":"Veteran"};
+gen_data["CharacterLevelMedium"] = {"1":"Spy","2":"Bandit Captain","3":"Tribal Warrior","4":"Druid","5":"Priest","6":"Knight","7":"Veteran"};
 gen_data["CharacterLevelHigh"] = {"1":"Gladiator","2":"Mage","3":"Assassin","4":"Archmage"};
 
 // --------------------------------------------------------------------------------
@@ -286,10 +286,37 @@ gen_data["GenderForm"] = ["Feminine","Masculine"];
 // Occupations
 // --------------------------------------------------------------------------------
 
+gen_data["OccupationClassCommoner"] = ["ArtisanCommoner","CivilCommoner","LaborerCommoner","MerchantCommoner"];
+gen_data["OccupationClassGuard"] = ["CivilTough"];
+gen_data["OccupationClassNoble"] = ["MerchantNoble","CivilNoble"];
+gen_data["OccupationClassScout"] = ["CivilStealthy","LaborerStealthy","MilitaryStealthy"];
+gen_data["OccupationClassVeteran"] = ["CivilTough","CriminalTough","MilitaryTough"];
+
+gen_data["ArtistCommoner"] = ["Acrobat","Actor","Artist","Dancer","Painter","Playwright","Poet","Singer","Sculptor","Writer"];
+
+gen_data["ArtisanCommoner"] = ["Alchemist","Armorer","Blacksmith","Bookbinder","Bowyer","Carpenter","Cartwright","Cobbler","Cooper","Glassblower","Hatmaker","Jeweler","Leathersmith","Locksmith","Metalsmith","Potter","Shipwright","Stonemason","Tailor","Tinker","Weaponsmith","Woodcarver"];
+
+gen_data["CivilCommoner"] = ["Bookkeeper","Clerk","Crier","Herald","Lamplighter","Reeve","Surveyor","Tax Collector"];
+gen_data["CivilNoble"] = ["Chamberlain","Chancellor","Charlatan","Diplomat","Judge","Steward"];
+gen_data["CivilStealthy"] = ["Archer","Warden"];
+gen_data["CivilTough"] = ["Bailiff","Guard","Jailer"];
 
 
-gen_data["OccupationCommoner"] = ["Actor","Armorer","Baker","Barkeep","Beekeeper","Blacksmith","Bookbinder","Bookseller","Bowyer","Brewer","Bureaucrat","Butcher","Carpenter","Cartographer",,"Cartwright","Clerk","Cobbler","Cooper","Courier","Crier","Dancer","Distiller","Dockhand","Explorer","Farmer","Farmhand","Fisher","Glassblower","Grocer","Innkeeper","Jeweler","Laborer","Leathersmith","Mercer","Metalsmith","Miller","Musician","Painter","Servant","Shepherd","Shipwright","Shopkeeper","Stablehand","Stonemason","Surveyor","Tailor","Tavernkeeper","Tax Collector","Tinker","Trader","Vinter","Weaponsmith"];
+gen_data["CriminalCommoner"] = ["Bookmaker","Con-Artist","Fence","Messenger"];
+gen_data["CriminalStealthy"] = ["Assassin","Burglar","Pickpocket","Thief"];
+gen_data["CriminalTough"] = ["Bouncer","Enforcer","Tough"];
 
+gen_data["LaborerCommoner"] = ["Barber","Barkeeper","Cook","Ditcher","Dockworker","Farmhand","Fishmonger","Gardener","Laborer","Mason","Miller","Porter","Servant","Stablehand","Tanner","Weaver"];
+gen_data["LaborerStealthy"] = ["Fisher","Forager","Guide","Hunter","Poacher","Ranger","Tracker","Trapper"]
+
+gen_data["MerchantCommoner"] = ["Apothecary","Baker","Bookseller","Butcher","Clothier","Furrier","Grocer","Haberdasher","Herbalist","Mercer"];
+gen_data["MerchantNoble"] = ["Banker","Moneylender"];
+gen_data["MerchantTough"] = ["Bodyguard","Guard"]
+
+gen_data["MilitaryStealthy"] = ["Scout","Spy"];
+gen_data["MilitaryTough"] = ["Quartermaster","Sergeant","Soldier"];
+
+gen_data["ReligionClergy"] = ["Acolyte","Priest"];
 
 // --------------------------------------------------------------------------------
 // Personality

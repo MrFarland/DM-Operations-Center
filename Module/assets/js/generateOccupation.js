@@ -12,8 +12,8 @@ function generateOccupation() {
     // -- Spy, Bandit Captain, Druid, Priest, Knight, Veteran
     // -- Gladiator, Mage, Assassin, Archmage
 
-    occupationList = generate_text("OccupationList" + characterSlug);
-    occupationTitle = generate_text("Occupation" + occupationList);
+    occupationClass = generate_text("OccupationClass" + characterSlug);
+    occupationGroup = generate_text(occupationClass);
 
     if (ageGroup == "Young"){
         experienceLevel = ("inexperienced");
@@ -27,7 +27,7 @@ function generateOccupation() {
         experienceLevel = "retired";
     }
 
-    occupation = (givenName + " is " + a(experienceLevel) + " " + (occupationTitle.toLowerCase()) + ". ");
+    occupation = (givenName + " is " + a(experienceLevel) + " " + (occupationGroup.toLowerCase()) + ". ");
 
     return [occupation];
 }
