@@ -286,39 +286,104 @@ gen_data["GenderForm"] = ["Feminine","Masculine"];
 // Occupations
 // --------------------------------------------------------------------------------
 
-gen_data["OccupationClassCommoner"] = ["ArtisanCommoner","CivilCommoner","LaborerCommoner","MerchantCommoner"];
-gen_data["OccupationClassGuard"] = ["CivilTough"];
-gen_data["OccupationClassNoble"] = ["MerchantNoble","CivilNoble"];
-gen_data["OccupationClassScout"] = ["CivilStealthy","LaborerStealthy","MilitaryStealthy"];
-gen_data["OccupationClassVeteran"] = ["CivilTough","CriminalTough","MilitaryTough"];
+// Choose occupation groups based on NPC class.
+gen_data["OccupationClassAcolyte"] = ["ReligionCommoner","ReligionLaborer"];
+gen_data["OccupationClassArchmage"] = ["Adventurer","ArtisanMagical","CivilMagical","EducationMagical","EducationNoble","MilitaryMagical"];
+gen_data["OccupationClassAssassin"] = ["Adventurer","CivilStealthy","CriminalStealthy","MerchantStealthy"];
+gen_data["OccupationClassBandit"] = ["CriminalTough","LaborerCommoner"];
+gen_data["OccupationClassBandit-Captain"] = ["Adventurer","CriminalTough","LaborerCommoner"];
+gen_data["OccupationClassCommoner"] = ["ArtistCommoner","ArtisanCommoner","CivilCommoner","CriminalCommoner","EducationCommoner","LaborerCommoner","MerchantCommoner"];
+gen_data["OccupationClassDruid"] = ["Adventurer","EducationMagical","TribeMagical","TribeNoble"];
+gen_data["OccupationClassGladiator"] = ["Adventurer","MilitaryTough"];
+gen_data["OccupationClassGuard"] = ["CivilTough","MerchantTough","MilitaryTough"];
+gen_data["OccupationClassKnight"] = ["Adventurer","MilitaryNoble"];
+gen_data["OccupationClassMage"] = ["Adventurer","ArtisanMagical","CivilMagical","EducationMagical","MilitaryMagical"];
+gen_data["OccupationClassNoble"] = ["CivilNoble","CriminalNoble","MerchantNoble"];
+gen_data["OccupationClassPriest"] = ["Adventurer","EducationMagical","ReligionNoble","ReligionLaborer","ReligionTough"];
+gen_data["OccupationClassScout"] = ["Adventurer","CivilWilds","LaborerStealthy","MilitaryStealthy","TribeStealthy"];
+gen_data["OccupationClassSpy"] = ["Adventurer","CriminalStealthy","LaborerStealthy","MilitaryStealthy","TribeStealthy"];
+gen_data["OccupationClassThug"] = ["Adventurer","CivilTough","CriminalTough","LaborerCommoner","MilitaryTough"];
+gen_data["OccupationClassTribal-Warrior"] = ["CivilWilds","LaborerStealthy","TribeTough"]
+gen_data["OccupationClassVeteran"] = ["Adventurer","CivilTough","CriminalTough","MilitaryTough"];
 
+// Adventurer Occupation Groups
+gen_data["Adventurer"] = ["Adventurer","Mercenary"];
+
+// Artist Occupation Groups
 gen_data["ArtistCommoner"] = ["Acrobat","Actor","Artist","Dancer","Painter","Playwright","Poet","Singer","Sculptor","Writer"];
 
-gen_data["ArtisanCommoner"] = ["Alchemist","Armorer","Blacksmith","Bookbinder","Bowyer","Carpenter","Cartwright","Cobbler","Cooper","Glassblower","Hatmaker","Jeweler","Leathersmith","Locksmith","Metalsmith","Potter","Shipwright","Stonemason","Tailor","Tinker","Weaponsmith","Woodcarver"];
+// Artisan Occupation Groups
+gen_data["ArtisanCommoner"] = ["Armorer","Barber","Blacksmith","Bookbinder","Bowyer","Carpenter","Cartwright","Cobbler","Cooper","Glassblower","Hatmaker","Jeweler","Leathersmith","Locksmith","Metalsmith","Potter","Shipwright","Stonemason","Tailor","Tinker","Weaponsmith","Woodcarver"];
+gen_data["ArtisanMagical"] = ["Alchemist","Arcanist","Enchanter","Scribe","Wandmaker"];
 
-gen_data["CivilCommoner"] = ["Bookkeeper","Clerk","Crier","Herald","Lamplighter","Reeve","Surveyor","Tax Collector"];
-gen_data["CivilNoble"] = ["Chamberlain","Chancellor","Charlatan","Diplomat","Judge","Steward"];
-gen_data["CivilStealthy"] = ["Archer","Warden"];
+gen_data["ArtisanEmployer"] = [
+  "with a small, but profitable shop",
+  "with a small and struggling shop",
+  "with a large, profitable shop",
+  "with a large, but struggling shop"
+];
+
+// Civil Servant Occupation Groups
+gen_data["CivilCommoner"] = ["Administrator","Bookkeeper","Clerk","Tax Collector"];
+gen_data["CivilMagical"] = ["Advisor","Archmage","Seer","Vizier"];
+gen_data["CivilNoble"] = ["Chamberlain","Chancellor","Charlatan","Diplomat","Judge","Magistrate","Steward"];
+gen_data["CivilWilds"] = ["Cartographer","Explorer","Ranger","Reeve","Surveyor","Warden"];
+gen_data["CivilStealthy"] = ["Agent","Inspector","Investigator","Spy"];
 gen_data["CivilTough"] = ["Bailiff","Guard","Jailer"];
 
+gen_data["CivilEmployer"] = [
+  "at the local barracks",
+  "at the castle",
+  "at the local courthouse",
+  "at the local jail",
+];
 
+// Criminal Occupation Groups
 gen_data["CriminalCommoner"] = ["Bookmaker","Con-Artist","Fence","Messenger"];
+gen_data["CriminalNoble"] = ["Crime Boss","Slumlord"];
 gen_data["CriminalStealthy"] = ["Assassin","Burglar","Pickpocket","Thief"];
-gen_data["CriminalTough"] = ["Bouncer","Enforcer","Tough"];
+gen_data["CriminalTough"] = ["Bandit","Bouncer","Enforcer","Robber","Tough"];
 
-gen_data["LaborerCommoner"] = ["Barber","Barkeeper","Cook","Ditcher","Dockworker","Farmhand","Fishmonger","Gardener","Laborer","Mason","Miller","Porter","Servant","Stablehand","Tanner","Weaver"];
-gen_data["LaborerStealthy"] = ["Fisher","Forager","Guide","Hunter","Poacher","Ranger","Tracker","Trapper"]
+gen_data["CriminalEmployer"] = [
+  "who works on their own, dodging the local criminal syndicate",
+  "working for a small, independent crime ring"
+];
 
+// Education Occupation Groups
+gen_data["EducationCommoner"] = ["Clerk","Gardener","Groundskeeper","Janitor"];
+gen_data["EducationMagical"] = ["Professor","Teacher"];
+gen_data["EducationNoble"] = ["Headmaster"];
+gen_data["EducationTough"] = ["Guard"];
+
+// Laborer Occupation Groups
+gen_data["LaborerCommoner"] = ["Barkeeper","Cook","Ditcher","Dockworker","Farmhand","Fishmonger","Gardener","Laborer","Mason","Miller","Porter","Servant","Stablehand","Tanner","Weaver"];
+gen_data["LaborerStealthy"] = ["Fisher","Forager","Guide","Hunter","Poacher","Tracker","Trapper"];
+
+// Merchant Occupation Groups
 gen_data["MerchantCommoner"] = ["Apothecary","Baker","Bookseller","Butcher","Clothier","Furrier","Grocer","Haberdasher","Herbalist","Mercer"];
-gen_data["MerchantNoble"] = ["Banker","Moneylender"];
-gen_data["MerchantTough"] = ["Bodyguard","Guard"]
+gen_data["MerchantNoble"] = ["Banker","Guildmaster","Magnate","Moneylender"];
+gen_data["MerchantStealthy"] = ["Agent","Spy"];
+gen_data["MerchantTough"] = ["Bodyguard","Guard"];
 
-gen_data["MilitaryStealthy"] = ["Scout","Spy"];
-gen_data["MilitaryTough"] = ["Quartermaster","Sergeant","Soldier"];
+// Military Occupation Groups
+gen_data["MilitaryMagical"] = ["Battlemage","Commander","Officer"];
+gen_data["MilitaryNoble"] = ["Cavalier","Commander","Knight","Officer"];
+gen_data["MilitaryStealthy"] = ["Archer","Scout","Spy"];
+gen_data["MilitaryTough"] = ["Quartermaster","Soldier"];
 
-gen_data["ReligionClergy"] = ["Acolyte","Priest"];
+// Religion Occupation Groups
+gen_data["ReligionCommoner"] = ["Acolyte"];
+gen_data["ReligionLaborer"] = ["Healer","Pilgrim"];
+gen_data["ReligionNoble"] = ["Priest"];
+gen_data["ReligionTough"] = ["Cleric"];
 
-// --------------------------------------------------------------------------------
+// Tribe Occupation Group
+gen_data["TribeMagical"] = ["Druid","Shaman"];
+gen_data["TribeNoble"] = ["Chief","Leader"];
+gen_data["TribeStealthy"] = ["Fisher","Forager","Hunter","Trapper"];
+gen_data["TribeTough"] = ["Hunter","Warrior"];
+
+// -------------------------------------------------------------------------
 // Personality
 // --------------------------------------------------------------------------------
 gen_data["IdealChaos"] = [
