@@ -27,7 +27,7 @@ function generateOccupation() {
         experienceLevel = "retired";
     }
 
-    occupation = (givenName + " is " + a(experienceLevel) + " " + (occupationGroup.toLowerCase()) + ". ");
+    occupation = (givenName + " is " + a(experienceLevel) + " " + (occupationGroup.toLowerCase()) + " " + employer +  ". ");
 
     return [occupation];
 }
