@@ -12,22 +12,14 @@ function generateOccupation() {
     // -- Spy, Bandit Captain, Druid, Priest, Knight, Veteran
     // -- Gladiator, Mage, Assassin, Archmage
 
-    occupationClass = generate_text("OccupationClass" + characterSlug);
-    occupationGroup = generate_text(occupationClass);
+    occupationIndustry = generate_text("OccupationIndustry" + characterSlug);
+    occupationList = generate_text("OccupationList" + characterSlug);
+    occupationTitle = generate_text(occupationIndustry + occupationList);
+    occupationEmployer = generate_text(occupationIndustry + "Employer");
 
-    if (ageGroup == "Young"){
-        experienceLevel = ("inexperienced");
-    } else if (ageGroup == "Adult"){
-        experienceLevel = "experienced";
-    } else if (ageGroup == "Mature"){
-        experienceLevel = "expert";
-    } else if (ageGroup == "Elderly"){
-        experienceLevel = "master";
-    } else if (ageGroup == "Venerable"){
-        experienceLevel = "retired";
-    }
+    experienceLevel = ageGroup.toLowerCase();
 
-    occupation = (givenName + " is " + a(experienceLevel) + " " + (occupationGroup.toLowerCase()) + " " + occupationClass +  ". ");
+    occupation = (givenName + " is " + a(experienceLevel) + " " + occupationTitle.toLowerCase() + " " + occupationEmployer + ". ");
 
     return [occupation];
 }
