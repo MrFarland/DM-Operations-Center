@@ -48,7 +48,7 @@ parent: worldbuilding
         <option value="Feminine">Transgender (F)</option>
         <option value="Masculine">Transgender (M)</option>
     </select>
-    <select id="selectCharacterLevel">
+    <select id="selectNPCClassLevel">
         <option value="None">Any Level</option>
         <option value="Low">Low (<1)</option>
         <option value="Medium">Med (1-3)</option>
