@@ -16,42 +16,33 @@ function generateOccupation() {
     // Select an "Occupation Title" based on the selected "Trade" and "Occupation Group".
     occupationTitle = generate_text("Occupation" + trade + occupationGroup);
 
-    // Select an employer and characteristics of that employer for a given industry.
-    occupationEmployer = generate_text("OccupationEmployer" + trade);
-    
-    // Populate some common variables for the NPCs employer.
-    employer = generate_text("Employer" + trade);
-    employerAdjective = generate_text("Employer" + trade + "Adjective");
-    employerGroup = generate_text("Employer" + trade + "Group");
-    employerProfitability = generate_text("EmployerProfitability");     
-    employerSize = generate_text("Size");
-    employerStructure = generate_text("Structure" + trade);
+    // Populate some common variables for the NPCs organization.
+    organization = generate_text("Organization" + trade);
+    organizationAdjective = generate_text("OrganizationAdjective" + trade);
+    organizationGroup = generate_text("OrganizationGroup" + trade);
+    organizationLocation = generate_text("OrganizationLocation" + trade);
+    organizationMission = generate_text("OrganizationMission" + trade);
+    organizationProfitability = generate_text("OrganizationProfitability");     
+    organizationSize = generate_text("Size");
+    organizationStructure = generate_text("OrganizationStructure" + trade);
+    organizationStructureAdjective = generate_text("OrganizationStructureAdjective" + trade);
 
     // 
-    if (trade == "Agriculture"){
+    if (trade == "Adventure"){
 
-        employment = ("with " + a(employerSize.toLowerCase()) + ", " + employerProfitability.toLowerCase() + " " + employerStructure.toLowerCase());
+        employment = ("with " + a(organizationGroup.toLowerCase()) + " of " + organization.toLowerCase() + " " + organizationMission.toLowerCase() + " " + a(organizationStructureAdjective.toLowerCase()) + " " + organizationStructure.toLowerCase() + " " + organizationLocation.toLowerCase());
 
-    } else if (trade == "Military") {
+    } else if (trade == "Agriculture" || trade == "Merchant"){
 
-        employment = ("with " + a(employerAdjective.toLowerCase()) + " " + employerGroup.toLowerCase() + " in the " + employer.toLowerCase());
+        employment = ("with " + a(organizationSize.toLowerCase()) + ", " + organizationProfitability.toLowerCase() + " " + organization.toLowerCase() + " " + organizationLocation.toLowerCase());
 
-    } else if (trade == "Crime" || trade == "Service") {
+    } else if (trade == "Military" || "Police"){
 
-        employment = ("working for " + a(employer.toLowerCase()));
-
-    } else if (trade == "Religion") {
-
-        employment = ("working for " + a(employer.toLowerCase()));
-
-    } else if (trade == "Adventure") {
-
-        employment = ("working for " + a(employer.toLowerCase()));
+        employment = ("in " + a(organizationAdjective.toLowerCase()) + " " + organizationGroup.toLowerCase() + " with the " + organization.toLowerCase());
 
     } else {
 
-        structure = generate_text("Structure" + trade);
-        employment = ("working at " + a(structure.toLowerCase()));
+        employment = ("with " + a(organizationGroup.toLowerCase()) + " of " + organization.toLowerCase());
 
     }
  
