@@ -90,4 +90,4 @@ parent: worldbuilding
 <script src="../assets/js/generateNPC.js"></script>
 
 <!-- Load the js files containing data for the generators. -->
-<script src="../assets/data/characterData.js"></script>
+<script src="../assets/data/generatorData.js"></script>

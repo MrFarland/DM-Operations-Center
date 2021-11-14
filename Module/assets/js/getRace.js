@@ -17,7 +17,6 @@ function getRace() {
     // If no race has been selected, generate one randomly.
     if (race == "None"){
         race = generate_text("Race");
-        
     }
     
     // Fix the race and subrace variables for Humans, Half-Elves, and Half-Orcs.
@@ -27,21 +26,21 @@ function getRace() {
         subRace = race;
         race = "Human";
     } else if (race == "Half-Elf"){
-        subRaceLookup = (race + "Subrace");
+        subRaceLookup = ("Subrace" + race);
         subRace = generate_text(subRaceLookup);
         if (subRace == "Human"){
-            subRaceLookup = (subRace + "Subrace");
+            subRaceLookup = ("Subrace" + subRace);
             subRace = generate_text(subRaceLookup);
         }
     } else if (race == "Half-Orc"){
-        subRaceLookup = (race + "Subrace");
+        subRaceLookup = ("Subrace" + race);
         subRace = generate_text(subRaceLookup);
         if (subRace == "Human"){
-            subRaceLookup = (subRace + "Subrace");
+            subRaceLookup = ("Subrace" + subRace);
             subRace = generate_text(subRaceLookup);
         }
     } else {
-        subRaceLookup = (race + "Subrace");
+        subRaceLookup = ("Subrace" + race);
         subRace = generate_text(subRaceLookup);   
     }
 
