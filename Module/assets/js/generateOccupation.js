@@ -18,9 +18,9 @@ function generateOccupation() {
 
     if (trade == "Adventure"){
 
-        employerAdjective = generate_text("EmployerAdjective" + trade);
-        employerGroup = generate_text("EmployerGroup" + trade);
-        employerType = generate_text("EmployerType" + trade);
+        employerAdjective = generate_text("Employer" + trade + "Adjective");
+        employerGroup = generate_text("Employer" + trade + "Group");
+        employerType = generate_text("Employer" + trade + "Type");
 
         employmentDescription = ("with " + a(employerAdjective.toLowerCase()) + " " + employerGroup.toLowerCase() + " of " + employerType.toLowerCase());
 
@@ -28,7 +28,7 @@ function generateOccupation() {
         
         employerSize = generate_text("Size");
         employerProfitability = generate_text("EmployerProfitability");
-        employerType = generate_text("EmployerType" + trade);
+        employerType = generate_text("Employer" + trade + "Type");
 
         employmentDescription = ("with " + a(employerSize.toLowerCase()) + ", " + employerProfitability.toLowerCase() + " " + employerType.toLowerCase());
 
@@ -36,29 +36,49 @@ function generateOccupation() {
 
         employerSize = generate_text("Size");
         employerProfitability = generate_text("EmployerProfitability");
-        employerType = generate_text("EmployerType" + trade);
+        employerType = generate_text("Employer" + trade + "Type");
 
         employmentDescription = ("with " + a(employerSize.toLowerCase()) + ", " + employerProfitability.toLowerCase() + " " + employerType.toLowerCase());
 
     } else if (trade == "Crime"){
 
-        employmentDescription = (a(employment.toLowerCase()));
+        employerSize = generate_text("Size");
+        employerAdjective = generate_text("Employer" + trade + "Adjective");
+        employerType = generate_text("Employer" + trade + "Type");
+
+        employmentDescription = ("with " + a(employerSize.toLowerCase()) + ", " + employerAdjective.toLowerCase() + " of " + employerType.toLowerCase());
 
     } else if (trade == "Education"){
 
-        employmentDescription = (a(employment.toLowerCase()));
+        employerSize = generate_text("Size");
+        employerAdjective = generate_text("Employer" + trade + "Adjective");
+        employerType = generate_text("Employer" + trade + "Type");
+
+        employmentDescription = ("with " + a(employerSize.toLowerCase()) + ", " + employerAdjective.toLowerCase() + " of " + employerType.toLowerCase());
 
     } else if (trade == "Hospitality"){
 
-        employmentDescription = (a(employment.toLowerCase()));
+        employerSize = generate_text("Size");
+        employerAdjective = generate_text("Employer" + trade + "Adjective");
+        employerType = generate_text("Employer" + trade + "Type");
+
+        employmentDescription = ("working at " + a(employerSize.toLowerCase()) + ", " + employerAdjective.toLowerCase() + " of " + employerType.toLowerCase());
 
     } else if (trade == "Industry"){
 
-        employmentDescription = (a(employment.toLowerCase()));
+        employerSize = generate_text("Size");
+        employerAdjective = generate_text("Employer" + trade + "Adjective");
+        employerType = generate_text("Employer" + trade + "Type");
+
+        employmentDescription = ("working at " + a(employerSize.toLowerCase()) + ", " + employerAdjective.toLowerCase() + " of " + employerType.toLowerCase());
 
     } else if (trade == "Merchant"){
 
-        employmentDescription = (a(employment.toLowerCase()));
+        employerSize = generate_text("Size");
+        employerProfitability = generate_text("EmployerProfitability");
+        employerType = generate_text("Employer" + trade + "Type");
+
+        employmentDescription = ("with " + a(employerSize.toLowerCase()) + ", " + employerProfitability.toLowerCase() + " " + employerType.toLowerCase());
 
     } else if (trade == "Military"){
 
@@ -82,7 +102,11 @@ function generateOccupation() {
 
     } else if (trade == "Professional"){
 
-        employmentDescription = (a(employment.toLowerCase()));
+        employerSize = generate_text("Size");
+        employerProfitability = generate_text("EmployerProfitability");
+        employerType = generate_text("Employer" + trade + "Type");
+
+        employmentDescription = ("with " + a(employerSize.toLowerCase()) + ", " + employerProfitability.toLowerCase() + " " + employerType.toLowerCase());
 
     } else if (trade == "Religion"){
 
