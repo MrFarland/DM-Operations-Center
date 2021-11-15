@@ -33,234 +33,120 @@ raceAgeGroups = {
 // --------------------------------------------------------------------------------
 // Alignment
 // --------------------------------------------------------------------------------
+
+// Alignment (Good/Evil) -- 35% Good, 40% Neutral, 25% Evil.
 gen_data["AlignmentGE"] = {"1-35":"Good","36-75":"Neutral","76-100":"Evil"};
+
+// Alignment (Lawful/Chaos) -- 35% Lawful, 40% Neutral, 25% Chaos.
 gen_data["AlignmentLC"] = {"1-35":"Lawful","36-75":"Neutral","76-100":"Chaotic"};
 
 // --------------------------------------------------------------------------------
 // Appearance
 // --------------------------------------------------------------------------------
+
+// Body Build -- Simple adjectives to describe a build more than a weight
+gen_data["BodyBuild"] = ["average","atheltic","doughy","fit","heavy","lean","powerful","rotund","skinny","soft","stocky","strong","thin"];
+
+// Body Color (Base) -- This is the base color for a character's skin, scales, fur, etc.
+gen_data["BodyColorBaseDragonborn"] = {"1":"amethyst","2-4":"black","5-7":"blue","8-10":"brass","11-13":"bronze","14-16":"copper","17-19":"crystal","20-22":"emerald","23-25":"gold","26-28":"green","29-31":"red","32-34":"sapphire","35-37":"silver","38-40":"topaz","41-43":"white"};
+gen_data["BodyColorBaseDwarf"] = ["beige","bronze","brown","ivory","pink"];
+gen_data["BodyColorBaseElf"] = ["beige","bronze","brown","ivory","pink"];
+gen_data["BodyColorBaseGnome"] = ["beige","bronze","brown","ivory","pink"];
+gen_data["BodyColorBaseHalf-Elf"] = ["beige","bronze","brown","ivory","pink"];
+gen_data["BodyColorBaseHalf-Orc"] = ["beige","bronze","brown","ivory","gray","green","pink"];
+gen_data["BodyColorBaseHalfling"] = ["beige","bronze","brown","ivory","pink"];
+gen_data["BodyColorBaseHuman"] = ["beige","bronze","brown","ivory","pink"];
+gen_data["BodyColorBaseOrc"] = ["beige","bronze","brown","ivory","gray","green"];
+gen_data["BodyColorBaseTiefling"] = ["black","beige","blue","bronze","brown","gray","green","ivory","pink","purple","red","white"];
+
+// Body Color (Tone) -- This is a modifier to the base color to provide some variation between different skin/scale/fur colors.
+gen_data["BodyColorToneDragonborn"] = ["bright","cool","dark","deep","glassy","light","medium","pale","warm"];
+gen_data["BodyColorToneDwarf"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["BodyColorToneElf"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["BodyColorToneGnome"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["BodyColorToneHalf-Elf"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["BodyColorToneHalf-Orc"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["BodyColorToneHalfling"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["BodyColorToneHuman"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+gen_data["BodyColorToneOrc"] = ["cool","dark","golden","light","medium","pale","warm"];
+gen_data["BodyColorToneTiefling"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
+
+// Body Height -- Keeping it simple and relative. It is intended to indicate if a character is "Tall" or "Short" for their race.
 gen_data["BodyHeight"] = ["average","short","tall"];
-gen_data["BodyWeight"] = ["average","atheltic","doughy","fit","heavy","lean","powerful","rotund","skinny","soft","stocky","strong","thin"];
-gen_data["EyeType"] = {
-  "1":"cloudy",
-  "2":"bulging",
-  "3-4":"close-set",
-  "5-6":"deep-set",
-  "7-8":"downturned",
-  "9-10":"enormous",
-  "11-12":"hooded",
-  "13-14":"large",
-  "15-16":"narrow",
-  "17-18":"piercing",
-  "19-20":"prominent",
-  "21-22":"protruding",
-  "23-24":"small",
-  "25-26":"squinting",
-  "27-28":"thin",
-  "29-30":"tiny",
-  "31-32":"wide",
-  "33-34":"wide-set",
-  "35":"bloodshot",
-  "36":"beady",
-  "37":"dopey",
-  "38-39":"oval-shaped",
-  "40-42":"round",
-};
-gen_data["FacialHairStyleBeard"] = [
-  "well-trimmed and brushed",
-  "growing wild and untamed",
-  "braided into multiple braids and capped with small gold rings",
-  "braided on both sides of the mouth",
-  "gathered into a single braid at the chin",
-  "gathered at the chin and tied with string",
-  "scruffy and untrimmed",
-  "growing more outward than down",
-  "styled into a point",
-  "boxed and full",
-  "neatly styled and capped with a large handlebar mustache",
-  "with bits of crumbs tangled amongst the hairs",
-  "patchy and uneven"
-];
-gen_data["FacialHairStyleGoatee"] = [
-  "well-trimmed and brushed",
-  "growing wild and untamed",
-  "braided into multiple braids and capped with small gold rings",
-  "braided on both sides of the mouth",
-  "gathered into a single braid at the chin",
-  "gathered at the chin and tied with string",
-  "scruffy and untrimmed",
-  "growing more outward than down",
-  "styled into a van dyke",
-  "boxed and full",
-  "neatly styled and capped with a large handlebar mustache",
-  "with bits of crumbs tangled amongst the hairs",
-  "patchy and uneven"
-];
-gen_data["FacialHairStyleMustache"] = [
-  "well-trimmed and brushed",
-  "growing wild and untamed",
-  "styled into an elaborate handlebar",
-  "overflowing into a long fu-manchu",
-  "braided at the corners",
-  "scruffy and untrimmed",
-  "with bits of crumbs tangled amongst the hairs",
-  "parted in the middle",
-  "parted and waxed at the tips into a point",
-  "with a small, soul patch above the chin"
-];
-gen_data["Feature"] = [
-  "a large, broad nose",
-  "a small, narrow nose",
-  "a short, broad nose",
-  "a short, narrow nose",
-  "a pronounced brow",
-  "a receding hairline",
-  "a cleft lip",
-  "a strong, jutting chin",
-  "abnormally large ears",
-  "a big, toothy grin",
-  "a permanent smirk",
-  "freckles",
-  "a big smile",
-  "a warm smile",
-  "a wry smile",
-  "an inquisitive look",
-  "a blank expression",
-  "a thousand mile stare",
-  "a dazed expression",
-  "a look of confusion",
-  "flared nostrils",
-  "noticeably crooked-teeth",
-  "thin, wire-framed spectacles",
-  "thick glasses",
-  "a gold-framed, monocle",
-  "horn-rimmed glasses",
-  "small, round glasses",
-  "cracked glasses",
-  "thick, dust-caked goggles",
-  "a patch over the right eye",
-  "a patch over the left eye",
-  "a scar over the right eye",
-  "a scar over the left eye",
-  "a scar on the right cheek",
-  "a scar on the left cheek",
-  "a fresh bruise under the right eye",
-  "a fresh bruise under the left eye",
-  "burns on the right side of the face",
-  "burns on the left side of the face",
-  "bags under both eyes",
-  "missing numerous teeth",
-  "a missing right ear",
-  "a missing left ear",
-  "intricately drawn tattoos on their face",
-  "a birthmark on the left cheek",
-  "a birthmark on the right cheek",
-  "a mole on the left cheek",
-  "a mole on the left cheek",
-  "a large wart on their nose",
-  "a gold ring in their nose",
-  "numerous piercings in both ears",
-  "an acid burn on their left cheek",
-  "an acid burn on their right cheek",
-  "are red and irritated",
-  "are nearly swollen shut",
-  "a golden tooth"
-];
-gen_data["HairColor"] = {
-  "1-30":"black",
-  "31-38":"dark brown",
-  "39-46":"natural brown",
-  "47-53":"light brown",
-  "54-60":"chestnut brown",
-  "61-65":"light blond",
-  "66-70":"golden blond",
-  "71-75":"natural blond",
-  "76-80":"platinum blond",
-  "81-83":"auburn",
-  "84-87":"red",
-  "88-90":"orange",
-  "91-93":"copper",
-  "94-96":"strawberry blond",
-  "97-98":"salt and pepper",
-  "99":"gray","100":"white",
-  "101":"bright blue",
-  "102":"dark blue",
-  "103":"light blue",
-  "104":"bright green",
-  "105":"dark green",
-  "106":"light green",
-  "107":"bright pink",
-  "108":"light pink",
-  "109":"dark purple",
-  "110":"bright purple",
-  "111":"light purple",
-  "112":"bright red"
-};
+
+// Eye Color -- This is the eye color for a character and it is based on race to allow for greater customization and weighting.
+gen_data["EyeColorDragonborn"] = {"1-2":"amber","3-4":"blue","5-6":"brown","7-8":"gray","9-10":"green","11-12":"hazel","13-14":"red"};
+gen_data["EyeColorDwarf"] = {"1-40":"brown","41-65":"blue","66-85":"hazel","86-95":"green","96-97":"gray","98":"hetachromatic (brown/blue)","99":"hetachromatic (blue/hazel)","100":"hetachromatic (blue/green)"};
+gen_data["EyeColorElf"] = {"1-40":"brown","41-65":"blue","66-85":"hazel","86-95":"green","96-97":"gray","98":"hetachromatic (brown/blue)","99":"hetachromatic (blue/hazel)","100":"hetachromatic (blue/green)"};
+gen_data["EyeColorGnome"] = {"1-40":"brown","41-65":"blue","66-85":"hazel","86-95":"green","96-97":"gray","98":"hetachromatic (brown/blue)","99":"hetachromatic (blue/hazel)","100":"hetachromatic (blue/green)"};
+gen_data["EyeColorHalf-Elf"] = {"1-40":"brown","41-65":"blue","66-85":"hazel","86-95":"green","96-97":"gray","98":"hetachromatic (brown/blue)","99":"hetachromatic (blue/hazel)","100":"hetachromatic (blue/green)"};
+gen_data["EyeColorHalf-Orc"] = {"1-40":"brown","41-65":"blue","66-85":"hazel","86-95":"green","96-97":"gray","98":"hetachromatic (brown/blue)","99":"hetachromatic (blue/hazel)","100":"hetachromatic (blue/green)"};
+gen_data["EyeColorHalfling"] = {"1-40":"brown","41-65":"blue","66-85":"hazel","86-95":"green","96-97":"gray","98":"hetachromatic (brown/blue)","99":"hetachromatic (blue/hazel)","100":"hetachromatic (blue/green)"};
+gen_data["EyeColorHuman"] = {"1-40":"brown","41-65":"blue","66-85":"hazel","86-95":"green","96-97":"gray","98":"hetachromatic (brown/blue)","99":"hetachromatic (blue/hazel)","100":"hetachromatic (blue/green)"};
+gen_data["EyeColorOrc"] = {"1-40":"brown","41-65":"blue","66-85":"hazel","86-95":"green","96-97":"gray","98":"hetachromatic (brown/blue)","99":"hetachromatic (blue/hazel)","100":"hetachromatic (blue/green)"};
+gen_data["EyeColorTiefling"] = {"1-40":"brown","41-65":"blue","66-85":"hazel","86-95":"green","96-97":"gray","98":"hetachromatic (brown/blue)","99":"hetachromatic (blue/hazel)","100":"hetachromatic (blue/green)","101-130":"black","131-160":"red","161-180":"white","181-200":"amber"};
+
+// Eye Type -- These are adjectives that describe a type of eye, but in a way that should apply to any race.
+gen_data["EyeType"] = {"1":"cloudy","2":"bulging","3-4":"close-set","5-6":"deep-set","7-8":"downturned","9-10":"enormous","11-12":"hooded","13-14":"large","15-16":"narrow","17-18":"piercing","19-20":"prominent","21-22":"protruding","23-24":"small","25-26":"squinting","27-28":"thin","29-30":"tiny","31-32":"wide","33-34":"wide-set","35":"bloodshot","36":"beady","37":"dopey","38-39":"oval-shaped","40-42":"round"};
+
+// Facial Hair -- These determine whether or not a particular race & gender combination may have facial hair and what type they might have.
+gen_data["FacialHairDragonbornFeminine"] = {"1":"None"};
+gen_data["FacialHairDragonbornMasculine"] = {"1":"None"};
+gen_data["FacialHairDwarfFeminine"] = {"1-70":"None","75-90":"Beard","91-95":"Goatee","96-100":"Mustache"};
+gen_data["FacialHairDwarfMasculine"] = {"1-10":"None","11-90":"Beard","91-95":"Goatee","96-100":"Mustache"};
+gen_data["FacialHairElfFeminine"] = {"1-100":"None"};
+gen_data["FacialHairElfMasculine"] = {"1-100":"None"};
+gen_data["FacialHairGnomeFeminine"] = {"1-100":"None"};
+gen_data["FacialHairGnomeMasculine"] = {"1-40":"None","41-60":"Beard","61-80":"Goatee","81-100":"Mustache"};
+gen_data["FacialHairHalf-ElfFeminine"] = {"1-100":"None"};
+gen_data["FacialHairHalf-ElfMasculine"] = {"1-70":"None","71-80":"Beard","81-90":"Goatee","91-100":"Mustache"};
+gen_data["FacialHairHalf-OrcFeminine"] = {"1-100":"None"};
+gen_data["FacialHairHalf-OrcMasculine"] = {"1-40":"None","41-80":"Beard","81-90":"Goatee","91-100":"Mustache"};
+gen_data["FacialHairHalflingFeminine"] = {"1-100":"None"};
+gen_data["FacialHairHalflingMasculine"] = {"1-50":"None","51-80":"Beard","81-90":"Goatee","91-100":"Mustache"};
+gen_data["FacialHairHumanFeminine"] = {"1-100":"None"};
+gen_data["FacialHairHumanMasculine"] = {"1-40":"None","41-60":"Beard","61-80":"Goatee","81-100":"Mustache"};
+gen_data["FacialHairOrcFeminine"] = {"1-100":"None"};
+gen_data["FacialHairOrcMasculine"] = {"1-40":"None","41-70":"Beard","71-90":"Goatee","91-100":"Mustache"};
+gen_data["FacialHairTieflingFeminine"] = {"1-100":"None"};
+gen_data["FacialHairTieflingMasculine"] = {"1-85":"None","86-90":"Beard","91-95":"Goatee","96-100":"Mustache"};
+
+// Facial Hair Style -- A collection of descriptions of various styles of facial hair for bears, goatees, and mustaches.
+gen_data["FacialHairStyleBeard"] = ["well-trimmed and brushed","growing wild and untamed","braided into multiple braids and capped with small gold rings","braided on both sides of the mouth","gathered into a single braid at the chin","gathered at the chin and tied with string","scruffy and untrimmed","growing more outward than down","styled into a point","boxed and full","neatly styled and capped with a large handlebar mustache","with bits of crumbs tangled amongst the hairs","patchy and uneven"];
+gen_data["FacialHairStyleGoatee"] = ["well-trimmed and brushed","growing wild and untamed","braided into multiple braids and capped with small gold rings","braided on both sides of the mouth","gathered into a single braid at the chin","gathered at the chin and tied with string","scruffy and untrimmed","growing more outward than down","styled into a van dyke","boxed and full","neatly styled and capped with a large handlebar mustache","with bits of crumbs tangled amongst the hairs","patchy and uneven"];
+gen_data["FacialHairStyleMustache"] = ["well-trimmed and brushed","growing wild and untamed","styled into an elaborate handlebar","overflowing into a long fu-manchu","braided at the corners","scruffy and untrimmed","with bits of crumbs tangled amongst the hairs","parted in the middle","parted and waxed at the tips into a point","with a small, soul patch above the chin"];
+
+// Features  -- A long list of short sentence fragments containing a range of physical features.
+gen_data["Feature"] = ["a large, broad nose","a small, narrow nose","a short, broad nose","a short, narrow nose","a pronounced brow","a receding hairline","a cleft lip","a strong, jutting chin","abnormally large ears","a big, toothy grin","a permanent smirk","freckles","a big smile","a warm smile","a wry smile","an inquisitive look","a blank expression","a thousand mile stare","a dazed expression","a look of confusion","flared nostrils","noticeably crooked-teeth","thin, wire-framed spectacles","thick glasses","a gold-framed, monocle","horn-rimmed glasses","small, round glasses","cracked glasses","thick, dust-caked goggles","a patch over the right eye","a patch over the left eye","a scar over the right eye","a scar over the left eye","a scar on the right cheek","a scar on the left cheek","a fresh bruise under the right eye","a fresh bruise under the left eye","burns on the right side of the face","burns on the left side of the face","bags under both eyes","missing numerous teeth","a missing right ear","a missing left ear","intricately drawn tattoos on their face","a birthmark on the left cheek","a birthmark on the right cheek","a mole on the left cheek","a mole on the left cheek","a large wart on their nose","a gold ring in their nose","numerous piercings in both ears","an acid burn on their left cheek","an acid burn on their right cheek","are red and irritated","are nearly swollen shut","a golden tooth"];
+
+// Hair Color -- This is NOT yet race based, as I decided to keep it simple for hair color for now. I probably will break this one out in the future.
+gen_data["HairColor"] = {"1-30":"black","31-38":"dark brown","39-46":"natural brown","47-53":"light brown","54-60":"chestnut brown","61-65":"light blond","66-70":"golden blond","71-75":"natural blond","76-80":"platinum blond","81-83":"auburn","84-87":"red","88-90":"orange","91-93":"copper","94-96":"strawberry blond","97-98":"salt and pepper","99":"gray","100":"white","101":"bright blue","102":"dark blue","103":"light blue","104":"bright green","105":"dark green","106":"light green","107":"bright pink","108":"light pink","109":"dark purple","110":"bright purple","111":"light purple","112":"bright red"};
+
+// Hair Length -- This should probably be a generic list, but for now it just determines the lenght of character's hair or facial hair.
 gen_data["HairLength"] = ["Short","Long"];
-gen_data["HairStyleLong"] = {
-  "1-2":"tied back in a loose ponytail",
-  "3-4":"slicked back",
-  "5-6":"down to the top of the collar",
-  "7-8":"worn in a bun",
-  "9-10":"parted in the middle",
-  "11-12":"pulled back into a messy bun",
-  "13-14":"in long, tight dreadlocks",
-  "15-16":"worn half-up and half-down",
-  "17":"that stretches down to the middle of the back",
-  "18":"long in the back and short up top",
-  "19-20":"long on the top and shaved on one side",
-  "21-22":"in a shaggy, half ponytail",
-  "23":"with a series of small braids framing the face",
-  "24-25":"swept back behind the ears",
-  "26-27":"pulled back and braided tightly",
-  "28-29":"pulled over to one side",
-  "40":"in a high mohawk",
-  "41":"tied up with a leather strap",
-  "42-43":"tied back in a series of braids",
-  "44":"pulled over to one side and tied in a bun"
-};
-gen_data["HairStyleShort"] = {
-  "1-2":"parted in the middle",
-  "3-4":"parted on the side",
-  "5-6":"cut close to the scalp",
-  "7-8":"swept over to one side",
-  "9-10":"slicked back",
-  "11-12":"that is wild and untamed",
-  "13-14":"swept-up in the front",
-  "15-16":"cropped and undercut on one side",
-  "17-18":"tied up in a small bun",
-  "19-20":"with short, veritcal spikes",
-  "21-22":"pulled to one side and shaved on the other",
-  "23":"shaved on the sides and pulled up into a top-knot",
-  "24":"shaved on both sides and swept up into a mohawk",
-  "25-26":"tied back in a short ponytail",
-  "27":"in tight, short dreads",
-  "28-29":"with a small cowlick in the back",
-  "30":"with a flat top"
-};
-gen_data["HairType"] = {
-  "1-2":"straight",
-  "3-4":"messy",
-  "5-6":"wavy",
-  "7-8":"curly",
-  "9":"frizzy",
-  "10":"tangled",
-  "11-12":"thick",
-  "13-14":"thin",
-  "15-16":"fine",
-  "17-18":"coarse",
-  "19-20":"dirty",
-  "21":"matted",
-  "22":"frayed",
-  "23":"thinning",
-  "24-25":"greasy",
-  "26":"patchy",
-  "27":"oily",
-  "28-29":"shiny",
-  "30":"receeding",
-  "31-33":"natural",
-  "34-36":"bushy"
-};
+
+// Hair Styles -- A list of hair styles based on the length of the character's hair.
+gen_data["HairStyleLong"] = {"1-2":"tied back in a loose ponytail","3-4":"slicked back","5-6":"down to the top of the collar","7-8":"worn in a bun","9-10":"parted in the middle","11-12":"pulled back into a messy bun","13-14":"in long, tight dreadlocks","15-16":"worn half-up and half-down","17":"that stretches down to the middle of the back","18":"long in the back and short up top","19-20":"long on the top and shaved on one side","21-22":"in a shaggy, half ponytail","23":"with a series of small braids framing the face","24-25":"swept back behind the ears","26-27":"pulled back and braided tightly","28-29":"pulled over to one side","40":"in a high mohawk","41":"tied up with a leather strap","42-43":"tied back in a series of braids","44":"pulled over to one side and tied in a bun"};
+gen_data["HairStyleShort"] = {"1-2":"parted in the middle","3-4":"parted on the side","5-6":"cut close to the scalp","7-8":"swept over to one side","9-10":"slicked back","11-12":"that is wild and untamed","13-14":"swept-up in the front","15-16":"cropped and undercut on one side","17-18":"tied up in a small bun","19-20":"with short, veritcal spikes","21-22":"pulled to one side and shaved on the other","23":"shaved on the sides and pulled up into a top-knot","24":"shaved on both sides and swept up into a mohawk","25-26":"tied back in a short ponytail","27":"in tight, short dreads","28-29":"with a small cowlick in the back","30":"with a flat top"};
+
+// Hair Type -- Adjectives to describe the text, shape, or condition of a character's hair.
+gen_data["HairType"] = {"1-2":"straight","3-4":"messy","5-6":"wavy","7-8":"curly","9":"frizzy","10":"tangled","11-12":"thick","13-14":"thin","15-16":"fine","17-18":"coarse","19-20":"dirty","21":"matted","22":"frayed","23":"thinning","24-25":"greasy","26":"patchy","27":"oily","28-29":"shiny","30":"receeding","31-33":"natural","34-36":"bushy"};
+
+// Horn Direction -- Just a collection of phrases that describe the direction of a character's horns, if present.
+gen_data["HornDirectionDragonborn"] = ["up and around the side of the head","up and over the top of the head","up and back","up and forward","backward","forward","straight out","straight up"];
+gen_data["HornDirectionTiefling"] = ["up and around the side of the head","up and over the top of the head","up and back","up and forward","backward","forward","straight out","straight up"];
+
+// Horn Placement -- Where on the head to a character's horns originate from.
+gen_data["HornPlacementDragonborn"] = ["forehead","top of the head","side of the head","back of the head","temples"];
+gen_data["HornPlacementTiefling"] = ["forehead","top of the head","side of the head","back of the head","temples"];
+
+// Horn Style -- Simple adjectives describe the style of horns 
+gen_data["HornStyleDragonborn"] = ["angle","bend","curl","hook","poke","protrude","sweep","twist"];
+gen_data["HornStyleTiefling"] = ["angle","bend","curl","hook","poke","protrude","sweep","twist"];
+
+// Horn Type -- Simple adjectives to describe the characteristics of a characters's horns.
+gen_data["HornTypeDragonborn"] = ["blunt","rough","sharp","smooth","thick","thin"];
+gen_data["HornTypeTiefling"] = ["blunt","rough","sharp","smooth","thick","thin"];
 
 // --------------------------------------------------------------------------------
 // Direction
@@ -268,6 +154,93 @@ gen_data["HairType"] = {
 gen_data["Direction"] = ["North","Northeast","East","Southeast","South","Southwest","West","Northwest"];
 gen_data["DirectionCardinal"] = ["North","East","South","West"];
 gen_data["DirectionOrdinal"] = ["Northeast","Southeast","Southwest","Northwest"];
+
+
+// --------------------------------------------------------------------------------
+// Employment
+// --------------------------------------------------------------------------------
+
+gen_data["EmployerProfitability"] = ["Profitable","Struggling","Successful","Failing"];
+
+// Adventure
+gen_data["EmployerAdjectiveAdventure"] = ["Famous","Infamous","Respected","Shady","Unknown","Unscrupulous","Well-known"];
+gen_data["EmployerGroupAdventure"] = ["Band","Company","Group","Party"];
+gen_data["EmployerTypeAdventure"] = ["Adventurers","Mercenaries","Monster Hunters","Treasure-Seekers","Troublemakers"]
+
+// Agriculture
+gen_data["EmploymentTypeAgriculture"] = ["Farm","Homestead","Orchard","Vineyard"];
+
+// Art
+gen_data["EmploymentTypeArt"] = ["Cottage","Loft","Studio"];
+
+// Crime
+
+gen_data["EmploymentCrimeAdjective"] = ["Influential","Major","Minor","Powerful","Ruthless","Waning","Weak"];
+gen_data["EmploymentCrimeGroup"] = ["Crew","Gang","Group","Party"];
+gen_data["EmploymentCrimeType"] = ["Crime Family", "Crime Syndicate", "Criminal Enterprise", "Gang", "Thieves Guild"];
+
+
+gen_data["EmploymentAdjectiveCrime"] = ["Influential","Major","Minor","Powerful","Ruthless","Waning","Weak"];
+
+
+
+gen_data["EmploymentTypeEducation"] = ["Academy","College","School","University"];
+gen_data["EmploymentTypeHospitality"] = ["Hostel","Hotel","Inn","Public House","Tavern"];
+gen_data["EmploymentTypeIndustry"] = ["Foundry","Ironworks","Lumber Mill","Mine","Quarry","Siegeworks","Steel Mill","Warehouse"];
+gen_data["EmploymentTypeMilitary"] = ["Army of a Foreign Ally","Army of a Foreign Rival","Local Militia","National Army"];
+
+
+
+
+gen_data["EmploymentTypeAdventure"] = ["Adventurers","Mercenaries","Monster Hunters","Treasure-Seekers","Troublemakers"];
+gen_data["EmploymentAdjectiveAdventure"] = ["Experienced","Famous","Inexperienced","Infamous","Well-known"];
+gen_data["EmploymentGroupAdventure"] = ["Band","Company","Group","Party"];
+gen_data["EmploymentMissionAdventure"] = ["on their way to explore","recently returned from a lucrative expedition to","recovering from a deadly expedition to"];
+gen_data["EmploymentStructureAdventure"] = ["Barrow","Cave","Cavern","Crypt","Dungeon","Ruin","Tomb"];
+gen_data["EmploymentStructureAdjectiveAdventure"] = ["Abandoned","Ancient","Cursed","Forgotten","Haunted","Lost","Old","Recently Discovered"];
+gen_data["EmploymentLocationAdventure"] = ["{LocationWilderness}"];
+
+
+
+// Education
+gen_data["EmploymentAdjectiveEducation"] = ["Elite","Exclusive","Famous","Prestigious","Public","Underfunded"];
+
+// Hospitality
+gen_data["EmploymentAdjectiveHospitality"] = ["Comfortable","Cozy","Seedy"];
+
+// Industry
+gen_data["EmploymentAdjectiveIndustry"] = ["Profitable",]
+
+// Military
+gen_data["EmploymentAdjectiveMilitary"] = ["Elite","Inexperienced","Seasoned","Under-strength","Veteran"];
+gen_data["EmploymentGroupMilitary"] = ["Battalion","Brigade","Company","Detachment","Division","Legion","Patrol","Squad","Regiment"];
+
+// Merchant
+gen_data["EmploymentMerchant"] = ["Business","Shop"];
+gen_data["EmploymentLocationMerchant"] = ["{LocationUrban}"];
+
+// Nature
+
+// Nautical
+
+// Nobility
+gen_data["EmploymentNobility"] = ["Estate","Keep","Manor House","Mansion","Villa"];
+
+// Police
+gen_data["EmploymentPolice"] = ["Municipal Guard","Local Watch","Volunteer Watch"];
+gen_data["EmploymentAdjectivePolice"] = ["Corrupt","Elite","Inexperienced","Seasoned","Under-strength","Veteran"];
+gen_data["EmploymentGroupPolice"] = ["Detachment","Patrol","Squad"];
+
+// Professional
+gen_data["EmploymentProfessional"] = ["Office"];
+
+// Religion
+gen_data["EmploymentReligion"] = ["Abbey","Cathedral","Monastery","Sanctuary","Temple"];
+
+// Service
+gen_data["EmploymentService"] = ["Noble Family", "Noble House"];
+gen_data["EmploymentServiceAdjective"] = ["Influential","Major","Minor","Powerful","Ruthless","Waning","Weak"];
+
 
 // --------------------------------------------------------------------------------
 // Gender
@@ -293,6 +266,42 @@ gen_data["GeographyWaterSmall"] = ["Pond","Lake"];
 gen_data["GeographyWaterLarge"] = ["Ocean","Sea"];
 gen_data["GeographyWaterwaySmall"] = ["Brook","Creek","Stream"];
 gen_data["GeographyWaterwayLarge"] = ["Canal","River","Run","Waterway"];
+
+// --------------------------------------------------------------------------------
+// Landmarks
+// --------------------------------------------------------------------------------
+gen_data["LandmarkRural"] = ["Old {MaterialWood} Tree","Sawmill","Windmill"];
+gen_data["LandmarkUrban"] = ["Courthouse","Clocktower","Gate","{Size} Inn","Library","Prison","Public Common"];
+
+// --------------------------------------------------------------------------------
+// Locations
+// --------------------------------------------------------------------------------
+
+// Location Distance -- Sentence fragments to describe distances in urban, rural, and wilderness settings.
+gen_data["LocationDistanceRural"] = ["about a quarter mile","about a half a mile","about a mile","a couple miles"];
+gen_data["LocationDistanceUrban"] = ["a block","a couple blocks","about a hundred feet","a couple hundred feet"];
+gen_data["LocationDistanceWilderness"] = ["about a day's walk","about two days","about three days","about five days"];
+
+// Location -- Sentence fragments to create a realistic sounding location (relative to a landmark).
+gen_data["LocationRural"] = [
+  "{LocationDistanceRural} {Direction} of the {LandmarkRural}",
+  "across from the {LandmarkRural} on the {Direction} side of town",
+  "{LocationDistanceRural} down the road from the {LandmarkRural} on the {Direction} side of town",
+  "near the {LandmarkRural} on the {Direction} side of town",
+  "next to the {LandmarkRural} on the {Direction} side of town"
+];
+gen_data["LocationUrban"] = [
+  "across the street from the {LandmarkUrban} on the {Direction} side of town",
+  "{LocationDistanceUrban} down the street from the {LandmarkUrban} on the {Direction} side of town",
+  "next to the {LandmarkUrban} on the {Direction} side of town"
+];
+gen_data["LocationWilderness"] = [
+  "in the {GeographyForest} {LocationDistanceWilderness} {Direction} of town",
+  "in the {GeographyGrassland} {LocationDistanceWilderness} {Direction} of town",
+  "in the {GeographyHill} {LocationDistanceWilderness} {Direction} of town",
+  "in the {GeographyMountain} {LocationDistanceWilderness} {Direction} of town",
+  "in the {GeographySwamp} {LocationDistanceWilderness} {Direction} of town"
+];
 
 // --------------------------------------------------------------------------------
 // Magic School
@@ -444,7 +453,7 @@ gen_data["NameVirtueTiefling"] = ["Ambition","Art","Carrion","Chant","Creed","De
 // NPCClass
 // --------------------------------------------------------------------------------
 
-// NPCClassLevels
+// NPC Class Level -- Divides the supported NPC Classes into generic levels 
 gen_data["NPCClassLevel"] = {"1-60":"Low","61-90":"Medium","91-100":"High"};
 gen_data["NPCClassLevelLow"] = ["Acolyte","Bandit","Commoner","Cultist","Guard","Noble","Scout","Thug"];
 gen_data["NPCClassLevelMedium"] = ["Bandit Captain","Berserker","Cult Fanatic","Druid","Knight","Priest","Spy","Tribal Warrior","Veteran"];
@@ -472,6 +481,7 @@ gen_data["OccupationAgricultureMartialRanged"] = ["Farmer"];
 // Trade - Art
 gen_data["OccupationArtCommoner"] = ["Acrobat","Actor","Artist","Dancer","Painter","Playwright","Poet","Singer","Sculptor","Writer"];
 gen_data["OccupationArtMartialMelee"] = ["Gladiator"];
+gen_data["OccupationArtNoble"] = ["Acrobat","Actor","Artist","Dancer","Painter","Playwright","Poet","Singer","Sculptor","Writer"];
 
 // Trade - Crime
 gen_data["OccupationCrimeCommoner"] = ["Bookmaker","Con-Artist","Fence","Loan Shark","Messenger"];
@@ -487,10 +497,6 @@ gen_data["OccupationEducationMartialMelee"] = ["Guard"];
 gen_data["OccupationEducationMartialRanged"] = ["Gamekeeper"];
 gen_data["OccupationEducationNature"] = ["Professor of Natural Magic"];
 gen_data["OccupationEducationNoble"] = ["Chancellor","Dean","Headmaster"];
-
-// Trade - Government
-gen_data["OccupationGovernmentCommoner"] = ["Administrator","Bookkeeper","Clerk","Surveyor","Tax Collector"];
-gen_data["OccupationGovernmentNoble"] = ["Bureaucrat","Councilor","Judge","Magistrate"];
 
 // Trade - Hospitality
 gen_data["OccupationHospitalityCommoner"] = ["Baker","Barkeep","Cook","Innkeeper","Porter","Servant","Stablehand","Waiter"];
@@ -585,111 +591,6 @@ gen_data["OccupationGroupSpy"] = ["Stealthy"];
 gen_data["OccupationGroupThug"] = ["MartialMelee"];
 gen_data["OccupationGroupTribal-Warrior"] = ["MartialMelee"];
 gen_data["OccupationGroupVeteran"] = ["MartialMelee"];
-
-// --------------------------------------------------------------------------------
-// Organization
-// --------------------------------------------------------------------------------
-gen_data["OrganizationProfitability"] = ["Profitable","Struggling","Successful","Failing"];
-
-
-gen_data["LandmarkRural"] = ["Old {MaterialWood} Tree","Sawmill","Windmill"];
-gen_data["LandmarkUrban"] = ["Courthouse","Clocktower","Gate","{Size} Inn","Library","Prison","Public Common"];
-
-gen_data["LocationWildernessDistance"] = ["about a day's walk","about two days","about three days","about five days"];
-
-gen_data["LocationRural"] = [
-  "{LocationRuralDistance} {Direction} of the {LandmarkRural}",
-  "across from the {LandmarkRural} on the {Direction} side of town",
-  "{LocationRuralDistance} down the road from the {LandmarkRural} on the {Direction} side of town",
-  "near the {LandmarkRural} on the {Direction} side of town",
-  "next to the {LandmarkRural} on the {Direction} side of town"
-];
-gen_data["LocationRuralDistance"] = ["about a quarter mile","about a half a mile","about a mile","a couple miles"];
-gen_data["LocationUrban"] = [
-  "across the street from the {LandmarkUrban} on the {Direction} side of town",
-  "{LocationUrbanDistance} down the street from the {LandmarkUrban} on the {Direction} side of town",
-  "next to the {LandmarkUrban} on the {Direction} side of town"
-];
-gen_data["LocationUrbanDistance"] = ["a block","a couple blocks","about a hundred feet","a couple hundred feet"];
-gen_data["LocationWilderness"] = [
-  "in the {GeographyForest} {LocationWildernessDistance} {Direction} of town",
-  "in the {GeographyGrassland} {LocationWildernessDistance} {Direction} of town",
-  "in the {GeographyHill} {LocationWildernessDistance} {Direction} of town",
-  "in the {GeographyMountain} {LocationWildernessDistance} {Direction} of town",
-  "in the {GeographySwamp} {LocationWildernessDistance} {Direction} of town"
-];
-gen_data["LocationWildernessDistance"] = ["about a day's walk","about two days","about three days","about five days"];
-
-
-
-// Adventure
-gen_data["OrganizationAdventure"] = ["Adventurers","Mercenaries","Monster Hunters","Treasure-Seekers","Troublemakers"];
-gen_data["OrganizationAdjectiveAdventure"] = ["Experienced","Famous","Inexperienced","Infamous","Well-known"];
-gen_data["OrganizationGroupAdventure"] = ["Band","Group","Party"];
-gen_data["OrganizationMissionAdventure"] = ["on their way to explore","recently returned from a lucrative expedition to","recovering from a deadly expedition to"];
-gen_data["OrganizationStructureAdventure"] = ["Barrow","Cave","Cavern","Crypt","Dungeon","Ruin","Tomb"];
-gen_data["OrganizationStructureAdjectiveAdventure"] = ["Abandoned","Ancient","Cursed","Forgotten","Haunted","Lost","Old","Recently Discovered"];
-gen_data["OrganizationLocationAdventure"] = ["{LocationWilderness}"];
-
-// Agriculture
-gen_data["OrganizationAgriculture"] = ["Farm","Homestead","Orchard","Vineyard"];
-gen_data["OrganizationLocationAgriculture"] = ["{LocationRural}"];
-
-// Art
-gen_data["OrganizationArt"] = ["Cottage","Loft","Studio"];
-gen_data["OrganizationLocationArt"] = ["{LocationUrban}"];
-
-// Crime
-gen_data["OrganizationCrime"] = ["Crime Family", "Crime Syndicate", "Criminal Enterprise", "Gang", "Thieves Guild"];
-gen_data["OrganizationAdjectiveCrime"] = ["Influential","Major","Minor","Powerful","Ruthless","Waning","Weak"];
-gen_data["OrganizationLocationCrime"] = ["{LocationUrban}"];
-
-// Education
-gen_data["OrganizationEducation"] = ["Academy","College","School","University"];
-gen_data["OrganizationAdjectiveEducation"] = ["Elite","Exclusive","Famous","Prestigious","Public","Underfunded"];
-gen_data["OrganizationLocationEducation"] = ["{LocationUrban}"];
-
-// Government
-gen_data["OrganizationGovernment"] = ["Government of a Foreign Ally","Government of a Foreign Rival","Local Government","National Government, Regional Government"];
-gen_data["OrganizationLocationGovernment"] = ["{LocationUrban}"];
-
-// Hospitality
-gen_data["OrganizationHospitality"] = ["Hostel","Hotel","Inn","Public House","Tavern"];
-gen_data["OrganizationAdjectiveHospitality"] = ["Comfortable","Cozy","Seedy"];
-
-// Industry
-gen_data["OrganizationIndustry"] = ["Foundry","Ironworks","Lumber Mill","Mine","Quarry","Siegeworks","Steel Mill","Warehouse"];
-
-// Military
-gen_data["OrganizationMilitary"] = ["Army of a Foreign Ally","Army of a Foreign Rival","Local Militia","National Army"];
-gen_data["OrganizationAdjectiveMilitary"] = ["Elite","Inexperienced","Seasoned","Under-strength","Veteran"];
-gen_data["OrganizationGroupMilitary"] = ["Battalion","Brigade","Company","Detachment","Division","Legion","Patrol","Squad","Regiment"];
-
-// Merchant
-gen_data["OrganizationMerchant"] = ["Business","Shop"];
-gen_data["OrganizationLocationMerchant"] = ["{LocationUrban}"];
-
-// Nature
-
-// Nautical
-
-// Nobility
-gen_data["OrganizationNobility"] = ["Estate","Keep","Manor House","Mansion","Villa"];
-
-// Police
-gen_data["OrganizationPolice"] = ["Municipal Guard","Local Watch","Volunteer Watch"];
-gen_data["OrganizationAdjectivePolice"] = ["Corrupt","Elite","Inexperienced","Seasoned","Under-strength","Veteran"];
-gen_data["OrganizationGroupPolice"] = ["Detachment","Patrol","Squad"];
-
-// Professional
-gen_data["OrganizationProfessional"] = ["Office"];
-
-// Religion
-gen_data["OrganizationReligion"] = ["Abbey","Cathedral","Monastery","Sanctuary","Temple"];
-
-// Service
-gen_data["OrganizationService"] = ["Noble Family", "Noble House"];
-gen_data["OrganizationServiceAdjective"] = ["Influential","Major","Minor","Powerful","Ruthless","Waning","Weak"];
 
 // --------------------------------------------------------------------------------
 // Pantheon -- Provides lists of gods, demons, and devils that may be worshipped.
@@ -788,7 +689,7 @@ gen_data["TradeGladiator"] = {"1":"Adventure","2":"Agriculture","3":"Art","4":"C
 gen_data["TradeGuard"] = {"1":"Agriculture","2":"Education","3":"Industry","4":"Military","5":"Service"};
 gen_data["TradeKnight"] = {"1":"Adventure","2":"Military"};
 gen_data["TradeMage"] = {"1":"Adventure","2":"Education","3":"Merchant","4":"Military","5":"Service"};
-gen_data["TradeNoble"] = {"1":"Adventure","2":"Crime","3":"Education","4":"Hospitality","5":"Industry","6":"Merchant","7":"Military","8":"Service"};
+gen_data["TradeNoble"] = {"1":"Adventure","2":"Art","3":"Crime","4":"Education","5":"Hospitality","6":"Industry","7":"Merchant","8":"Military","9":"Service"};
 gen_data["TradePriest"] = {"1":"Adventure","2":"Education","3":"Merchant","4":"Military","5":"Religion"};
 gen_data["TradeScout"] = {"1":"Adventure","2":"Agriculture","3":"Education","4":"Merchant","5":"Military","6":"Nature","7":"Service"};
 gen_data["TradeSpy"] = {"1":"Adventure","2":"Crime","3":"Merchant","4":"Military","5":"Service"};
@@ -971,256 +872,3 @@ gen_data["Interaction"] = [
   "Quiet",
   "Suspicious"
 ];
-
-
-
-
-// Dragonborn
-//--------------------------------------------------------------------------------
-gen_data["DragonbornBodyColorBase"] = {
-  "1":"amethyst",
-  "2-4":"black",
-  "5-7":"blue",
-  "8-10":"brass",
-  "11-13":"bronze",
-  "14-16":"copper",
-  "17-19":"crystal",
-  "20-22":"emerald",
-  "23-25":"gold",
-  "26-28":"green",
-  "29-31":"red",
-  "32-34":"sapphire",
-  "35-37":"silver",
-  "38-40":"topaz",
-  "41-43":"white"
-};
-gen_data["DragonbornBodyColorTone"] = ["bright","cool","dark","deep","glassy","light","medium","pale","warm"];
-gen_data["DragonbornEyeColor"] = {
-  "1-2":"amber",
-  "3-4":"blue",
-  "5-6":"brown",
-  "7-8":"gray",
-  "9-10":"green",
-  "11-12":"hazel",
-  "13-14":"red"
-};
-gen_data["DragonbornFacialHairFeminine"] = {"1":"None"};
-gen_data["DragonbornFacialHairMasculine"] = {"1":"None"};
-gen_data["DragonbornHornDirection"] = ["up and around the side of the head","up and over the top of the head","up and back","up and forward","backward","forward","straight out","straight up",];
-gen_data["DragonbornHornPlacement"] = ["forehead","top of the head","side of the head","back of the head","temples"];
-gen_data["DragonbornHornStyle"] = ["angle","bend","curl","hook","poke","protrude","sweep","twist"];
-gen_data["DragonbornHornType"] = ["blunt","rough","sharp","smooth","thick","thin"];
-
-
-// Dwarf
-//--------------------------------------------------------------------------------
-gen_data["DwarfBodyColorBase"] = ["beige","bronze","brown","ivory","pink"];
-gen_data["DwarfBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
-gen_data["DwarfEyeColor"] = {
-  "1-40":"brown",
-  "41-65":"blue",
-  "66-85":"hazel",
-  "86-95":"green",
-  "96-97":"gray",
-  "98":"hetachromatic (brown/blue)",
-  "99":"hetachromatic (blue/hazel)",
-  "100":"hetachromatic (blue/green)"
-};
-gen_data["DwarfFacialHairFeminine"] = {
-  "1-70":"None",
-  "75-90":"Beard",
-  "91-95":"Goatee",
-  "96-100":"Mustache"
-};
-gen_data["DwarfFacialHairMasculine"] = {
-  "1-10":"None",
-  "11-90":"Beard",
-  "91-95":"Goatee",
-  "96-100":"Mustache"
-};
-
-// Elf
-//--------------------------------------------------------------------------------
-gen_data["ElfBodyColorBase"] = ["beige","bronze","brown","ivory","pink"];
-gen_data["ElfBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
-gen_data["ElfEyeColor"] = {
-  "1-40":"brown",
-  "41-65":"blue",
-  "66-85":"hazel",
-  "86-95":"green",
-  "96-97":"gray",
-  "98":"hetachromatic (brown/blue)",
-  "99":"hetachromatic (blue/hazel)",
-  "100":"hetachromatic (blue/green)"
-};
-gen_data["ElfFacialHairFeminine"] = {"1-100":"None"};
-gen_data["ElfFacialHairMasculine"] = {"1-100":"None"};
-
-
-// Gnome
-//--------------------------------------------------------------------------------
-gen_data["GnomeBodyColorBase"] = ["beige","bronze","brown","ivory","pink"];
-gen_data["GnomeBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
-gen_data["GnomeEyeColor"] = {
-  "1-40":"brown",
-  "41-65":"blue",
-  "66-85":"hazel",
-  "86-95":"green",
-  "96-97":"gray",
-  "98":"hetachromatic (brown/blue)",
-  "99":"hetachromatic (blue/hazel)",
-  "100":"hetachromatic (blue/green)"
-};
-gen_data["GnomeFacialHairFeminine"] = {"1-100":"None"};
-gen_data["GnomeFacialHairMasculine"] = {
-  "1-40":"None",
-  "41-60":"Beard",
-  "61-80":"Goatee",
-  "81-100":"Mustache"
-};
-
-
-// Half-Elf
-//--------------------------------------------------------------------------------
-gen_data["Half-ElfBodyColorBase"] = ["beige","bronze","brown","ivory","pink"];
-gen_data["Half-ElfBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
-gen_data["Half-ElfEyeColor"] = {
-  "1-40":"brown",
-  "41-65":"blue",
-  "66-85":"hazel",
-  "86-95":"green",
-  "96-97":"gray",
-  "98":"hetachromatic (brown/blue)",
-  "99":"hetachromatic (blue/hazel)",
-  "100":"hetachromatic (blue/green)"
-};
-gen_data["Half-ElfFacialHairFeminine"] = {"1-100":"None"};
-gen_data["Half-ElfFacialHairMasculine"] = {
-  "1-70":"None",
-  "71-80":"Beard",
-  "81-90":"Goatee",
-  "91-100":"Mustache"
-};
-
-// Half-Orc
-//--------------------------------------------------------------------------------
-gen_data["Half-OrcBodyColorBase"] = ["beige","bronze","brown","ivory","gray","green","pink"];
-gen_data["Half-OrcBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
-gen_data["Half-OrcEyeColor"] = {
-  "1-40":"brown",
-  "41-65":"blue",
-  "66-85":"hazel",
-  "86-95":"green",
-  "96-97":"gray",
-  "98":"hetachromatic (brown/blue)",
-  "99":"hetachromatic (blue/hazel)",
-  "100":"hetachromatic (blue/green)"
-};
-gen_data["Half-OrcFacialHairFeminine"] = {"1-100":"None"};
-gen_data["Half-OrcFacialHairMasculine"] = {
-  "1-40":"None",
-  "41-80":"Beard",
-  "81-90":"Goatee",
-  "91-100":"Mustache"
-};
-
-// Halfling
-//--------------------------------------------------------------------------------
-gen_data["HalflingBodyColorBase"] = ["beige","bronze","brown","ivory","pink"];
-gen_data["HalflingBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
-gen_data["HalflingEyeColor"] = {
-  "1-40":"brown",
-  "41-65":"blue",
-  "66-85":"hazel",
-  "86-95":"green",
-  "96-97":"gray",
-  "98":"hetachromatic (brown/blue)",
-  "99":"hetachromatic (blue/hazel)",
-  "100":"hetachromatic (blue/green)"
-};
-gen_data["HalflingFacialHairFeminine"] = {"1-100":"None"};
-gen_data["HalflingFacialHairMasculine"] = {
-  "1-50":"None",
-  "51-80":"Beard",
-  "81-90":"Goatee",
-  "91-100":"Mustache"
-};
-
-
-// Human
-//--------------------------------------------------------------------------------
-
-gen_data["HumanBodyColorBase"] = ["beige","bronze","brown","ivory","pink"];
-gen_data["HumanBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
-gen_data["HumanEyeColor"] = {
-  "1-40":"brown",
-  "41-65":"blue",
-  "66-85":"hazel",
-  "86-95":"green",
-  "96-97":"gray",
-  "98":"hetachromatic (brown/blue)",
-  "99":"hetachromatic (blue/hazel)",
-  "100":"hetachromatic (blue/green)"
-};
-gen_data["HumanFacialHairFeminine"] = {"1-100":"None"};
-gen_data["HumanFacialHairMasculine"] = {
-  "1-40":"None",
-  "41-60":"Beard",
-  "61-80":"Goatee",
-  "81-100":"Mustache"
-};
-
- 
-// Orc
-//--------------------------------------------------------------------------------
-gen_data["OrcBodyColorBase"] = ["beige","bronze","brown","ivory","gray","green"];
-gen_data["OrcBodyColorTone"] = ["cool","dark","golden","light","medium","pale","warm"];
-gen_data["OrcEyeColor"] = {
-  "1-40":"brown",
-  "41-65":"blue",
-  "66-85":"hazel",
-  "86-95":"green",
-  "96-97":"gray",
-  "98":"hetachromatic (brown/blue)",
-  "99":"hetachromatic (blue/hazel)",
-  "100":"hetachromatic (blue/green)"
-};
-gen_data["OrcFacialHairFeminine"] = {"1-100":"None"};
-gen_data["OrcFacialHairMasculine"] = {
-  "1-40":"None",
-  "41-70":"Beard",
-  "71-90":"Goatee",
-  "91-100":"Mustache"
-};
-
-
-// Tiefling
-//--------------------------------------------------------------------------------
-gen_data["TieflingBodyColorBase"] = ["black","beige","blue","bronze","brown","gray","green","ivory","pink","purple","red","white"];
-gen_data["TieflingBodyColorTone"] = ["cool","dark","golden","light","medium","pale","rosy","warm"];
-gen_data["TieflingEyeColor"] = {
-  "1-40":"brown",
-  "41-65":"blue",
-  "66-85":"hazel",
-  "86-95":"green",
-  "96-97":"gray",
-  "98":"hetachromatic (brown/blue)",
-  "99":"hetachromatic (blue/hazel)",
-  "100":"hetachromatic (blue/green)",
-  "101-130":"black",
-  "131-160":"red",
-  "161-180":"white",
-  "181-200":"amber"
-};
-gen_data["TieflingFacialHairFeminine"] = {"1-100":"None"};
-gen_data["TieflingFacialHairMasculine"] = {
-  "1-85":"None",
-  "86-90":"Beard",
-  "91-95":"Goatee",
-  "96-100":"Mustache"
-};
-gen_data["TieflingHornDirection"] = ["up and around the side of the head","up and over the top of the head","up and back","up and forward","backward","forward","straight out","straight up",];
-gen_data["TieflingHornPlacement"] = ["forehead","top of the head","side of the head","back of the head","temples"];
-gen_data["TieflingHornStyle"] = ["angle","bend","curl","hook","poke","protrude","sweep","twist"];
-gen_data["TieflingHornType"] = ["blunt","rough","sharp","smooth","thick","thin"];
-

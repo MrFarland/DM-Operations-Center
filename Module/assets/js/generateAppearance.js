@@ -9,17 +9,16 @@ function generateAppearance() {
 
     // Body
     // -----------------------------------
-    // Generate common traits.
-    bodyColorBase = (generate_text(race + "BodyColorBase"));
-    bodyColorTone = (generate_text(race + "BodyColorTone"));
+    bodyBuild = generate_text("BodyBuild");
+    bodyColorBase = (generate_text("BodyColorBase" + race));
+    bodyColorTone = (generate_text("BodyColorTone" + race));
     bodyHeight = generate_text("BodyHeight");
-    bodyWeight = generate_text("BodyWeight");
 
     // If both are average, we don't need an "average, average build"
-    if (bodyHeight == "average" && bodyWeight == "average"){
+    if (bodyHeight == "average" && bodyBuild == "average"){
         bodyFrame = ("and " + a(bodyHeight) +  " build.");    
     } else {
-        bodyFrame = ("and " + a(bodyHeight) + ", " + bodyWeight +  " build");
+        bodyFrame = ("and " + a(bodyHeight) + ", " + bodyBuild +  " build");
     }
 
     // Determine the NPCs bodyColorType based on their race.
@@ -40,11 +39,11 @@ function generateAppearance() {
     hairLength = generate_text("HairLength");
     hairStyle = generate_text("HairStyle" + hairLength);
     hairType = generate_text("HairType");
-    hornDirection = generate_text(race + "HornDirection");
+    hornDirection = generate_text("HornDirection" + race);
     hornLength = generate_text("HairLength");
-    hornPlacement = generate_text(race + "HornPlacement");
-    hornStyle = generate_text(race + "HornStyle");
-    hornType = generate_text(race + "HornType");
+    hornPlacement = generate_text("HornPlacement" + race);
+    hornStyle = generate_text("HornStyle" + race);
+    hornType = generate_text("HornType" + race);
     
     // Change the headDescription for those races that do not have hair, horns or other distinct features.
     if (race == "Dragonborn"){
@@ -57,10 +56,10 @@ function generateAppearance() {
 
     // Face 
     // -----------------------------------
-    eyeColor = generate_text(race + "EyeColor");
+    eyeColor = generate_text("EyeColor" + race);
     eyeType = generate_text("EyeType");
     eyeDescription = (eyeType + ", " + eyeColor + " eyes");
-    facialHairType = generate_text(race + "FacialHair" + genderForm);
+    facialHairType = generate_text("FacialHair" + race + genderForm);
     facialHairStyle = generate_text("FacialHairStyle" + facialHairType);
     feature = generate_text("Feature");
 

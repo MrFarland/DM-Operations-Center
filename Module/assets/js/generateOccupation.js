@@ -16,39 +16,91 @@ function generateOccupation() {
     // Select an "Occupation Title" based on the selected "Trade" and "Occupation Group".
     occupationTitle = generate_text("Occupation" + trade + occupationGroup);
 
-    // Populate some common variables for the NPCs organization.
-    organization = generate_text("Organization" + trade);
-    organizationAdjective = generate_text("OrganizationAdjective" + trade);
-    organizationGroup = generate_text("OrganizationGroup" + trade);
-    organizationLocation = generate_text("OrganizationLocation" + trade);
-    organizationMission = generate_text("OrganizationMission" + trade);
-    organizationProfitability = generate_text("OrganizationProfitability");     
-    organizationSize = generate_text("Size");
-    organizationStructure = generate_text("OrganizationStructure" + trade);
-    organizationStructureAdjective = generate_text("OrganizationStructureAdjective" + trade);
-
-    // 
     if (trade == "Adventure"){
 
-        employment = ("with " + a(organizationGroup.toLowerCase()) + " of " + organization.toLowerCase() + " " + organizationMission.toLowerCase() + " " + a(organizationStructureAdjective.toLowerCase()) + " " + organizationStructure.toLowerCase() + " " + organizationLocation.toLowerCase());
+        employerAdjective = generate_text("EmployerAdjective" + trade);
+        employerGroup = generate_text("EmployerGroup" + trade);
+        employerType = generate_text("EmployerType" + trade);
 
-    } else if (trade == "Agriculture" || trade == "Merchant"){
+        employmentDescription = ("with " + a(employerAdjective.toLowerCase()) + " " + employerGroup.toLowerCase() + " of " + employerType.toLowerCase());
 
-        employment = ("with " + a(organizationSize.toLowerCase()) + ", " + organizationProfitability.toLowerCase() + " " + organization.toLowerCase() + " " + organizationLocation.toLowerCase());
+    } else if (trade == "Agriculture"){
+        
+        employerSize = generate_text("Size");
+        employerProfitability = generate_text("EmployerProfitability");
+        employerType = generate_text("EmployerType" + trade);
 
-    } else if (trade == "Military" || "Police"){
+        employmentDescription = ("with " + a(employerSize.toLowerCase()) + ", " + employerProfitability.toLowerCase() + " " + employerType.toLowerCase());
 
-        employment = ("in " + a(organizationAdjective.toLowerCase()) + " " + organizationGroup.toLowerCase() + " with the " + organization.toLowerCase());
+    } else if (trade == "Art"){
+
+        employerSize = generate_text("Size");
+        employerProfitability = generate_text("EmployerProfitability");
+        employerType = generate_text("EmployerType" + trade);
+
+        employmentDescription = ("with " + a(employerSize.toLowerCase()) + ", " + employerProfitability.toLowerCase() + " " + employerType.toLowerCase());
+
+    } else if (trade == "Crime"){
+
+        employmentDescription = (a(employment.toLowerCase()));
+
+    } else if (trade == "Education"){
+
+        employmentDescription = (a(employment.toLowerCase()));
+
+    } else if (trade == "Hospitality"){
+
+        employmentDescription = (a(employment.toLowerCase()));
+
+    } else if (trade == "Industry"){
+
+        employmentDescription = (a(employment.toLowerCase()));
+
+    } else if (trade == "Merchant"){
+
+        employmentDescription = (a(employment.toLowerCase()));
+
+    } else if (trade == "Military"){
+
+        employmentDescription = (a(employment.toLowerCase()));
+
+    } else if (trade == "Nature"){
+
+        employmentDescription = (a(employment.toLowerCase()));
+
+    } else if (trade == "Nautical"){
+
+        employmentDescription = (a(employment.toLowerCase()));
+
+    } else if (trade == "Nobility"){
+
+        employmentDescription = (a(employment.toLowerCase()));
+
+    } else if (trade == "Police"){
+
+        employmentDescription = (a(employment.toLowerCase()));
+
+    } else if (trade == "Professional"){
+
+        employmentDescription = (a(employment.toLowerCase()));
+
+    } else if (trade == "Religion"){
+
+        employmentDescription = (a(employment.toLowerCase()));
+
+    } else if (trade == "Service"){
+
+        employmentDescription = (a(employment.toLowerCase()));
 
     } else {
 
-        employment = ("with " + a(organizationGroup.toLowerCase()) + " of " + organization.toLowerCase());
+        employmentDescription = (a(employment.toLowerCase()));
 
     }
  
     experienceLevel = ageGroup;
 
-    occupation = (givenName + " is " + a(experienceLevel.toLowerCase()) + " " + occupationTitle.toLowerCase() + " " + employment + ". ");
+    occupation = (givenName + " is " + a(experienceLevel.toLowerCase()) + " " + occupationTitle.toLowerCase() + " " + employmentDescription + ". ");
 
     return [occupation];
 }
