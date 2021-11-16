@@ -155,96 +155,109 @@ gen_data["Direction"] = ["North","Northeast","East","Southeast","South","Southwe
 gen_data["DirectionCardinal"] = ["North","East","South","West"];
 gen_data["DirectionOrdinal"] = ["Northeast","Southeast","Southwest","Northwest"];
 
-
 // --------------------------------------------------------------------------------
 // Employer
 // --------------------------------------------------------------------------------
 
 // Adventure
-gen_data["EmployerAdventureAdjective"] = ["Famous","Infamous","Respected","Shady","Unknown","Unscrupulous","Well-known"];
+gen_data["EmployerAdventure"] = ["{EmployerAdventureAdjective} {EmployerAdventureSize} of {EmployerAdventureType}"];
+gen_data["EmployerAdventureAdjective"] = ["Famous","Infamous","Respected","Shady","Unscrupulous","Well-known"];
 gen_data["EmployerAdventureSize"] = ["Band","Company","Group","Party"];
-gen_data["EmployerAdventureType"] = ["Adventurers","Mercenaries","Monster Hunters","Treasure-Seekers","Troublemakers"]
+gen_data["EmployerAdventureType"] = ["Adventurers","Mercenaries","Monster Hunters","Treasure-Seekers","Troublemakers"];
 
 // Agriculture
+gen_data["EmployerAgriculture"] = ["{EmployerAgricultureSize}, {EmployerAgricultureAdjective} {EmployerAgricultureType} {EmployerAgricultureLocation}"];
 gen_data["EmployerAgricultureAdjective"] = ["Profitable","Struggling","Successful","Failing"];
-gen_data["EmployerAgricultureSize"] = ["Cottage","Loft","Studio"];
+gen_data["EmployerAgricultureSize"] = ["Large","Small"];
 gen_data["EmployerAgricultureType"] = ["Farm","Homestead","Orchard","Vineyard"];
+gen_data["EmployerAgricultureLocation"] = ["{LocationRural}","{LocationWilderness}"];
 
 // Art
+gen_data["EmployerArt"] = ["{EmployerArtSize}, {EmployerArtAdjective} {EmployerArtType}"];
 gen_data["EmployerArtAdjective"] = ["Profitable","Struggling","Successful","Failing"];
-gen_data["EmployerArtSize"] = ["Cottage","Loft","Studio"];
+gen_data["EmployerArtSize"] = ["Cramped","Small","Tiny"];
 gen_data["EmployerArtType"] = ["Cottage","Loft","Studio"];
 
 // Crime
+gen_data["EmployerCrime"] = ["{EmployerCrimeSize}, {EmployerCrimeAdjective} {EmployerCrimeType}"];
 gen_data["EmployerCrimeAdjective"] = ["Influential","Major","Minor","Powerful","Ruthless","Waning","Weak"];
-gen_data["EmployerCrimeGroup"] = ["Crew","Gang","Group","Party"];
-gen_data["EmployerCrimeSize"] = [];
+gen_data["EmployerCrimeSize"] = ["Large","Small"];
 gen_data["EmployerCrimeType"] = ["Crime Family", "Crime Syndicate", "Criminal Enterprise", "Gang", "Thieves Guild"];
 
 // Education
+gen_data["EmployerEducation"] = ["{EmployerEducationSize}, {EmployerEducationAdjective} {EmployerEducationType} {EmployerEducationLocation}"];
 gen_data["EmployerEducationAdjective"] = ["Elite","Exclusive","Famous","Prestigious","Public","Underfunded"];
-gen_data["EmployerEducationSize"] = ["Elite","Exclusive","Famous","Prestigious","Public","Underfunded"];
+gen_data["EmployerEducationSize"] = ["Large","Small"];
 gen_data["EmployerEducationType"] = ["Academy","College","School","University"];
-
-// Government
-gen_data["EmployerGovernmentAdjective"] = [];
-gen_data["EmployerGovernmentSize"] = [];
-gen_data["EmployerGovernmentType"] = [];
+gen_data["EmployerEducationLocation"] = ["{LocationUrban}"];
 
 // Hospitality
-gen_data["EmployerHospitalityAdjective"] = ["Comfortable","Cozy","Seedy"];
-gen_data["EmployerHospitalitySize"] = [];
+gen_data["EmployerHospitality"] = ["{EmployerHospitalitySize}, {EmployerHospitalityAdjective} {EmployerHospitalityType} {EmployerHospitalityLocation}"];
+gen_data["EmployerHospitalityAdjective"] = ["Busy","Comfortable","Dimly-lit","Profitable","Quiet","Rundown","Seedy","Squalid","Struggling","Wealthy"];
+gen_data["EmployerHospitalitySize"] = ["Large","Quaint","Single-story","Small","Three-story","Two-story"];
 gen_data["EmployerHospitalityType"] = ["Hostel","Hotel","Inn","Public House","Tavern"];
+gen_data["EmployerHospitalityLocation"] = ["{LocationRural}","{LocationUrban}"];
 
 // Industry
-gen_data["EmployerIndustryAdjective"] = ["Profitable","Struggling","Successful","Failing"];
-gen_data["EmployerIndustrySize"] = ["Battalion","Brigade","Company","Detachment","Division","Legion","Patrol","Squad","Regiment"];
-gen_data["EmployerIndustryType"] = ["Foundry","Ironworks","Lumber Mill","Mine","Quarry","Siegeworks","Steel Mill","Warehouse"];
+gen_data["EmployerIndustry"] = ["{EmployerIndustrySize}, {EmployerIndustryAdjective} {EmployerIndustryType} {EmployerIndustryLocation}"];
+gen_data["EmployerIndustryAdjective"] = ["Busy","Profitable","Struggling","Successful"];
+gen_data["EmployerIndustryMine"] = {"1-50":"Iron","51-75":"Copper","76-90":"Silver","91-99":"Gold","100":"Platinum"};
+gen_data["EmployerIndustrySize"] = ["Large","Small","Very Large"];
+gen_data["EmployerIndustryType"] = ["Foundry","Ironworks","Lumber Mill","{EmployerIndustryMine} Mine","{MaterialStone} Quarry","Siegeworks","Warehouse"];
+gen_data["EmployerIndustryLocation"] = ["{LocationRural}"];
 
 // Military
+gen_data["EmployerMilitary"] = ["{EmployerMilitaryAdjective} {EmployerMilitarySize} in the {EmployerMilitaryType} "]
 gen_data["EmployerMilitaryAdjective"] = ["Elite","Inexperienced","Seasoned","Under-strength","Veteran"];
 gen_data["EmployerMilitarySize"] = ["Battalion","Brigade","Company","Detachment","Division","Legion","Patrol","Squad","Regiment"];
-gen_data["EmployerMilitaryType"] = [];
+gen_data["EmployerMilitaryType"] = ["Army of Foreign Ally","Private Army of a Powerful House","Local Militia","National Army"];
 
 // Merchant
-gen_data["EmployerMerchantAdjective"] = [];
-gen_data["EmployerMerchantSize"] = [];
-gen_data["EmployerMerchantType"] = [];
+gen_data["EmployerMerchant"] = ["{EmployerMerchantSize}, {EmployerMerchantAdjective} {EmployerMerchantType}"];
+gen_data["EmployerMerchantAdjective"] = ["Busy","Failing","Profitable","Quiet","Struggling","Successful"];
+gen_data["EmployerMerchantSize"] = ["Large","Quaint","Small","Tiny"];
+gen_data["EmployerMerchantType"] = ["Business","Establishment","Shop"];
 
 // Nature
-gen_data["EmployerNatureAdjective"] = [];
-gen_data["EmployerNatureSize"] = [];
-gen_data["EmployerNatureType"] = [];
+gen_data["EmployerNature"] = ["{EmployerNatureSize}, {EmployerNatureAdjective} {EmployerNatureType}"];
+gen_data["EmployerNatureAdjective"] = ["Makeshift","Quaint","Quiet","Well-built"];
+gen_data["EmployerNatureSize"] = ["Decent-sized","Small","Tiny"];
+gen_data["EmployerNatureType"] = ["Cabin","Camp","Cottage","Homestead","Hovel","Hut","Shack"];
 
 // Nautical
-gen_data["EmployerNauticalAdjective"] = [];
-gen_data["EmployerNauticalSize"] = [];
-gen_data["EmployerNauticalType"] = [];
+gen_data["EmployerNautical"] = ["{EmployerNauticalSize}, {EmployerNauticalAdjective} {EmployerNauticalType}"]
+gen_data["EmployerNauticalAdjective"] = ["Fishing","Merchant","Naval","Pirate","Smuggler's"];
+gen_data["EmployerNauticalSize"] = ["Large","Small"];
+gen_data["EmployerNauticalType"] = ["Ship","Vessel"];
 
 // Nobility
-gen_data["EmployerNobilityAdjective"] = [];
-gen_data["EmployerNobilitySize"] = [];
-gen_data["EmployerNobilityType"] = [];
+gen_data["EmployerNobility"] = ["{EmployerNobilitySize}, {EmployerNobilityAdjective} {EmployerNobilityType}"];
+gen_data["EmployerNobilityAdjective"] = ["Beautiful","Gorgeous","Impressive","Old","Rundown","Well-kept"];
+gen_data["EmployerNobilitySize"] = ["Large","Small"];
+gen_data["EmployerNobilityType"] = ["Estate","Keep","Manor House","Mansion","Villa"];
 
 // Police
+gen_data["EmployerPolice"] = ["{EmployerPoliceAdjective} {EmployerPoliceSize} with the {EmployerPoliceType}"];
 gen_data["EmployerPoliceAdjective"] = ["Corrupt","Elite","Inexperienced","Seasoned","Under-strength","Veteran"];
-gen_data["EmployerPoliceSize"] = ["Detachment","Patrol","Squad"];
-gen_data["EmployerPoliceType"] = ["Municipal Guard","Local Watch","Volunteer Watch"];
-
-// Professional
-gen_data["EmployerProfessionalAdjective"] = ["Office"];
-gen_data["EmployerProfessionalSize"] = ["Office"];
-gen_data["EmployerProfessionalType"] = ["Office"];
+gen_data["EmployerPoliceSize"] = ["Detachment","Division","Precinct","Squad","Unit"];
+gen_data["EmployerPoliceType"] = ["Municipal Guard","Local Watch"];
 
 // Religion
-gen_data["EmployerReligionAdjective"] = ["Abbey","Cathedral","Monastery","Sanctuary","Temple"];
-gen_data["EmployerReligionSize"] = []; 
-gen_data["EmployerReligionType"] = [];
+gen_data["EmployerReligionBenevolent"] = ["{EmployerReligionBenevolentSize}, {EmployerReligionBenevolentAdjective} {EmployerReligionBenevolentSize}"]
+gen_data["EmployerReligionBenevolentAdjective"] = ["Beautiful","Gorgeous","Impressive","Old","Rundown","Well-kept"];
+gen_data["EmployerReligionBenevolentSize"] = ["Large","Small"]; 
+gen_data["EmployerReligionBenevolentType"] = ["Abbey","Cathedral","Monastery","Sanctuary","Temple"];
+
+gen_data["EmployerReligionOther"] = ["{EmployerReligionOtherSize}, {EmployerReligionOtherAdjective} {EmployerReligionOtherSize}"]
+gen_data["EmployerReligionOtherAdjective"] = ["Hidden","Secret"];
+gen_data["EmployerReligionOtherSize"] = ["Small"]; 
+gen_data["EmployerReligionOtherType"] = ["Altar","Shrine","Temple"];
 
 // Service
-gen_data["EmployerServiceAdjective"] = ["Noble Family", "Noble House"];
-gen_data["EmployerServiceSize"] = ["Influential","Major","Minor","Powerful","Ruthless","Waning","Weak"];
-gen_data["EmployerServiceType"] = [];
+gen_data["EmployerService"] = ["{EmployerServiceSize}, {EmployerServiceAdjective} {EmployerServiceType}"]
+gen_data["EmployerServiceAdjective"] = ["Influential","Major","Minor","Powerful","Ruthless","Waning","Weak"];
+gen_data["EmployerServiceSize"] = ["Large","Old","Small"];
+gen_data["EmployerServiceType"] = ["Noble Family", "Noble House"];
 
 // --------------------------------------------------------------------------------
 // Gender
@@ -318,6 +331,7 @@ gen_data["MagicSchoolPractitioner"] = ["Abjurist","Conjurer","Diviner","Dunamist
 // --------------------------------------------------------------------------------
 gen_data["MaterialMetalCommon"] = ["Brass","Bronze","Iron","Steel"];
 gen_data["MaterialMetalPrecious"] = ["Copper","Gold","Platinum","Silver"];
+gen_data["MaterialStone"] = ["Alabaster","Granite","Limestone","Marble","Quartz","Soapstone","Stone"]
 gen_data["MaterialWood"] = ["Ash","Beech","Birch","Chestnut","Mahogany","Maple","Oak","Walnut"];
 
 // --------------------------------------------------------------------------------
@@ -656,27 +670,9 @@ gen_data["SizeAll"] = ["Tiny','Small","Medium","Large","Huge","Gargantuan"];
 gen_data["SizeCommon"] = ["Tiny','Small","Medium","Large"];
 
 // --------------------------------------------------------------------------------
-// Structures
-// --------------------------------------------------------------------------------
-gen_data["StructureAdventure"] = ["Barrow","Cave","Cavern","Crypt","Dungeon","Ruin","Tomb"];
-gen_data["StructureCrime"] = ["Hideout","Tavern","Warehouse"];
-gen_data["StructureGovernment"] = ["Courthouse","Prison"];
-gen_data["StructureHospitality"] = ["Hostel","Hotel","Inn","Public House","Tavern"];
-gen_data["StructureIndustry"] = ["Foundry","Ironworks","Lumber Mill","Mine","Quarry","Siegeworks","Steel Mill","Warehouse"];
-gen_data["StructureMilitary"] = ["Camp","Castle","Fort","Fortress","Keep","Redoubt","Stronghold"];
-gen_data["StructureMerchant"] = ["Shop","Store"];
-gen_data["StructureNobility"] = ["Estate","Keep","Manor House","Mansion","Villa"];
-gen_data["StructurePolice"] = ["Barracks","Gate","Wall"];
-gen_data["StructureProfessional"] = ["Office"];
-gen_data["StructureReligion"] = ["Abbey","Cathedral","Monastery","Sanctuary","Temple"];
-gen_data["StructureReligionSmall"] = ["Altar","Shrine"];
-gen_data["StructureResidenceRural"] = ["Cabin","Cottage","House"];
-gen_data["StructureResidenceUrban"] = ["Home","House","Rowhouse","Townhome"];
-
-// --------------------------------------------------------------------------------
 // Trades
 // --------------------------------------------------------------------------------
-gen_data["Trade"] = ["Adventure","Agriculture","Art","Crime","Education","Hospitality","Industry","Merchant","Military","Nature","Nautical","Nobility","Professional","Religion","Service"];
+gen_data["Trade"] = ["Adventure","Agriculture","Art","Crime","Education","Hospitality","Industry","Merchant","Military","Nature","Nautical","Nobility","Religion","Service"];
 
 // Trades by NPC Class
 gen_data["TradeAcolyte"] = {"1":"Adventure","2":"Agriculture","3":"Hospitality","4":"Merchant","5":"Military","6":"Religion","7":"Service"};
@@ -685,9 +681,9 @@ gen_data["TradeAssassin"] = {"1":"Adventure","2":"Crime","3":"Merchant","4":"Mil
 gen_data["TradeBandit"] = {"1":"Agriculture","2":"Crime"};
 gen_data["TradeBandit-Captain"] = {"1":"Adventure","2":"Crime"};
 gen_data["TradeBerserker"] = {"1":"Adventure","2":"Agriculture","3":"Crime","4":"Industry","5":"Military","6":"Nature"};
-gen_data["TradeCommoner"] = {"1":"Adventure","2":"Agriculture","3":"Art","5":"Crime","6":"Education","7":"Hospitality","8":"Industry","9":"Merchant","10":"Military","11":"Nature","12":"Religion","13":"Service"};
+gen_data["TradeCommoner"] = {"1":"Adventure","2":"Agriculture","3":"Art","4":"Crime","5":"Education","6":"Hospitality","7":"Industry","8":"Merchant","9":"Military","10":"Nature","11":"Religion","12":"Service"};
 gen_data["TradeCult-Fanatic"] = {"1":"Adventure","2":"Merchant","3":"Military","4":"Religion","5":"Service"};
-gen_data["TradeCultist"] = {"1":"Adventure","2":"Agriculture","3":"Art","5":"Crime","6":"Education","7":"Hospitality","8":"Industry","9":"Merchant","10":"Military","11":"Nature","12":"Religion","13":"Service"};
+gen_data["TradeCultist"] = {"1":"Adventure","2":"Agriculture","3":"Art","4":"Crime","5":"Education","6":"Hospitality","7":"Industry","8":"Merchant","9":"Military","10":"Nature","11":"Religion","12":"Service"};
 gen_data["TradeDruid"] = {"1":"Adventure","2":"Education","3":"Merchant","4":"Nature","5":"Service"};
 gen_data["TradeGladiator"] = {"1":"Adventure","2":"Agriculture","3":"Art","4":"Crime","5":"Hospitality","6":"Military","7":"Service"};
 gen_data["TradeGuard"] = {"1":"Agriculture","2":"Education","3":"Industry","4":"Military","5":"Service"};
