@@ -175,7 +175,6 @@ gen_data["EmployerAdventureMissionDestinationAdjective"] = ["an abandoned","a fo
 gen_data["EmployerAdventureSize"] = ["Band","Company","Group","Party"];
 gen_data["EmployerAdventureType"] = ["Adventurers","Mercenaries","Monster Hunters","Treasure-Seekers","Troublemakers"];
 
-
 // Agriculture
 gen_data["EmployerAgriculture"] = ["{EmployerAgricultureAdjective} {LandmarkAgriculture} {EmployerAgricultureLocation}"];
 gen_data["EmployerAgricultureAdjective"] = ["Profitable","Small","Struggling","Successful"];
@@ -198,13 +197,15 @@ gen_data["EmployerArtMission"] = ["where they practice and teach their art","pai
 gen_data["EmployerArtType"] = ["Cottage","Loft","Studio"];
 
 // Crime
-gen_data["EmployerCrime"] = ["{EmployerCrimeAdjective} {EmployerCrimeType}"];
+gen_data["EmployerCrime"] = ["{EmployerCrimeAdjective} {EmployerCrimeType} running an illegal {EmployerCrimeRacket} out of {EmployerCrimeLocation}"];
 gen_data["EmployerCrimeAdjective"] = ["Influential","Major","Minor","Powerful","Ruthless","Waning","Weak"];
 gen_data["EmployerCrimeExperienceYoung"] = ["Inexperienced","Promising","Talented","Undisciplined","Young"];
 gen_data["EmployerCrimeExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Skilled","Well-rounded"];
 gen_data["EmployerCrimeExperienceMature"] = ["Accomplished","Experienced","Expert","Highly-Skilled","Respected","Washed-up","Well-known"];
 gen_data["EmployerCrimeExperienceElderly"] = ["Elderly","Famous","Master","Old","Washed-up","Well-respected"];
 gen_data["EmployerCrimeExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
+gen_data["EmployerCrimeLocation"] = ["an abandoned {LandmarkIndustry} {LocationRural}","an abandoned {LandmarkResidenceSmall} {LocationRural}","an old {LandmarkResidenceLarge} {LocationUrban}","an underground hideout in the {LandmarkUndergroundUrban} {LocationUrban}","the backroom of a seedy, back-alley {LandmarkHospitality}","the basement of a seedy, back-alley {LandmarkHospitality}"];
+gen_data["EmployerCrimeRacket"] = ["Blackmail and Extortion Racket","Brothel","Drug Trafficking Operation","Fighting Pit","Gambling Den","Loansharking Racket","Mint","Protection Racket","Robbery Ring","Smuggling Operation"];
 gen_data["EmployerCrimeType"] = ["Crime Family", "Crime Syndicate", "Criminal Enterprise", "Gang", "Thieves Guild"];
 
 // Education
@@ -428,6 +429,7 @@ gen_data["LandmarkReligionUrban"] = ["Cathedral","Church","Sanctuary","Temple"];
 gen_data["LandmarkResidenceSmall"] = ["Bungalow","Cabin","Camp","Cottage","Homestead","House","Hovel","Hut","Shack"];
 gen_data["LandmarkResidenceLarge"] = ["Chateau","Estate","Keep","Manor House","Mansion","Townhome","Villa"];
 gen_data["LandmarkRoad"] = ["Alley","Causeway","Lane","Path","Road","Street"];
+gen_data["LandmarkUndergroundUrban"] = ["Catacombs","Sewers"];
 
 // --------------------------------------------------------------------------------
 // Locations
