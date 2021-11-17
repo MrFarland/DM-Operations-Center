@@ -353,7 +353,8 @@ gen_data["GeographyCoastal"] = ["Bay","Beach","Coast","Cove","Fjord","Shore"];
 gen_data["GeographyDesert"] = ["Desert"];
 
 // Forests and Woods
-gen_data["GeographyForest"] = ["Forest","Grove","Thicket","Woods"];
+gen_data["GeographyForestSmall"] = ["Grove","Thicket"];
+gen_data["GeographyForest"] = ["Forest","Woods"];
 
 // Grasslands and Plains
 gen_data["GeographyGrassland"] = ["Countryside","Fields","Grasslands","Plains","Steppes"];
@@ -368,15 +369,17 @@ gen_data["GeographyMountainFeature"] = ["Butte","Canyon","Cliff","Pass","Peak","
 // Swamps and Wetlands
 gen_data["GeographySwamp"] = ["Bog","Fens","Marsh","Moor","Swamp"];
 
-// Underwater
+// Underdark
 gen_data["GeographyUnderdark"] = ["Cavern"];
+
+// Underwater
 gen_data["GeographyUnderwater"] = ["Reef"];
 
 // Water and Waterways
 gen_data["GeographyWaterSmall"] = ["Pond","Lake","Spring"];
 gen_data["GeographyWaterLarge"] = ["Ocean","Sea"];
 gen_data["GeographyWaterwaySmall"] = ["Brook","Creek","Stream"];
-gen_data["GeographyWaterwayLarge"] = ["Canal","River","Run","Waterway"];
+gen_data["GeographyWaterwayLarge"] = ["Creek","River","Run"];
 
 // --------------------------------------------------------------------------------
 // Landmarks
@@ -384,18 +387,21 @@ gen_data["GeographyWaterwayLarge"] = ["Canal","River","Run","Waterway"];
 
 gen_data["LandmarkRural"] = [
   "Old {MaterialWood} Tree",
+  "{DirectionCardinal} bank of the {GeographyWaterwayLarge}",
+  "{GeographyWaterwaySmall}",
   "{LandmarkBridgeType} Bridge",
   "{LandmarkBurialRural}",
   "{LandmarkHospitality}",
   "{LandmarkIndustry}",
   "{LandmarkMilitaryRural}",
   "{LandmarkMunicipalRural}",
-  "{LandmarkMunicipal}",
   "{LandmarkPublicRural}",
-  "{LandmarkReligionRural}"
+  "{LandmarkReligionRural}",
+  "{MaterialWood} {GeographyForestSmall}"
 ];
 gen_data["LandmarkUrban"] =[
   "Old {MaterialWood} Tree on the common ",
+  "{DirectionCardinal} bank of the {GeographyWaterwayLarge}",
   "{LandmarkBridgeType} Bridge",
   "{LandmarkBurialUrban}",
   "{LandmarkHospitality}",
@@ -414,7 +420,7 @@ gen_data["LandmarkBurialUrban"] = ["Catacombs","Cemetery","Graveyard","Mausoleum
 gen_data["LandmarkEducation"] = ["Academy","College","Lyceum","School","University"];
 gen_data["LandmarkEntertainment"] = ["Ampitheater","Circus","Opera House","Theater"];
 gen_data["LandmarkHospitality"] = ["Ale House","Hostel","Hotel","Inn","Public House","Taphouse","Tavern"];
-gen_data["LandmarkIndustry"] = ["Brewery","Distillery","Docks","Foundry","Ironworks","Lumber Mill","Mill","{EmployerIndustryMine} Mine","{MaterialStone} Quarry","Shipyard","Siegeworks","Warehouse"];
+gen_data["LandmarkIndustry"] = ["Brewery","Construction Site","Distillery","Docks","Foundry","Ironworks","Lumber Mill","Mill","{EmployerIndustryMine} Mine","{MaterialStone} Quarry","Shipyard","Siegeworks","Warehouse"];
 gen_data["LandmarkMerchant"] = ["Business","Establishment","Shop"];
 gen_data["LandmarkMilitaryRural"] = ["Camp","Castle","Encampment","Fort","Garrison","Outpost","Stronghold","Watch Tower"];
 gen_data["LandmarkMilitaryUrban"] = ["Castle","Citadel","Fortress","Gate House","Keep"];
@@ -443,8 +449,8 @@ gen_data["LocationDistanceWilderness"] = ["about a day's walk","about two days",
 // Location -- Sentence fragments to create a realistic sounding location (relative to a landmark).
 gen_data["LocationRural"] = [
   "{LocationDistanceRural} {Direction} of the {LandmarkRural}",
-  "across from the {LandmarkRural} on the {Direction} side of town",
   "{LocationDistanceRural} down the road from the {LandmarkRural} on the {Direction} side of town",
+  "across from the {LandmarkRural} on the {Direction} side of town",
   "near the {LandmarkRural} on the {Direction} side of town",
   "next to the {LandmarkRural} on the {Direction} side of town"
 ];
@@ -473,7 +479,7 @@ gen_data["MagicSchoolPractitioner"] = ["Abjurist","Conjurer","Diviner","Dunamist
 gen_data["MaterialMetalCommon"] = ["Brass","Bronze","Iron","Steel"];
 gen_data["MaterialMetalPrecious"] = ["Copper","Gold","Platinum","Silver"];
 gen_data["MaterialStone"] = ["Alabaster","Granite","Limestone","Marble","Quartzite","Soapstone","Stone"]
-gen_data["MaterialWood"] = ["Ash","Beech","Birch","Chestnut","Mahogany","Maple","Oak","Walnut"];
+gen_data["MaterialWood"] = ["Ash","Beech","Birch","Chestnut","Mahogany","Maple","Oak","Pine","Walnut"];
 
 // --------------------------------------------------------------------------------
 // Names (Personal)
