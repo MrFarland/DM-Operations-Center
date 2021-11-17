@@ -149,6 +149,39 @@ gen_data["HornTypeDragonborn"] = ["blunt","rough","sharp","smooth","thick","thin
 gen_data["HornTypeTiefling"] = ["blunt","rough","sharp","smooth","thick","thin"];
 
 // --------------------------------------------------------------------------------
+// Climate
+// --------------------------------------------------------------------------------
+gen_data["ClimateType"] = ["A","B","C","D","E"];
+gen_data["ClimateTypeA"] = ["Af","Am","As","Aw"];
+gen_data["ClimateTypeB"] = ["BWh","BWk","BSh","BSk"];
+gen_data["ClimateTypeC"] = ["Csa","Csb","Cfa","Cfb","Cfc","Cwa","Cwb"];
+gen_data["ClimateTypeD"] = ["Dfa","Dfb","Dfc","Dwa"];
+gen_data["ClimateTypeE"] = ["ET","EF"];
+
+// Examples for later work on weather.
+// Af -- Kuala Lumpur, Singapore
+// Am -- Miami, San Juan
+// As -- Mombasa, Fortaleza
+// Aw -- Bangkok, Havana, Lagos
+// Bwh -- Alice Springs, Baghdad, Phoenix
+// Bwk -- Damascus
+// Bsh -- Honolulu, Tuscon
+// Bsk -- Atrskhan, Reno, Odessa
+// Csa -- Athens, Barcelona, Lisbon
+// Csb -- Cape Town, San Francisco, Seattle
+// Cfa -- Atlanta, Buenos Aires, Dallas, Milan, Tokyo
+// Cfb -- Amsterdam, Berlin, London, Vienna
+// Cfc -- Bogota, Quito
+// Cwa -- Busan, Hong Kong, Delhi
+// Cwb -- Johannesburg, La Paz, Mexico City
+// Dfa -- Boston, Chicago, Montreal, Bucharest
+// Dfb -- Edmonton, Halifax, Riga, Oslo, Moscow
+// Dfc -- Anchorage, Whitehorse, Tromso
+// Dwa -- Seoul, Beijing
+// ET -- Mount Washington, Mount Fuji, Ben Nevis
+// EF -- Amundsen-Scott Station, Vostok Station
+
+// --------------------------------------------------------------------------------
 // Direction
 // --------------------------------------------------------------------------------
 gen_data["Direction"] = ["North","Northeast","East","Southeast","South","Southwest","West","Northwest"];
@@ -162,7 +195,7 @@ gen_data["DirectionOrdinal"] = ["Northeast","Southeast","Southwest","Northwest"]
 // Adventure
 gen_data["EmployerAdventure"] = ["{EmployerAdventureAdjective} {EmployerAdventureSize} of {EmployerAdventureType} {EmployerAdventureMission} {EmployerAdventureLocation}"];
 gen_data["EmployerAdventureAdjective"] = ["Famous","Infamous","Respected","Shady","Unscrupulous","Washed-up","Well-known"];
-gen_data["EmployerAdventureExperienceYoung"] = ["Earnest","Enthusiastic","Inexperienced","New","Promising","Talented","Undisciplined","Unpolished","Young"];
+gen_data["EmployerAdventureExperienceYoung"] = ["Earnest","Enthusiastic","Inexperienced","New","Promising","Talented","Undisciplined","Young"];
 gen_data["EmployerAdventureExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Polished","Professional","Skilled","Well-rounded"];
 gen_data["EmployerAdventureExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
 gen_data["EmployerAdventureExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
@@ -243,7 +276,7 @@ gen_data["EmployerIndustryLocation"] = ["{LocationRural}"];
 // Military
 gen_data["EmployerMilitary"] = ["{EmployerMilitaryAdjective} {EmployerMilitarySize} in the {EmployerMilitaryType}"]
 gen_data["EmployerMilitaryAdjective"] = ["Elite","Inexperienced","Seasoned","Under-strength","Veteran"];
-gen_data["EmployerMilitaryExperienceYoung"] = ["Apprentice","Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Talented","Undisciplined","Unpolished","Young"];
+gen_data["EmployerMilitaryExperienceYoung"] = ["Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Talented","Undisciplined","Unpolished","Young"];
 gen_data["EmployerMilitaryExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Professional","Skilled","Well-rounded"];
 gen_data["EmployerMilitaryExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
 gen_data["EmployerMilitaryExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
@@ -344,73 +377,81 @@ gen_data["GenderForm"] = ["Feminine","Masculine"];
 // --------------------------------------------------------------------------------
 
 // Arctic
-gen_data["GeographyArctic"] = ["Glacier","Tundra"];
+gen_data["GeographyArctic"] = [];
+gen_data["GeographyArcticFeature"] = ["Glacier","Ice Flow","Ice Shelf"];
 
 // Coastal and Shore
-gen_data["GeographyCoastal"] = ["Bay","Beach","Coast","Cove","Fjord","Shore"];
+gen_data["GeographyCoastal"] = ["Bay","Cape","Coast","Gulf","Promontory","Shoal","Shore","Shoreline","Sound","Strait"];
+gen_data["GeographyCoastalSmall"] = ["Cove","Inlet","Lagoon","Point","Shoal"];
+gen_data["GeographyCoastalFeature"] = ["Beach","Dike","Levee","Mouth","Sandbar","Tidepool"];
 
 // Deserts
 gen_data["GeographyDesert"] = ["Desert"];
+gen_data["GeographyDesertFeature"] = ["Arroyo","Butte","Canyon","Dunes","Mesa","Oasis","Salt Flats","Wadi","Wash"];
+
+// Volcano
+gen_data["GeographyVolcano"] = ["Volcano"];
+gen_data["GeographyVolcanoStatus"] = ["Active","Dormant"];
+gen_data["GeographyVolcanoFeature"] = ["Ash Field","Caldera","Cone","Crater","Dome","Fissure","Geyser","Hot Springs","Lava Field","Lava Flow","Lava Pool","Magma Chamber","Steam Tube","Vent"];
 
 // Forests and Woods
-gen_data["GeographyForestSmall"] = ["Grove","Thicket"];
-gen_data["GeographyForest"] = ["Forest","Woods"];
+gen_data["GeographyForest"] = ["Forest","Wood","Woods"];
+gen_data["GeographyForestSmall"] = ["Grove","Stand","Thicket"];
+gen_data["GeographyForestFeature"] = ["Clearing","Glade"];
 
 // Grasslands and Plains
-gen_data["GeographyGrassland"] = ["Countryside","Fields","Grasslands","Plains","Steppes"];
+gen_data["GeographyGrassland"] = ["Countryside","Grasslands","Plains","Prairie","Steppes"];
+gen_data["GeographyGrasslandSmall"] = ["Field","Fields","Meadow","Pasture"];
+gen_data["GeographyGrasslandFeature"] = [];
 
 // Hills and Highlands
-gen_data["GeographyHill"] = ["Foothills","Highlands","Hills"];
+gen_data["GeographyHill"] = ["Foothills","Highlands","Hills","Uplands"];
+gen_data["GeographyHillSmall"] = [];
+gen_data["GeographyHillFeature"] = ["Hill","Hillock","Knoll","Mound","Outcrop"];
+
+// Jungle
+gen_data["GeographyJungle"] = ["Jungle","Rainforest"];
+gen_data["GeographyJungleSmall"] = [];
+gen_data["GeographyJungleFeature"] = [];
 
 // Mountains
 gen_data["GeographyMountain"] = ["Mountains"];
-gen_data["GeographyMountainFeature"] = ["Butte","Canyon","Cliff","Pass","Peak","Plateau","Ravine","Ridge","Saddle","Slope","Snowline","Summit","Treeline","Valley",];
+gen_data["GeographyMountainSmall"] = [];
+gen_data["GeographyMountainFeature"] = ["Butte","Canyon","Cliff","Dale","Fissure","Glen","Gorge","Horn","Massif","Mountain","Pass","Peak","Plateau","Ravine","Ridge","Saddle","Slope","Spur","Summit","Treeline","Vale","Valley"];
 
 // Swamps and Wetlands
-gen_data["GeographySwamp"] = ["Bog","Fens","Marsh","Moor","Swamp"];
+gen_data["GeographySwamp"] = ["Fens","Marshland","Moor","Swamp","Wetlands"];
+gen_data["GeographySwampSmall"] = ["Bog","Marsh","Swamp"];
+gen_data["GeographySwampFeature"] = [];
 
 // Underdark
-gen_data["GeographyUnderdark"] = ["Cavern"];
+gen_data["GeographyUnderdark"] = ["Caverns","Underdark"];
+gen_data["GeographyUnderdarkSmall"] = ["Cave","Cavern"];
+gen_data["GeographyUnderdarkFeature"] = [];
 
 // Underwater
-gen_data["GeographyUnderwater"] = ["Reef"];
+gen_data["GeographyUnderwater"] = ["Blue Hole","Reef","Sea Bed"];
+
+// Urban
+gen_data["GeographyUrbanTiny"] = ["Hamlet","Parish"];
+gen_data["GeographyUrbanSmall"] = ["Township","Village"];
+gen_data["GeographyUrbanMedium"] = ["Borough","Town"];
+gen_data["GeographyUrbanLarge"] = ["City"];
 
 // Water and Waterways
-gen_data["GeographyWaterSmall"] = ["Pond","Lake","Spring"];
-gen_data["GeographyWaterLarge"] = ["Ocean","Sea"];
+gen_data["GeographyWater"] = ["Lake","Ocean","Sea"];
+gen_data["GeographyWaterSmall"] = ["Pond","Pool","Reservoir","Spring"];
+
+gen_data["GeographyWaterway"] = ["River"];
 gen_data["GeographyWaterwaySmall"] = ["Brook","Creek","Stream"];
-gen_data["GeographyWaterwayLarge"] = ["Creek","River","Run"];
+gen_data["GeographyWaterwayFeature"] = ["Backwater","Confluence","Oxbow","Rapids"]
 
 // --------------------------------------------------------------------------------
 // Landmarks
 // --------------------------------------------------------------------------------
 
-gen_data["LandmarkRural"] = [
-  "Old {MaterialWood} Tree",
-  "{DirectionCardinal} bank of the {GeographyWaterwayLarge}",
-  "{GeographyWaterwaySmall}",
-  "{LandmarkBridgeType} Bridge",
-  "{LandmarkBurialRural}",
-  "{LandmarkHospitality}",
-  "{LandmarkIndustry}",
-  "{LandmarkMilitaryRural}",
-  "{LandmarkMunicipalRural}",
-  "{LandmarkPublicRural}",
-  "{LandmarkReligionRural}",
-  "{MaterialWood} {GeographyForestSmall}"
-];
-gen_data["LandmarkUrban"] =[
-  "Old {MaterialWood} Tree on the common ",
-  "{DirectionCardinal} bank of the {GeographyWaterwayLarge}",
-  "{LandmarkBridgeType} Bridge",
-  "{LandmarkBurialUrban}",
-  "{LandmarkHospitality}",
-  "{LandmarkMilitaryUrban}",
-  "{LandmarkMunicipalUrban}",
-  "{LandmarkPolice}",
-  "{LandmarkPublicUrban}",
-  "{LandmarkReligionUrban}"
-];
+gen_data["LandmarkRural"] = ["Old {MaterialWood} Tree","{LandmarkBurialRural}","{LandmarkHospitality}","{LandmarkIndustry}","{LandmarkMilitaryRural}","{LandmarkMunicipalRural}","{LandmarkPublicRural}","{LandmarkReligionRural}","{MaterialWood} {GeographyForestSmall}"];
+gen_data["LandmarkUrban"] =["Old {MaterialWood} Tree on the common","{LandmarkBurialUrban}","{LandmarkHospitality}", "{LandmarkMilitaryUrban}","{LandmarkMunicipalUrban}","{LandmarkPolice}","{LandmarkPublicUrban}","{LandmarkReligionUrban}"];
 
 gen_data["LandmarkAdventure"] = ["Barrow","Crypt","Dungeon","Tomb"];
 gen_data["LandmarkAgriculture"] = ["Apiary","Farm","Homestead","Orchard","Ranch","Vineyard"];
@@ -446,18 +487,25 @@ gen_data["LocationDistanceRural"] = ["about a quarter mile","about a half a mile
 gen_data["LocationDistanceUrban"] = ["a block","a couple blocks","about a hundred feet","a couple hundred feet"];
 gen_data["LocationDistanceWilderness"] = ["about a day's walk","about two days","about three days","about five days"];
 
-// Location -- Sentence fragments to create a realistic sounding location (relative to a landmark).
+// Location -- Sentence fragments to create a realistic sounding location (relative to a landmark or geographical feature).
 gen_data["LocationRural"] = [
   "{LocationDistanceRural} {Direction} of the {LandmarkRural}",
   "{LocationDistanceRural} down the road from the {LandmarkRural} on the {Direction} side of town",
   "across from the {LandmarkRural} on the {Direction} side of town",
+  "across the {GeographyWaterway} from the {LandmarkRural} on the {Direction} side of town",
+  "across the {GeographyWaterwaySmall} from the {LandmarkRural} on the {Direction} side of town",
   "near the {LandmarkRural} on the {Direction} side of town",
-  "next to the {LandmarkRural} on the {Direction} side of town"
+  "next to the {LandmarkRural} on the {Direction} side of town",
+  "on the {DirectionCardinal} bank of the {GeographyWaterway} near the {LandmarkRural}",
+  "over the {LandmarkBridgeType} bridge from the {LandmarkRural} on the {Direction} side of town"
 ];
 gen_data["LocationUrban"] = [
   "across the street from the {LandmarkUrban} on the {Direction} side of town",
+  "across the {GeographyWaterway} from the {LandmarkUrban} on the {Direction} side of town",
+  "across the {GeographyWaterwaySmall} from the {LandmarkUrban} on the {Direction} side of town",
   "{LocationDistanceUrban} past the {LandmarkUrban} on the {Direction} side of town",
-  "next to the {LandmarkUrban} on the {Direction} side of town"
+  "next to the {LandmarkUrban} on the {Direction} side of town",
+  "over the {LandmarkBridgeType} bridge from the {LandmarkUrban} on the {Direction} side of town"
 ];
 gen_data["LocationWilderness"] = [
   "in the {GeographyForest} {LocationDistanceWilderness} {Direction} of town",
@@ -794,14 +842,6 @@ gen_data["SubraceHalfling"] = {"1":"Lightfoot","2":"Stout"};
 gen_data["SubraceHuman"] = {"1":"Arabic","2":"Barovian","3":"Celtic","4":"Chinese","5":"Egyptian","6":"English","7":"French","8":"German","9":"Greek","10":"Indian","11":"Japanese","12":"Maori","13":"Mesoamerican","14":"Niger-Congo","15":"Norse","16":"Polynesian","17":"Roman","18":"Slavic","19":"Spanish"};
 gen_data["SubraceOrc"] = {"1":"None"};
 gen_data["SubraceTiefling"] = {"1":"Feral","2-10":"Infernal"};
-
-// --------------------------------------------------------------------------------
-// Settlements
-// --------------------------------------------------------------------------------
-gen_data["SettlementTiny"] = ["Hamlet"];
-gen_data["SettlementSmall"] = ["Village"];
-gen_data["SettlementMedium"] = ["Town"];
-gen_data["SettlementLarge"] = ["City"];
 
 // --------------------------------------------------------------------------------
 // Size
