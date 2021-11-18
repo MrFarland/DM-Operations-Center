@@ -9,7 +9,7 @@ parent: worldbuilding
 <div class="controls">
     <select id="selectRace">
         <option value="None">Any Race</option>
-        <optgroup label="Humn an">
+        <optgroup label="Human">
             <option value="Arabic">Arabic</option>
             <option value="Barovian">Barovian</option>
             <option value="Celtic">Celtic</option>
@@ -65,11 +65,9 @@ parent: worldbuilding
     <h5>Appearance</h5>
     <p id="npcAppearance"></p>
     <h5>Personality</h5>
-    <p id="npcPersonality"></p>
+    <p id="npcPersonalityDescription"></p>
     <h5>Occupation</h5>
-    <p id="npcOccupation"></p>
-    <h5>R-Word</h5>
-    <p class="very-small-text">I feel like I need a word that begins with "R". Try my patented, VAPOR system for your NPCs!</p>
+    <p id="npcOccupationDescription"></p>
     <br/>
 </div>
 

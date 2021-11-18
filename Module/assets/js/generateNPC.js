@@ -50,9 +50,9 @@ function displayNPC() {
     npcAppearance.innerHTML = appearance;
 
     // Personality
-    npcPersonality.innerHTML = personality;
+    npcPersonalityDescription.innerHTML = personalityDescription;
 
     // Occupation
-    npcOccupation.innerHTML = occupation;
+    npcOccupationDescription.innerHTML = occupationDescription;
     
 }

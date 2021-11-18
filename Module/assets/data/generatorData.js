@@ -36,73 +36,73 @@ raceAgeGroups = {
 
 // Generic Alignment Deviation
 // Alignment (Good/Evil) -- 40% Good, 40% Neutral, 20% Evil.
-gen_data["AlignmentGE"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"};
+gen_data["AlignmentGoodEvil"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"};
 // Alignment (Lawful/Chaos) -- 40% Lawful, 40% Neutral, 20% Chaos.
-gen_data["AlignmentLC"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentLawChaos"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
 
 // Adventure - GE (35,35,30) - LC (30,30,40)
-gen_data["AlignmentGEAdventure"] = {"1-35":"Good","36-70":"Neutral","71-100":"Evil"};
-gen_data["AlignmentLCAdventure"] = {"1-30":"Lawful","31-60":"Neutral","61-100":"Chaotic"};
+gen_data["AlignmentGoodEvilAdventure"] = {"1-35":"Good","36-70":"Neutral","71-100":"Evil"};
+gen_data["AlignmentLawChaosAdventure"] = {"1-30":"Lawful","31-60":"Neutral","61-100":"Chaotic"};
 
 // Agriculture - GE (40,40,20) - LC (40,40,20)
-gen_data["AlignmentGEAgriculture"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLCAgriculture"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentGoodEvilAgriculture"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLawChaosAgriculture"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
 
 // Art - GE (40,40,20) - LC (30,40,30)
-gen_data["AlignmentGEArt"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLCArt"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
+gen_data["AlignmentGoodEvilArt"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLawChaosArt"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
 
 // Crime - GE (20,30,50) - LC (35,35,30) --- Note, all crime is organized in this generator.
-gen_data["AlignmentGECrime"] = {"1-20":"Good","21-50":"Neutral","51-100":"Evil"}
-gen_data["AlignmentLCCrime"] = {"1-35":"Lawful","36-70":"Neutral","71-100":"Chaotic"};
+gen_data["AlignmentGoodEvilCrime"] = {"1-20":"Good","21-50":"Neutral","51-100":"Evil"}
+gen_data["AlignmentLawChaosCrime"] = {"1-35":"Lawful","36-70":"Neutral","71-100":"Chaotic"};
 
 // Education - GE (40,40,20) - LC (35,40,25)
-gen_data["AlignmentGEEducation"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLCEducation"] = {"1-35":"Lawful","36-75":"Neutral","76-100":"Chaotic"};
+gen_data["AlignmentGoodEvilEducation"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLawChaosEducation"] = {"1-35":"Lawful","36-75":"Neutral","76-100":"Chaotic"};
 
 // Hospitality - GE (40,40,20) - LC (35,40,25)
-gen_data["AlignmentGEHospitality"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLCHospitality"] = {"1-35":"Lawful","36-75":"Neutral","76-100":"Chaotic"};
+gen_data["AlignmentGoodEvilHospitality"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLawChaosHospitality"] = {"1-35":"Lawful","36-75":"Neutral","76-100":"Chaotic"};
 
 // Industry - GE (30,40,30) - LC (30,40,30)
-gen_data["AlignmentGEIndustry"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLCIndustry"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
+gen_data["AlignmentGoodEvilIndustry"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLawChaosIndustry"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
 
 // Military - GE (35,35,30) - LC (60,20,20)
-gen_data["AlignmentGEMilitary"] = {"1-35":"Good","36-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLCMilitary"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentGoodEvilMilitary"] = {"1-35":"Good","36-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLawChaosMilitary"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
 
 // Merchant - GE (40,40,20) - LC (40,40,20)
-gen_data["AlignmentGEMerchant"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLCMerchant"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentGoodEvilMerchant"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLawChaosMerchant"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
 
 // Nature - GE (30,40,30) - LC (20,40,40)
-gen_data["AlignmentGENature"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLCNature"] = {"1-20":"Lawful","21-60":"Neutral","61-100":"Chaotic"};
+gen_data["AlignmentGoodEvilNature"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLawChaosNature"] = {"1-20":"Lawful","21-60":"Neutral","61-100":"Chaotic"};
 
 // Nautical - GE (30,40,30) - LC (30,40,30)
-gen_data["AlignmentGENautical"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLCNautical"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
+gen_data["AlignmentGoodEvilNautical"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLawChaosNautical"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
 
 // Nobility - GE (30,40,30) - LC (60,20,20)
-gen_data["AlignmentGENobility"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLCNobility"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentGoodEvilNobility"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLawChaosNobility"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
 
 // Police - GE (35,35,30) - LC (60,20,20)
-gen_data["AlignmentGEPolice"] = {"1-35":"Good","36-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLCPolice"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentGoodEvilPolice"] = {"1-35":"Good","36-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLawChaosPolice"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
 
 // Professional - GE (40,40,20) - LC (40,40,20)
-gen_data["AlignmentGEProfessional"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLCProfessional"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentGoodEvilProfessional"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLawChaosProfessional"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
 
 // Religion - GE (50,30,20) - LC (60,20,20)
-gen_data["AlignmentGEReligion"] = {"1-50":"Good","51-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLCReligion"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentGoodEvilReligion"] = {"1-50":"Good","51-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLawChaosReligion"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
 
 // Service - GE (30,40,30) - LC (60,20,20)
-gen_data["AlignmentGEService"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLCService"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentGoodEvilService"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLawChaosService"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
 
 // --------------------------------------------------------------------------------
 // Appearance
@@ -253,185 +253,6 @@ gen_data["DirectionCardinal"] = ["North","East","South","West"];
 gen_data["DirectionOrdinal"] = ["Northeast","Southeast","Southwest","Northwest"];
 
 // --------------------------------------------------------------------------------
-// Employer
-// --------------------------------------------------------------------------------
-
-// Adventure
-gen_data["EmployerAdventure"] = ["{EmployerAdventureAdjective} {EmployerAdventureSize} of {EmployerAdventureType} {EmployerAdventureMission} {EmployerAdventureLocation}"];
-gen_data["EmployerAdventureAdjective"] = ["Famous","Infamous","Respected","Shady","Unscrupulous","Washed-up","Well-known"];
-gen_data["EmployerAdventureExperienceYoung"] = ["Earnest","Enthusiastic","Inexperienced","New","Promising","Talented","Undisciplined","Young"];
-gen_data["EmployerAdventureExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Polished","Professional","Skilled","Well-rounded"];
-gen_data["EmployerAdventureExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
-gen_data["EmployerAdventureExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
-gen_data["EmployerAdventureExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
-gen_data["EmployerAdventureLocation"] = ["{LocationWilderness}"];
-gen_data["EmployerAdventureMission"] = ["{EmployerAdventureMissionPrefix} {EmployerAdventureMissionDestinationAdjective} {EmployerAdventureMissionDestination}"];
-gen_data["EmployerAdventureMissionPrefix"] = ["on their way to","on their way back from","preparing for an expedition to","recovering from an expedition to"];
-gen_data["EmployerAdventureMissionDestination"] = ["Barrow","Cavern","Crypt","Dungeon","Mine","Ruin","Tomb"];
-gen_data["EmployerAdventureMissionDestinationAdjective"] = ["an abandoned","a forgotten","a haunted","a lost","a recently-discovered"];
-gen_data["EmployerAdventureSize"] = ["Band","Company","Group","Party"];
-gen_data["EmployerAdventureType"] = ["Adventurers","Mercenaries","Monster Hunters","Treasure-Seekers","Troublemakers"];
-
-// Agriculture
-gen_data["EmployerAgriculture"] = ["{EmployerAgricultureAdjective} {LandmarkAgriculture} {EmployerAgricultureLocation}"];
-gen_data["EmployerAgricultureAdjective"] = ["Profitable","Small","Struggling","Successful"];
-gen_data["EmployerAgricultureExperienceYoung"] = ["Aspiring","Inexperienced","Young"];
-gen_data["EmployerAgricultureExperienceAdult"] = ["Capable","Competent","Experienced"];
-gen_data["EmployerAgricultureExperienceMature"] = ["Experienced"];
-gen_data["EmployerAgricultureExperienceElderly"] = ["Elderly","Old"];
-gen_data["EmployerAgricultureExperienceVenerable"] = ["Very Old"];
-gen_data["EmployerAgricultureLocation"] = ["{LocationRural}","{LocationWilderness}"];
-
-// Art
-gen_data["EmployerArt"] = ["{EmployerArtAdjective} {EmployerArtType} {EmployerArtMission}"];
-gen_data["EmployerArtAdjective"] = ["Cramped","Cozy","Roomy","Small","Tiny"];
-gen_data["EmployerArtExperienceYoung"] = ["Apprentice","Aspiring","Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Struggling","Talented","Undisciplined","Unpolished","Young"];
-gen_data["EmployerArtExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Polished","Professional","Skilled","Struggling","Well-rounded"];
-gen_data["EmployerArtExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
-gen_data["EmployerArtExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
-gen_data["EmployerArtExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
-gen_data["EmployerArtMission"] = ["where they practice and teach their art","paid for by a wealthy, but demanding patron"];
-gen_data["EmployerArtType"] = ["Cottage","Loft","Studio"];
-
-// Crime
-gen_data["EmployerCrime"] = ["{EmployerCrimeAdjective} {EmployerCrimeType} running an illegal {EmployerCrimeRacket} out of {EmployerCrimeLocation}"];
-gen_data["EmployerCrimeAdjective"] = ["Influential","Major","Minor","Powerful","Ruthless","Waning","Weak"];
-gen_data["EmployerCrimeExperienceYoung"] = ["Inexperienced","Promising","Talented","Undisciplined","Young"];
-gen_data["EmployerCrimeExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Skilled","Well-rounded"];
-gen_data["EmployerCrimeExperienceMature"] = ["Accomplished","Experienced","Expert","Highly-Skilled","Respected","Washed-up","Well-known"];
-gen_data["EmployerCrimeExperienceElderly"] = ["Elderly","Famous","Master","Old","Washed-up","Well-respected"];
-gen_data["EmployerCrimeExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
-gen_data["EmployerCrimeLocation"] = ["an abandoned {LandmarkIndustry} {LocationRural}","an abandoned {LandmarkResidenceSmall} {LocationRural}","an old {LandmarkResidenceLarge} {LocationUrban}","an underground hideout in the {LandmarkUndergroundUrban} {LocationUrban}","the backroom of a seedy, back-alley {LandmarkHospitality}","the basement of a seedy, back-alley {LandmarkHospitality}"];
-gen_data["EmployerCrimeRacket"] = ["Blackmail and Extortion Racket","Brothel","Drug Trafficking Operation","Fighting Pit","Gambling Den","Loansharking Racket","Mint","Protection Racket","Robbery Ring","Smuggling Operation"];
-gen_data["EmployerCrimeType"] = ["Crime Family", "Crime Syndicate", "Criminal Enterprise", "Gang", "Thieves Guild"];
-
-// Education
-gen_data["EmployerEducation"] = ["{EmployerEducationAdjective} {LandmarkEducation} {EmployerEducationLocation}"];
-gen_data["EmployerEducationAdjective"] = ["Elite","Exclusive","Prestigious","Private","Public","Underfunded"];
-gen_data["EmployerEducationExperienceYoung"] = ["Apprentice","Aspiring","Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Talented","Undisciplined","Unpolished","Young"];
-gen_data["EmployerEducationExperienceAdult"] = ["Capable","Competent","Experienced"];
-gen_data["EmployerEducationExperienceMature"] = ["Accomplished","Adept","Experienced","Respected","Washed-up","Well-known"];
-gen_data["EmployerEducationExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
-gen_data["EmployerEducationExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
-gen_data["EmployerEducationLocation"] = ["{LocationUrban}"];
-
-// Hospitality
-gen_data["EmployerHospitality"] = ["{EmployerHospitalityAdjective} {LandmarkHospitality} {EmployerHospitalityLocation}"];
-gen_data["EmployerHospitalityAdjective"] = ["Busy","Comfortable","Dimly-lit","Profitable","Quaint","Quiet","Rundown","Seedy","Single-story","Squalid","Struggling","Three-story","Two-story","Wealthy"];
-gen_data["EmployerHospitalityExperienceYoung"] = ["Apprentice","Aspiring","Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Talented","Undisciplined","Unpolished","Young"];
-gen_data["EmployerHospitalityExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Polished","Professional","Skilled","Well-rounded"];
-gen_data["EmployerHospitalityExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
-gen_data["EmployerHospitalityExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
-gen_data["EmployerHospitalityExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
-gen_data["EmployerHospitalityLocation"] = ["{LocationRural}","{LocationUrban}"];
-
-// Industry
-gen_data["EmployerIndustry"] = ["{EmployerIndustryAdjective} {LandmarkIndustry} {EmployerIndustryLocation}"];
-gen_data["EmployerIndustryAdjective"] = ["Busy","Large","Profitable","Small","Struggling","Successful"];
-gen_data["EmployerIndustryExperienceYoung"] = ["Apprentice","Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Talented","Undisciplined","Unpolished","Young"];
-gen_data["EmployerIndustryExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Polished","Professional","Skilled","Well-rounded"];
-gen_data["EmployerIndustryExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
-gen_data["EmployerIndustryExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
-gen_data["EmployerIndustryExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
-gen_data["EmployerIndustryLocation"] = ["{LocationRural}","{LocationWilderness}"];
-gen_data["EmployerIndustryMine"] = {"1-50":"Iron","51-75":"Copper","76-90":"Silver","91-99":"Gold","100":"Platinum"};
-gen_data["EmployerIndustryLocation"] = ["{LocationRural}"];
-
-// Military
-gen_data["EmployerMilitary"] = ["{EmployerMilitaryAdjective} {EmployerMilitarySize} in the {EmployerMilitaryType}"]
-gen_data["EmployerMilitaryAdjective"] = ["Elite","Inexperienced","Seasoned","Under-strength","Veteran"];
-gen_data["EmployerMilitaryExperienceYoung"] = ["Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Talented","Undisciplined","Unpolished","Young"];
-gen_data["EmployerMilitaryExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Professional","Skilled","Well-rounded"];
-gen_data["EmployerMilitaryExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
-gen_data["EmployerMilitaryExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
-gen_data["EmployerMilitaryExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
-gen_data["EmployerMilitarySize"] = ["Battalion","Brigade","Company","Detachment","Division","Regiment"];
-gen_data["EmployerMilitaryType"] = ["Army of Foreign Ally","Private Army of a Powerful House","Local Militia","National Army"];
-
-// Merchant
-gen_data["EmployerMerchant"] = ["{EmployerMerchantAdjective} {LandmarkMerchant} {EmployerMerchantLocation}"];
-gen_data["EmployerMerchantAdjective"] = ["Busy","Profitable","Quiet","Struggling","Successful"];
-gen_data["EmployerMerchantExperienceYoung"] = ["Apprentice","Aspiring","Earnest","Gifted","Inexperienced","New","Promising","Talented","Young"];
-gen_data["EmployerMerchantExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Skilled","Well-rounded"];
-gen_data["EmployerMerchantExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Well-known"];
-gen_data["EmployerMerchantExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
-gen_data["EmployerMerchantExperienceVenerable"] = ["Venerable","Very Old","Well-respected"];
-gen_data["EmployerMerchantLocation"] = ["{LocationRural}","{LocationUrban}"];
-
-// Nature
-gen_data["EmployerNature"] = ["{EmployerNatureAdjective} {LandmarkResidenceSmall} {EmployerNatureLocation}"];
-gen_data["EmployerNatureAdjective"] = ["Cozy","Makeshift","Quaint","Quiet","Well-built"];
-gen_data["EmployerNatureExperienceYoung"] = ["Inexperienced","New","Talented","Young"];
-gen_data["EmployerNatureExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Skilled"];
-gen_data["EmployerNatureExperienceMature"] = ["Experienced","Expert","Highly-Skilled","Respected","Well-known"];
-gen_data["EmployerNatureExperienceElderly"] = ["Elderly","Famous","Master","Old","Well-respected"];
-gen_data["EmployerNatureExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
-gen_data["EmployerNatureLocation"] = ["{LocationRural}","{LocationWilderness}"];
-
-// Nautical
-gen_data["EmployerNautical"] = ["{EmployerNauticalAdjective} {EmployerNauticalType}"]
-gen_data["EmployerNauticalAdjective"] = ["Fishing","Merchant","Naval","Pirate","Smuggler's"];
-gen_data["EmployerNauticalExperienceYoung"] = ["Apprentice","Earnest","Inexperienced","New","Promising","Undisciplined","Young"];
-gen_data["EmployerNauticalExperienceAdult"] = ["Capable","Competent","Experienced","Skilled","Well-rounded"];
-gen_data["EmployerNauticalExperienceMature"] = ["Accomplished","Experienced","Expert","Respected","Seasoned","Veteran","Washed-up","Well-known"];
-gen_data["EmployerNauticalExperienceElderly"] = ["Elderly","Famous","Master","Old","Washed-up","Well-respected"];
-gen_data["EmployerNauticalExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
-gen_data["EmployerNauticalType"] = ["Ship","Vessel"];
-
-// Nobility
-gen_data["EmployerNobility"] = ["{EmployerNobilityAdjective} {LandmarkResidenceLarge} {EmployerNobilityLocation}"];
-gen_data["EmployerNobilityAdjective"] = ["Beautiful","Gorgeous","Impressive","Large","Old","Rundown","Small","Well-kept"];
-gen_data["EmployerNobilityExperienceYoung"] = ["Earnest","New","Undisciplined","Unpolished","Young"];
-gen_data["EmployerNobilityExperienceAdult"] = ["Capable","Competent","Experienced","Polished"];
-gen_data["EmployerNobilityExperienceMature"] = ["Experienced","Respected","Well-known"];
-gen_data["EmployerNobilityExperienceElderly"] = ["Elder","Elderly","Famous","Old","Well-respected"];
-gen_data["EmployerNobilityExperienceVenerable"] = ["Legendary","Venerable","Very Old","Well-respected"];
-gen_data["EmployerNobilityLocation"] = ["{LocationRural}","{LocationUrban}"];
-
-// Police
-gen_data["EmployerPolice"] = ["{EmployerPoliceAdjective} {EmployerPoliceSize} with the {EmployerPoliceType}"];
-gen_data["EmployerPoliceAdjective"] = ["Corrupt","Elite","Inexperienced","Seasoned","Under-strength","Veteran"];
-gen_data["EmployerPoliceExperienceYoung"] = ["Earnest","Enthusiastic","Inexperienced","New","Promising","Undisciplined","Young"];
-gen_data["EmployerPoliceExperienceAdult"] = ["Capable","Competent","Experienced"];
-gen_data["EmployerPoliceExperienceMature"] = ["Experienced","Respected","Seasoned","Veteran","Washed-up"];
-gen_data["EmployerPoliceExperienceElderly"] = ["Elderly","Famous","Master","Old","Washed-up","Well-respected"];
-gen_data["EmployerPoliceExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
-gen_data["EmployerPoliceLocation"] = ["{LocationUrban}"];
-gen_data["EmployerPoliceSize"] = ["Detachment","Division","Precinct","Squad","Unit"];
-gen_data["EmployerPoliceType"] = ["Municipal Guard","Local Watch"];
-
-// Professional
-gen_data["EmployerProfessional"] = ["{EmployerProfessionalAdjective} {LandmarkProfessional} {EmployerProfessionalLocation}"];
-gen_data["EmployerProfessionalAdjective"] = ["Cluttered","Cozy","Cramped","Quaint","Quiet","Struggling","Successful"];
-gen_data["EmployerProfessionalExperienceYoung"] = ["Aspiring","Earnest","Enthusiastic","Gifted","Inexperienced","New","Promising","Talented","Young"];
-gen_data["EmployerProfessionalExperienceAdult"] = ["Capable","Competent","Experienced","Polished","Professional"];
-gen_data["EmployerProfessionalExperienceMature"] = ["Accomplished","Experienced","Expert","Respected","Seasoned","Washed-up","Well-known"];
-gen_data["EmployerProfessionalExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
-gen_data["EmployerProfessionalExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
-gen_data["EmployerProfessionalLocation"] = ["{LocationUrban}"];
-
-// Religion
-gen_data["EmployerReligion"] = ["{EmployerReligionAdjective} {LandmarkReligionUrban} {EmployerReligionLocation}"]
-gen_data["EmployerReligionAdjective"] = ["Beautiful","Gorgeous","Impressive","Large","Old","Rundown","Small","Well-kept"];
-gen_data["EmployerReligionExperienceYoung"] = ["Earnest","Enthusiastic","Gifted","Inexperienced","New","Promising","Talented","Young"];
-gen_data["EmployerReligionExperienceAdult"] = ["Capable","Competent","Experienced"];
-gen_data["EmployerReligionExperienceMature"] = ["Adept","Experienced","Respected","Well-known"];
-gen_data["EmployerReligionExperienceElderly"] = ["Elder","Elderly","Old","Washed-up","Well-respected"];
-gen_data["EmployerReligionExperienceVenerable"] = ["Venerable","Very Old"];
-gen_data["EmployerReligionLocation"] = ["{LocationUrban}"];
-
-// Service
-gen_data["EmployerService"] = ["{EmployerServiceAdjective} {EmployerServiceType} at their {EmployerServiceLocation}"]
-gen_data["EmployerServiceAdjective"] = ["Influential","Large","Major","Minor","Old","Powerful","Weak"];
-gen_data["EmployerServiceExperienceYoung"] = ["Earnest","Enthusiastic","Inexperienced","New","Promising","Young"];
-gen_data["EmployerServiceExperienceAdult"] = ["Capable","Competent","Experienced"];
-gen_data["EmployerServiceExperienceMature"] = ["Experienced","Respected"];
-gen_data["EmployerServiceExperienceElderly"] = ["Elderly","Old","Well-respected"];
-gen_data["EmployerServiceExperienceVenerable"] = ["Retired","Venerable","Very Old"];
-gen_data["EmployerServiceType"] = ["Noble Family", "Noble House"];
-gen_data["EmployerServiceLocation"] = ["{LandmarkResidenceLarge} {LocationRural}","{LandmarkResidenceLarge} {LocationUrban}"];
-
-// --------------------------------------------------------------------------------
 // Gender
 // --------------------------------------------------------------------------------
 gen_data["GenderForm"] = ["Feminine","Masculine"];
@@ -525,7 +346,7 @@ gen_data["LandmarkBurialUrban"] = ["Catacombs","Cemetery","Graveyard","Mausoleum
 gen_data["LandmarkEducation"] = ["Academy","College","Lyceum","School","University"];
 gen_data["LandmarkEntertainment"] = ["Ampitheater","Circus","Opera House","Theater"];
 gen_data["LandmarkHospitality"] = ["Ale House","Hostel","Hotel","Inn","Public House","Taphouse","Tavern"];
-gen_data["LandmarkIndustry"] = ["Brewery","Construction Site","Distillery","Docks","Foundry","Ironworks","Lumber Mill","Mill","{EmployerIndustryMine} Mine","{MaterialStone} Quarry","Shipyard","Siegeworks","Warehouse"];
+gen_data["LandmarkIndustry"] = ["Brewery","Construction Site","Distillery","Docks","Foundry","Ironworks","Lumber Mill","Mill","{OccupationEmployerIndustryMine} Mine","{MaterialStone} Quarry","Shipyard","Siegeworks","Warehouse"];
 gen_data["LandmarkMerchant"] = ["Business","Establishment","Shop"];
 gen_data["LandmarkMilitaryRural"] = ["Camp","Castle","Encampment","Fort","Garrison","Outpost","Stronghold","Watch Tower"];
 gen_data["LandmarkMilitaryUrban"] = ["Castle","Citadel","Fortress","Gate House","Keep"];
@@ -737,112 +558,306 @@ gen_data["NPCClassLevelMedium"] = ["Bandit Captain","Berserker","Cult Fanatic","
 gen_data["NPCClassLevelHigh"] = ["Archmage","Assassin","Gladiator","Mage"];
 
 // --------------------------------------------------------------------------------
-// Occupations -- Broken up by Trade and OccupationGroup
+// OccupationEmployer
+// --------------------------------------------------------------------------------
+
+// Adventure
+gen_data["OccupationEmployerAdventure"] = ["{OccupationEmployerAdventureAdjective} {OccupationEmployerAdventureSize} of {OccupationEmployerAdventureType} {OccupationEmployerAdventureMission} {OccupationEmployerAdventureLocation}"];
+gen_data["OccupationEmployerAdventureAdjective"] = ["Famous","Infamous","Respected","Shady","Unscrupulous","Washed-up","Well-known"];
+gen_data["OccupationEmployerAdventureExperienceYoung"] = ["Earnest","Enthusiastic","Inexperienced","New","Promising","Talented","Undisciplined","Young"];
+gen_data["OccupationEmployerAdventureExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Polished","Professional","Skilled","Well-rounded"];
+gen_data["OccupationEmployerAdventureExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
+gen_data["OccupationEmployerAdventureExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
+gen_data["OccupationEmployerAdventureExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
+gen_data["OccupationEmployerAdventureLocation"] = ["{LocationWilderness}"];
+gen_data["OccupationEmployerAdventureMission"] = ["{OccupationEmployerAdventureMissionPrefix} {OccupationEmployerAdventureMissionDestinationAdjective} {OccupationEmployerAdventureMissionDestination}"];
+gen_data["OccupationEmployerAdventureMissionPrefix"] = ["on their way to","on their way back from","preparing for an expedition to","recovering from an expedition to"];
+gen_data["OccupationEmployerAdventureMissionDestination"] = ["Barrow","Cavern","Crypt","Dungeon","Mine","Ruin","Tomb"];
+gen_data["OccupationEmployerAdventureMissionDestinationAdjective"] = ["an abandoned","a forgotten","a haunted","a lost","a recently-discovered"];
+gen_data["OccupationEmployerAdventurePrefix"] = ["with"];
+gen_data["OccupationEmployerAdventureSize"] = ["Band","Company","Group","Party"];
+gen_data["OccupationEmployerAdventureType"] = ["Adventurers","Mercenaries","Monster Hunters","Treasure-Seekers","Troublemakers"];
+
+// Agriculture
+gen_data["OccupationEmployerAgriculture"] = ["{OccupationEmployerAgricultureAdjective} {LandmarkAgriculture} {OccupationEmployerAgricultureLocation}"];
+gen_data["OccupationEmployerAgricultureAdjective"] = ["Profitable","Small","Struggling","Successful"];
+gen_data["OccupationEmployerAgricultureExperienceYoung"] = ["Aspiring","Inexperienced","Young"];
+gen_data["OccupationEmployerAgricultureExperienceAdult"] = ["Capable","Competent","Experienced"];
+gen_data["OccupationEmployerAgricultureExperienceMature"] = ["Experienced"];
+gen_data["OccupationEmployerAgricultureExperienceElderly"] = ["Elderly","Old"];
+gen_data["OccupationEmployerAgricultureExperienceVenerable"] = ["Very Old"];
+gen_data["OccupationEmployerAgricultureLocation"] = ["{LocationRural}","{LocationWilderness}"];
+gen_data["OccupationEmployerAgriculturePrefix"] = ["with"];
+
+// Art
+gen_data["OccupationEmployerArt"] = ["{OccupationEmployerArtAdjective} {OccupationEmployerArtType} {OccupationEmployerArtMission}"];
+gen_data["OccupationEmployerArtAdjective"] = ["Cramped","Cozy","Roomy","Small","Tiny"];
+gen_data["OccupationEmployerArtExperienceYoung"] = ["Apprentice","Aspiring","Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Struggling","Talented","Undisciplined","Unpolished","Young"];
+gen_data["OccupationEmployerArtExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Polished","Professional","Skilled","Struggling","Well-rounded"];
+gen_data["OccupationEmployerArtExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
+gen_data["OccupationEmployerArtExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
+gen_data["OccupationEmployerArtExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
+gen_data["OccupationEmployerArtMission"] = ["where they practice and teach their art","paid for by a wealthy, but demanding patron"];
+gen_data["OccupationEmployerArtPrefix"] = ["with"];
+gen_data["OccupationEmployerArtType"] = ["Cottage","Loft","Studio"];
+
+// Crime
+gen_data["OccupationEmployerCrime"] = ["{OccupationEmployerCrimeAdjective} {OccupationEmployerCrimeType} running an illegal {OccupationEmployerCrimeRacket} out of {OccupationEmployerCrimeLocation}"];
+gen_data["OccupationEmployerCrimeAdjective"] = ["Influential","Major","Minor","Powerful","Ruthless","Waning","Weak"];
+gen_data["OccupationEmployerCrimeExperienceYoung"] = ["Inexperienced","Promising","Talented","Undisciplined","Young"];
+gen_data["OccupationEmployerCrimeExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Skilled","Well-rounded"];
+gen_data["OccupationEmployerCrimeExperienceMature"] = ["Accomplished","Experienced","Expert","Highly-Skilled","Respected","Washed-up","Well-known"];
+gen_data["OccupationEmployerCrimeExperienceElderly"] = ["Elderly","Famous","Master","Old","Washed-up","Well-respected"];
+gen_data["OccupationEmployerCrimeExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
+gen_data["OccupationEmployerCrimeLocation"] = ["an abandoned {LandmarkIndustry} {LocationRural}","an abandoned {LandmarkResidenceSmall} {LocationRural}","an old {LandmarkResidenceLarge} {LocationUrban}","an underground hideout in the {LandmarkUndergroundUrban} {LocationUrban}","the backroom of a seedy, back-alley {LandmarkHospitality}","the basement of a seedy, back-alley {LandmarkHospitality}"];
+gen_data["OccupationEmployerCrimePrefix"] = ["working for"];
+gen_data["OccupationEmployerCrimeRacket"] = ["Blackmail and Extortion Racket","Brothel","Drug Trafficking Operation","Fighting Pit","Gambling Den","Loansharking Racket","Mint","Protection Racket","Robbery Ring","Smuggling Operation"];
+gen_data["OccupationEmployerCrimeType"] = ["Crime Family", "Crime Syndicate", "Criminal Enterprise", "Gang", "Thieves Guild"];
+
+// Education
+gen_data["OccupationEmployerEducation"] = ["{OccupationEmployerEducationAdjective} {LandmarkEducation} {OccupationEmployerEducationLocation}"];
+gen_data["OccupationEmployerEducationAdjective"] = ["Elite","Exclusive","Prestigious","Private","Public","Underfunded"];
+gen_data["OccupationEmployerEducationExperienceYoung"] = ["Apprentice","Aspiring","Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Talented","Undisciplined","Unpolished","Young"];
+gen_data["OccupationEmployerEducationExperienceAdult"] = ["Capable","Competent","Experienced"];
+gen_data["OccupationEmployerEducationExperienceMature"] = ["Accomplished","Adept","Experienced","Respected","Washed-up","Well-known"];
+gen_data["OccupationEmployerEducationExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
+gen_data["OccupationEmployerEducationExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
+gen_data["OccupationEmployerEducationLocation"] = ["{LocationUrban}"];
+gen_data["OccupationEmployerEducationPrefix"] = ["working for"];
+
+// Hospitality
+gen_data["OccupationEmployerHospitality"] = ["{OccupationEmployerHospitalityAdjective} {LandmarkHospitality} {OccupationEmployerHospitalityLocation}"];
+gen_data["OccupationEmployerHospitalityAdjective"] = ["Busy","Comfortable","Dimly-lit","Profitable","Quaint","Quiet","Rundown","Seedy","Single-story","Squalid","Struggling","Three-story","Two-story","Wealthy"];
+gen_data["OccupationEmployerHospitalityExperienceYoung"] = ["Apprentice","Aspiring","Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Talented","Undisciplined","Unpolished","Young"];
+gen_data["OccupationEmployerHospitalityExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Polished","Professional","Skilled","Well-rounded"];
+gen_data["OccupationEmployerHospitalityExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
+gen_data["OccupationEmployerHospitalityExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
+gen_data["OccupationEmployerHospitalityExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
+gen_data["OccupationEmployerHospitalityLocation"] = ["{LocationRural}","{LocationUrban}"];
+gen_data["OccupationEmployerHospitalityPrefix"] = ["working for"];
+
+// Industry
+gen_data["OccupationEmployerIndustry"] = ["{OccupationEmployerIndustryAdjective} {LandmarkIndustry} {OccupationEmployerIndustryLocation}"];
+gen_data["OccupationEmployerIndustryAdjective"] = ["Busy","Large","Profitable","Small","Struggling","Successful"];
+gen_data["OccupationEmployerIndustryExperienceYoung"] = ["Apprentice","Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Talented","Undisciplined","Unpolished","Young"];
+gen_data["OccupationEmployerIndustryExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Polished","Professional","Skilled","Well-rounded"];
+gen_data["OccupationEmployerIndustryExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
+gen_data["OccupationEmployerIndustryExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
+gen_data["OccupationEmployerIndustryExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
+gen_data["OccupationEmployerIndustryLocation"] = ["{LocationRural}","{LocationWilderness}"];
+gen_data["OccupationEmployerIndustryMine"] = {"1-50":"Iron","51-75":"Copper","76-90":"Silver","91-99":"Gold","100":"Platinum"};
+gen_data["OccupationEmployerIndustryPrefix"] = ["working at"];
+
+// Military
+gen_data["OccupationEmployerMilitary"] = ["{OccupationEmployerMilitaryAdjective} {OccupationEmployerMilitarySize} in the {OccupationEmployerMilitaryType}"]
+gen_data["OccupationEmployerMilitaryAdjective"] = ["Elite","Inexperienced","Seasoned","Under-strength","Veteran"];
+gen_data["OccupationEmployerMilitaryExperienceYoung"] = ["Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Talented","Undisciplined","Unpolished","Young"];
+gen_data["OccupationEmployerMilitaryExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Professional","Skilled","Well-rounded"];
+gen_data["OccupationEmployerMilitaryExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
+gen_data["OccupationEmployerMilitaryExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
+gen_data["OccupationEmployerMilitaryExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
+gen_data["OccupationEmployerMilitaryPrefix"] = ["with"];
+gen_data["OccupationEmployerMilitarySize"] = ["Battalion","Brigade","Company","Detachment","Division","Regiment"];
+gen_data["OccupationEmployerMilitaryType"] = ["Army of Foreign Ally","Private Army of a Powerful House","Local Militia","National Army"];
+
+// Merchant
+gen_data["OccupationEmployerMerchant"] = ["{OccupationEmployerMerchantAdjective} {LandmarkMerchant} {OccupationEmployerMerchantLocation}"];
+gen_data["OccupationEmployerMerchantAdjective"] = ["Busy","Profitable","Quiet","Struggling","Successful"];
+gen_data["OccupationEmployerMerchantExperienceYoung"] = ["Apprentice","Aspiring","Earnest","Gifted","Inexperienced","New","Promising","Talented","Young"];
+gen_data["OccupationEmployerMerchantExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Skilled","Well-rounded"];
+gen_data["OccupationEmployerMerchantExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Well-known"];
+gen_data["OccupationEmployerMerchantExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
+gen_data["OccupationEmployerMerchantExperienceVenerable"] = ["Venerable","Very Old","Well-respected"];
+gen_data["OccupationEmployerMerchantLocation"] = ["{LocationRural}","{LocationUrban}"];
+gen_data["OccupationEmployerMerchantPrefix"] = ["with"];
+
+// Nature
+gen_data["OccupationEmployerNature"] = ["{OccupationEmployerNatureAdjective} {LandmarkResidenceSmall} {OccupationEmployerNatureLocation}"];
+gen_data["OccupationEmployerNatureAdjective"] = ["Cozy","Makeshift","Quaint","Quiet","Well-built"];
+gen_data["OccupationEmployerNatureExperienceYoung"] = ["Inexperienced","New","Talented","Young"];
+gen_data["OccupationEmployerNatureExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Skilled"];
+gen_data["OccupationEmployerNatureExperienceMature"] = ["Experienced","Expert","Highly-Skilled","Respected","Well-known"];
+gen_data["OccupationEmployerNatureExperienceElderly"] = ["Elderly","Famous","Master","Old","Well-respected"];
+gen_data["OccupationEmployerNatureExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
+gen_data["OccupationEmployerNatureLocation"] = ["{LocationRural}","{LocationWilderness}"];
+gen_data["OccupationEmployerNaturePrefix"] = ["with"];
+
+// Nautical
+gen_data["OccupationEmployerNautical"] = ["{OccupationEmployerNauticalAdjective} {OccupationEmployerNauticalType}"]
+gen_data["OccupationEmployerNauticalAdjective"] = ["Fishing","Merchant","Naval","Pirate","Smuggler's"];
+gen_data["OccupationEmployerNauticalExperienceYoung"] = ["Apprentice","Earnest","Inexperienced","New","Promising","Undisciplined","Young"];
+gen_data["OccupationEmployerNauticalExperienceAdult"] = ["Capable","Competent","Experienced","Skilled","Well-rounded"];
+gen_data["OccupationEmployerNauticalExperienceMature"] = ["Accomplished","Experienced","Expert","Respected","Seasoned","Veteran","Washed-up","Well-known"];
+gen_data["OccupationEmployerNauticalExperienceElderly"] = ["Elderly","Famous","Master","Old","Washed-up","Well-respected"];
+gen_data["OccupationEmployerNauticalExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
+gen_data["OccupationEmployerNauticalType"] = ["Ship","Vessel"];
+gen_data["OccupationEmployerNauticalPrefix"] = ["with"];
+
+// Nobility
+gen_data["OccupationEmployerNobility"] = ["{OccupationEmployerNobilityAdjective} {LandmarkResidenceLarge} {OccupationEmployerNobilityLocation}"];
+gen_data["OccupationEmployerNobilityAdjective"] = ["Beautiful","Gorgeous","Impressive","Large","Old","Rundown","Small","Well-kept"];
+gen_data["OccupationEmployerNobilityExperienceYoung"] = ["Earnest","New","Undisciplined","Unpolished","Young"];
+gen_data["OccupationEmployerNobilityExperienceAdult"] = ["Capable","Competent","Experienced","Polished"];
+gen_data["OccupationEmployerNobilityExperienceMature"] = ["Experienced","Respected","Well-known"];
+gen_data["OccupationEmployerNobilityExperienceElderly"] = ["Elder","Elderly","Famous","Old","Well-respected"];
+gen_data["OccupationEmployerNobilityExperienceVenerable"] = ["Legendary","Venerable","Very Old","Well-respected"];
+gen_data["OccupationEmployerNobilityLocation"] = ["{LocationRural}","{LocationUrban}"];
+gen_data["OccupationEmployerNobilityPrefix"] = ["with"];
+
+// Police
+gen_data["OccupationEmployerPolice"] = ["{OccupationEmployerPoliceAdjective} {OccupationEmployerPoliceSize} with the {OccupationEmployerPoliceType}"];
+gen_data["OccupationEmployerPoliceAdjective"] = ["Corrupt","Elite","Inexperienced","Seasoned","Under-strength","Veteran"];
+gen_data["OccupationEmployerPoliceExperienceYoung"] = ["Earnest","Enthusiastic","Inexperienced","New","Promising","Undisciplined","Young"];
+gen_data["OccupationEmployerPoliceExperienceAdult"] = ["Capable","Competent","Experienced"];
+gen_data["OccupationEmployerPoliceExperienceMature"] = ["Experienced","Respected","Seasoned","Veteran","Washed-up"];
+gen_data["OccupationEmployerPoliceExperienceElderly"] = ["Elderly","Famous","Master","Old","Washed-up","Well-respected"];
+gen_data["OccupationEmployerPoliceExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
+gen_data["OccupationEmployerPoliceLocation"] = ["{LocationUrban}"];
+gen_data["OccupationEmployerPolicePrefix"] = ["with"];
+gen_data["OccupationEmployerPoliceSize"] = ["Detachment","Division","Precinct","Squad","Unit"];
+gen_data["OccupationEmployerPoliceType"] = ["Municipal Guard","Local Watch"];
+
+// Professional
+gen_data["OccupationEmployerProfessional"] = ["{OccupationEmployerProfessionalAdjective} {LandmarkProfessional} {OccupationEmployerProfessionalLocation}"];
+gen_data["OccupationEmployerProfessionalAdjective"] = ["Cluttered","Cozy","Cramped","Quaint","Quiet","Struggling","Successful"];
+gen_data["OccupationEmployerProfessionalExperienceYoung"] = ["Aspiring","Earnest","Enthusiastic","Gifted","Inexperienced","New","Promising","Talented","Young"];
+gen_data["OccupationEmployerProfessionalExperienceAdult"] = ["Capable","Competent","Experienced","Polished","Professional"];
+gen_data["OccupationEmployerProfessionalExperienceMature"] = ["Accomplished","Experienced","Expert","Respected","Seasoned","Washed-up","Well-known"];
+gen_data["OccupationEmployerProfessionalExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
+gen_data["OccupationEmployerProfessionalExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
+gen_data["OccupationEmployerProfessionalLocation"] = ["{LocationUrban}"];
+gen_data["OccupationEmployerProfessionalPrefix"] = ["with"];
+
+// Religion
+gen_data["OccupationEmployerReligion"] = ["{OccupationEmployerReligionAdjective} {LandmarkReligionUrban} {OccupationEmployerReligionLocation}"]
+gen_data["OccupationEmployerReligionAdjective"] = ["Beautiful","Gorgeous","Impressive","Large","Old","Rundown","Small","Well-kept"];
+gen_data["OccupationEmployerReligionExperienceYoung"] = ["Earnest","Enthusiastic","Gifted","Inexperienced","New","Promising","Talented","Young"];
+gen_data["OccupationEmployerReligionExperienceAdult"] = ["Capable","Competent","Experienced"];
+gen_data["OccupationEmployerReligionExperienceMature"] = ["Adept","Experienced","Respected","Well-known"];
+gen_data["OccupationEmployerReligionExperienceElderly"] = ["Elder","Elderly","Old","Washed-up","Well-respected"];
+gen_data["OccupationEmployerReligionExperienceVenerable"] = ["Venerable","Very Old"];
+gen_data["OccupationEmployerReligionLocation"] = ["{LocationUrban}"];
+gen_data["OccupationEmployerReligionPrefix"] = ["working at"];
+
+// Service
+gen_data["OccupationEmployerService"] = ["{OccupationEmployerServiceAdjective} {OccupationEmployerServiceType} at their {OccupationEmployerServiceLocation}"]
+gen_data["OccupationEmployerServiceAdjective"] = ["Influential","Large","Major","Minor","Old","Powerful","Weak"];
+gen_data["OccupationEmployerServiceExperienceYoung"] = ["Earnest","Enthusiastic","Inexperienced","New","Promising","Young"];
+gen_data["OccupationEmployerServiceExperienceAdult"] = ["Capable","Competent","Experienced"];
+gen_data["OccupationEmployerServiceExperienceMature"] = ["Experienced","Respected"];
+gen_data["OccupationEmployerServiceExperienceElderly"] = ["Elderly","Old","Well-respected"];
+gen_data["OccupationEmployerServiceExperienceVenerable"] = ["Retired","Venerable","Very Old"];
+gen_data["OccupationEmployerServiceLocation"] = ["{LandmarkResidenceLarge} {LocationRural}","{LandmarkResidenceLarge} {LocationUrban}"];
+gen_data["OccupationEmployerServiceType"] = ["Noble Family", "Noble House"];
+gen_data["OccupationEmployerServicePrefix"] = ["working for"];
+
+// --------------------------------------------------------------------------------
+// OccupationTitles -- Broken up by Trade and OccupationGroup
 // --------------------------------------------------------------------------------
 
 // Trade - Adventure
-gen_data["OccupationAdventureArcane"] = ["{MagicSchoolPractitioner}","Arcanist","Mage"];
-gen_data["OccupationAdventureClergy"] = ["Cleric","Healer"];
-gen_data["OccupationAdventureMartialMelee"] = ["Fighter"];
-gen_data["OccupationAdventureMartialRanged"] = ["Archer","Ranger","Scout"];
-gen_data["OccupationAdventureNature"] = ["Druid"];
-gen_data["OccupationAdventureNoble"] = ["Cavalier","Fighter","Knight"];
-gen_data["OccupationAdventureStealthy"] = ["Rogue","Scout"];
+gen_data["OccupationTitleAdventureArcane"] = ["{MagicSchoolPractitioner}","Arcanist","Mage"];
+gen_data["OccupationTitleAdventureClergy"] = ["Cleric","Healer"];
+gen_data["OccupationTitleAdventureMartialMelee"] = ["Fighter"];
+gen_data["OccupationTitleAdventureMartialRanged"] = ["Archer","Ranger","Scout"];
+gen_data["OccupationTitleAdventureNature"] = ["Druid"];
+gen_data["OccupationTitleAdventureNoble"] = ["Cavalier","Fighter","Knight"];
+gen_data["OccupationTitleAdventureStealthy"] = ["Rogue","Scout"];
 
 // Trade - Agriculture
-gen_data["OccupationAgricultureClergy"] = ["Healer","Farmer"];
-gen_data["OccupationAgricultureCommoner"] = ["Farmer"];
-gen_data["OccupationAgricultureMartialMelee"] = ["Farmer"];
-gen_data["OccupationAgricultureMartialRanged"] = ["Farmer"];
+gen_data["OccupationTitleAgricultureClergy"] = ["Healer","Farmer"];
+gen_data["OccupationTitleAgricultureCommoner"] = ["Farmer"];
+gen_data["OccupationTitleAgricultureMartialMelee"] = ["Farmer"];
+gen_data["OccupationTitleAgricultureMartialRanged"] = ["Farmer"];
 
 // Trade - Art
-gen_data["OccupationArtCommoner"] = ["Acrobat","Actor","Artist","Dancer","Painter","Playwright","Poet","Singer","Sculptor","Writer"];
-gen_data["OccupationArtMartialMelee"] = ["Gladiator"];
-gen_data["OccupationArtNoble"] = ["Acrobat","Actor","Artist","Dancer","Painter","Playwright","Poet","Singer","Sculptor","Writer"];
+gen_data["OccupationTitleArtCommoner"] = ["Acrobat","Actor","Artist","Dancer","Painter","Playwright","Poet","Singer","Sculptor","Writer"];
+gen_data["OccupationTitleArtMartialMelee"] = ["Gladiator"];
+gen_data["OccupationTitleArtNoble"] = ["Acrobat","Actor","Artist","Dancer","Painter","Playwright","Poet","Singer","Sculptor","Writer"];
 
 // Trade - Crime
-gen_data["OccupationCrimeCommoner"] = ["Bookmaker","Con-Artist","Fence","Loan Shark","Messenger"];
-gen_data["OccupationCrimeMartialMelee"] = ["Bandit","Enforcer","Fence","Loan Shark","Robber","Smuggler","tough"];
-gen_data["OccupationCrimeNoble"] = ["Charlatan","Boss","Lieutenant"];
-gen_data["OccupationCrimeStealthy"] = ["Assassin","Burglar","Pickpocket","Smuggler","thief"];
+gen_data["OccupationTitleCrimeCommoner"] = ["Bookmaker","Con-Artist","Fence","Loan Shark","Messenger"];
+gen_data["OccupationTitleCrimeMartialMelee"] = ["Bandit","Enforcer","Fence","Loan Shark","Robber","Smuggler","tough"];
+gen_data["OccupationTitleCrimeNoble"] = ["Charlatan","Boss","Lieutenant"];
+gen_data["OccupationTitleCrimeStealthy"] = ["Assassin","Burglar","Pickpocket","Smuggler","thief"];
 
 // Trade - Education
-gen_data["OccupationEducationArcane"] = ["{MagicSchoolPractitioner}","Alchemist","Arcanist","Archaelogist","Headmaster","Planar-Theorist","Professor of {MagicSchool}","Professor of Arcane-Archaelogy","Professor of Planar Travel"];
-gen_data["OccupationEducationClergy"] = ["Professor of Divine Magic"];
-gen_data["OccupationEducationCommoner"] = ["Administrator","Clerk","Gardener","Groundskeeper","Janitor","Librarian","Linguist","Historian","Mathematician","Philosopher","Teacher"];
-gen_data["OccupationEducationMartialMelee"] = ["Guard"];
-gen_data["OccupationEducationMartialRanged"] = ["Gamekeeper"];
-gen_data["OccupationEducationNature"] = ["Professor of Natural Magic"];
-gen_data["OccupationEducationNoble"] = ["Chancellor","Dean","Headmaster"];
+gen_data["OccupationTitleEducationArcane"] = ["{MagicSchoolPractitioner}","Alchemist","Arcanist","Archaelogist","Headmaster","Planar-Theorist","Professor of {MagicSchool}","Professor of Arcane-Archaelogy","Professor of Planar Travel"];
+gen_data["OccupationTitleEducationClergy"] = ["Professor of Divine Magic"];
+gen_data["OccupationTitleEducationCommoner"] = ["Administrator","Clerk","Gardener","Groundskeeper","Janitor","Librarian","Linguist","Historian","Mathematician","Philosopher","Teacher"];
+gen_data["OccupationTitleEducationMartialMelee"] = ["Guard"];
+gen_data["OccupationTitleEducationMartialRanged"] = ["Gamekeeper"];
+gen_data["OccupationTitleEducationNature"] = ["Professor of Natural Magic"];
+gen_data["OccupationTitleEducationNoble"] = ["Chancellor","Dean","Headmaster"];
 
 // Trade - Hospitality
-gen_data["OccupationHospitalityCommoner"] = ["Baker","Barkeep","Cook","Innkeeper","Porter","Servant","Stablehand","Waiter"];
-gen_data["OccupationHospitalityMartialMelee"] = ["Bouncer"];
-gen_data["OccupationHospitalityNoble"] = ["Innkeeper"];
+gen_data["OccupationTitleHospitalityCommoner"] = ["Baker","Barkeep","Cook","Innkeeper","Porter","Servant","Stablehand","Waiter"];
+gen_data["OccupationTitleHospitalityMartialMelee"] = ["Bouncer"];
+gen_data["OccupationTitleHospitalityNoble"] = ["Innkeeper"];
 
 // Trade - Industry
-gen_data["OccupationIndustryCommoner"] = ["Foreperson","Laborer","Worker"];
-gen_data["OccupationIndustryMartialMelee"] = ["Guard","Laborer","Worker"];
-gen_data["OccupationIndustryNoble"] = ["Boss","Manager"];
+gen_data["OccupationTitleIndustryCommoner"] = ["Foreperson","Laborer","Worker"];
+gen_data["OccupationTitleIndustryMartialMelee"] = ["Guard","Laborer","Worker"];
+gen_data["OccupationTitleIndustryNoble"] = ["Boss","Manager"];
 
 // Trade - Merchant
-gen_data["OccupationMerchantArcane"] = ["Alchemist","Arcanist","Enchanter","Seller of Magical Reagents and Supplies","Scribe","Wandmaker"];
-gen_data["OccupationMerchantClergy"] = ["Bookseller","Healer"];
-gen_data["OccupationMerchantCommoner"] = ["Apothecary","Armorer","Baker","Barber","Blacksmith","Bookseller","Bowyer","Butcher","Carpenter","Cartwright","Clothier","Cobbler","Cooper","Engraver","Fishmonger","Fletcher","Furrier","Glassblower","Grocer","Haberdasher","Hatmaker","Herbalist","Jeweler","Leathersmith","Locksmith","Mercer","Metalsmith","Potter","Shipwright","Stonemason","Tailor","Tinker","Weaponsmith","Weaver","Woodcarver"];
-gen_data["OccupationMerchantMartialRanged"] = ["Bowyer","Fletcher","Furrier","Leathersmith"];
-gen_data["OccupationMerchantNature"] = ["Apothecary","Herbalist"];
+gen_data["OccupationTitleMerchantArcane"] = ["Alchemist","Arcanist","Enchanter","Seller of Magical Reagents and Supplies","Scribe","Wandmaker"];
+gen_data["OccupationTitleMerchantClergy"] = ["Bookseller","Healer"];
+gen_data["OccupationTitleMerchantCommoner"] = ["Apothecary","Armorer","Baker","Barber","Blacksmith","Bookseller","Bowyer","Butcher","Carpenter","Cartwright","Clothier","Cobbler","Cooper","Engraver","Fishmonger","Fletcher","Furrier","Glassblower","Grocer","Haberdasher","Hatmaker","Herbalist","Jeweler","Leathersmith","Locksmith","Mercer","Metalsmith","Potter","Shipwright","Stonemason","Tailor","Tinker","Weaponsmith","Weaver","Woodcarver"];
+gen_data["OccupationTitleMerchantMartialRanged"] = ["Bowyer","Fletcher","Furrier","Leathersmith"];
+gen_data["OccupationTitleMerchantNature"] = ["Apothecary","Herbalist"];
 
 // Trade - Military
-gen_data["OccupationMilitaryArcane"] = ["Arcanist","Battlemage","Commander","Officer","Mage"];
-gen_data["OccupationMilitaryClergy"] = ["Cleric","Healer"];
-gen_data["OccupationMilitaryCommoner"] = ["Cook","Courier","Herald","Porter","Supply Clerk"];
-gen_data["OccupationMilitaryMartialMelee"] = ["Sergeant","Sergeant-at-Arms","Soldier"];
-gen_data["OccupationMilitaryMartialRanged"] = ["Archer","Scout"];
-gen_data["OccupationMilitaryNoble"] = ["Cavalier","Captain","Commander","Knight","Officer"];
-gen_data["OccupationMilitaryStealthy"] = ["Assassin","Spy"];
+gen_data["OccupationTitleMilitaryArcane"] = ["Arcanist","Battlemage","Commander","Officer","Mage"];
+gen_data["OccupationTitleMilitaryClergy"] = ["Cleric","Healer"];
+gen_data["OccupationTitleMilitaryCommoner"] = ["Cook","Courier","Herald","Porter","Supply Clerk"];
+gen_data["OccupationTitleMilitaryMartialMelee"] = ["Sergeant","Sergeant-at-Arms","Soldier"];
+gen_data["OccupationTitleMilitaryMartialRanged"] = ["Archer","Scout"];
+gen_data["OccupationTitleMilitaryNoble"] = ["Cavalier","Captain","Commander","Knight","Officer"];
+gen_data["OccupationTitleMilitaryStealthy"] = ["Assassin","Spy"];
 
 // Trade - Nature
-gen_data["OccupationNatureCommoner"] = ["Cartographer","Fisher","Forager","Forester","Trapper"];
-gen_data["OccupationNatureMartialMelee"] = ["Forester","Guide","Hunter","Poacher","Tracker","Trapper"];
-gen_data["OccupationNatureMartialRanged"] = ["Guide","Hunter","Poacher","Ranger","Tracker","Trapper","Warden"];
-gen_data["OccupationNatureNature"] = ["Druid","Herbalist","Healer","Shaman"];
+gen_data["OccupationTitleNatureCommoner"] = ["Cartographer","Fisher","Forager","Forester","Trapper"];
+gen_data["OccupationTitleNatureMartialMelee"] = ["Forester","Guide","Hunter","Tracker","Trapper"];
+gen_data["OccupationTitleNatureMartialRanged"] = ["Guide","Hunter","Ranger","Tracker","Trapper","Warden"];
+gen_data["OccupationTitleNatureNature"] = ["Druid","Herbalist","Healer","Shaman"];
 
 // Trade - Nautical
-gen_data["OccupationNauticalClergy"] = ["Healer"];
-gen_data["OccupationNauticalCommoner"] = ["Carpenter","Cook","Deckhand","Sailor"];
-gen_data["OccupationNauticalMartialMelee"] = ["Bosun","Quartermaster"];
-gen_data["OccupationNauticalMartialRanged"] = ["Archer"];
-gen_data["OccupationNauticalNoble"] = ["Captain","First Mate"];
+gen_data["OccupationTitleNauticalClergy"] = ["Healer"];
+gen_data["OccupationTitleNauticalCommoner"] = ["Carpenter","Cook","Deckhand","Sailor"];
+gen_data["OccupationTitleNauticalMartialMelee"] = ["Bosun","Quartermaster"];
+gen_data["OccupationTitleNauticalMartialRanged"] = ["Archer"];
+gen_data["OccupationTitleNauticalNoble"] = ["Captain","First Mate"];
 
 // Trade - Nobility
-gen_data["OccupationNobilityArcane"] = ["Archmage"];
-gen_data["OccupationNobilityClergy"] = ["Bishop"];
-gen_data["OccupationNobilityNoble"] = ["Noble"];
+gen_data["OccupationTitleNobilityArcane"] = ["Archmage"];
+gen_data["OccupationTitleNobilityClergy"] = ["Archbishop","Bishop","High Priest"];
+gen_data["OccupationTitleNobilityNoble"] = ["Noble"];
 
 // Trade - Police
-gen_data["OccupationPoliceMartialMelee"] = ["Guard","Sentry"];
-gen_data["OccupationPoliceMartialRanged"] = ["Archer"];
-gen_data["OccupationPoliceNoble"] = ["Captain","Commander","Inspector","Investigator", "Watchmaster"];
-gen_data["OccupationPoliceStealthy"] = ["Inspector","Investigator"];
+gen_data["OccupationTitlePoliceMartialMelee"] = ["Guard","Sentry"];
+gen_data["OccupationTitlePoliceMartialRanged"] = ["Archer"];
+gen_data["OccupationTitlePoliceNoble"] = ["Captain","Commander","Inspector","Investigator", "Watchmaster"];
+gen_data["OccupationTitlePoliceStealthy"] = ["Inspector","Investigator"];
 
 // Trade - Professional
-gen_data["OccupationNobilityClergy"] = ["Physician"];
-gen_data["OccupationProfessionalMartialMelee"] = ["Bounty Hunter"];
-gen_data["OccupationProfessionalNoble"] = ["Barrister","Banker","Money Lender"];
-gen_data["OccupationProfessionalStealthy"] = ["Bounty Hunter","Private Investigator"];
+gen_data["OccupationTitleNobilityClergy"] = ["Physician"];
+gen_data["OccupationTitleProfessionalMartialMelee"] = ["Bounty Hunter"];
+gen_data["OccupationTitleProfessionalNoble"] = ["Barrister","Banker","Money Lender"];
+gen_data["OccupationTitleProfessionalStealthy"] = ["Bounty Hunter","Private Investigator"];
 
 // Trade - Religion
-gen_data["OccupationReligionClergy"] = ["Acolyte","Cleric","Priest"];
+gen_data["OccupationTitleReligionClergy"] = ["Acolyte","Cleric","Priest"];
 
 // Trade - Service
-gen_data["OccupationServiceArcane"] = ["Adviser","Chamberlain","Vizier"];
-gen_data["OccupationServiceClergy"] = ["Chaplain"];
-gen_data["OccupationServiceCommoner"] = ["Cook","Gardener","Groundskeeper","Servant","Stablehand","Usher"];
-gen_data["OccupationServiceMartialMelee"] = ["Bodyguard","Guard","Housecarl","Reeve"];
-gen_data["OccupationServiceMartialRanged"] = ["Gameskeeper","Hunter","Reeve","Warden"];
-gen_data["OccupationServiceNature"] = ["Gardener","Groundskeeper"];
-gen_data["OccupationServiceNoble"] = ["Chamberlain","Majordomo","Marshall","Steward","Thane"];
-gen_data["OccupationServiceStealthy"] = ["Agent"];
+gen_data["OccupationTitleServiceArcane"] = ["Adviser","Chamberlain","Vizier"];
+gen_data["OccupationTitleServiceClergy"] = ["Chaplain"];
+gen_data["OccupationTitleServiceCommoner"] = ["Cook","Gardener","Groundskeeper","Servant","Stablehand","Usher"];
+gen_data["OccupationTitleServiceMartialMelee"] = ["Bodyguard","Guard","Housecarl","Reeve"];
+gen_data["OccupationTitleServiceMartialRanged"] = ["Gameskeeper","Hunter","Reeve","Warden"];
+gen_data["OccupationTitleServiceNature"] = ["Gardener","Groundskeeper"];
+gen_data["OccupationTitleServiceNoble"] = ["Chamberlain","Majordomo","Marshall","Steward","Thane"];
+gen_data["OccupationTitleServiceStealthy"] = ["Agent"];
 
 // --------------------------------------------------------------------------------
 // OccupationGroup 
@@ -872,6 +887,31 @@ gen_data["OccupationGroupTribal-Warrior"] = ["MartialMelee"];
 gen_data["OccupationGroupVeteran"] = ["MartialMelee"];
 
 // --------------------------------------------------------------------------------
+// OccupationTrades
+// --------------------------------------------------------------------------------
+gen_data["OccupationTradeAcolyte"] = {"1-5":"Adventure","6-15":"Agriculture","16-20":"Merchant","21-25":"Military","26-30":"Professional","31-95":"Religion","96-100":"Service"};
+gen_data["OccupationTradeArchmage"] = {"1-10":"Adventure","11-60":"Education","61-80":"Merchant","81-90":"Military","91-100":"Nobility"};
+gen_data["OccupationTradeAssassin"] = {"1-20":"Adventure","21-60":"Crime","61-80":"Military","81-90":"Professional","91-100":"Service"};
+gen_data["OccupationTradeBandit"] = {"1-30":"Agriculture","31-100":"Crime"};
+gen_data["OccupationTradeBandit-Captain"] = {"1-35":"Adventure","36-85":"Crime","86-100":"Professional"};
+gen_data["OccupationTradeBerserker"] = {"1-25":"Adventure","26-30":"Agriculture","31-50":"Crime","51-75":"Industry","76-85":"Military","86-100":"Nature"};
+gen_data["OccupationTradeCommoner"] = {"1-25":"Agriculture","26-30":"Art","31-40":"Crime","41-50":"Education","51-60":"Hospitality","61-75":"Industry","76-85":"Merchant","86-90":"Military","91-95":"Nature","96-100":"Service"};
+gen_data["OccupationTradeCult-Fanatic"] = {"1-25":"Adventure","26-45":"Merchant","46-55":"Military","56-85":"Religion","86-100":"Service"};
+gen_data["OccupationTradeCultist"] = {"1-25":"Agriculture","26-30":"Art","31-40":"Crime","41-50":"Education","51-60":"Hospitality","61-75":"Industry","76-85":"Merchant","86-90":"Military","91-95":"Nature","96-100":"Service"};
+gen_data["OccupationTradeDruid"] = {"1-20":"Adventure","20-35":"Education","36-55":"Merchant","56-95":"Nature","96-100":"Service"};
+gen_data["OccupationTradeGladiator"] = {"1-30":"Adventure","31-35":"Agriculture","36-45":"Art","46-65":"Crime","66-70":"Hospitality","71-85":"Military","86-95":"Police","96-100":"Service"};
+gen_data["OccupationTradeGuard"] = {"1-10":"Agriculture","11-15":"Education","16-20":"Industry","21-40":"Military","41-95":"Police","96-100":"Service"};
+gen_data["OccupationTradeKnight"] = {"1-30":"Adventure","31-90":"Military","91-100":"Police"};
+gen_data["OccupationTradeMage"] = {"1-30":"Adventure","31-50":"Education","51-70":"Merchant","71-90":"Military","91-100":"Service"};
+gen_data["OccupationTradeNoble"] = {"1-5":"Adventure","6-10":"Art","11-20":"Crime","21-25":"Education","26-30":"Hospitality","31-35":"Industry","36-40":"Merchant","41-45":"Military","46-90":"Nobility","91-95":"Professional","96-100":"Service"};
+gen_data["OccupationTradePriest"] = {"1-20":"Adventure","21-30":"Education","31-35":"Merchant","36-40":"Military","41-45":"Nobility","46-100":"Religion"};
+gen_data["OccupationTradeScout"] = {"1-10":"Adventure","11-20":"Agriculture","21-25":"Education","26-30":"Merchant","31-50":"Military","51-80":"Nature","81-100":"Service"};
+gen_data["OccupationTradeSpy"] = {"1-20":"Adventure","21-55":"Crime","56-60":"Merchant","61-90":"Military","91-95":"Professional","96-100":"Service"};
+gen_data["OccupationTradeThug"] = {"1-10":"Adventure","11-20":"Agriculture","21-50":"Crime","51-55":"Hospitality","56-65":"Industry","66-85":"Military","86-90":"Professional","91-100":"Service"};
+gen_data["OccupationTradeTribal-Warrior"] = {"1-40":"Agriculture","41-100":"Nature"};
+gen_data["OccupationTradeVeteran"] = {"1-20":"Adventure","21-25":"Agriculture","26-40":"Crime","41-45":"Education","46-50":"Hospitality","51-55":"Industry","56-60":"Merchant","61-85":"Military","86-90":"Nature","91-95":"Professional","96-100":"Service"};
+
+// --------------------------------------------------------------------------------
 // Pantheon -- Provides lists of gods, demons, and devils that may be worshipped.
 // --------------------------------------------------------------------------------
 
@@ -886,6 +926,20 @@ gen_data["PantheonLesser"] = ["Artagan","Ceratos","Desirat","Laduegar","Naviask"
 // Demons & Devils
 gen_data["PantheonDemon"] = ["Orcus"];
 gen_data["PantheonDevil"] = ["Zariel"];
+
+// --------------------------------------------------------------------------------
+// Personality
+// --------------------------------------------------------------------------------
+
+gen_data["PersonalityDispositionGood"] = {
+  "1-9":"Friendly",
+  "10":"Mean"
+};
+gen_data["PersonalityDispositionNeutral"] = ["{PersonalityDispositionGood}","{PersonalityDispositionEvil}"]
+gen_data["PersonalityDispositionEvil"] = {
+  "1":"Friendly",
+  "2-10":"Mean"
+};
 
 // --------------------------------------------------------------------------------
 // Races
@@ -911,33 +965,6 @@ gen_data["Size"] = ["Small","Large"];
 gen_data["SizeAll"] = ["Tiny','Small","Medium","Large","Huge","Gargantuan"];
 gen_data["SizeCommon"] = ["Tiny','Small","Medium","Large"];
 
-// --------------------------------------------------------------------------------
-// Trades
-// --------------------------------------------------------------------------------
-gen_data["Trade"] = ["Adventure","Agriculture","Art","Crime","Education","Hospitality","Industry","Merchant","Military","Nature","Nautical","Nobility","Religion","Service"];
-
-// Trades by NPC Class
-gen_data["TradeAcolyte"] = {"1-5":"Adventure","6-15":"Agriculture","16-20":"Merchant","21-25":"Military","26-30":"Professional","31-95":"Religion","96-100":"Service"};
-gen_data["TradeArchmage"] = {"1-10":"Adventure","11-60":"Education","61-80":"Merchant","81-90":"Military","91-100":"Nobility"};
-gen_data["TradeAssassin"] = {"1-20":"Adventure","21-60":"Crime","61-80":"Military","81-90":"Professional","91-100":"Service"};
-gen_data["TradeBandit"] = {"1-30":"Agriculture","31-100":"Crime"};
-gen_data["TradeBandit-Captain"] = {"1-35":"Adventure","36-85":"Crime","86-100":"Professional"};
-gen_data["TradeBerserker"] = {"1-25":"Adventure","26-30":"Agriculture","31-50":"Crime","51-75":"Industry","76-85":"Military","86-100":"Nature"};
-gen_data["TradeCommoner"] = {"1-25":"Agriculture","26-30":"Art","31-40":"Crime","41-50":"Education","51-60":"Hospitality","61-75":"Industry","76-85":"Merchant","86-90":"Military","91-95":"Nature","96-100":"Service"};
-gen_data["TradeCult-Fanatic"] = {"1-25":"Adventure","26-45":"Merchant","46-55":"Military","56-85":"Religion","86-100":"Service"};
-gen_data["TradeCultist"] = {"1-25":"Agriculture","26-30":"Art","31-40":"Crime","41-50":"Education","51-60":"Hospitality","61-75":"Industry","76-85":"Merchant","86-90":"Military","91-95":"Nature","96-100":"Service"};
-gen_data["TradeDruid"] = {"1-20":"Adventure","20-35":"Education","36-55":"Merchant","56-95":"Nature","96-100":"Service"};
-gen_data["TradeGladiator"] = {"1-30":"Adventure","31-35":"Agriculture","36-45":"Art","46-65":"Crime","66-70":"Hospitality","71-85":"Military","86-95":"Police","96-100":"Service"};
-gen_data["TradeGuard"] = {"1-10":"Agriculture","11-15":"Education","16-20":"Industry","21-40":"Military","41-95":"Police","96-100":"Service"};
-gen_data["TradeKnight"] = {"1-30":"Adventure","31-90":"Military","91-100":"Police"};
-gen_data["TradeMage"] = {"1-30":"Adventure","31-50":"Education","51-70":"Merchant","71-90":"Military","91-100":"Service"};
-gen_data["TradeNoble"] = {"1-5":"Adventure","6-10":"Art","11-20":"Crime","21-25":"Education","26-30":"Hospitality","31-35":"Industry","36-40":"Merchant","41-45":"Military","46-90":"Nobility","91-95":"Professional","96-100":"Service"};
-gen_data["TradePriest"] = {"1-20":"Adventure","21-30":"Education","31-35":"Merchant","36-40":"Military","41-45":"Nobility","46-100":"Religion"};
-gen_data["TradeScout"] = {"1-10":"Adventure","11-20":"Agriculture","21-25":"Education","26-30":"Merchant","31-50":"Military","51-80":"Nature","81-100":"Service"};
-gen_data["TradeSpy"] = {"1-20":"Adventure","21-55":"Crime","56-60":"Merchant","61-90":"Military","91-95":"Professional","96-100":"Service"};
-gen_data["TradeThug"] = {"1-10":"Adventure","11-20":"Agriculture","21-50":"Crime","51-55":"Hospitality","56-65":"Industry","66-85":"Military","86-90":"Professional","91-100":"Service"};
-gen_data["TradeTribal-Warrior"] = {"1-40":"Agriculture","41-100":"Nature"};
-gen_data["TradeVeteran"] = {"1-20":"Adventure","21-25":"Agriculture","26-40":"Crime","41-45":"Education","46-50":"Hospitality","51-55":"Industry","56-60":"Merchant","61-85":"Military","86-90":"Nature","91-95":"Professional","96-100":"Service"};
 
 
 

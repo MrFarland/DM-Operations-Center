@@ -51,7 +51,7 @@ function getRace() {
         fullRace = (race + " (" + subRace + ")");
     }
 
-    // Return the values for racein an array.
+    // Return the values for race in an array.
     return [race, subRace, fullRace];
 
 }

@@ -8,35 +8,38 @@ generateOccupation.js
 function generateOccupation() {
 
     // Select a "Trade" from the array of trades for the given NPC Class.
-    trade = generate_text("Trade" + characterSlug);
+    var occupationTrade = generate_text("OccupationTrade" + characterSlug);
 
     // Get the "OccupationGroup" asspcoated with the given NPC Class.
-    occupationGroup = generate_text("OccupationGroup" + characterSlug);
+    var occupationGroup = generate_text("OccupationGroup" + characterSlug);
 
-    // Select an "Occupation Title" based on the selected "Trade" and "Occupation Group".
-    occupationTitle = generate_text("Occupation" + trade + occupationGroup);
+    // Select an "Title" based on the selected "Trade" and "Occupation Group".
+    var occupationTitle = generate_text("OccupationTitle" + occupationTrade + occupationGroup);
 
-    // Determine the appropriate experience level or title for an occupation based on age group.
-    experienceLevel = generate_text("Employer" + trade + "Experience" + ageGroup);
+    // Determine the appropriate experience level or title for an occupation based on trade and  age group.
+    var occupationExperience = generate_text("OccupationEmployer" + occupationTrade + "Experience" + ageGroup);
 
-    if (trade == "Crime" || trade == "Education" || trade == "Service"){
+    // Select the correct prefix to match the type of employment situation. "with", "working for", "working at".
+    var occupationDescriptionPrefix = generate_text("OccupationEmployer" + occupationTrade + "Prefix");
 
-        employer = generate_text("Employer" + trade);
-        employmentDescription = ("working for " + a(employer.toLowerCase()));
-
-    } else if (trade == "Hospitality" || trade == "Industry" || trade == "Religion"){
-
-        employer = generate_text("Employer" + trade);
-        employmentDescription = ("working at " + a(employer.toLowerCase()));
-
-    } else {
-        
-        employer = generate_text("Employer" + trade);
-        employmentDescription = ("with " + a(employer.toLowerCase()));
-
-    }
+    // Determine the employer of the individual and some details about them. 
+    var occupationEmployer = generate_text("OccupationEmployer" + occupationTrade);
  
-    occupation = (givenName + " is " + a(experienceLevel.toLowerCase()) + " " + occupationTitle.toLowerCase() + " " + employmentDescription + ". ");
+    // Build the complete occupation summary for this NPC including their experience level, title, employer, and description.
+    occupationDescription = (givenName + " is " + a(occupationExperience.toLowerCase()) + " " + occupationTitle.toLowerCase() + " " + occupationDescriptionPrefix + " " + a(occupationEmployer.toLowerCase()) + ". ");
 
-    return [occupation, trade];
+    // Return variables that may be needed in other functions.
+    return {
+        occupationTrade: occupationTrade,
+        occupationTitle: occupationTitle,
+        occupationDescription: occupationDescription
+    }
+
+}
+
+function displayOccupation() {
+
+    // Display the occupation desdcription for an NPC.
+    npcOccupationDescription.innerHTML = occupationDescription;
+
 }

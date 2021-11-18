@@ -77,5 +77,5 @@ function generateAppearance() {
 
     // Return the appearance variable.
     return [appearance];
-
+    
 }

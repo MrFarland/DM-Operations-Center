@@ -50,6 +50,6 @@ getGender.js
     prounounReflexive = pronouns[4];
 
     // Return the values for race and gender in an array.
-    return [genderForm, genderID, pronounSubject, pronounObject, pronounPossesive1, pronounPossesive2, prounounReflexive];
+    return [genderForm,genderID,pronounSubject,pronounObject,pronounPossesive1,pronounPossesive2,prounounReflexive];
 
 }
