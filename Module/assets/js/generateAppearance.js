@@ -66,10 +66,10 @@ function generateAppearance() {
     // Determine if the NPC has facial hair.
     if (facialHairType == 'None'){
         facialHairDescription = "";
-        faceDescription = (pronounSubject + " has " + eyeDescription + " and " + feature + ". ");
+        faceDescription = (givenName + " has " + eyeDescription + " and " + feature + ". ");
     } else {
         facialHairDescription = ((hairLength.toLowerCase()) + ", " + hairType + " " + (facialHairType.toLowerCase()) + ", " + facialHairStyle);
-        faceDescription = (pronounSubject + " has " + eyeDescription + "; " + feature + "; and " + a(facialHairDescription) + ". ");
+        faceDescription = (givenName + " has " + eyeDescription + "; " + feature + "; and " + a(facialHairDescription) + ". ");
     }
 
     // Create the description of the NPC based on the generated bodyColor.

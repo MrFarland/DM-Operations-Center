@@ -34,11 +34,75 @@ raceAgeGroups = {
 // Alignment
 // --------------------------------------------------------------------------------
 
-// Alignment (Good/Evil) -- 35% Good, 40% Neutral, 25% Evil.
-gen_data["AlignmentGE"] = {"1-35":"Good","36-75":"Neutral","76-100":"Evil"};
+// Generic Alignment Deviation
+// Alignment (Good/Evil) -- 40% Good, 40% Neutral, 20% Evil.
+gen_data["AlignmentGE"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"};
+// Alignment (Lawful/Chaos) -- 40% Lawful, 40% Neutral, 20% Chaos.
+gen_data["AlignmentLC"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
 
-// Alignment (Lawful/Chaos) -- 35% Lawful, 40% Neutral, 25% Chaos.
-gen_data["AlignmentLC"] = {"1-35":"Lawful","36-75":"Neutral","76-100":"Chaotic"};
+// Adventure - GE (35,35,30) - LC (30,30,40)
+gen_data["AlignmentGEAdventure"] = {"1-35":"Good","36-70":"Neutral","71-100":"Evil"};
+gen_data["AlignmentLCAdventure"] = {"1-30":"Lawful","31-60":"Neutral","61-100":"Chaotic"};
+
+// Agriculture - GE (40,40,20) - LC (40,40,20)
+gen_data["AlignmentGEAgriculture"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLCAgriculture"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
+
+// Art - GE (40,40,20) - LC (30,40,30)
+gen_data["AlignmentGEArt"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLCArt"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
+
+// Crime - GE (20,30,50) - LC (35,35,30) --- Note, all crime is organized in this generator.
+gen_data["AlignmentGECrime"] = {"1-20":"Good","21-50":"Neutral","51-100":"Evil"}
+gen_data["AlignmentLCCrime"] = {"1-35":"Lawful","36-70":"Neutral","71-100":"Chaotic"};
+
+// Education - GE (40,40,20) - LC (35,40,25)
+gen_data["AlignmentGEEducation"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLCEducation"] = {"1-35":"Lawful","36-75":"Neutral","76-100":"Chaotic"};
+
+// Hospitality - GE (40,40,20) - LC (35,40,25)
+gen_data["AlignmentGEHospitality"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLCHospitality"] = {"1-35":"Lawful","36-75":"Neutral","76-100":"Chaotic"};
+
+// Industry - GE (30,40,30) - LC (30,40,30)
+gen_data["AlignmentGEIndustry"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLCIndustry"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
+
+// Military - GE (35,35,30) - LC (60,20,20)
+gen_data["AlignmentGEMilitary"] = {"1-35":"Good","36-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLCMilitary"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+
+// Merchant - GE (40,40,20) - LC (40,40,20)
+gen_data["AlignmentGEMerchant"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLCMerchant"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
+
+// Nature - GE (30,40,30) - LC (20,40,40)
+gen_data["AlignmentGENature"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLCNature"] = {"1-20":"Lawful","21-60":"Neutral","61-100":"Chaotic"};
+
+// Nautical - GE (30,40,30) - LC (30,40,30)
+gen_data["AlignmentGENautical"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLCNautical"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
+
+// Nobility - GE (30,40,30) - LC (60,20,20)
+gen_data["AlignmentGENobility"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLCNobility"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+
+// Police - GE (35,35,30) - LC (60,20,20)
+gen_data["AlignmentGEPolice"] = {"1-35":"Good","36-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLCPolice"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+
+// Professional - GE (40,40,20) - LC (40,40,20)
+gen_data["AlignmentGEProfessional"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLCProfessional"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
+
+// Religion - GE (50,30,20) - LC (60,20,20)
+gen_data["AlignmentGEReligion"] = {"1-50":"Good","51-80":"Neutral","81-100":"Evil"}
+gen_data["AlignmentLCReligion"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+
+// Service - GE (30,40,30) - LC (60,20,20)
+gen_data["AlignmentGEService"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
+gen_data["AlignmentLCService"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
 
 // --------------------------------------------------------------------------------
 // Appearance
@@ -756,7 +820,6 @@ gen_data["OccupationNobilityClergy"] = ["Bishop"];
 gen_data["OccupationNobilityNoble"] = ["Noble"];
 
 // Trade - Police
-gen_data["OccupationPoliceCommoner"] = ["Administrator","Bookkeeper","Clerk","Quartermaster"];
 gen_data["OccupationPoliceMartialMelee"] = ["Guard","Sentry"];
 gen_data["OccupationPoliceMartialRanged"] = ["Archer"];
 gen_data["OccupationPoliceNoble"] = ["Captain","Commander","Inspector","Investigator", "Watchmaster"];
@@ -764,14 +827,12 @@ gen_data["OccupationPoliceStealthy"] = ["Inspector","Investigator"];
 
 // Trade - Professional
 gen_data["OccupationNobilityClergy"] = ["Physician"];
-gen_data["OccupationProfessionalCommoner"] = ["Barrister","Bookkeeper","Surveyor"];
 gen_data["OccupationProfessionalMartialMelee"] = ["Bounty Hunter"];
 gen_data["OccupationProfessionalNoble"] = ["Barrister","Banker","Money Lender"];
 gen_data["OccupationProfessionalStealthy"] = ["Bounty Hunter","Private Investigator"];
 
 // Trade - Religion
 gen_data["OccupationReligionClergy"] = ["Acolyte","Cleric","Priest"];
-gen_data["OccupationReligionCommoner"] = ["Attendant","Elder","Novice","Usher"];
 
 // Trade - Service
 gen_data["OccupationServiceArcane"] = ["Adviser","Chamberlain","Vizier"];
@@ -856,27 +917,27 @@ gen_data["SizeCommon"] = ["Tiny','Small","Medium","Large"];
 gen_data["Trade"] = ["Adventure","Agriculture","Art","Crime","Education","Hospitality","Industry","Merchant","Military","Nature","Nautical","Nobility","Religion","Service"];
 
 // Trades by NPC Class
-gen_data["TradeAcolyte"] = {"1":"Adventure","2":"Agriculture","3":"Hospitality","4":"Merchant","5":"Military","6":"Professional","7":"Religion","8":"Service"};
-gen_data["TradeArchmage"] = {"1":"Adventure","2":"Education","3":"Merchant","4":"Military","5":"Nobility"};
-gen_data["TradeAssassin"] = {"1":"Adventure","2":"Crime","3":"Military","4":"Professional","5":"Service"};
-gen_data["TradeBandit"] = {"1":"Agriculture","2":"Crime"};
-gen_data["TradeBandit-Captain"] = {"1":"Adventure","2":"Crime","3":"Professional"};
-gen_data["TradeBerserker"] = {"1":"Adventure","2":"Agriculture","3":"Crime","4":"Industry","5":"Military","6":"Nature"};
-gen_data["TradeCommoner"] = {"1":"Adventure","2":"Agriculture","3":"Art","4":"Crime","5":"Education","6":"Hospitality","7":"Industry","8":"Merchant","9":"Military","10":"Nature","11":"Professional","12":"Religion","13":"Service"};
-gen_data["TradeCult-Fanatic"] = {"1":"Adventure","2":"Merchant","3":"Military","4":"Religion","5":"Service"};
-gen_data["TradeCultist"] = {"1":"Adventure","2":"Agriculture","3":"Art","4":"Crime","5":"Education","6":"Hospitality","7":"Industry","8":"Merchant","9":"Military","10":"Nature","11":"Professional","12":"Religion","13":"Service"};
-gen_data["TradeDruid"] = {"1":"Adventure","2":"Education","3":"Merchant","4":"Nature","5":"Service"};
-gen_data["TradeGladiator"] = {"1":"Adventure","2":"Agriculture","3":"Art","4":"Crime","5":"Hospitality","6":"Military","7":"Service"};
-gen_data["TradeGuard"] = {"1":"Agriculture","2":"Education","3":"Industry","4":"Military","5":"Service"};
-gen_data["TradeKnight"] = {"1":"Adventure","2":"Military"};
-gen_data["TradeMage"] = {"1":"Adventure","2":"Education","3":"Merchant","4":"Military","5":"Service"};
-gen_data["TradeNoble"] = {"1":"Adventure","2":"Art","3":"Crime","4":"Education","5":"Hospitality","6":"Industry","7":"Merchant","8":"Military","9":"Professional","10":"Service"};
-gen_data["TradePriest"] = {"1":"Adventure","2":"Education","3":"Merchant","4":"Military","5":"Religion"};
-gen_data["TradeScout"] = {"1":"Adventure","2":"Agriculture","3":"Education","4":"Merchant","5":"Military","6":"Nature","7":"Service"};
-gen_data["TradeSpy"] = {"1":"Adventure","2":"Crime","3":"Merchant","4":"Military","5":"Professional","6":"Service"};
-gen_data["TradeThug"] = {"1":"Adventure","2":"Agriculture","3":"Crime","4":"Hospitality","5":"Industry","6":"Military","7":"Professional","8":"Service"};
-gen_data["TradeTribal-Warrior"] = {"1":"Agriculture","2":"Nature"};
-gen_data["TradeVeteran"] = {"1":"Adventure","2":"Agriculture","3":"Crime","4":"Education","5":"Hospitality","6":"Industry","7":"Merchant","9":"Military","10":"Nature","11":"Professional","12":"Service"};
+gen_data["TradeAcolyte"] = {"1-5":"Adventure","6-15":"Agriculture","16-20":"Merchant","21-25":"Military","26-30":"Professional","31-95":"Religion","96-100":"Service"};
+gen_data["TradeArchmage"] = {"1-10":"Adventure","11-60":"Education","61-80":"Merchant","81-90":"Military","91-100":"Nobility"};
+gen_data["TradeAssassin"] = {"1-20":"Adventure","21-60":"Crime","61-80":"Military","81-90":"Professional","91-100":"Service"};
+gen_data["TradeBandit"] = {"1-30":"Agriculture","31-100":"Crime"};
+gen_data["TradeBandit-Captain"] = {"1-35":"Adventure","36-85":"Crime","86-100":"Professional"};
+gen_data["TradeBerserker"] = {"1-25":"Adventure","26-30":"Agriculture","31-50":"Crime","51-75":"Industry","76-85":"Military","86-100":"Nature"};
+gen_data["TradeCommoner"] = {"1-25":"Agriculture","26-30":"Art","31-40":"Crime","41-50":"Education","51-60":"Hospitality","61-75":"Industry","76-85":"Merchant","86-90":"Military","91-95":"Nature","96-100":"Service"};
+gen_data["TradeCult-Fanatic"] = {"1-25":"Adventure","26-45":"Merchant","46-55":"Military","56-85":"Religion","86-100":"Service"};
+gen_data["TradeCultist"] = {"1-25":"Agriculture","26-30":"Art","31-40":"Crime","41-50":"Education","51-60":"Hospitality","61-75":"Industry","76-85":"Merchant","86-90":"Military","91-95":"Nature","96-100":"Service"};
+gen_data["TradeDruid"] = {"1-20":"Adventure","20-35":"Education","36-55":"Merchant","56-95":"Nature","96-100":"Service"};
+gen_data["TradeGladiator"] = {"1-30":"Adventure","31-35":"Agriculture","36-45":"Art","46-65":"Crime","66-70":"Hospitality","71-85":"Military","86-95":"Police","96-100":"Service"};
+gen_data["TradeGuard"] = {"1-10":"Agriculture","11-15":"Education","16-20":"Industry","21-40":"Military","41-95":"Police","96-100":"Service"};
+gen_data["TradeKnight"] = {"1-30":"Adventure","31-90":"Military","91-100":"Police"};
+gen_data["TradeMage"] = {"1-30":"Adventure","31-50":"Education","51-70":"Merchant","71-90":"Military","91-100":"Service"};
+gen_data["TradeNoble"] = {"1-5":"Adventure","6-10":"Art","11-20":"Crime","21-25":"Education","26-30":"Hospitality","31-35":"Industry","36-40":"Merchant","41-45":"Military","46-90":"Nobility","91-95":"Professional","96-100":"Service"};
+gen_data["TradePriest"] = {"1-20":"Adventure","21-30":"Education","31-35":"Merchant","36-40":"Military","41-45":"Nobility","46-100":"Religion"};
+gen_data["TradeScout"] = {"1-10":"Adventure","11-20":"Agriculture","21-25":"Education","26-30":"Merchant","31-50":"Military","51-80":"Nature","81-100":"Service"};
+gen_data["TradeSpy"] = {"1-20":"Adventure","21-55":"Crime","56-60":"Merchant","61-90":"Military","91-95":"Professional","96-100":"Service"};
+gen_data["TradeThug"] = {"1-10":"Adventure","11-20":"Agriculture","21-50":"Crime","51-55":"Hospitality","56-65":"Industry","66-85":"Military","86-90":"Professional","91-100":"Service"};
+gen_data["TradeTribal-Warrior"] = {"1-40":"Agriculture","41-100":"Nature"};
+gen_data["TradeVeteran"] = {"1-20":"Adventure","21-25":"Agriculture","26-40":"Crime","41-45":"Education","46-50":"Hospitality","51-55":"Industry","56-60":"Merchant","61-85":"Military","86-90":"Nature","91-95":"Professional","96-100":"Service"};
 
 
 
@@ -954,276 +1015,12 @@ gen_data["Interaction"] = [
 // --------------------------------------------------------------------------------
 // Personality
 // --------------------------------------------------------------------------------
-
-// John PERSONALITY, IDEALS, MOTIVATION, FLAW
-
-// https://www.reddit.com/r/d100/comments/bxbfnm/lets_build_d100_npc_motivations/
-gen_data["Motivations"] = [
-  "Altruism",
-  "Attention",
-  "Collector",
-  "Desire",
-  "Duty",
-  "Entertainment",
-  "Excitement",
-  "Exploration",
-  "Fame",
-  "Family",
-  "Food",
-  "Generosity",
-  "Gold",
-  "Greed",
-  "Health",
-  "Insanity",
-  "Knowledge",
-  "Loss",
-  "Love",
-  "Monster",
-  "None",
-  "Notoriety",
-  "Paranoia",
-  "Possession",
-  "Redemption",
-  "Religion",
-  "Reputation",
-  "Revenge",
-  "Revolution",
-  "Safety",
-  "Security",
-  "Substance",
-  "Sloth",
-  "Thrill",
-  "Wealth"
-];
-
-gen_data["MotivationEvil"] = [];
-gen_data["MotivationGood"] = [];
-gen_data["MotivationNeutral"] = [];
-
-// Negative Personality Traits -- https://www.reddit.com/r/d100/comments/a1i6oy/d100_personality_traits_for_npcs/
-
-gen_data["PersonalityNegative"] = [
-  "Absent-minded",
-  "Abusive",
-  "Addict",
-  "Aimless",
-  "Anxious",
-  "Arrogant",
-  "Audacious",
-  "Bad Habit",
-  "Bigmouth",
-  "Bigot",
-  "Blunt",
-  "Bold",
-  "Callous",
-  "Careless",
-  "Childish",
-  "Complex",
-  "Cruel",
-  "Dependent",
-  "Deranged",
-  "Dishonest",
-  "Disloyal",
-  "Disorder",
-  "Disturbed",
-  "Dubious",
-  "Dyslexic",
-  "Egotistical",
-  "Envious",
-  "Erratic",
-  "Fanatical",
-  "Fickle",
-  "Fierce",
-  "Finicky",
-  "Fixated",
-  "Flighty",
-  "Flirtatious",
-  "Foolish",
-  "Gluttonous",
-  "Gruff",
-  "Gullible",
-  "Hard",
-  "Hedonistic",
-  "Humorless",
-  "Hypocritical",
-  "Idealist",
-  "Immature",
-  "Impatient",
-  "Impulsive",
-  "Indecisive",
-  "Indifferent",
-  "Intolerant",
-  "Judgemental",
-  "Lazy",
-  "Meddlesome",
-  "Meek",
-  "Megalomaniacal",
-  "Naive",
-  "Nosey",
-  "Obsessive",
-  "Oppressive",
-  "Overambitious",
-  "Overconfident",
-  "Overemotional",
-  "Overprotective",
-  "Overzealous",
-  "Paranoid",
-  "Perfectionist",
-  "Pessimist",
-  "Predictable",
-  "Proud",
-  "Rebellious",
-  "Reckless",
-  "Remorseless",
-  "Sarcastic",
-  "Selfish",
-  "Self-Righteous",
-  "Shallow",
-  "Soft-hearted",
-  "Solemn",
-  "Spineless",
-  "Spiteful",
-  "Spoiled",
-  "Squeamish",
-  "Stubborn",
-  "Superstitious",
-  "Temperamental",
-  "Theatrical",
-  "Timid",
-  "Unpredictable",
-  "Untrustworthy",
-  "Vain",
-  "Withdrawn"
-];
-
-// Postivie Personality Traits - https://www.reddit.com/r/d100/comments/a1ovpp/d100_admirable_personality_traits_a_start/
-gen_data["PersonalityPositive"] = [
-  "Adaptable",
-  "Adventurous",
-  "Alert",
-  "Ambitious",
-  "Approachable",
-  "Articulate",
-  "Attentive",
-  "Brave",
-  "Calm",
-  "Careful",
-  "Cheerful",
-  "Compassionate",
-  "Confident",
-  "Considerate",
-  "Cooperative",
-  "Courteous",
-  "Creative",
-  "Curious",
-  "Dependable",
-  "Determined",
-  "Dignified",
-  "Disciplined",
-  "Easygoing",
-  "Energetic",
-  "Entertaining",
-  "Enthusiastic",
-  "Fair",
-  "Faithful",
-  "Focused",
-  "Forgiving",
-  "Friendly",
-  "Frugal",
-  "Funny",
-  "Generous",
-  "Happy",
-  "Hard-working",
-  "Honest",
-  "Honorable",
-  "Humble",
-  "Intuitive",
-  "Kind",
-  "Logical",
-  "Loyal",
-  "Merciful",
-  "Observant",
-  "Open-Minded",
-  "Optimistic",
-  "Organized",
-  "Passionate",
-  "Patient",
-  "Persuasive",
-  "Pragmatic",
-  "Prepared",
-  "Prompt",
-  "Prudent",
-  "Quiet",
-  "Resourceful",
-  "Self-Aware",
-  "Stoic",
-  "Wise"
-];
-
-gen_data["Fear"] = [
-  "Agorophobia",
-  "Being Wrong",
-  "Blood",
-  "Bugs",
-  "Claustrophobia",
-  "Committment",
-  "Dark",
-  "Death",
-  "Discovery",
-  "Dogs",
-  "Embarrassment",
-  "Employment",
-  "Expectations",
-  "Germs",
-  "Getting Old",
-  "Health",
-  "Heights",
-  "Horses",
-  "Jealousy",
-  "Love",
-  "Magic",
-  "Race",
-  "Rodents",
-  "Safety of Loved One",
-  "Snakes",
-  "Spiders",
-  "Strangers",
-  "Theft",
-  "Thunder",
-  "Undead",
-  "Vampires",
-  "Water"
-];
-
-gen_data["Secrets"] = [
-  "Addiction",
-  "Affair",
-  "Ashamed",
-  "Changeling",
-  "Dead-beat Parent",
-  "Embezzling",
-  "Escaped Slave",
-  "Exhibitionist",
-  "False Identity",
-  "Fugitive",
-  "Convict",
-  "Cult",
-  "Gambling",
-  "Grave Robber",
-  "Horrible Secret",
-  "Love",
-  "Murder",
-  "Noble's Illegitimate Child",
-  "Psycopath (Emotionless)",
-  "Racist",
-  "Revolutionary",
-  "Romance Novelist",
-  "Serial Killer",
-  "Sorcerer",
-  "Theft",
-  "Terminal Illness",
-  "Vampire",
-  "Warlock",
-  "Were-",
-  ""
-];
+// Mood
+gen_data["Mood"] = ["Afraid","Angry","Bad","Disgusted","Happy","Sad","Surprised"];
+gen_data["MoodAfraid"] = ["Afraid","Anxious","Excluded","Exposed","Frightened","Helpless","Inadequate","Inferior","Insecure","Insignificant","Nervous","Overwhelmed","Persecuted","Rejected","Scared","Threatened","Weak","Worried","Worthless"];
+gen_data["MoodAngry"] = ["Aggressive","Angry","Annoyed","Betrayed","Bitter","Critical","Dismissive","Disrespected","Distant","Frustrated","Furious","Hostile","Humiliated","Indignant","Infuriated","Jealous","Let Down","Mad","Numb","Provoked","Resentful","Ridiculed","Skeptical","Violated","Withdrawn"];
+gen_data["MoodBad"] = ["Apathetic","Bored","Busy","Indifferent","Out of Control","Overwhelemed","Pressured","Rushed","Sleepy","Stressed","Tired","Unfocused"];
+gen_data["MoodDisgusted"] = ["Apalled","Awful","Detestable","Disgusted","Disappointed","Disapproving","Hesitant","Horrified","Judgemental","Nauseated","Repelled","Revolted"];
+gen_data["MoodHappy"] = ["Accepted","Creative","Confident","Content","Courageous","Curious","Free","Happy","Hopeful","Inspired","Interested","Inquisitive","Joyful","Loving","Optimistic","Peaceful","Playful","Powerful","Proud","Respected","Sensitive","Successful","Thankful","Trusting","Valued"];
+gen_data["MoodSad"] = ["Abandoned","Ashamed","Depressed","Despair","Disappointed","Embarassed","Empty","Fragile","Grief","Guilty","Hurt","Inferior","Isolated","Lonely","Powerless","Remorseful","Sad","Vulnerable"];
+gen_data["MoodSurprised"] = ["Amazed","Astonished","Awe","Confused","Disillusioned","Eager","Energetic","Dismayed","Perplexed","Shocked","Startled","Surprised",];

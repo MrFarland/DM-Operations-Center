@@ -60,14 +60,27 @@ parent: worldbuilding
 <div class="result">
     <h4 id="npcFullName">Character Name</h4>
     <div class="small-text"><span id="npcFullRace">Race</span> - <span id="npcGenderID">Gender Identity</span> - <span id="npcAge">Age</span> (<span id="npcAgeGroup">Group</span>) - <span id="npcCharacterClassURL">Class</span></div>
+    <h5>Voice</h5>
+    <p id="npcVoice"></p>
     <h5>Appearance</h5>
     <p id="npcAppearance"></p>
     <h5>Personality</h5>
     <p id="npcPersonality"></p>
     <h5>Occupation</h5>
     <p id="npcOccupation"></p>
+    <h5>R-Word</h5>
+    <p class="very-small-text">I feel like I need a word that begins with "R". Try my patented, VAPOR system for your NPCs!</p>
     <br/>
 </div>
+
+<br/>
+<br/>
+
+***Planned for 2.0*** {.small-text}
+- *Support for all playable races.* {.small-text}
+- *Support for non-SRD NPC classes (w/o statblock unfortunately)* {.small-text}
+ 
+
 
 <!-- Load the custom.js for common functions -->
 <script src="../assets/js/custom.js"></script>
@@ -86,6 +99,7 @@ parent: worldbuilding
 <script src="../assets/js/generateAppearance.js"></script>
 <script src="../assets/js/generateOccupation.js"></script>
 <script src="../assets/js/generatePersonality.js"></script>
+<script src="../assets/js/generateVoice.js"></script>
 <script src="../assets/js/generateName.js"></script>
 <script src="../assets/js/generateNPC.js"></script>
 
