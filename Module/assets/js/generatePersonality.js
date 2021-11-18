@@ -12,21 +12,21 @@ function generatePersonality() {
     var occupationTitle = occupationObj.title
 
     // Determine an NPCs alignment based on their trade.
-    var alignmentLawChaos = generate_text("AlignmentLawChaos" + occupationObj.occupationTrade);
+    var alignmentLawfulChaotic = generate_text("AlignmentLawfulChaotic" + occupationObj.occupationTrade);
     var alignmentGoodEvil = generate_text("AlignmentGoodEvil" + occupationObj.occupationTrade);
 
     // Fix "Neutral Neutral" alignment just be "Neutral".
-    if (alignmentLawChaos == "Neutral" && alignmentGoodEvil == "Neutral") {
-        var personalityAlignment = alignmentLawChaos;    
+    if (alignmentLawfulChaotic == "Neutral" && alignmentGoodEvil == "Neutral") {
+        var personalityAlignment = alignmentLawfulChaotic;    
     } else {
-        var personalityAlignment = (alignmentLawChaos + " " + alignmentGoodEvil);
+        var personalityAlignment = (alignmentLawfulChaotic + " " + alignmentGoodEvil);
     }
 
-    // Determine "Disposition" weighted by Good/Evil, but not proscriptively. Angry people can be good. Kind people can be evil.
-    var personalityDisposition = generate_text("PersonalityDisposition" + alignmentGoodEvil);
-    
+    // Select a personality type based on the profile types using the NERIS Model at 16Personalities.com. (I'm a Mediator.)
+    var personalityType = generate_text("PersonalityType" + alignmentLawfulChaotic)
+
     // Build the complete personality summary for this NPC including their disposition, motivations, etc.
-    personalityDescription = (givenName + " is " + personalityAlignment + " with " + a(personalityDisposition.toLowerCase()) + " disposition.");
+    personalityDescription = (givenName + " is " + personalityAlignment + " with " + a(personalityType) + " personality type.");
 
     // Return variables that may be needed in other functions.
     return {

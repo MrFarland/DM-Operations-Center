@@ -38,71 +38,71 @@ raceAgeGroups = {
 // Alignment (Good/Evil) -- 40% Good, 40% Neutral, 20% Evil.
 gen_data["AlignmentGoodEvil"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"};
 // Alignment (Lawful/Chaos) -- 40% Lawful, 40% Neutral, 20% Chaos.
-gen_data["AlignmentLawChaos"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentLawfulChaotic"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
 
 // Adventure - GE (35,35,30) - LC (30,30,40)
 gen_data["AlignmentGoodEvilAdventure"] = {"1-35":"Good","36-70":"Neutral","71-100":"Evil"};
-gen_data["AlignmentLawChaosAdventure"] = {"1-30":"Lawful","31-60":"Neutral","61-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticAdventure"] = {"1-30":"Lawful","31-60":"Neutral","61-100":"Chaotic"};
 
-// Agriculture - GE (40,40,20) - LC (40,40,20)
+// Agriculture - GE (40,40,20) - LC (35,35,30)
 gen_data["AlignmentGoodEvilAgriculture"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLawChaosAgriculture"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticAgriculture"] = {"1-35":"Lawful","36-70":"Neutral","71-100":"Chaotic"};
 
 // Art - GE (40,40,20) - LC (30,40,30)
 gen_data["AlignmentGoodEvilArt"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLawChaosArt"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticArt"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
 
 // Crime - GE (20,30,50) - LC (35,35,30) --- Note, all crime is organized in this generator.
 gen_data["AlignmentGoodEvilCrime"] = {"1-20":"Good","21-50":"Neutral","51-100":"Evil"}
-gen_data["AlignmentLawChaosCrime"] = {"1-35":"Lawful","36-70":"Neutral","71-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticCrime"] = {"1-35":"Lawful","36-70":"Neutral","71-100":"Chaotic"};
 
 // Education - GE (40,40,20) - LC (35,40,25)
 gen_data["AlignmentGoodEvilEducation"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLawChaosEducation"] = {"1-35":"Lawful","36-75":"Neutral","76-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticEducation"] = {"1-35":"Lawful","36-75":"Neutral","76-100":"Chaotic"};
 
-// Hospitality - GE (40,40,20) - LC (35,40,25)
+// Hospitality - GE (40,40,20) - LC (35,35,30)
 gen_data["AlignmentGoodEvilHospitality"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLawChaosHospitality"] = {"1-35":"Lawful","36-75":"Neutral","76-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticHospitality"] = {"1-35":"Lawful","36-70":"Neutral","71-100":"Chaotic"};
 
 // Industry - GE (30,40,30) - LC (30,40,30)
 gen_data["AlignmentGoodEvilIndustry"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLawChaosIndustry"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticIndustry"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
 
 // Military - GE (35,35,30) - LC (60,20,20)
 gen_data["AlignmentGoodEvilMilitary"] = {"1-35":"Good","36-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLawChaosMilitary"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticMilitary"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
 
-// Merchant - GE (40,40,20) - LC (40,40,20)
+// Merchant - GE (40,40,20) - LC (35,35,30)
 gen_data["AlignmentGoodEvilMerchant"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLawChaosMerchant"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticMerchant"] = {"1-35":"Lawful","36-70":"Neutral","71-100":"Chaotic"};
 
 // Nature - GE (30,40,30) - LC (20,40,40)
 gen_data["AlignmentGoodEvilNature"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLawChaosNature"] = {"1-20":"Lawful","21-60":"Neutral","61-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticNature"] = {"1-20":"Lawful","21-60":"Neutral","61-100":"Chaotic"};
 
 // Nautical - GE (30,40,30) - LC (30,40,30)
 gen_data["AlignmentGoodEvilNautical"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLawChaosNautical"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticNautical"] = {"1-30":"Lawful","31-70":"Neutral","71-100":"Chaotic"};
 
 // Nobility - GE (30,40,30) - LC (60,20,20)
 gen_data["AlignmentGoodEvilNobility"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLawChaosNobility"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticNobility"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
 
 // Police - GE (35,35,30) - LC (60,20,20)
 gen_data["AlignmentGoodEvilPolice"] = {"1-35":"Good","36-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLawChaosPolice"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticPolice"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
 
-// Professional - GE (40,40,20) - LC (40,40,20)
+// Professional - GE (40,40,20) - LC (35,35,30)
 gen_data["AlignmentGoodEvilProfessional"] = {"1-40":"Good","41-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLawChaosProfessional"] = {"1-40":"Lawful","41-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticProfessional"] = {"1-35":"Lawful","36-70":"Neutral","71-100":"Chaotic"};
 
 // Religion - GE (50,30,20) - LC (60,20,20)
 gen_data["AlignmentGoodEvilReligion"] = {"1-50":"Good","51-80":"Neutral","81-100":"Evil"}
-gen_data["AlignmentLawChaosReligion"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticReligion"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
 
 // Service - GE (30,40,30) - LC (60,20,20)
 gen_data["AlignmentGoodEvilService"] = {"1-30":"Good","31-70":"Neutral","71-100":"Evil"}
-gen_data["AlignmentLawChaosService"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
+gen_data["AlignmentLawfulChaoticService"] = {"1-60":"Lawful","61-80":"Neutral","81-100":"Chaotic"};
 
 // --------------------------------------------------------------------------------
 // Appearance
@@ -931,15 +931,66 @@ gen_data["PantheonDevil"] = ["Zariel"];
 // Personality
 // --------------------------------------------------------------------------------
 
-gen_data["PersonalityDispositionGood"] = {
-  "1-9":"Friendly",
-  "10":"Mean"
-};
-gen_data["PersonalityDispositionNeutral"] = ["{PersonalityDispositionGood}","{PersonalityDispositionEvil}"]
-gen_data["PersonalityDispositionEvil"] = {
-  "1":"Friendly",
-  "2-10":"Mean"
-};
+// Personality classes and types heavily based on Myers-Briggs and 16Personalities.com. 
+gen_data["PersonalityType"] = ["Adventurer","Advocate","Architect","Campaigner","Commander","Consul","Debater","Defender","Entertainer","Entrepreneur","Executive","Logician","Logistician","Mediator","Protagonist","Virtuoso"];
+
+gen_data["PersonalityTypeChaotic"] = ["Adventurer","Advocate","Architect","Campaigner","Debater","Entertainer","Entrepreneur","Logician","Mediator","Virtuoso"];
+gen_data["PersonalityTypeLawful"] = ["Commander","Consul","Defender","Executive","Logistician","Protagonist"];
+gen_data["PersonalityTypeNeutral"] = ["{PersonalityTypeChaotic}","{PersonalityTypeLawful}"];
+
+gen_data["PersonalityTraitsGoodAdventurer"] = ["Charming","Sensitive","Imaginative","Passionate","Curious","Artistic"];
+gen_data["PersonalityTraitsBadAdventurer"] = ["Fiercely Independent","Unpredictable","Easily Stressed","Overly Competitive","Fluctuating Self-Esteem"];
+gen_data["PersonalityTraitsGoodAdvocate"] = ["Creative","Insightful","Principled","Passionate","Altruistic"];
+gen_data["PersonalityTraitsBadAdvocate"] = ["Sensitive to Criticism","Reluctant to Open Up","Perfectionistic","Avoiding the Ordinary","Prone to Burnout"];
+gen_data["PersonalityTraitsGoodArchitect"] = ["Rational","Informed","Independent","Determined","Curious","Versatile"];
+gen_data["PersonalityTraitsBadArchitect"] = ["Arrogant","Dismissive to Emotions","Overly Critical","Combative","Romantically Clueless"];
+gen_data["PersonalityTraitsGoodCampaigner"] = ["Curious","Perceptive","Enthusiastic","Excellent Communicator","Festive","Good-Natured"];
+gen_data["PersonalityTraitsBadCampaigner"] = ["People-Pleasing","Unfocused","Disorganized","Overly Accomodating","Overly Optimistic","Restless"];
+gen_data["PersonalityTraitsGoodCommander"] = ["Efficient","Energetic","Self-Confident","Strong-Willed","Strategic Thinker","Charismatic","Inspiring"];
+gen_data["PersonalityTraitsBadCommander"] = ["Stubborn","Dominant","Intolerant","Impatient","Arrogant","Poor Handling of Emotions","Cold","Ruthless"];
+gen_data["PersonalityTraitsGoodConsul"] = ["Practical","Sense of Duty","Loyal","Sensitive","Warm","Good at Connecting"];
+gen_data["PersonalityTraitsBadConsul"] = ["Worried about Status","Inflexible","Close Minded","Conforming","Vulnerable to Criticism","Needy","Too Selfless"];
+gen_data["PersonalityTraitsGoodDebater"] = ["Knowledgeable","Quick Thinker","Original","Brainstormer","Charismatic","Energetic"];
+gen_data["PersonalityTraitsBadDebater"] = ["Argumentative","Insensitive","Intolerant","Unfocused","Impractical"];
+gen_data["PersonalityTraitsGoodDefender"] = ["Supportive","Reliable","Patient","Imaginative","Observant","Enthusiastic","Loyal","Hard-Working","Practical"];
+gen_data["PersonalityTraitsBadDefender"] = ["Humble","Shy","Thin-skinned","Repressed Feelings","Overload","Resist change","Too Altruistic"];
+gen_data["PersonalityTraitsGoodEntertainer"] = ["Bold","Original","Stylish","Practical","Observant","Social"];
+gen_data["PersonalityTraitsBadEntertainer"] = ["Thin-skinned","Conflict-averse","Easily bored","Poor planning","Unfocused"];
+gen_data["PersonalityTraitsGoodEntrepreneur"] = ["Bold","Rational","Practical","Original","Perceptive","Direct","Social"];
+gen_data["PersonalityTraitsBadEntrepreneur"] = ["Insensitive","Impatient","Risk-prone","Unstructured","Miss big Picture","Defiant"];
+gen_data["PersonalityTraitsGoodExecutive"] = ["Dedicated","Strong-willed","Direct","Honest","Loyal","Patient","Reliable","Order","Organized"];
+gen_data["PersonalityTraitsBadExecutive"] = ["Inflexible","Stubborn","Unconfortable with nonconformity","judgemental","Focused on status","Cant relax","Cannot express emotion"];
+gen_data["PersonalityTraitsGoodLogician"] = ["Analytical","Original","open-minded","Curious","objective"];
+gen_data["PersonalityTraitsBadLogician"] = ["Disconnected","Insensitive","Dissatisified","Impatient","Perfectionistic"];
+gen_data["PersonalityTraitsGoodLogistician"] = ["Honest","Direct","Strong-willed","Dutiful","Responsible","Calm","Practical","Order","Jack of all trades"];
+gen_data["PersonalityTraitsBadLogistician"] = ["Stubborn","Insensitive","By the book","Judgemental","internalize failure"];
+gen_data["PersonalityTraitsGoodMediator"] = ["Empathetic","Generous","Open-minded","Creative","Passionate","Idealistic"];
+gen_data["PersonalityTraitsBadMediator"] = ["Unrealistic","Self-isolating","Unfocused","Vulnerable","Desperate to please","Self-critical"];
+gen_data["PersonalityTraitsGoodProtagonist"] = ["Receptive","Reliable","Passionate","Altruistic","Charismatic"];
+gen_data["PersonalityTraitsBadProtagonist"] = ["Unrealistic","Overly idealistic","Condescending","Intense","overly empathetic"];
+gen_data["PersonalityTraitsGoodVirtuoso"] = ["Optimistic","energetic","creative","Practical","Spontaneous","Rational","Prioritize","Great in crisis","relaxed"];
+gen_data["PersonalityTraitsBadVirtuoso"] = ["Stubborn","Insensitive","Private","Reserved","Easily Bored","Dislike Committment","Risk-prone"];
+
+
+gen_data["PersonalityTraitsAdventurer"] = ["Introverted","Observant","Feeling","Prospecting"];
+gen_data["PersonalityTraitsAdvocate"] = ["Introverted","Intuitive","Feeling","Judging"];
+gen_data["PersonalityTraitsArchitect"] = ["Introverted","Intuitive","Thinking","Judging"];
+gen_data["PersonalityTraitsCampaigner"] = ["Extraverted","Intuitive","Feeling","Prospecting"];
+gen_data["PersonalityTraitsCommander"] = ["Extraverted","Intuitive","Thinking","Judging"];
+gen_data["PersonalityTraitsConsul"] = ["Extraverted","Observant","Feeling","Judging"];
+gen_data["PersonalityTraitsDebater"] = ["Extraverted","Intuitive","Thinking","Prospecting"];
+gen_data["PersonalityTraitsDefender"] = ["Introverted","Observant","Feeling","Judging"];
+gen_data["PersonalityTraitsExecutive"] = ["Extraverted","Observant","Thinking","Judging"];
+gen_data["PersonalityTraitsEntertainer"] = ["Extraverted","Observant","Feeling","Prospecting"];
+gen_data["PersonalityTraitsEntrepreneur"] = ["Extraverted","Observant","Thinking","Prospecting"];
+gen_data["PersonalityTraitsLogician"] = ["Introverted","Intuitive","Thinking","Prospecting"];
+gen_data["PersonalityTraitsLogistician"] = ["Introverted","Observant","Thinking","Judging"];
+gen_data["PersonalityTraitsMediator"] = ["Introverted","Intuitive","Feeling","Prospecting"];
+gen_data["PersonalityTraitsProtagonist"] = ["Extraverted","Intuitive","Feeling","Judging"];
+gen_data["PersonalityTraitsVirtuoso"] = ["Introverted","Observant","Thinking","Prospecting"];
+
+
+
 
 // --------------------------------------------------------------------------------
 // Races
