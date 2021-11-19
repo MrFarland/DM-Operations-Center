@@ -76,7 +76,8 @@ parent: worldbuilding
 
 ***Planned for 2.0*** {.small-text}
 - *Support for all playable races.* {.small-text}
-- *Support for non-SRD NPC classes (w/o statblock unfortunately)* {.small-text}
+- *Support for non-SRD NPC classes (w/o statblock).* {.small-text}
+- *Display HTML to copy/paste NPC to new page.*  {.small-text}
  
 
 

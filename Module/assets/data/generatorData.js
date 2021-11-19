@@ -641,7 +641,7 @@ gen_data["OccupationEmployerIndustry"] = ["{OccupationEmployerIndustryAdjective}
 gen_data["OccupationEmployerIndustryAdjective"] = ["Busy","Large","Profitable","Small","Struggling","Successful"];
 gen_data["OccupationEmployerIndustryExperienceYoung"] = ["Apprentice","Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Talented","Undisciplined","Unpolished","Young"];
 gen_data["OccupationEmployerIndustryExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Polished","Professional","Skilled","Well-rounded"];
-gen_data["OccupationEmployerIndustryExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
+gen_data["OccupationEmployerIndustryExperienceMature"] = ["Accomplished","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
 gen_data["OccupationEmployerIndustryExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
 gen_data["OccupationEmployerIndustryExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
 gen_data["OccupationEmployerIndustryLocation"] = ["{LocationRural}","{LocationWilderness}"];
@@ -653,7 +653,7 @@ gen_data["OccupationEmployerMilitary"] = ["{OccupationEmployerMilitaryAdjective}
 gen_data["OccupationEmployerMilitaryAdjective"] = ["Elite","Inexperienced","Seasoned","Under-strength","Veteran"];
 gen_data["OccupationEmployerMilitaryExperienceYoung"] = ["Earnest","Enthusiastic","Gifted","Handy","Inexperienced","New","Promising","Talented","Undisciplined","Unpolished","Young"];
 gen_data["OccupationEmployerMilitaryExperienceAdult"] = ["Capable","Competent","Experienced","Practiced","Professional","Skilled","Well-rounded"];
-gen_data["OccupationEmployerMilitaryExperienceMature"] = ["Accomplished","Adept","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
+gen_data["OccupationEmployerMilitaryExperienceMature"] = ["Accomplished","Experienced","Expert","Highly-Skilled","Respected","Seasoned","Veteran","Washed-up","Well-known"];
 gen_data["OccupationEmployerMilitaryExperienceElderly"] = ["Elder","Elderly","Famous","Master","Old","Washed-up","Well-respected"];
 gen_data["OccupationEmployerMilitaryExperienceVenerable"] = ["Legendary","Venerable","Very Old"];
 gen_data["OccupationEmployerMilitaryPrefix"] = ["with"];
@@ -934,61 +934,96 @@ gen_data["PantheonDevil"] = ["Zariel"];
 // Personality classes and types heavily based on Myers-Briggs and 16Personalities.com. 
 gen_data["PersonalityType"] = ["Adventurer","Advocate","Architect","Campaigner","Commander","Consul","Debater","Defender","Entertainer","Entrepreneur","Executive","Logician","Logistician","Mediator","Protagonist","Virtuoso"];
 
+// Personality Type to Alignment
 gen_data["PersonalityTypeChaotic"] = ["Adventurer","Advocate","Architect","Campaigner","Debater","Entertainer","Entrepreneur","Logician","Mediator","Virtuoso"];
 gen_data["PersonalityTypeLawful"] = ["Commander","Consul","Defender","Executive","Logistician","Protagonist"];
 gen_data["PersonalityTypeNeutral"] = ["{PersonalityTypeChaotic}","{PersonalityTypeLawful}"];
 
-gen_data["PersonalityTraitsGoodAdventurer"] = ["Charming","Sensitive","Imaginative","Passionate","Curious","Artistic"];
-gen_data["PersonalityTraitsBadAdventurer"] = ["Fiercely Independent","Unpredictable","Easily Stressed","Overly Competitive","Fluctuating Self-Esteem"];
-gen_data["PersonalityTraitsGoodAdvocate"] = ["Creative","Insightful","Principled","Passionate","Altruistic"];
-gen_data["PersonalityTraitsBadAdvocate"] = ["Sensitive to Criticism","Reluctant to Open Up","Perfectionistic","Avoiding the Ordinary","Prone to Burnout"];
-gen_data["PersonalityTraitsGoodArchitect"] = ["Rational","Informed","Independent","Determined","Curious","Versatile"];
-gen_data["PersonalityTraitsBadArchitect"] = ["Arrogant","Dismissive to Emotions","Overly Critical","Combative","Romantically Clueless"];
-gen_data["PersonalityTraitsGoodCampaigner"] = ["Curious","Perceptive","Enthusiastic","Excellent Communicator","Festive","Good-Natured"];
-gen_data["PersonalityTraitsBadCampaigner"] = ["People-Pleasing","Unfocused","Disorganized","Overly Accomodating","Overly Optimistic","Restless"];
-gen_data["PersonalityTraitsGoodCommander"] = ["Efficient","Energetic","Self-Confident","Strong-Willed","Strategic Thinker","Charismatic","Inspiring"];
-gen_data["PersonalityTraitsBadCommander"] = ["Stubborn","Dominant","Intolerant","Impatient","Arrogant","Poor Handling of Emotions","Cold","Ruthless"];
-gen_data["PersonalityTraitsGoodConsul"] = ["Practical","Sense of Duty","Loyal","Sensitive","Warm","Good at Connecting"];
-gen_data["PersonalityTraitsBadConsul"] = ["Worried about Status","Inflexible","Close Minded","Conforming","Vulnerable to Criticism","Needy","Too Selfless"];
-gen_data["PersonalityTraitsGoodDebater"] = ["Knowledgeable","Quick Thinker","Original","Brainstormer","Charismatic","Energetic"];
-gen_data["PersonalityTraitsBadDebater"] = ["Argumentative","Insensitive","Intolerant","Unfocused","Impractical"];
-gen_data["PersonalityTraitsGoodDefender"] = ["Supportive","Reliable","Patient","Imaginative","Observant","Enthusiastic","Loyal","Hard-Working","Practical"];
-gen_data["PersonalityTraitsBadDefender"] = ["Humble","Shy","Thin-skinned","Repressed Feelings","Overload","Resist change","Too Altruistic"];
-gen_data["PersonalityTraitsGoodEntertainer"] = ["Bold","Original","Stylish","Practical","Observant","Social"];
-gen_data["PersonalityTraitsBadEntertainer"] = ["Thin-skinned","Conflict-averse","Easily bored","Poor planning","Unfocused"];
-gen_data["PersonalityTraitsGoodEntrepreneur"] = ["Bold","Rational","Practical","Original","Perceptive","Direct","Social"];
-gen_data["PersonalityTraitsBadEntrepreneur"] = ["Insensitive","Impatient","Risk-prone","Unstructured","Miss big Picture","Defiant"];
-gen_data["PersonalityTraitsGoodExecutive"] = ["Dedicated","Strong-willed","Direct","Honest","Loyal","Patient","Reliable","Order","Organized"];
-gen_data["PersonalityTraitsBadExecutive"] = ["Inflexible","Stubborn","Unconfortable with nonconformity","judgemental","Focused on status","Cant relax","Cannot express emotion"];
-gen_data["PersonalityTraitsGoodLogician"] = ["Analytical","Original","open-minded","Curious","objective"];
-gen_data["PersonalityTraitsBadLogician"] = ["Disconnected","Insensitive","Dissatisified","Impatient","Perfectionistic"];
-gen_data["PersonalityTraitsGoodLogistician"] = ["Honest","Direct","Strong-willed","Dutiful","Responsible","Calm","Practical","Order","Jack of all trades"];
-gen_data["PersonalityTraitsBadLogistician"] = ["Stubborn","Insensitive","By the book","Judgemental","internalize failure"];
-gen_data["PersonalityTraitsGoodMediator"] = ["Empathetic","Generous","Open-minded","Creative","Passionate","Idealistic"];
-gen_data["PersonalityTraitsBadMediator"] = ["Unrealistic","Self-isolating","Unfocused","Vulnerable","Desperate to please","Self-critical"];
-gen_data["PersonalityTraitsGoodProtagonist"] = ["Receptive","Reliable","Passionate","Altruistic","Charismatic"];
-gen_data["PersonalityTraitsBadProtagonist"] = ["Unrealistic","Overly idealistic","Condescending","Intense","overly empathetic"];
-gen_data["PersonalityTraitsGoodVirtuoso"] = ["Optimistic","energetic","creative","Practical","Spontaneous","Rational","Prioritize","Great in crisis","relaxed"];
-gen_data["PersonalityTraitsBadVirtuoso"] = ["Stubborn","Insensitive","Private","Reserved","Easily Bored","Dislike Committment","Risk-prone"];
+// Adventurer (Introverted, Observant, Feeling, Prospecting)
+gen_data["PersonalityTypeAdventurer"] = [
+  "is an excellent \"out-of-the-box\" thinker and has a knack for coming up with creative solutions to complex problems",
+  "has a very laid back demeanor, but can become intensely passionate and animated when need be",
+  "is curious and inquisitive, but is an experiential learner that loves to try new things",
+  "is imaginative ...",
+  "is passionate ...",
+  "has a natural talent for intuiting the feelings of others and making them feel at ease",
+  "is less concerned with other people say and focuses on living their life however they see fit",
+  "lives in the moment and tries not to worry too much about what transpired yesterday or what might happen tomorrow",
+  "has a sense of style that is unconventional and uniquely their own",
+  "believes very much in the old saying, \"Forgive and forget\" and is often eager "
+];
+gen_data["PersonalityFlawAdventurer"] = [
+  "is incredibly competitive and cannot stand to be \"one-upped\" or otherwise outdone by their rivals",
+  "is fiercely independent to a fault, refusing assistance even when it is clearly needed",
+  "has a very short attention span and is both easily distracted and ",
+  "is easily overwhelmed and stressed out by unforseen challenges",
+  "has terrible gambling problem and owes a good deal of coin to a local loanshark",
+  "is a compulsive gambler and will regularly make wagers on even the silliest and most insignificant of tasks",
+  "is easily stressed when things do not go as planned and can lash out and make rash decisions",
+  "does not take criticism well, often taking even the slightest comment as a personal afront",
+  "has a famously short temper and can go from calm to enraged in a startingly short period of time",
+  "is self-absorbed and manipulative, often using their charm and intuition to get what they want"
+];
 
+// Advocate (Introverted, Intuitive, Feeling, Judging)
+gen_data["PersonalityTypeAdvocate"] = ["Altruistic","Creative","Insightful","Passionate","Principled"];
+gen_data["PersonalityFlawAdvocate"] = ["Avoiding the Ordinary","Perfectionistic","Prone to Burnout","Reluctant to Open Up","Sensitive to Criticism"];
 
-gen_data["PersonalityTraitsAdventurer"] = ["Introverted","Observant","Feeling","Prospecting"];
-gen_data["PersonalityTraitsAdvocate"] = ["Introverted","Intuitive","Feeling","Judging"];
-gen_data["PersonalityTraitsArchitect"] = ["Introverted","Intuitive","Thinking","Judging"];
-gen_data["PersonalityTraitsCampaigner"] = ["Extraverted","Intuitive","Feeling","Prospecting"];
-gen_data["PersonalityTraitsCommander"] = ["Extraverted","Intuitive","Thinking","Judging"];
-gen_data["PersonalityTraitsConsul"] = ["Extraverted","Observant","Feeling","Judging"];
-gen_data["PersonalityTraitsDebater"] = ["Extraverted","Intuitive","Thinking","Prospecting"];
-gen_data["PersonalityTraitsDefender"] = ["Introverted","Observant","Feeling","Judging"];
-gen_data["PersonalityTraitsExecutive"] = ["Extraverted","Observant","Thinking","Judging"];
-gen_data["PersonalityTraitsEntertainer"] = ["Extraverted","Observant","Feeling","Prospecting"];
-gen_data["PersonalityTraitsEntrepreneur"] = ["Extraverted","Observant","Thinking","Prospecting"];
-gen_data["PersonalityTraitsLogician"] = ["Introverted","Intuitive","Thinking","Prospecting"];
-gen_data["PersonalityTraitsLogistician"] = ["Introverted","Observant","Thinking","Judging"];
-gen_data["PersonalityTraitsMediator"] = ["Introverted","Intuitive","Feeling","Prospecting"];
-gen_data["PersonalityTraitsProtagonist"] = ["Extraverted","Intuitive","Feeling","Judging"];
-gen_data["PersonalityTraitsVirtuoso"] = ["Introverted","Observant","Thinking","Prospecting"];
+// Architect (Introverted, Intuitive, Thinking, Judging)
+gen_data["PersonalityTypeArchitect"] = ["Curious","Determined","Independent","Informed","Rational","Versatile"];
+gen_data["PersonalityFlawArchitect"] = ["Arrogant","Combative","Dismissive to Emotions","Overly Critical","Romantically Clueless"];
 
+// Campaigner (Extraverted, Intuitive, Feeling)
+gen_data["PersonalityTypeCampaigner"] = ["Curious","Enthusiastic","Excellent Communicator","Festive",,"Good-Natured","Perceptive"];
+gen_data["PersonalityFlawCampaigner"] = ["Disorganized","Overly Accomodating","Overly Optimistic","People-Pleasing","Restless","Unfocused"];
+
+// Commander (Extraverted, Intuitive, Feeling, Prospecting)
+gen_data["PersonalityTypeCommander"] = ["Charismatic","Efficient","Energetic","Inspiring","Self-Confident","Strong-Willed","Strategic Thinker"];
+gen_data["PersonalityFlawCommander"] = ["Arrogant","Cold","Dominant","Impatient","Intolerant","Poor Handling of Emotions","Ruthless","Stubborn"];
+
+// Consul (Extraverted, Observant, Feeling, Judging)
+gen_data["PersonalityTypeConsul"] = ["Good at Connecting","Loyal","Practical","Sense of Duty","Sensitive","Warm"];
+gen_data["PersonalityFlawConsul"] = ["Close Minded","Conforming","Inflexible","Needy",,"Too Selfless","Worried about Status","Vulnerable to Criticism"];
+
+// Debater (Extraverted, Observant, Feeling, Judging)
+gen_data["PersonalityTypeDebater"] = ["Brainstormer","Charismatic","Energetic","Knowledgeable","Original","Quick Thinker"];
+gen_data["PersonalityFlawDebater"] = ["Argumentative","Impractical","Insensitive","Intolerant","Unfocused"];
+
+// Defender (Introverted, Observant, Feeling, Judging)
+gen_data["PersonalityTypeDefender"] = ["Enthusiastic","Hard-Working","Imaginative","Loyal","Observant","Patient",,"Practical","Reliable","Supportive"];
+gen_data["PersonalityFlawDefender"] = ["Humble","Overload","Repressed Feelings","Resist change","Shy","Thin-skinned","Too Altruistic"];
+
+// Entertainer (Extraverted, Observant, Feeling, Prospecting)
+gen_data["PersonalityTypeEntertainer"] = ["Bold","Observant","Original","Practical","Social","Stylish"];
+gen_data["PersonalityFlawEntertainer"] = ["Conflict-averse","Easily bored","Poor planning","Thin-skinned","Unfocused"];
+
+// Entrepreneur (Extraverted, Observant, Thinking, Prospecting)
+gen_data["PersonalityTypeEntrepreneur"] = ["Bold","Direct","Original","Perceptive","Practical","Rational","Social"];
+gen_data["PersonalityFlawEntrepreneur"] = ["Defiant","Impatient","Insensitive","Miss big Picture","Risk-prone","Unstructured"];
+
+// Executive (Extraverted, Intuitive, Thinking, Prospecting)
+gen_data["PersonalityTypeExecutive"] = ["Dedicated","Direct","Honest","Loyal","Order","Organized","Patient","Reliable","Strong-willed"];
+gen_data["PersonalityFlawExecutive"] = ["Cannot Relax","Cannot Express Emotion","Focused on status","Inflexible","judgemental","Stubborn","Unconfortable with nonconformity"];
+
+// Logician (Introverted, Intuitive, Thinking, Prospecting)
+gen_data["PersonalityTypeLogician"] = ["Analytical","Curious","Objective","Open-minded","Original",];
+gen_data["PersonalityFlawLogician"] = ["Disconnected","Dissatisified","Impatient","Insensitive","Perfectionistic"];
+
+// Logistician (Introverted, Observant, Thinking, Judging)
+gen_data["PersonalityTypeLogistician"] = ["Calm","Direct","Dutiful","Honest","Jack of all trades","Order","Practical","Responsible","Strong-willed"];
+gen_data["PersonalityFlawLogistician"] = ["By the book","Insensitive","Internalize Failure","Judgemental","Stubborn"];
+
+// Mediator (Introverted, Observant, Thinking, Judging)
+gen_data["PersonalityTypeMediator"] = ["Creative","Empathetic","Generous","Idealistic","Open-minded","Passionate"];
+gen_data["PersonalityFlawMediator"] = ["Desperate to please","Self-isolating","Self-critical","Unfocused","Unrealistic","Vulnerable"];
+
+// Protagonist (Extraverted, Intuitive, Feeling, Judging)
+gen_data["PersonalityTypeProtagonist"] = ["Altruistic","Charismatic","Passionate","Receptive","Reliable"];
+gen_data["PersonalityFlawProtagonist"] = ["Condescending","Intense","Overly Empathetic","Overly idealistic","Unrealistic"];
+
+// Virtuoso (Introverted, Observant, Thinking, Prospecting)
+gen_data["PersonalityTypeVirtuoso"] = ["Creative","Energetic","Great in Crisis","Optimistic","Practical","Prioritize","Rational","Relaxed","Spontaneous"];
+gen_data["PersonalityFlawVirtuoso"] = ["Dislike Committment","Easily Bored","Insensitive","Private","Reserved","Risk-prone","Stubborn"];
 
 
 
