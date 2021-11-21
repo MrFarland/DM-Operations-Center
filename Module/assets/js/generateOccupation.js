@@ -26,7 +26,7 @@ function generateOccupation() {
     var occupationEmployer = generate_text("OccupationEmployer" + occupationTrade);
  
     // Build the complete occupation summary for this NPC including their experience level, title, employer, and description.
-    occupationDescription = (givenName + " is " + a(occupationExperience.toLowerCase()) + " " + occupationTitle.toLowerCase() + " " + occupationDescriptionPrefix + " " + a(occupationEmployer.toLowerCase()) + ". ");
+    occupationDescription = (givenName + " is " + a(occupationExperience.toLowerCase()) + " <strong>" + occupationTitle.toLowerCase() + "</strong> " + occupationDescriptionPrefix + " " + a(occupationEmployer.toLowerCase()) + ". ");
 
     // Return variables that may be needed in other functions.
     return {

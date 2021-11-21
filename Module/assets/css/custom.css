@@ -78,6 +78,14 @@
    min-height: 9.0rem;
    padding: 1.0rem;
  }
+ .subResult {
+   background: #ffffff; 
+   border:0.1rem solid #f2f2f2; 
+   border-radius: 0.6rem;
+   margin:0.1rem; 
+   min-height: 6.0rem;
+   padding: 1.0rem;
+ }
 
  /* Footer */
  .footer {

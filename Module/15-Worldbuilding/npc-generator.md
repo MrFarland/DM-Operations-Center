@@ -56,30 +56,44 @@ parent: worldbuilding
     </select>
     <button id="buttonGenerateNPC" onclick="generateNPC()">Generate</button> 
 </div>
-
+<hr/>
+<!-- Begin Results Container -->
 <div class="result">
-    <h4 id="npcFullName">Character Name</h4>
-    <div class="small-text"><span id="npcFullRace">Race</span> - <span id="npcGenderID">Gender Identity</span> - <span id="npcAge">Age</span> (<span id="npcAgeGroup">Group</span>) - <span id="npcCharacterClassURL">Class</span></div>
-    <h5>Voice</h5>
-    <p id="npcVoice"></p>
-    <h5>Appearance</h5>
-    <p id="npcAppearance"></p>
+    <!-- Start your highlight with the "<h3>" below to Copy/Paste this NPC to a new page. -->
+    <h3 id="npcFullName">Character Name</h3>
+    <div class="small-text">
+        <span id="npcFullRace">Race</span> - <span id="npcGenderID">Gender Identity</span> - <span id="npcAge">Age</span> (<span id="npcAgeGroup">Group</span>) - <span id="npcCharacterClassURL">Class</span>
+    </div>
+    <!-- Begin Appearance container -->
+    <div class="subResultHeader">
+        <div class="subResultTitle">
+            <h4>Appearance</h4>
+        </div>
+        <div class="subResultButton">
+            <button id="buttonChange" onclick="generateAppearance()">Change</button>
+        </div>
+    </div>
+    <div class="subResultBody">    
+        <p id="npcAppearance"></p>
+    </div>
+    <!-- Begin Personality container -->
     <h5>Personality</h5>
-    <p id="npcPersonalityDescription"></p>
+    <div class="subResult">    
+        <p id="npcPersonalityDescription"></p>
+    </div>
+    <!-- Begin Occupation container -->
     <h5>Occupation</h5>
-    <p id="npcOccupationDescription"></p>
+    <div class="very-small-text">
+    </div>
+    <div class="subResult">    
+        <p id="npcOccupationDescription"></p>
+    </div>
     <br/>
+    <!-- End your highlight after the "<br/>" above to Copy/Paste this NPC to a new page. -->
 </div>
-
+<!-- End Results Container -->
 <br/>
 <br/>
-
-***Planned for 2.0*** {.small-text}
-- *Support for all playable races.* {.small-text}
-- *Support for non-SRD NPC classes (w/o statblock).* {.small-text}
-- *Display HTML to copy/paste NPC to new page.*  {.small-text}
- 
-
 
 <!-- Load the custom.js for common functions -->
 <script src="../assets/js/custom.js"></script>
