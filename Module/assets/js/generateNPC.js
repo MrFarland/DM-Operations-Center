@@ -47,10 +47,10 @@ function displayNPC() {
     npcCharacterClassURL.innerHTML = characterClassURL;
 
     // Appearance
-    npcAppearance.innerHTML = appearance;
+    npcAppearanceDescription.innerHTML = appearanceDescription;
 
     // Personality
-    npcPersonalityDescription.innerHTML = personalityDescription;
+    npcPersonalityAlignment.innerHTML = personalityAlignment;
 
     // Occupation
     npcOccupationDescription.innerHTML = occupationDescription;

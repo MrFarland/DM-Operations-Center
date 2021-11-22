@@ -5,9 +5,6 @@ version 1.0
 getGender.js
 */
 
- // Get the selected (or randomly generated) gender from the selectGender dropdown menu.
- // --------------------------------------------------------------------------------
-
  function getGender() {
 
     // Get the NPCs genderForm from the selectGender dropdown.
@@ -25,7 +22,7 @@ getGender.js
         genderForm = generate_text("GenderForm");
     }
 
-    // If the NPCs genderID hasn't been selected the genderID defaults to 
+    // If the NPCs genderID hasn't been selected the genderID default to 
     // the cisgender equivalent for the randomly selected genderForm.
 
     if (genderID == "Any Gender" && genderForm == "Feminine"){
@@ -36,11 +33,11 @@ getGender.js
     
     // Define pronouns based on genderID.
     if (genderID == "Cisgender (F)"){
-        pronouns = ["She","Her","hers","her","herself"];
+        pronouns = ["She","Her","Hers","Her","Herself"];
     } else if (genderID == "Cisgender (M)"){
-        pronouns = ["He","His","is","him","himself"];
+        pronouns = ["He","His","His","Him","Himself"];
     } else {
-        pronouns = ["They","Their","theirs","them","themself"];
+        pronouns = ["They","Their","Theirs","Them","Themself"];
     }
 
     pronounSubject = pronouns[0];
@@ -50,6 +47,14 @@ getGender.js
     prounounReflexive = pronouns[4];
 
     // Return the values for race and gender in an array.
-    return [genderForm,genderID,pronounSubject,pronounObject,pronounPossesive1,pronounPossesive2,prounounReflexive];
+    return {
+        genderForm: genderForm,
+        genderID: genderID,
+        pronounSubject: pronounSubject,
+        pronounObject: pronounObject,
+        pronounPossesive1: pronounPossesive1,
+        pronounPossesive2: pronounPossesive2,
+        prounounReflexive: prounounReflexive
+    };
 
 }

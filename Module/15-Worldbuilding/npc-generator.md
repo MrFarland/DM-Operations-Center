@@ -64,30 +64,12 @@ parent: worldbuilding
     <div class="small-text">
         <span id="npcFullRace">Race</span> - <span id="npcGenderID">Gender Identity</span> - <span id="npcAge">Age</span> (<span id="npcAgeGroup">Group</span>) - <span id="npcCharacterClassURL">Class</span>
     </div>
-    <!-- Begin Appearance container -->
-    <div class="subResultHeader">
-        <div class="subResultTitle">
-            <h4>Appearance</h4>
-        </div>
-        <div class="subResultButton">
-            <button id="buttonChange" onclick="generateAppearance()">Change</button>
-        </div>
-    </div>
-    <div class="subResultBody">    
-        <p id="npcAppearance"></p>
-    </div>
-    <!-- Begin Personality container -->
-    <h5>Personality</h5>
-    <div class="subResult">    
-        <p id="npcPersonalityDescription"></p>
-    </div>
-    <!-- Begin Occupation container -->
-    <h5>Occupation</h5>
-    <div class="very-small-text">
-    </div>
-    <div class="subResult">    
-        <p id="npcOccupationDescription"></p>
-    </div>
+    <h4>Appearance</h4>
+    <div id="npcAppearanceDescription" class="subResult"></div>
+    <h4>Personality</h4>
+    <div id="npcPersonalityAlignment" class="subResult"></div>
+    <h4>Occupation</h4>
+    <div id="npcPersonalityAlignment" class="subResult"></div>
     <br/>
     <!-- End your highlight after the "<br/>" above to Copy/Paste this NPC to a new page. -->
 </div>

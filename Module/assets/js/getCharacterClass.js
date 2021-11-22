@@ -28,7 +28,13 @@ function getCharacterClass() {
     
     characterClassURL = ("<a href=\"/monster/" + characterSlug + "\">" + characterClass + "</a>");
 
-    // Return the values for race and gender in an array.
-    return [NPCClassLevel, characterClass, characterLower, characterClassURL, characterSlug];
+    // Return the values for race and gender in an object.
+    return {
+        NPCClassLevel: NPCClassLevel, 
+        characterClass: characterClass, 
+        characterLower: characterLower, 
+        characterClassURL: characterClassURL, 
+        characterSlug: characterSlug
+    };
 
 }

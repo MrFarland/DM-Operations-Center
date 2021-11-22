@@ -30,10 +30,11 @@ function generateOccupation() {
 
     // Return variables that may be needed in other functions.
     return {
-        occupationTrade: occupationTrade,
+        occupationDescription: occupationDescription,
+        occupationExperience: occupationExperience, 
         occupationTitle: occupationTitle,
-        occupationDescription: occupationDescription
-    }
+        occupationTrade: occupationTrade
+    };
 
 }
 
