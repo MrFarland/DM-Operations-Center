@@ -27,12 +27,12 @@ function generatePersonality() {
 
     // Prevent the selection of the same trait twice.
     while (personalityTraitPositive1 == personalityTraitPositive2) {
-        var personalityTraitPositive2 = generate_text("PersonalityTraitPositive" + personalityType);
+        var personalityTraitPositive2 = generate_text("PersonailtyType" + personalityType);
     }
 
     // Prevent the selection of the same flaw twice.
     while (personalityTraitNegative1 == personalityTraitNegative2) {
-        var personalityTraitNegative2 = generate_text("PersonalityTraitNegative" + personalityType);
+        var personalityTraitNegative2 = generate_text("PersonailtyType" + personalityType);
     }
 
     // Change the order and prevalence of positive versus negative traits based on Good/Evil alignment.
@@ -42,33 +42,33 @@ function generatePersonality() {
 
     if (alignmentGoodEvil == "Evil"){
         // Front load the personality description with two negative traits and one positive.
-        var personalityTrait1 = generate_text("PersonalityTraitNegative" + personalityType);
-        var personalityTrait2 = generate_text("PersonalityTraitNegative" + personalityType);
-        var personalityTrait3 = generate_text("PersonalityTraitPositive" + personalityType);
+        var personalityTrait1 = generate_text("PersonailtyType" + personalityType + "Negative");
+        var personalityTrait2 = generate_text("PersonailtyType" + personalityType + "Negative");
+        var personalityTrait3 = generate_text("PersonailtyType" + personalityType + "Positive");
         
         // Prevent the selection of the same flaw twice.
         while (personalityTrait1 == personalityTrait2) {
-            var personalityTrait2 = generate_text("PersonalityTraitNegative" + personalityType);
+            var personalityTrait2 = generate_text("PersonailtyType" + personalityType + "Negative");
         }
         
-        personalityTraitDescription1 = generate_text("PersonalityTraitNegative" + personalityTrait1);
-        personalityTraitDescription2 = generate_text("PersonalityTraitNegative" + personalityTrait2);
-        personalityTraitDescription3 = generate_text("PersonalityTraitPositive" + personalityTrait3);
+        personalityTraitDescription1 = generate_text("PersonailtyTrait" + personalityTrait1);
+        personalityTraitDescription2 = generate_text("PersonailtyTrait" + personalityTrait2);
+        personalityTraitDescription3 = generate_text("PersonailtyTrait" + personalityTrait3);
     
     } else {
         // Front load the personality description with two positive traits and one negative.
-        var personalityTrait1 = generate_text("PersonalityTraitPositive" + personalityType);
-        var personalityTrait2 = generate_text("PersonalityTraitPositive" + personalityType);
-        var personalityTrait3 = generate_text("PersonalityTraitNegative" + personalityType);
+        var personalityTrait1 = generate_text("PersonailtyType" + personalityType + "Positive");
+        var personalityTrait2 = generate_text("PersonailtyType" + personalityType + "Positive");
+        var personalityTrait3 = generate_text("PersonailtyType" + personalityType + "Negative");
     
         // Prevent the selection of the same flaw twice.
         while (personalityTrait1 == personalityTrait2) {
-            var personalityTrait2 = generate_text("PersonalityTraitPositive" + personalityType);
+            var personalityTrait2 = generate_text("PersonailtyType" + personalityType);
         }
 
-        personalityTraitDescription1 = generate_text("PersonalityTraitPositive" + personalityTrait1);
-        personalityTraitDescription2 = generate_text("PersonalityTraitPositive" + personalityTrait2);
-        personalityTraitDescription3 = generate_text("PersonalityTraitNegative" + personalityTrait3);
+        personalityTraitDescription1 = generate_text("PersonailtyTrait" + personalityTrait1);
+        personalityTraitDescription2 = generate_text("PersonailtyTrait" + personalityTrait2);
+        personalityTraitDescription3 = generate_text("PersonailtyTrait" + personalityTrait3);
 
         personalityTraits = (" is <strong>" + (personalityTraitPositive1.toLowerCase()) + "</strong> and <strong>" + (personalityTraitPositive2.toLowerCase()) + "</strong>. Unfortunately, " + pronounSubject.toLowerCase() + " is also " + (personalityTraitNegative1.toLowerCase()) + ". ");
     
