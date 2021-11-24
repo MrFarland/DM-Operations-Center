@@ -57,41 +57,14 @@ parent: worldbuilding
     <button id="buttonGenerateNPC" onclick="generateNPC()">Generate</button> 
 </div>
 <hr/>
-<!-- Begin Results Container -->
 <div class="result">
-    <!-- Start your highlight with the "<h3>" below to Copy/Paste this NPC to a new page. -->
     <h3 id="npcFullName">Character Name</h3>
     <div class="small-text">
         <span id="npcFullRace">Race</span> - <span id="npcGenderID">Gender Identity</span> - <span id="npcAge">Age</span> (<span id="npcAgeGroup">Group</span>) - <span id="npcCharacterClassURL">Class</span>
     </div>
-    <!-- Begin Appearance container -->
-    <div class="subResultHeader">
-        <div class="subResultTitle">
-            <h4>Appearance</h4>
-        </div>
-        <div class="subResultButton">
-            <button id="buttonChange" onclick="generateAppearance()">Change</button>
-        </div>
-    </div>
-    <div class="subResultBody">    
-        <p id="npcAppearance"></p>
-    </div>
-    <!-- Begin Personality container -->
-    <h5>Personality</h5>
-    <div class="subResult">    
-        <p id="npcPersonalityDescription"></p>
-    </div>
-    <!-- Begin Occupation container -->
-    <h5>Occupation</h5>
-    <div class="very-small-text">
-    </div>
-    <div class="subResult">    
-        <p id="npcOccupationDescription"></p>
-    </div>
     <br/>
-    <!-- End your highlight after the "<br/>" above to Copy/Paste this NPC to a new page. -->
+    <div id="npcAppearanceDescription"><h4>Appearance</h4><div class="subResult"></div>
 </div>
-<!-- End Results Container -->
 <br/>
 <br/>
 
@@ -110,9 +83,6 @@ parent: worldbuilding
 <!-- Load the heavy lifting js to generate names and npcs. -->
 <script src="../assets/js/generateAge.js"></script>
 <script src="../assets/js/generateAppearance.js"></script>
-<script src="../assets/js/generateOccupation.js"></script>
-<script src="../assets/js/generatePersonality.js"></script>
-<script src="../assets/js/generateVoice.js"></script>
 <script src="../assets/js/generateName.js"></script>
 <script src="../assets/js/generateNPC.js"></script>
 

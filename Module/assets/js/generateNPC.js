@@ -24,10 +24,10 @@ function generateNPC() {
     generateAppearance();
 
     // Generate a personality for the NPC.
-    generatePersonality();
+    //generatePersonality();
 
     // Generate an occupation for the NPC based on their class.
-    generateOccupation();
+    //generateOccupation();
 
     // Display the NPC and provide the variables to the interface.
     displayNPC()
@@ -46,13 +46,7 @@ function displayNPC() {
     npcAgeGroup.innerHTML = ageGroup;
     npcCharacterClassURL.innerHTML = characterClassURL;
 
-    // Appearance
-    npcAppearance.innerHTML = appearance;
-
-    // Personality
-    npcPersonalityDescription.innerHTML = personalityDescription;
-
-    // Occupation
-    npcOccupationDescription.innerHTML = occupationDescription;
+    // Descriptions
+    npcAppearanceDescription.innerHTML = appearanceDescription;
     
 }
