@@ -38,5 +38,9 @@ function generateAge() {
     age = randomNum(ageGroupMin, ageGroupMax);
 
     // Return the ageGroup and age variables.
-    return [ageGroup,age];
+    return {
+        ageGroup: ageGroup,
+        age: age
+    };
+
 }

@@ -5,13 +5,10 @@ version 1.0
 getRace.js
 */
 
-// Get the selected (or randomly generated) race & subrace from the selectRace dropdown menu.
-// --------------------------------------------------------------------------------
-
 function getRace() {
 
     // Get the current value from the selectRace dropdown menu.
-    selectRace = document.getElementById('selectRace');
+    var selectRace = document.getElementById('selectRace');
     race = selectRace.options[selectRace.selectedIndex].value;
 
     // If no race has been selected, generate one randomly.
@@ -19,29 +16,28 @@ function getRace() {
         race = generate_text("Race");
     }
     
-    // Fix the race and subrace variables for Humans, Half-Elves, and Half-Orcs.
-    humanCultures = ["Arabic","Barovian","Celtic","Chinese","Egyptian","English","French","German","Greek","Indian","Japanese","Maori","Mesoamerican","Niger-Congo","Norse","Polynesian","Roman","Slavic","Spanish"];
+    // Define an array of the supported human cultures because I do not know how to query the array in generatorsData.js.
+    var humanCultures = ["Arabic","Barovian","Celtic","Chinese","Egyptian","English","French","German","Greek","Indian","Japanese","Maori","Mesoamerican","Niger-Congo","Norse","Polynesian","Roman","Slavic","Spanish"];
 
+    // If the race is one of the supported Human cultures, set the subRace to the culture and set race to "Human".
     if (humanCultures.includes(race)){
         subRace = race;
         race = "Human";
+    // If the race is Half-Elf, select a subRace for the Half-Elf. If the subRace is "Human", choose a culture for the subrace variable.
     } else if (race == "Half-Elf"){
-        subRaceLookup = ("Subrace" + race);
-        subRace = generate_text(subRaceLookup);
+        subRace = generate_text("Subrace" + race);
         if (subRace == "Human"){
-            subRaceLookup = ("Subrace" + subRace);
-            subRace = generate_text(subRaceLookup);
+            subRace = generate_text("Subrace" + subRace);
         }
+    // If the race is Half-Orc, select a subRace for the Half-Orc. If the subRace is "Human", choose a culture for the subrace variable.
     } else if (race == "Half-Orc"){
-        subRaceLookup = ("Subrace" + race);
-        subRace = generate_text(subRaceLookup);
+        subRace = generate_text("Subrace" + race);
         if (subRace == "Human"){
-            subRaceLookup = ("Subrace" + subRace);
-            subRace = generate_text(subRaceLookup);
+            subRace = generate_text("Subrace" + subRace);
         }
+    // For all other races, select an appropriate subRace for the character.
     } else {
-        subRaceLookup = ("Subrace" + race);
-        subRace = generate_text(subRaceLookup);   
+        subRace = generate_text("Subrace" + race);   
     }
 
     // Create a variable to combine race and subrace, if there is one.
@@ -51,7 +47,11 @@ function getRace() {
         fullRace = (race + " (" + subRace + ")");
     }
 
-    // Return the values for race in an array.
-    return [race, subRace, fullRace];
+    // Return variables that may be needed in other functions.
+    return {
+        fullRace: fullRace,
+        race: race,
+        subRace: subRace
+    };
 
 }

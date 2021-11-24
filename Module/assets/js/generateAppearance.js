@@ -56,6 +56,21 @@ function generateAppearance() {
         // headDescription = (pronounSubject + " has " + (hairLength.toLowerCase()) + ", " + hairType + ", " + hairColor + " hair " + hairStyle + ". ");
     // }
 
+    // Horns
+    // -----------------------------------
+    if (race == "Dragonborn" || race == "Tiefling") {
+        hornDirection = generate_text("HornDirection" + race);
+        hornLength = generate_text("HairLength");
+        hornPlacement = generate_text("HornPlacement" + race);
+        hornStyle = generate_text("HornStyle" + race);
+        hornType = generate_text("HornType" + race);
+        
+        appearanceHorns = ("<p>" + pronounObject + " <strong>" + hornLength.toLowerCase() + ", " + hornType.toLowerCase() + " horns</strong> emerge from the " + hornPlacement.toLowerCase() + " and " + hornStyle.toLowerCase() + " " + hornDirection.toLowerCase() + ". ");
+    } else {
+        appearanceHorns = "";
+    }
+    
+    
     // Face 
     // -----------------------------------
     // eyeColor = generate_text("EyeColor" + race);
