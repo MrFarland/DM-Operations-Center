@@ -23,14 +23,14 @@ function generatePersonality() {
     }
 
     // Select a personality type based on the profile types using the NERIS Model at 16Personalities.com. (I'm a Mediator.)
-    var personalityType = generate_text("PersonalityType" + alignmentLawfulChaotic);
+    //var personalityType = generate_text("PersonalityType" + alignmentLawfulChaotic);
 
-    // Return variables that may be needed in other functions.
+    // Create the description of the NPC's personality
+    personalityDescription = ("<h4>Personality</h4><div class=\"subResult\"><p>" + personalityAlignment + "</p></div>");
+    
+    // Return the appearance variable.
     return {
-        personalityAlignment: personalityAlignment,
-    }
-}
-
-function displayPersonality(){
-    npcPersonalityAlignment.innerHTML = personalityAlignment;
+        personalityDescription: personalityDescription
+    };
+    
 }
