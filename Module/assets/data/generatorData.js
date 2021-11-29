@@ -136,20 +136,61 @@ gen_data["BodyColorToneTiefling"] = ["Cool","Dark","Golden","Light","Medium","Pa
 gen_data["BodyHeight"] = ["Average","Short","Tall"];
 gen_data["BodyWeight"] = ["Average","Atheltic","Doughy","Fit","Heavy","Heavy-set","Lean","Powerful","Rotund","Skinny","Soft","Stocky","Strong","Thin"];
 
-// Eye Color -- This is the eye color for a character and it is based on race to allow for greater customization and weighting.
-gen_data["EyeColorDragonborn"] = {"1-2":"Amber","3-4":"Blue","5-6":"Brown","7-8":"Gray","9-10":"Green","11-12":"Hazel","13-14":"Red"};
-gen_data["EyeColorDwarf"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
-gen_data["EyeColorElf"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
-gen_data["EyeColorGnome"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
-gen_data["EyeColorHalf-Elf"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
-gen_data["EyeColorHalf-Orc"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
-gen_data["EyeColorHalfling"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
-gen_data["EyeColorHuman"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
-gen_data["EyeColorOrc"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
-gen_data["EyeColorTiefling"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)","101-130":"Black","131-160":"Red","161-180":"White","181-200":"Amber"};
+// Face
+gen_data["FaceLocation"] = ["Chin","Forehead","Left Cheek","Left Eye","Left Eyebrow","Lower Lip","Nose","Right Cheek","Right Eye","Right Eyebrow","Upper Lip"];
+gen_data["FaceType"] = ["Attractive","Broad","Chiseled","Flat","Gaunt","Handsome","Homely","Long","Plain","Rough","Round","Rugged","Sculpted","Sullen","Thin","Unattractive","Wide"];
 
-// Eye Type -- These are adjectives that describe a type of eye, but in a way that should apply to any race.
-gen_data["EyeType"] = {"1":"Cloudy","2":"Bulging","3-4":"Close-set","5-6":"Deep-set","7-8":"Downturned","9-10":"Enormous","11-12":"Hooded","13-14":"Large","15-16":"Narrow","17-18":"Piercing","19-20":"Prominent","21-22":"Protruding","23-24":"Small","25-26":"Squinting","27-28":"Thin","29-30":"Tiny","31-32":"Wide","33-34":"Wide-set","35":"Bloodshot","36":"Beady","37":"Dopey","38-39":"Oval-shaped","40-42":"Round"};
+// Face (Bruise)
+gen_data["FaceBruise"] = ["{FaceBruiseType} bruise on their {FaceLocation}"];
+gen_data["FaceBruiseType"] = ["Awful","Bad","Big","Dark","Fresh","Large","Old","Small","Terrible","Ugly","Unsightly"];
+
+// Face (Chin)
+gen_data["FaceChin"] = ["{FaceChinType} chin"];
+gen_data["FaceChinType"] = ["Big","Broad","Jutting","Large","Pointed","Prominent","Pronounced","Sharp","Square","Strong"];
+
+// Face (Eye Color)
+gen_data["FaceEyeColorDragonborn"] = {"1-2":"Amber","3-4":"Blue","5-6":"Brown","7-8":"Gray","9-10":"Green","11-12":"Hazel","13-14":"Red"};
+gen_data["FaceEyeColorDwarf"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
+gen_data["FaceEyeColorElf"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
+gen_data["FaceEyeColorGnome"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
+gen_data["FaceEyeColorHalf-Elf"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
+gen_data["FaceEyeColorHalf-Orc"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
+gen_data["FaceEyeColorHalfling"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
+gen_data["FaceEyeColorHuman"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
+gen_data["FaceEyeColorOrc"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)"};
+gen_data["FaceEyeColorTiefling"] = {"1-40":"Brown","41-65":"Blue","66-85":"Hazel","86-95":"Green","96-97":"Gray","98":"Hetachromatic (Brown/blue)","99":"Hetachromatic (blue/hazel)","100":"Hetachromatic (blue/green)","101-130":"Black","131-160":"Red","161-180":"White","181-200":"Amber"};
+
+// Face (Eye)
+gen_data["FaceEyeType"] = ["Beady","Beautiful","Bloodshot","Bright","Brilliant","Bulging","Clear","Close-set","Cloudy","Cold","Curious","Dark","Deep","Deep-set","Enormous","Glassy","Hard","Heavy","Irritated","Jaundiced","Keen","Large","Narrow","Piercing","Pretty","Prominent","Sharp","Small","Sparkling","Squinting","Sunken","Tired","Watchful","Wide","Wild"];
+
+// Face (Mark)
+gen_data["FaceMark"] = ["{FaceMarkAdjective} {FaceMarkType} on their {FaceLocation}"];
+gen_data["FaceMarkAdjective"] = ["Large","Small","Ugly","Unsightly"];
+gen_data["FaceMarkType"] = ["Birthmark","Mole","Rash","Scratch","Sore"];
+
+// Face (Nose)
+gen_data["FaceNose"] = ["{FaceNoseType} nose"];
+gen_data["FaceNoseType"] = ["Bent","Big","Broad","Broken","Bulbous","Crooked","Flat","Hooked","Long","Narrow","Pointy","Roguish","Sharp","Skinny","Small","Square","Thin","Turned-up","Wide"];
+
+// Face (Piercing)
+gen_data["FacePiercing"] = ["{FacePiercingType} in their {FaceLocation}"];
+gen_data["FacePiercingType"] = ["{MaterialMetal} ring","{MaterialMetal} stud",]
+
+// Face (Scar)
+gen_data["FaceScar"] = ["{FaceScarType} scar across their {FaceLocation}"];
+gen_data["FaceScarType"] = ["Awful","Bad","Big","Deep","Fresh","Jagged","Large","Long","Old","Small","Terrible","Ugly","Unsightly"];
+
+// Face (Smile)
+gen_data["FaceSmile"] = ["{FaceSmileType} smile"];
+gen_data["FaceSmileType"] = ["Beaming","Beautiful","Big","Broad","Courteous","Crooked","Half","Odd","Peculiar","Perfect","Pleasant","Subtle","Thin","Toothy","Ugly","Unpleasant","Warm","Welcoming","Wide","Winsome","Yellow"];
+
+// Face (Spectacles)
+gen_data["FaceSpectacles"] = ["{FaceSpectaclesType} pair of glasses","{FaceSpectaclesType} pair of spectacles"];
+gen_data["FaceSpectaclesType"] = ["Big","Cracked","Dirty","Large","Round","Small","Thick","Thin","Wire-framed"]
+
+
+// Facial Features
+gen_data["FacialFeature"] = ["{FaceBruise}","{FaceChin}","{FaceMark}","{FaceNose}","{FacePiercing}","{FaceScar}","{FaceSmile}","{FaceSpectacles}"];
 
 // Facial Hair -- These determine whether or not a particular race & gender combination may have facial hair and what type they might have.
 gen_data["FacialHairDragonbornFeminine"] = {"1":"None"};
@@ -174,12 +215,9 @@ gen_data["FacialHairTieflingFeminine"] = {"1-100":"None"};
 gen_data["FacialHairTieflingMasculine"] = {"1-85":"None","86-90":"Beard","91-95":"Goatee","96-100":"Mustache"};
 
 // Facial Hair Style -- A collection of descriptions of various styles of facial hair for bears, goatees, and mustaches.
-gen_data["FacialHairStyleBeard"] = ["Well-trimmed and brushed","Growing wild and untamed","Braided into multiple braids and capped with small gold rings","Braided on both sides of the mouth","Gathered into a single braid at the chin","Gathered at the chin and tied with string","Scruffy and untrimmed","Growing more outward than down","Styled into a point","Boxed and full","Neatly styled and capped with a large handlebar mustache","With bits of crumbs tangled amongst the hairs","Patchy and uneven"];
-gen_data["FacialHairStyleGoatee"] = ["Well-trimmed and brushed","Growing wild and untamed","Braided into multiple braids and capped with small gold rings","Braided on both sides of the mouth","Gathered into a single braid at the chin","Gathered at the chin and tied with string","Scruffy and untrimmed","Growing more outward than down","Styled into a van dyke","Boxed and full","Neatly styled and capped with a large handlebar mustache","With bits of crumbs tangled amongst the hairs","Patchy and uneven"];
+gen_data["FacialHairStyleBeard"] = ["Well-trimmed and brushed","Growing wild and untamed","Tied into multiple braids and capped with small gold rings","Braided on both sides of the mouth","Gathered into a single braid at the chin","Gathered at the chin and tied with string","Scruffy and untrimmed","Growing more outward than down","Styled into a point","Boxed and full","Neatly styled and capped with a large handlebar mustache","With bits of crumbs tangled amongst the hairs","Patchy and uneven"];
+gen_data["FacialHairStyleGoatee"] = ["Well-trimmed and brushed","Growing wild and untamed","Tied into multiple braids and capped with small gold rings","Braided on both sides of the mouth","Gathered into a single braid at the chin","Gathered at the chin and tied with string","Scruffy and untrimmed","Growing more outward than down","Styled into a van dyke","Boxed and full","Neatly styled and capped with a large handlebar mustache","With bits of crumbs tangled amongst the hairs","Patchy and uneven"];
 gen_data["FacialHairStyleMustache"] = ["Well-trimmed and brushed","Growing wild and untamed","Styled into an elaborate handlebar","Overflowing into a long fu-manchu","Braided at the corners","Scruffy and untrimmed","With bits of crumbs tangled amongst the hairs","Parted in the middle","Parted and waxed at the tips into a point","With a small, soul patch above the chin"];
-
-// Features  -- A long list of short sentence fragments containing a range of physical features.
-gen_data["Feature"] = ["A large, broad nose","A small, narrow nose","A short, broad nose","A short, narrow nose","A pronounced brow","A receding hairline","A cleft lip","A strong, jutting chin","Abnormally large ears","A big, toothy grin","A permanent smirk","Freckles","A big smile","A warm smile","A wry smile","An inquisitive look","A blank expression","A thousand mile stare","A dazed expression","A look of confusion","Flared nostrils","Noticeably crooked-teeth","Thin, wire-framed spectacles","Thick glasses","A gold-framed, monocle","Horn-rimmed glasses","Small, round glasses","Cracked glasses","Thick, dust-caked goggles","A patch over the right eye","A patch over the left eye","A scar over the right eye","A scar over the left eye","A scar on the right cheek","A scar on the left cheek","A fresh bruise under the right eye","A fresh bruise under the left eye","Burns on the right side of the face","Burns on the left side of the face","Bags under both eyes","Missing numerous teeth","A missing right ear","A missing left ear","Intricately drawn tattoos on their face","A birthmark on the left cheek","A birthmark on the right cheek","A mole on the left cheek","A mole on the left cheek","A large wart on their nose","A gold ring in their nose","Numerous piercings in both ears","An acid burn on their left cheek","An acid burn on their right cheek","Are red and irritated","Are nearly swollen shut","A golden tooth"];
 
 // Hair Color -- This is NOT yet race based, as I decided to keep it simple for hair color for now. I probably will break this one out in the future.
 gen_data["HairColor"] = {"1-30":"Black","31-38":"Dark Brown","39-46":"Natural Brown","47-53":"Light Brown","54-60":"Chestnut Brown","61-65":"Light Blond","66-70":"Golden Blond","71-75":"Natural Blond","76-80":"Platinum Blond","81-83":"Auburn","84-87":"Red","88-90":"Orange","91-93":"Copper","94-96":"Strawberry Blond","97-98":"Salt and pepper","99":"Gray","100":"White","101":"Bright blue","102":"Dark blue","103":"Light blue","104":"Bright green","105":"Dark green","106":"Light green","107":"Bright pink","108":"Light pink","109":"Dark purple","110":"Bright purple","111":"Light purple","112":"Bright red"};
@@ -195,16 +233,16 @@ gen_data["HairStyleShort"] = {"1-2":"Parted in the middle","3-4":"Parted on the 
 gen_data["HairType"] = {"1-2":"Straight","3-4":"Messy","5-6":"Wavy","7-8":"Curly","9":"Frizzy","10":"Tangled","11-12":"Thick","13-14":"Thin","15-16":"Fine","17-18":"Coarse","19-20":"Dirty","21":"Matted","22":"Frayed","23":"Thinning","24-25":"Greasy","26":"Patchy","27":"Oily","28-29":"Shiny","30":"Receeding","31-33":"Natural","34-36":"Bushy"};
 
 // Horn Direction -- Just a collection of phrases that describe the direction of a character's horns, if present.
-gen_data["HornDirectionDragonborn"] = ["Up and around the side of the head","Up and over the top of the head","Up and back","Up and forward","Backward","Forward","Straight out","Straight up"];
-gen_data["HornDirectionTiefling"] = ["Up and around the side of the head","Up and over the top of the head","Up and back","Up and forward","Backward","Forward","Straight out","Straight up"];
+gen_data["HornDirectionDragonborn"] = ["Around the side of the head","Backward","Forward","Outward","Up and backward","Up and forward","Up and around the side of the head","Up and over the top of the head","Upward"];
+gen_data["HornDirectionTiefling"] = ["Around the side of the head","Backward","Forward","Outward","Up and backward","Up and forward","Up and around the side of the head","Up and over the top of the head","Upward"];
 
 // Horn Placement -- Where on the head to a character's horns originate from.
-gen_data["HornPlacementDragonborn"] = ["Forehead","Top of the head","Side of the head","Back of the head","Temples"];
-gen_data["HornPlacementTiefling"] = ["Forehead","Top of the head","Side of the head","Back of the head","Temples"];
+gen_data["HornPlacementDragonborn"] = ["Front","Top","Side","Back"];
+gen_data["HornPlacementTiefling"] = ["Front","Top","Side","Back"];
 
 // Horn Style -- Simple adjectives describe the style of horns 
-gen_data["HornStyleDragonborn"] = ["Angle","Bend","Curl","Hook","Poke","Protrude","Sweep","Twist"];
-gen_data["HornStyleTiefling"] = ["Angle","Bend","Curl","Hook","Poke","Protrude","Sweep","Twist"];
+gen_data["HornStyleDragonborn"] = ["Angle","Bend","Curl","Hook","Sweep","Twist"];
+gen_data["HornStyleTiefling"] = ["Angle","Bend","Curl","Hook","Sweep","Twist"];
 
 // Horn Type -- Simple adjectives to describe the characteristics of a characters's horns.
 gen_data["HornTypeDragonborn"] = ["Blunt","Rough","Sharp","Smooth","Thick","Thin"];
@@ -407,8 +445,9 @@ gen_data["MagicSchoolPractitioner"] = ["Abjurist","Conjurer","Diviner","Dunamist
 // --------------------------------------------------------------------------------
 // Materials 
 // --------------------------------------------------------------------------------
+gen_data["MaterialMetal"] = ["Brass","Bronze","Copper","Electrum","Gold","Iron","Mithral","Platinum","Silver","Steel"];
 gen_data["MaterialMetalCommon"] = ["Brass","Bronze","Iron","Steel"];
-gen_data["MaterialMetalPrecious"] = ["Copper","Gold","Platinum","Silver"];
+gen_data["MaterialMetalPrecious"] = ["Copper","Electrum","Gold","Mithral","Platinum","Silver"];
 gen_data["MaterialStone"] = ["Alabaster","Granite","Limestone","Marble","Quartzite","Soapstone","Stone"]
 gen_data["MaterialWood"] = ["Ash","Beech","Birch","Chestnut","Mahogany","Maple","Oak","Pine","Walnut"];
 

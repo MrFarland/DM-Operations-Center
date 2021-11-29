@@ -27,7 +27,7 @@ function generateAppearance() {
     }
 
     // Create the complete description of the NPC's body, wrapped in an HTML paragraph.
-    bodyDescription = ("<p>" + givenName + " is " + a(ageGroup.toLowerCase()) + " " + (race.toLowerCase()) + " with <strong>" + bodyColorTone.toLowerCase() + " " + bodyColorBase.toLowerCase() + " " + bodyColorType.toLowerCase() + "</strong> and <strong>" + a(bodyHeight.toLowerCase()) + ", " + bodyWeight.toLowerCase() +  " build</strong>.</p>");
+    bodyDescription = (givenName + " is " + a(ageGroup.toLowerCase()) + " " + (race.toLowerCase()) + " with <strong>" + bodyColorTone.toLowerCase() + " " + bodyColorBase.toLowerCase() + " " + bodyColorType.toLowerCase() + "</strong> and <strong>" + a(bodyHeight.toLowerCase()) + ", " + bodyWeight.toLowerCase() +  " build</strong>. ");
 
     // Hair
     if (race == "Dragonborn"){
@@ -37,60 +37,46 @@ function generateAppearance() {
         hairLength = generate_text("HairLength");
         hairStyle = generate_text("HairStyle" + hairLength);
         hairType = generate_text("HairType");
-        
-        hairDescription = ("<p>" + pronounSubject + " has <strong>" + hairLength.toLowerCase() + "</strong>, <strong>" +  hairType.toLowerCase() + "</strong>, <strong>" + hairColor.toLowerCase() + " hair</strong> " + hairStyle.toLowerCase() + ".</p>");
+
+        // Determine if the NPC has facial hair.
+        facialHairType = generate_text("FacialHair" + race + genderForm);
+
+        // If the NPC has facial hair create a description.
+        if (facialHairType != 'None'){
+            facialHairLength = generate_text("HairLength");
+            facialHairStyle = generate_text("FacialHairStyle" + facialHairType);
+
+            facialHairDescription = (" and <strong>" + a(facialHairLength.toLowerCase()) + " " + (facialHairType.toLowerCase()) + "</strong>, " + facialHairStyle.toLowerCase());
+        } else {
+            facialHairDescription = "";
+        }
+
+        hairDescription = (pronounSubject + " has <strong>" + hairLength.toLowerCase() + "</strong>, <strong>" +  hairType.toLowerCase() + "</strong>, <strong>" + hairColor.toLowerCase() + " hair</strong> " + hairStyle.toLowerCase() + facialHairDescription + ". ");
     }    
     
-    // hornDirection = generate_text("HornDirection" + race);
-    // hornLength = generate_text("HairLength");
-    // hornPlacement = generate_text("HornPlacement" + race);
-    // hornStyle = generate_text("HornStyle" + race);
-    // hornType = generate_text("HornType" + race);
-    
-    // Change the headDescription for those races that do not have hair, horns or other distinct features.
-    // if (race == "Dragonborn"){
-        // headDescription = (pronounSubject + " has " + (hornLength.toLowerCase()) +  ", " + hornType + " horns that emerge from the " + hornPlacement + " and " + // hornStyle + " " + hornDirection + ". ");
-    // } else if (race == "Tiefling"){
-        // headDescription = (pronounSubject + " has " + (hairLength.toLowerCase()) + ", " + hairType + ", " + hairColor + " hair " + hairStyle + " with " + // (hornLength.toLowerCase()) +  ", " + hornType + " horns that emerge from the " + hornPlacement + " and " + hornStyle + " " + hornDirection + ". ");
-    // } else {
-        // headDescription = (pronounSubject + " has " + (hairLength.toLowerCase()) + ", " + hairType + ", " + hairColor + " hair " + hairStyle + ". ");
-    // }
-
     // Horns
-    // -----------------------------------
-    if (race == "Dragonborn" || race == "Tiefling") {
+    if (race == "Dragonborn" || race == "Tiefling"){
         hornDirection = generate_text("HornDirection" + race);
         hornLength = generate_text("HairLength");
         hornPlacement = generate_text("HornPlacement" + race);
         hornStyle = generate_text("HornStyle" + race);
         hornType = generate_text("HornType" + race);
-        
-        appearanceHorns = ("<p>" + pronounObject + " <strong>" + hornLength.toLowerCase() + ", " + hornType.toLowerCase() + " horns</strong> emerge from the " + hornPlacement.toLowerCase() + " and " + hornStyle.toLowerCase() + " " + hornDirection.toLowerCase() + ". ");
-    } else {
-        appearanceHorns = "";
-    }
-    
-    
-    // Face 
-    // -----------------------------------
-    // eyeColor = generate_text("EyeColor" + race);
-    // eyeType = generate_text("EyeType");
-    // eyeDescription = (eyeType + ", " + eyeColor + " eyes");
-    // facialHairType = generate_text("FacialHair" + race + genderForm);
-    // facialHairStyle = generate_text("FacialHairStyle" + facialHairType);
-    // feature = generate_text("Feature");
 
-    // Determine if the NPC has facial hair.
-    // if (facialHairType == 'None'){
-        // facialHairDescription = "";
-        // faceDescription = (givenName + " has " + eyeDescription + " and " + feature + ". ");
-    // } else {
-        // facialHairDescription = ((hairLength.toLowerCase()) + ", " + hairType + " " + (facialHairType.toLowerCase()) + ", " + facialHairStyle);
-        // faceDescription = (givenName + " has " + eyeDescription + "; " + feature + "; and " + a(facialHairDescription) + ". ");
-    // }
+        hornDescription = ("Two <strong>" + hornLength.toLowerCase() + "</strong>, <strong>" + hornType.toLowerCase() + " horns</strong> emerge from the " + " <strong>" + hornPlacement.toLowerCase() + "</strong> of " + pronounObject.toLowerCase() + " head and <strong>" + hornStyle.toLowerCase() + " " + hornDirection.toLowerCase() + "</strong>. ");
+    } else {
+        hornDescription = "";
+    }
+
+    // Face 
+    eyeColor = generate_text("FaceEyeColor" + race);
+    eyeType = generate_text("FaceEyeType");
+    faceType = generate_text("FaceType");
+    facialFeature = generate_text("FacialFeature");
+
+    faceDescription = (givenName + " has <strong>" + a(faceType.toLowerCase()) + " face</strong> with <strong>" + eyeType.toLowerCase() + "</strong>, <strong>" + eyeColor.toLowerCase() + " eyes</strong>" + " and <strong>" + a(facialFeature.toLowerCase()) + "</strong>.");
 
     // Create the description of the NPC based on the generated bodyColor.
-    appearanceDescription = ("<h4>Appearance</h4><div class=\"subResult\">" + bodyDescription + hairDescription + "</div>");
+    appearanceDescription = ("<h4>Appearance</h4><div class=\"subResult\"><p>" + bodyDescription + hairDescription + hornDescription + faceDescription + "</p></div>");
 
     // Return the appearance variable.
     return {
