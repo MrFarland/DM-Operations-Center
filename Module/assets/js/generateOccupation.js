@@ -35,28 +35,56 @@ function generateOccupation() {
     var occupationEmployerSize = generate_text("OccupationEmployer" + occupationTrade + "Size");
     var occupationEmployerType = generate_text("OccupationEmployer" + occupationTrade + "Type");
     
-    if (occupationEmployerLocation == "Rural" || occupationEmployerLocation == "Urban"){
 
-        // Determine the location of the employer.
-        var locationRelative = generate_text("LocationRelative" + occupationEmployerLocation);
-        var landmarkType = generate_text("Landmark" + occupationEmployerLocation);
-        var landmark = generate_text("Landmark" + landmarkType + occupationEmployerLocation);
-        var locationSettlement = generate_text("LocationSettlement");
+    // Determine the location of the employer, residence, or mission.
+    var locationRelative = generate_text("LocationRelative" + occupationEmployerLocation);
+    var landmarkType = generate_text("Landmark" + occupationEmployerLocation);
+    var landmark = generate_text("Landmark" + landmarkType + occupationEmployerLocation);
+    var locationSettlement = generate_text("LocationSettlement" + occupationEmployerLocation);
 
-        var locationDescription = (" " + locationRelative.toLowerCase() + " " + landmark + " " + locationSettlement.toLowerCase());
+    var locationDescription = (" " + locationRelative.toLowerCase() + " " + landmark + " " + locationSettlement.toLowerCase());
 
-    } 
+    // Determine the mission or assignment for the employee or employer.
+    var missionPrefix = generate_text("OccupationEmployer" + occupationTrade + "MissionPrefix");
+    var mission = generate_text("OccupationEmployer" + occupationTrade + "Mission");
+    var missionAdjective = generate_text("OccupationEmployer" + occupationTrade + "MissionAdjective");
+
+    var missionDescription = (" " + missionPrefix.toLowerCase() + " " + a(missionAdjective.toLowerCase()) + " " + mission.toLowerCase());
     
+
+    // Construct the final Employer Description based on the industry.
 
     if (occupationTrade == "Adventure"){
 
-        employerDescription = (employerPrefix + " " + a(occupationEmployerAdjective.toLowerCase()) + " <strong>" + occupationEmployerSize.toLowerCase() + " of " + occupationEmployerType.toLowerCase() + "</strong>");
+        employerDescription = (employerPrefix + " " + a(occupationEmployerAdjective.toLowerCase()) + " <strong>" + occupationEmployerSize.toLowerCase() + " of " + occupationEmployerType.toLowerCase() + "</strong>" + missionDescription + locationDescription);
 
-    } else if (occupationTrade == "Crime" || occupationTrade == "Nobility" || occupationTrade == "Service"){
+    } else if (occupationTrade == "Crime"){
 
-        employerDescription = (employerPrefix + " " + a(occupationEmployerAdjective.toLowerCase()) + " <strong>" + occupationEmployerType.toLowerCase() + "</strong>");
+        var criminalHideout = generate_text("OccupationEmployer" + occupationTrade + "Hideout")
 
-    } else if (occupationTrade == "Military" || occupationTrade == "Police"){
+        employerDescription = (employerPrefix + " " + a(occupationEmployerAdjective.toLowerCase()) + " <strong>" + occupationEmployerType.toLowerCase() + "</strong>" + missionDescription + " out of " + a(criminalHideout.toLowerCase()) + locationDescription);
+
+    } else if (occupationTrade == "Military"){
+
+        // Determine which army they are with.
+        if (occupationEmployerType == "Army of a Foreign Ally"){
+            armyType = "Ally";
+        } else if (occupationEmployerType == "Private Army of a Powerful House"){
+            armyType = "Private";
+        } else {
+            armyType = "Army";
+        }
+
+        // Override the mission based on the army.
+        var missionDescription = generate_text("OccupationEmployer" + occupationTrade + "Mission" + armyType);
+        
+        employerDescription = (employerPrefix + " " + a(occupationEmployerAdjective.toLowerCase()) + " " + occupationEmployerSize.toLowerCase() + " in the <strong>" + occupationEmployerType.toLowerCase() + "</strong>" + " " + missionDescription.toLowerCase());
+
+    } else if (occupationTrade == "Nobility"){
+
+        employerDescription = (employerPrefix + " " + occupationEmployerAdjective.toLowerCase() + " <strong>" + occupationEmployerType.toLowerCase() + "</strong>" + locationDescription);
+        
+    } else if (occupationTrade == "Police"){
 
         employerDescription = (employerPrefix + " " + a(occupationEmployerAdjective.toLowerCase()) + " " + occupationEmployerSize.toLowerCase() + " in the <strong>" + occupationEmployerType.toLowerCase() + "</strong>");
 
@@ -67,7 +95,13 @@ function generateOccupation() {
 
         employerDescription = (employerPrefix + " " + a(occupationEmployerAdjective.toLowerCase()) + " <strong>" + occupationEmployerType.toLowerCase() + "</strong> to <strong>" + religionGod + "</strong>, the god of " + religionDomain + locationDescription);
 
-    } else {
+    } else if (occupationTrade == "Service"){
+
+        var nobleEstate = generate_text("OccupationEmployerNobilityType");
+
+        employerDescription = (employerPrefix + " " + a(occupationEmployerAdjective.toLowerCase()) + " <strong>" + occupationEmployerType.toLowerCase() + "</strong> at their " + nobleEstate.toLowerCase() + locationDescription);
+
+    }  else {
 
         employerDescription = (employerPrefix + " " + a(occupationEmployerSize.toLowerCase()) + ", " + occupationEmployerAdjective.toLowerCase() + " <strong>" + occupationEmployerType.toLowerCase() + "</strong>" + locationDescription);
         
