@@ -1067,30 +1067,250 @@ gen_data["ArchitectFlaw"] = [
   "is <strong>romantically clueless</strong> ... "
 ];
 // Campaigner (Extraverted, Intuitive, Feeling)
+gen_data["CampaignerPersonality"] = [
+  "is <strong>curious</strong> ... ",
+  "is <strong>perceptive</strong> ... ",
+  "is <strong>enthusiastic</strong> ... ",
+  "is <strong>festive</strong> ... ",
+  "is <strong>good-natured</strong> ... "
+];
+gen_data["CampaignerFlaw"] = [
+  "is <strong>people-pleasing</strong> ... ",
+  "is <strong>unfocused</strong> ... ",
+  "is <strong>disorganized</strong> ... ",
+  "is <strong>overly accomodating</strong> ... ",
+  "is <strong>overly optimistic</strong> ... ",
+  "is <strong>restless</strong> ... "
+];
 
 // Commander (Extraverted, Intuitive, Feeling, Prospecting)
+gen_data["CommanderPersonality"] = [
+  "is <strong>efficient</strong> ... ",
+  "is <strong>energetic</strong> ... ",
+  "is <strong>self-confident</strong> ... ",
+  "is <strong>strong-willed</strong> ... ",
+  "is <strong>strategic</strong> ... ",
+  "is <strong>charismatic and inspiring</strong> ... "
+];
+gen_data["CommanderFlaw"] = [
+  "is <strong>stubborn</strong> ... ",
+  "is <strong>domineering</strong> ... ",
+  "is <strong>intolerant</strong> ... ",
+  "is <strong>impatient</strong> ... ",
+  "is <strong>arrogant</strong> ... ",
+  "is <strong>poor handling of emotions</strong> ... ",
+  "is <strong>cold</strong> ... ",
+  "is <strong>ruthless</strong> ... "
+];
 
 // Consul (Extraverted, Observant, Feeling, Judging)
+gen_data["ConsulPersonality"] = [
+  "is <strong>practical</strong> ... ",
+  "is <strong>duty</strong> ... ",
+  "is <strong>loyal</strong> ... ",
+  "is <strong>sensitive</strong> ... ",
+  "is <strong>warm</strong> ... ",
+  "is <strong>good at connecting</strong> ... "
+];
+gen_data["ConsulFlaw"] = [
+  "is <strong>worried about status</strong> ... ",
+  "is <strong>inflexible</strong> ... ",
+  "is <strong>reluctant to innovate</strong> ... ",
+  "is <strong>thin-skinned</strong> ... ",
+  "is <strong>needy</strong> ... ",
+  "is <strong>to selfless</strong> ... "
+];
 
 // Debater (Extraverted, Observant, Feeling, Judging)
+gen_data["DebaterPersonality"] = [
+  "is <strong>knowledgeable</strong> ... ",
+  "is <strong>decisive</strong> ... ",
+  "is <strong>original</strong> ... ",
+  "is <strong>brainstormer</strong> ... ",
+  "is <strong>charismatic</strong> ... ",
+  "is <strong>energetic</strong> ... "
+];
+gen_data["DebaterFlaw"] = [
+  "is <strong>argumentative</strong> ... ",
+  "is <strong>insensitive</strong> ... ",
+  "is <strong>intolerant to other ideas</strong> ... ",
+  "is <strong>difficulty focusing</strong> ... ",
+  "is <strong>doesn't like practical</strong> ... "
+];
 
 // Defender (Introverted, Observant, Feeling, Judging)
+gen_data["DefenderPersonality"] = [
+  "is <strong>supportive</strong> ... ",
+  "is <strong>reliable</strong> ... ",
+  "is <strong>patient</strong> ... ",
+  "is <strong>imaginative</strong> ... ",
+  "is <strong>observant</strong> ... ",
+  "is <strong>enthusiastic</strong> ... ",
+  "is <strong>loyal</strong> ... ",
+  "is <strong>hard-working</strong> ... ",
+  "is <strong>practical</strong> ... "
+];
+gen_data["DefenderFlaw"] = [
+  "is <strong>humble</strong> ... ",
+  "is <strong>shy</strong> ... ",
+  "is <strong>takes things personally</strong> ... ",
+  "is <strong>repress feelings</strong> ... ",
+  "is <strong>overload themselves</strong> ... ",
+  "is <strong>reluctant to change</strong> ... ",
+  "is <strong>too altruistic</strong> ... "
+];
 
 // Entertainer (Extraverted, Observant, Feeling, Prospecting)
+gen_data["EntertainerPersonality"] = [
+  "is <strong>bold</strong> ... ",
+  "is <strong>creative</strong> ... ",
+  "is <strong>original</strong> ... ",
+  "is <strong>stylish</strong> ... ",
+  "is <strong>showman</strong> ... ",
+  "is <strong>practical</strong> ... ",
+  "is <strong>observant</strong> ... ",
+  "is <strong>excellent people skills</strong> ... "
+];
+gen_data["EntertainerFlaw"] = [
+  "is <strong>sensitive</strong> ... ",
+  "is <strong>conflict-averse</strong> ... ",
+  "is <strong>easily bored</strong> ... ",
+  "is <strong>poor planner</strong> ... ",
+  "is <strong>unfocused</strong> ... "
+];
 
 // Entrepreneur (Extraverted, Observant, Thinking, Prospecting)
+gen_data["EntrepreneurPersonality"] = [
+  "is <strong>bold</strong> ... ",
+  "is <strong>rational</strong> ... ",
+  "is <strong>practical</strong> ... ",
+  "is <strong>original</strong> ... ",
+  "is <strong>perceptive</strong> ... ",
+  "is <strong>direct</strong> ... ",
+  "is <strong>sociable</strong> ... "
+];
+gen_data["EntrepreneurFlaw"] = [
+  "is <strong>insensitive</strong> ... ",
+  "is <strong>impatient</strong> ... ",
+  "is <strong>risk-taker</strong> ... ",
+  "is <strong>unstructured</strong> ... ",
+  "is <strong>miss big picture</strong> ... ",
+  "is <strong>defiant</strong> ... "
+];
 
 // Executive (Extraverted, Intuitive, Thinking, Prospecting)
+gen_data["ExecutivePersonality"] = [
+  "is <strong>dedicated</strong> ... ",
+  "is <strong>strong willed</strong> ... ",
+  "is <strong>direct and honest</strong> ... ",
+  "is <strong>loyal</strong> ... ",
+  "is <strong>patient</strong> ... ",
+  "is <strong>reliable</strong> ... ",
+  "is <strong>order</strong> ... ",
+  "is <strong>organized</strong> ... "
+];
+gen_data["ExecutiveFlaw"] = [
+  "is <strong>inflexible</strong> ... ",
+  "is <strong>stubborn</strong> ... ",
+  "is <strong>tradition bound</strong> ... ",
+  "is <strong>judgemental</strong> ... ",
+  "is <strong>status</strong> ... ",
+  "is <strong>cant relax</strong> ... ",
+  "is <strong>diffulcty emotion</strong> ... ",
+  "is <strong>altruistic</strong> ... "
+];
 
 // Logician (Introverted, Intuitive, Thinking, Prospecting)
+gen_data["LogicianPersonality"] = [
+  "is <strong>Analytical</strong> ... ",
+  "is <strong>original</strong> ... ",
+  "is <strong>open minded</strong> ... ",
+  "is <strong>curious</strong> ... ",
+  "is <strong>objective</strong> ... "
+];
+gen_data["LogicianFlaw"] = [
+  "is <strong>disconnected</strong> ... ",
+  "is <strong>insensitive</strong> ... ",
+  "is <strong>disassatisifed</strong> ... ",
+  "is <strong>impatient</strong> ... ",
+  "is <strong>perfectionist</strong> ... "
+];
 
 // Logistician (Introverted, Observant, Thinking, Judging)
+gen_data["LogisticianPersonality"] = [
+  "is <strong>honest and direct</strong> ... ",
+  "is <strong>strong iwlled</strong> ... ",
+  "is <strong>dutyiful</strong> ... ",
+  "is <strong>responsible</strong> ... ",
+  "is <strong>calm</strong> ... ",
+  "is <strong>practical</strong> ... ",
+  "is <strong>order</strong> ... ",
+  "is <strong>jack of all trades</strong> ... "
+];
+gen_data["LogisticianFlaw"] = [
+  "is <strong>stubborn</strong> ... ",
+  "is <strong>insensitive</strong> ... ",
+  "is <strong>by the book</strong> ... ",
+  "is <strong>rigid</strong> ... ",
+  "is <strong>judgemental</strong> ... ",
+  "is <strong>blame themselves</strong> ... "
+];
 
 // Mediator (Introverted, Observant, Thinking, Judging)
+gen_data["MediatorPersonality"] = [
+  "is <strong>empathetic</strong> ... ",
+  "is <strong>generous</strong> ... ",
+  "is <strong>open-minded</strong> ... ",
+  "is <strong>creative</strong> ... ",
+  "is <strong>passionate</strong> ... ",
+  "is <strong>idealistic</strong> ... "
+];
+gen_data["MediatorFlaw"] = [
+  "is <strong>unrealisitc</strong> ... ",
+  "is <strong>self-isolating</strong> ... ",
+  "is <strong>unfocused</strong> ... ",
+  "is <strong>emotionally vulnerable</strong> ... ",
+  "is <strong>desperate to please</strong> ... ",
+  "is <strong>self-critical</strong> ... "
+];
 
 // Protagonist (Extraverted, Intuitive, Feeling, Judging)
+gen_data["ProtagonistPersonality"] = [
+  "is <strong>receptive</strong> ... ",
+  "is <strong>reliable</strong> ... ",
+  "is <strong>passionate</strong> ... ",
+  "is <strong>altruisitc</strong> ... ",
+  "is <strong>charismatic</strong> ... "
+];
+gen_data["ProtagonistFlaw"] = [
+  "is <strong>unrealistic</strong> ... ",
+  "is <strong>overly idealistic</strong> ... ",
+  "is <strong>condescending</strong> ... ",
+  "is <strong>intense</strong> ... ",
+  "is <strong>overly empathetic</strong> ... "
+];
 
 // Virtuoso (Introverted, Observant, Thinking, Prospecting)
+gen_data["VirtuosoPersonality"] = [
+  "is <strong>optimistic</strong> ... ",
+  "is <strong>energetic</strong> ... ",
+  "is <strong>creative</strong> ... ",
+  "is <strong>practical</strong> ... ",
+  "is <strong>spontaneous</strong> ... ",
+  "is <strong>rational</strong> ... ",
+  "is <strong>prioritizes</strong> ... ",
+  "is <strong>great in crisis</strong> ... ",
+  "is <strong>chill and relaxed</strong> ... "
+];
+gen_data["VirtuosoFlaw"] = [
+  "is <strong>stubborn</strong> ... ",
+  "is <strong>insensitive</strong> ... ",
+  "is <strong>private</strong> ... ",
+  "is <strong>reserved</strong> ... ",
+  "is <strong>easily bored</strong> ... ",
+  "is <strong>dislike committment</strong> ... ",
+  "is <strong>risk taker</strong> ... "
+];
 
 // --------------------------------------------------------------------------------
 // Races

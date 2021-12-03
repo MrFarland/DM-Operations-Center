@@ -25,9 +25,10 @@ function generatePersonality() {
     // Select a personality type based on the profile types using the NERIS Model at 16Personalities.com. (I'm a Mediator.)
     var personalityType = generate_text("PersonalityType" + alignmentLawfulChaotic);
     var personality = generate_text(personalityType + "Personality");
+    var flaw = generate_text(personalityType + "Flaw");
 
     // Create the description of the NPC's personality
-    personalityDescription = ("<h4>Personality</h4><div class=\"subResult\"><p>" + givenName + " " + personality + "</p></div>");
+    personalityDescription = ("<h4>Personality</h4><div class=\"subResult\"><p>" + givenName + " " + personality + "</p><p>" + pronounSubject + " " + "</p><p>" + givenName + " " + flaw + "</p></div>");
     
     // Return the appearance variable.
     return {
