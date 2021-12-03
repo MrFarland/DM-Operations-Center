@@ -17,16 +17,17 @@ function generatePersonality() {
 
     // Fix "Neutral Neutral" alignment just be "Neutral".
     if (alignmentLawfulChaotic == "Neutral" && alignmentGoodEvil == "Neutral") {
-        personalityAlignment = alignmentLawfulChaotic;    
+        alignment = alignmentLawfulChaotic;    
     } else {
-        personalityAlignment = (alignmentLawfulChaotic + " " + alignmentGoodEvil);
+        alignment = (alignmentLawfulChaotic + " " + alignmentGoodEvil);
     }
 
     // Select a personality type based on the profile types using the NERIS Model at 16Personalities.com. (I'm a Mediator.)
-    //var personalityType = generate_text("PersonalityType" + alignmentLawfulChaotic);
+    var personalityType = generate_text("PersonalityType" + alignmentLawfulChaotic);
+    var personality = generate_text(personalityType + "Personality");
 
     // Create the description of the NPC's personality
-    personalityDescription = ("<h4>Personality</h4><div class=\"subResult\"><p>" + personalityAlignment + "</p></div>");
+    personalityDescription = ("<h4>Personality</h4><div class=\"subResult\"><p>" + givenName + " " + personality + "</p></div>");
     
     // Return the appearance variable.
     return {
