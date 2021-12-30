@@ -23,12 +23,33 @@ function generatePersonality() {
     }
 
     // Select a personality type based on the profile types using the NERIS Model at 16Personalities.com. (I'm a Mediator.)
-    var personalityType = generate_text("PersonalityType" + alignmentLawfulChaotic);
-    var personality = generate_text(personalityType + "Personality");
-    var flaw = generate_text(personalityType + "Flaw");
+    // var personalityType = generate_text("PersonalityType" + alignmentLawfulChaotic);
+    var personalityType = "Architect";
+    var ideal = generate_text(personalityType + "Ideal" + alignmentGoodEvil);
+
+    if (alignmentGoodEvil == "Evil"){
+        var personality1 = generate_text(personalityType + "Flaw");
+        var personality2 = generate_text(personalityType + "Flaw");
+        var personality3 = generate_text(personalityType + "Personality");
+        var personalityException = "faults";
+
+        while (personality1 == personality2) {
+            var personality2 = generate_text(personalityType + "Flaw");
+        }
+
+    } else {
+        var personality1 = generate_text(personalityType + "Personality");
+        var personality2 = generate_text(personalityType + "Personality");
+        var personality3 = generate_text(personalityType + "Flaw");
+        var personalityException = "better qualities";
+
+        while (personality1 == personality2) {
+            var personality2 = generate_text(personalityType + "Personality");
+        }
+    }
 
     // Create the description of the NPC's personality
-    personalityDescription = ("<h4>Personality</h4><div class=\"subResult\"><p>" + givenName + " " + personality + "</p><p>" + pronounSubject + " " + "</p><p>" + givenName + " " + flaw + "</p></div>");
+    personalityDescription = ("<h4>Personality</h4><div class=\"subResult\"><p class=\"text-center\">" + ideal + "</p><p>" + givenName + " is " + personality1 + " " + pronounSubject + " is also " + personality2 + "</p><p>Despite " + pronounObject.toLowerCase() + " " + personalityException + ", " + givenName + " can be " + personality3 + "</p><p class=\"very-small-text\"><strong>Alignment:</strong> " + alignment + "</p></div>");
     
     // Return the appearance variable.
     return {
