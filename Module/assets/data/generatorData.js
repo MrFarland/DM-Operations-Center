@@ -1013,415 +1013,501 @@ gen_data["PersonalityTypeLawful"] = ["Commander","Consul","Defender","Executive"
 gen_data["PersonalityTypeNeutral"] = ["{PersonalityTypeChaotic}","{PersonalityTypeLawful}"];
 
 // Adventurer (Introverted, Observant, Feeling, Prospecting)
+gen_data["AdventurerPersonality"] = [
+  "has a unique <strong>sense of style</strong> that is bold, creative, and well outside local norms.",
+  "is incredibly <strong>charming</strong> with an <strong>easy-going</strong>, <strong>laid-back</strong> demeanor that puts people at ease.",
+  "hates monotony and is always looking for ways to introduce some <strong>fun</strong> and <strong>adventure</strong> into their lives.",
+  "has a <strong>bold</strong>, <strong>larger than life</strong> persona they wear in public, but are actually introverted and private.",
+  "<strong>lives in the moment</strong> and rarely puts much thought into planning what they will do next.",
+  "brings an <strong>artistic</strong> flair to everything they do and approachs even the most mundane tasks with <strong>flair</strong> and <strong>style</strong>."
+];
+
 gen_data["AdventurerIdealGood"] = [
-  "\"If I do nothing else, I hope I make today a little brighter then yesterday.\"",
-  "\"There is nothing I'd rather do then what I love with people I love.\""
+  "\"Each day is an adventure best shared with loved ones and friends.\"",
+  "\"Forgive and forget. Life is too short for bad-blood and grudges.\""
 ];
 gen_data["AdventurerIdealNeutral"] = [
-  "\"You worry about your life and I'll worry about mine.\"",
-  "\"Life is too short to get caught up in other people's business.\""
+  "\"If I leave you alone, and you me, we\'re both better off.\"",
+  "\"I don't need your rules, laws, or traditions. I just want to live my life in peace.\""
 ];
 gen_data["AdventurerIdealEvil"] = [
-  "\"I do what I want, when I want and Gods help anyone who gets in my way.\"",
-  "\"Nobody tells me what to do. I answer to nobody but myself.\""
+  "\"Don't tell me what to do. I do what I want, when I want.\""
 ];
-gen_data["AdventurerPersonality"] = [
-  "a <strong>charming</strong> individual with a <strong>relaxed</strong> and <strong>warm</strong> personality that makes them likable and popular.",
-  "<strong>sensitive</strong> to the feelings of others and has an innate talent for <strong>empathizing</strong> and relating to others.",
-  "<strong>imaginative</strong> and <strong>bold</strong>, often coming up with ingenious solutions to complex problems.",
-  "<strong>passionate</strong> about few things, but when called to action, they throw themselves into the cause or task at hand.",
-  "<strong>curious</strong> about the world and is always looking to learn and explore new things.",
-  "<strong>artistic</strong> and <strong>creative</strong> who adds a little artistry and dramatic flair to nearly everything they do."
-];
+
 gen_data["AdventurerFlaw"] = [
-  "<strong>charming</strong> and <strong>manipulative</strong>. They have a talent for getting people to do things that might not be in their best interest.",
-  "<strong>thin-skinned</strong> and is <strong>easily-offended</strong> by even the slightest criticisms or gentle ribbing.",
-  "<strong>fiercely-independent</strong>, often refusing help when it is needed out of pride or frustration.",
-  "a bit of a <strong>daredevil</strong>, often taking unnecessary <strong>risks</strong> that put themselves and others in harm's way.",
-  "<strong>easily-stressed</strong> when things do not go as expected, often lashing out at those around them as they struggle to regain some semblance of control.",
-  "<strong>overly-competitive</strong>, turning even the most mundane tasks into a competition and getting upset if they do not win.",
-  "<strong>unpredictable</strong> and <strong>impulsive</strong> often changing their mind on a whim and leaving others scratching their heads."
+  "is <strong>thin-skinned</strong> and does not take criticism well. Even a well-intentioned comment can cause them to lose their temper in spectacular fashion.",
+  "is incredibly <strong>self-absorbed</strong> and <strong>selfish</strong>. Their first instinct is to look out for themselves as is their second and third.",
+  "is <strong>manipulative</strong>, often using their natural <strong>charm</strong> to get what they want; and often at someone else's expense.",
+  "is dangerously <strong>unpredictable</strong>, often giving into their most base and dangerous impulses without concern for the consequences.",
+  "is <strong>easily stressed</strong> when things do not go as planned and they will often lash out at those around them.",
+  "is <strong>overly competitive</strong> and insist on making everything a competition. They are insufferable when they win and even worse when they lose.",
+  "has a serious <strong>gambling problem</strong>. They'll wager on just about everything and have significant debts as a result."
 ];
+
 // Advocate (Introverted, Intuitive, Feeling, Judging)
+gen_data["AdvocatePersonality"] = [
+  "is normally <strong>quiet</strong> and <strong>reserved</strong>, but can become quite <strong>passionate</strong> when properly motivated.",
+  "is very <strong>insightful</strong> with an uncanny ability to <strong>connect with people</strong> and understand their motives and feelings.",
+  "is a <strong>good listener</strong> with a natural talent for putting people at ease and getting them to talk about themselves.",
+  "is a <strong>kind</strong> and <strong>caring</strong> person with a desire to do good, but not always sure ",
+  ""
+];
 gen_data["AdvocateIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"It is my responsibility to be the change I want to see in the world.\""
 ];
 gen_data["AdvocateIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"What's the point? The harder I try to make things better, the worse it gets.\"",
 ];
 gen_data["AdvocateIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"The ends do justify the means.\"",
+  "\"I'll do whatever it takes to make things right.\"",
+  "\"Maybe it is time to burn it all down and start over.\"",
+  "\"Sometimes we have to do bad things for the greater good.\""
 ];
-gen_data["AdvocatePersonality"] = [
-  "<strong>creative</strong> and <strong>imaginative</strong>, often coming up with unique solutions to unique problems.",
-  "<strong>insightful</strong> with an uncanny ability to understand the motivations, feelings, and needs of others.",
-  "<strong>principled</strong> with deeply held beliefs of a cultural, political, or religious nature.",
-  "deeply <strong>passionate</strong> about the things that matter to them, and can be a force to be reckoned with when properly motivated.",
-  "genuinely <strong>altruistic</strong> and has a strong desire to help those around them."
-];
+
 gen_data["AdvocateFlaw"] = [
-  "<strong>stubborn</strong> when it comes to their beliefs and can become defensive and agitated when challenged.",
-  "itensely <strong>private</strong> and <strong>closed</strong>, effectively shutting even those closest to them out.",
-  "a <strong>perfectionist</strong>, often obsessive over the most trivial of imperfections and is rarely satisfied with their work, relationships, or other aspects of their lives.",
-  "<strong>frustrated</strong> with the mundane aspects of life, always dreaming big, but rarely taking the steps necessary to realize them."
+  "is completely <strong>burned-out</strong> from years of trying to make a difference, leaving them <strong>cynical</strong> and <strong>angry</strong>.",
+  "is <strong>thin-skinned</strong> and does not take criticism well. Even a well-intentioned comment can cause them to lose their temper in spectacular fashion.",
+  "<strong>internalizes everything</strong>. They just keep bottling everything up inside, until they explode, over something trivial and insignificant.",
+  "is <strong>never satisfied</strong>. They obsess over every imperfection and are never happy with anything.",
+  "is extremely <strong>critical</strong> of others and their inability to meet their impossibly high standards.",
+  "",
+  ""
 ];
+
 // Architect (Introverted, Intuitive, Thinking, Judging)
+gen_data["ArchitectPersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["ArchitectIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["ArchitectIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["ArchitectIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["ArchitectPersonality"] = [
-  "<strong>rational</strong> with strong problem-solving skills and a sharp <strong>analytical</strong> mind.",
-  "<strong>inquisitive</strong> with an almost insatiable thirst for knowledge.",
-  "<strong>well-read</strong> with an impressive breadth of knowledge on a great many topics.",
-  "<strong>informed</strong> with a great deal of knowledge in their chosen field.",
-  "a <strong>free-thinker</strong> who isn't to form their own opinions and discover their own path.",
-  "<strong>ambitious</strong>, diving into projects and endeavors that capture their imagination and interest.",
-  "<strong>determined</strong> and <strong>committed</strong> ...",
-  "<strong>curious</strong> ...",
-  "<strong>versatile</strong> ..."
-];
+
 gen_data["ArchitectFlaw"] = [
-  "<strong>arrogant</strong> ...",
-  "<strong>dismissive of emotions</strong> ...",
-  "<strong>overly critical</strong> ...",
-  "<strong>combative</strong> ...",
-  "<strong>romantically clueless</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 // Campaigner (Extraverted, Intuitive, Feeling)
+gen_data["CampaignerPersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["CampaignerIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["CampaignerIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["CampaignerIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["CampaignerPersonality"] = [
-  "<strong>curious</strong> ...",
-  "<strong>perceptive</strong> ...",
-  "<strong>enthusiastic</strong> ...",
-  "<strong>excellent communicator</strong> ...",
-  "<strong>festive</strong> ...",
-  "<strong>good-natured</strong> ..."
-];
+
 gen_data["CampaignerFlaw"] = [
-  "<strong>people pleasing</strong> ...",
-  "<strong>unfocused</strong> ...",
-  "<strong>disorganized</strong> ...",
-  "<strong>overly accomodating</strong> ...",
-  "<strong>overly optimistic</strong> ...",
-  "<strong>restless</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 // Commander (Extraverted, Intuitive, Feeling, Prospecting)
+gen_data["CommanderPersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["CommanderIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["CommanderIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["CommanderIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["CommanderPersonality"] = [
-  "<strong>efficient</strong> ...",
-  "<strong>energetic</strong> ...",
-  "<strong>self-confident</strong> ...",
-  "<strong>strong-willed</strong> ...",
-  "<strong>strategic thinkers</strong> ...",
-  "<strong>charismatic and inspiring</strong> ..."
-];
+
 gen_data["CommanderFlaw"] = [
-  "<strong>stubborn and dominant</strong> ...",
-  "<strong>intolerant</strong> ...",
-  "<strong>impatient</strong> ...",
-  "<strong>arrogant</strong> ...",
-  "<strong>poor handling of emotions</strong> ...",
-  "<strong>cold and ruthless</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 // Consul (Extraverted, Observant, Feeling, Judging)
+gen_data["ConsulPersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["ConsulIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["ConsulIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["ConsulIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["ConsulPersonality"] = [
-  "<strong>Strong Practical Skills</strong> ...",
-  "<strong>Strong Sense of Duty</strong> ...",
-  "<strong>Very Loyal</strong> ...",
-  "<strong>Sensitive and Warm</strong> ...",
-  "<strong>Good at Connecting with Others</strong> ..."
-];
+
 gen_data["ConsulFlaw"] = [
-  "<strong>Worried about Their Social Status</strong> ...",
-  "<strong>Inflexible</strong> ...",
-  "<strong>Reluctant to Innovate or Improvise</strong> ...",
-  "<strong>Vulnerable to Criticism</strong> ...",
-  "<strong>Often Too Needy</strong> ...",
-  "<strong>Too Selfless</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 // Debater (Extraverted, Observant, Feeling, Judging)
+gen_data["DebaterPersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["DebaterIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["DebaterIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["DebaterIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["DebaterPersonality"] = [
-  "<strong>Knowledgeable</strong> ...",
-  "<strong>Quick Thinkers</strong> ...",
-  "<strong>Original</strong> ...",
-  "<strong>Excellent Brainstormers</strong> ...",
-  "<strong>Charismatic</strong> ...",
-  "<strong>Energetic</strong> ..."
-];
+
 gen_data["DebaterFlaw"] = [
-  "<strong>Very Argumentative</strong> ...",
-  "<strong>Insensitive</strong> ...",
-  "<strong>Intolerant</strong> ...",
-  "<strong>Can Find It Difficult to Focus</strong> ...",
-  "<strong>Dislike Practical Matters</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 // Defender (Introverted, Observant, Feeling, Judging)
+gen_data["DefenderPersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["DefenderIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["DefenderIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["DefenderIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["DefenderPersonality"] = [
-  "<strong>Supportive</strong> ...",
-  "<strong>Reliable and Patient</strong> ...",
-  "<strong>Imaginative and Observant</strong> ...",
-  "<strong>Enthusiastic</strong> ...",
-  "<strong>Loyal and Hard-Working</strong> ...",
-  "<strong>Good Practical Skills</strong> ..."
-];
+
 gen_data["DefenderFlaw"] = [
-  "<strong>Humble and Shy</strong> ...",
-  "<strong>Take Things Too Personally</strong> ...",
-  "<strong>Repress Their Feelings</strong> ...",
-  "<strong>Overload Themselves</strong> ...",
-  "<strong>Reluctant to Change</strong> ...",
-  "<strong>Too Altruistic</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 // Entertainer (Extraverted, Observant, Feeling, Prospecting)
+gen_data["EntertainerPersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["EntertainerIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["EntertainerIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["EntertainerIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["EntertainerPersonality"] = [
-  "<strong>Bold</strong> ...",
-  "<strong>Original</strong> ...",
-  "<strong>Aesthetics and Showmanship</strong> ...",
-  "<strong>Practical</strong> ...",
-  "<strong>Observant</strong> ...",
-  "<strong>Excellent People Skills</strong> ..."
-];
+
 gen_data["EntertainerFlaw"] = [
-  "<strong>Sensitive</strong> ...",
-  "<strong>Conflict-Averse</strong> ...",
-  "<strong>Easily Bored</strong> ...",
-  "<strong>Poor Long-Term Planners</strong> ...",
-  "<strong>Unfocused</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 // Entrepreneur (Extraverted, Observant, Thinking, Prospecting)
+gen_data["EntrepreneurPersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["EntrepreneurIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["EntrepreneurIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["EntrepreneurIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["EntrepreneurPersonality"] = [
-  "<strong>Bold</strong> ...",
-  "<strong>Rational and Practical</strong> ...",
-  "<strong>Original</strong> ...",
-  "<strong>Perceptive</strong> ...",
-  "<strong>Direct</strong> ...",
-  "<strong>Sociable</strong> ..."
-];
+
 gen_data["EntrepreneurFlaw"] = [
-  "<strong>Insensitive</strong> ...",
-  "<strong>Impatient</strong> ...",
-  "<strong>Risk-prone</strong> ...",
-  "<strong>Unstructured</strong> ...",
-  "<strong>May Miss the Bigger Picture</strong> ...",
-  "<strong>Defiant</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 // Executive (Extraverted, Intuitive, Thinking, Prospecting)
+gen_data["ExecutivePersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["ExecutiveIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["ExecutiveIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["ExecutiveIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["ExecutivePersonality"] = [
-  "<strong>Dedicated</strong> ...",
-  "<strong>Strong-willed</strong> ...",
-  "<strong>Direct and Honest</strong> ...",
-  "<strong>Loyal, Patient and Reliable</strong> ...",
-  "<strong>Enjoy Creating Order</strong> ...",
-  "<strong>Excellent Organizers</strong> ..."
-];
+
 gen_data["ExecutiveFlaw"] = [
-  "<strong>Inflexible and Stubborn</strong> ...",
-  "<strong>Uncomfortable with Unconventional Situations</strong> ...",
-  "<strong>Judgmental</strong> ...",
-  "<strong>Too Focused on Social Status</strong> ...",
-  "<strong>Difficult to Relax</strong> ...",
-  "<strong>Difficulty Expressing Emotion</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 // Logician (Introverted, Intuitive, Thinking, Prospecting)
+gen_data["LogicianPersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["LogicianIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["LogicianIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["LogicianIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["LogicianPersonality"] = [
-  "<strong>Analytical</strong> ...",
-  "<strong>Original</strong> ...",
-  "<strong>Open-Minded</strong> ...",
-  "<strong>Curious</strong> ...",
-  "<strong>Objective</strong> ..."
-];
+
 gen_data["LogicianFlaw"] = [
-  "<strong>Disconnected</strong> ...",
-  "<strong>Insensitive</strong> ...",
-  "<strong>Dissatisfied</strong> ...",
-  "<strong>Impatient</strong> ...",
-  "<strong>Perfectionistic</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 // Logistician (Introverted, Observant, Thinking, Judging)
+gen_data["LogisticianPersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["LogisticianIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["LogisticianIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["LogisticianIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["LogisticianPersonality"] = [
-  "<strong>Honest and Direct</strong> ...",
-  "<strong>Strong-willed and Dutiful</strong> ...",
-  "<strong>Very Responsible</strong> ...",
-  "<strong>Calm and Practical</strong> ...",
-  "<strong>Create and Enforce Order</strong> ...",
-  "<strong>Jacks-of-all-trades</strong> ..."
-];
+
 gen_data["LogisticianFlaw"] = [
-  "<strong>Stubborn</strong> ...",
-  "<strong>Insensitive</strong> ...",
-  "<strong>Always by the Book</strong> ...",
-  "<strong>Judgmental</strong> ...",
-  "<strong>Often Unreasonably Blame Themselves</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 // Mediator (Introverted, Observant, Thinking, Judging)
+gen_data["MediatorPersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["MediatorIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["MediatorIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["MediatorIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["MediatorPersonality"] = [
-  "<strong>Empathetic</strong> ...",
-  "<strong>Generous</strong> ...",
-  "<strong>Open-Minded</strong> ...",
-  "<strong>Creative</strong> ...",
-  "<strong>Passionate</strong> ...",
-  "<strong>Idealistic</strong> ..."
-];
+
 gen_data["MediatorFlaw"] = [
-  "<strong>Unrealistic</strong> ...",
-  "<strong>Self-Isolating</strong> ...",
-  "<strong>Unfocused</strong> ...",
-  "<strong>Emotionally Vulnerable</strong> ...",
-  "<strong>Desperate to Please</strong> ...",
-  "<strong>Self-Critical</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 // Protagonist (Extraverted, Intuitive, Feeling, Judging)
+gen_data["ProtagonistPersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["ProtagonistIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["ProtagonistIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["ProtagonistIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["ProtagonistPersonality"] = [
-  "<strong>Receptive</strong> ...",
-  "<strong>Reliable</strong> ...",
-  "<strong>Passionate</strong> ...",
-  "<strong>Altruistic</strong> ...",
-  "<strong>Charismatic</strong> ..."
-];
+
 gen_data["ProtagonistFlaw"] = [
-  "<strong>Unrealistic</strong> ...",
-  "<strong>Overly Idealistic</strong> ...",
-  "<strong>Condescending</strong> ...",
-  "<strong>Intense</strong> ...",
-  "<strong>Overly Empathetic</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 // Virtuoso (Introverted, Observant, Thinking, Prospecting)
+gen_data["VirtuosoPersonality"] = [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+];
+
 gen_data["VirtuosoIdealGood"] = [
-  "\"This is a good ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["VirtuosoIdealNeutral"] = [
-  "\"This is a neutral ideal.\""
+  "\"\"",
+  "\"\""
 ];
 gen_data["VirtuosoIdealEvil"] = [
-  "\"This is an evil ideal.\""
+  "\"\""
 ];
-gen_data["VirtuosoPersonality"] = [
-  "<strong>Optimistic and Energetic</strong> ...",
-  "<strong>Creative and Practical</strong> ...",
-  "<strong>Spontaneous and Rational</strong> ...",
-  "<strong>Know How to Prioritize</strong> ...",
-  "<strong>Great in a Crisis</strong> ...",
-  "<strong>Relaxed</strong> ..."
-];
+
 gen_data["VirtuosoFlaw"] = [
-  "<strong>Stubborn</strong> ...",
-  "<strong>Insensitive</strong> ...",
-  "<strong>Private and Reserved</strong> ...",
-  "<strong>Easily Bored</strong> ...",
-  "<strong>Dislike Commitment</strong> ...",
-  "<strong>Risky Behavior</strong> ..."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ];
 
 // --------------------------------------------------------------------------------
