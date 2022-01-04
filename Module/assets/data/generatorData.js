@@ -1015,128 +1015,72 @@ gen_data["PersonalityTypeNeutral"] = ["{PersonalityTypeChaotic}","{PersonalityTy
 // Adventurer (Introverted, Observant, Feeling, Prospecting)
 gen_data["AdventurerPersonality"] = [
   "has a unique <strong>sense of style</strong> that is bold, creative, and well outside local norms.",
-  "is incredibly <strong>charming</strong> with an <strong>easy-going</strong>, <strong>laid-back</strong> demeanor that puts people at ease.",
-  "hates monotony and is always looking for ways to introduce some <strong>fun</strong> and <strong>adventure</strong> into their lives.",
-  "has a <strong>bold</strong>, <strong>larger than life</strong> persona they wear in public, but are actually introverted and private.",
+  "is <strong>charming</strong> with a <strong>laid-back</strong> demeanor that puts people at ease.",
+  "can't stand monotony and is always looking for ways to introduce a little <strong>fun</strong> in their lives.",
+  "has a <strong>larger than life</strong> persona in public, but is actually quite <strong>introverted</strong> in private.",
   "<strong>lives in the moment</strong> and rarely puts much thought into planning what they will do next.",
-  "brings an <strong>artistic</strong> flair to everything they do and approachs even the most mundane tasks with <strong>flair</strong> and <strong>style</strong>."
+  "brings an <strong>artistic</strong> flair to even the most mundane tasks."
 ];
-
-gen_data["AdventurerIdealGood"] = [
-  "\"Each day is an adventure best shared with loved ones and friends.\"",
-  "\"Forgive and forget. Life is too short for bad-blood and grudges.\""
-];
-gen_data["AdventurerIdealNeutral"] = [
-  "\"If I leave you alone, and you me, we\'re both better off.\"",
-  "\"I don't need your rules, laws, or traditions. I just want to live my life in peace.\""
-];
-gen_data["AdventurerIdealEvil"] = [
-  "\"Don't tell me what to do. I do what I want, when I want.\""
-];
-
 gen_data["AdventurerFlaw"] = [
-  "is <strong>thin-skinned</strong> and does not take criticism well. Even a well-intentioned comment can cause them to lose their temper in spectacular fashion.",
-  "is incredibly <strong>self-absorbed</strong> and <strong>selfish</strong>. Their first instinct is to look out for themselves as is their second and third.",
-  "is <strong>manipulative</strong>, often using their natural <strong>charm</strong> to get what they want; and often at someone else's expense.",
+  "is <strong>thin-skinned</strong> and does not take criticism well. Even a well-intentioned comment can set them off.",
+  "is incredibly <strong>self-absorbed</strong>. Their first instinct is to look out for themselves as is their second and third.",
+  "is <strong>manipulative</strong>, often using their <strong>charm</strong> to get what they want, and often at someone else's expense.",
   "is dangerously <strong>unpredictable</strong>, often giving into their most base and dangerous impulses without concern for the consequences.",
-  "is <strong>easily stressed</strong> when things do not go as planned and they will often lash out at those around them.",
-  "is <strong>overly competitive</strong> and insist on making everything a competition. They are insufferable when they win and even worse when they lose.",
-  "has a serious <strong>gambling problem</strong>. They'll wager on just about everything and have significant debts as a result."
+  "is <strong>easily stressed</strong> when things do not go as planned and they will often lash out without warning.",
+  "is <strong>overly competitive</strong> and turns everything into a competition. They are insufferable when they win and worse when they lose.",
+  "has a serious <strong>gambling problem</strong>. They'll wager on just about anything and have significant debts as a result."
 ];
 
 // Advocate (Introverted, Intuitive, Feeling, Judging)
 gen_data["AdvocatePersonality"] = [
   "is normally <strong>quiet</strong> and <strong>reserved</strong>, but can become quite <strong>passionate</strong> when properly motivated.",
-  "is very <strong>insightful</strong> with an uncanny ability to <strong>connect with people</strong> and understand their motives and feelings.",
+  "is <strong>insightful</strong> with an uncanny ability to <strong>connect with people</strong> and understand their motives and feelings.",
   "is a <strong>good listener</strong> with a natural talent for putting people at ease and getting them to talk about themselves.",
-  "is a <strong>kind</strong> and <strong>caring</strong> person with a desire to do good, but not always sure ",
-  ""
+  "is a <strong>team-player</strong> and enjoys lending a hand if the task is aligned with their principles and values.",
+  "is <strong>hard-working</strong> and takes a great deal of satisfaction in a job well done."
 ];
-gen_data["AdvocateIdealGood"] = [
-  "\"It is my responsibility to be the change I want to see in the world.\""
-];
-gen_data["AdvocateIdealNeutral"] = [
-  "\"What's the point? The harder I try to make things better, the worse it gets.\"",
-];
-gen_data["AdvocateIdealEvil"] = [
-  "\"The ends do justify the means.\"",
-  "\"I'll do whatever it takes to make things right.\"",
-  "\"Maybe it is time to burn it all down and start over.\"",
-  "\"Sometimes we have to do bad things for the greater good.\""
-];
-
 gen_data["AdvocateFlaw"] = [
   "is completely <strong>burned-out</strong> from years of trying to make a difference, leaving them <strong>cynical</strong> and <strong>angry</strong>.",
   "is <strong>thin-skinned</strong> and does not take criticism well. Even a well-intentioned comment can cause them to lose their temper in spectacular fashion.",
   "<strong>internalizes everything</strong>. They just keep bottling everything up inside, until they explode, over something trivial and insignificant.",
   "is <strong>never satisfied</strong>. They obsess over every imperfection and are never happy with anything.",
-  "is extremely <strong>critical</strong> of others and their inability to meet their impossibly high standards.",
-  "",
-  ""
+  "is extremely <strong>critical</strong> of others and their inability to meet their impossibly high standards."
 ];
 
 // Architect (Introverted, Intuitive, Thinking, Judging)
 gen_data["ArchitectPersonality"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "has a sharp, delightfully <strong>sarcastic</strong> sense of humor with an <strong>irreverent</strong> wit.",
+  "<strong>questions</strong> everything. Nothing is taken as fact until they have had time to consider the matter.",
+  "is <strong>decisive</strong> without being reckless. They <strong>consider their options</strong> and act with confidence.",
+  "is <strong>direct</strong>. They get right to the point and have little use for pleasantries and small talk.",
+  "is <strong>honest</strong>. They'll give you the truth, no matter how uncomfortable it may be.",
+  "has a natural <strong>confidence</strong> that is both inspiring and terrifying depending on which side you are on.",
+  "has a <strong>curious</strong> mind. They love <strong>learning</strong> and how things work."
 ];
-
-gen_data["ArchitectIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["ArchitectIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["ArchitectIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["ArchitectFlaw"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "is <strong>arrogant</strong> and <strong>dismissive</strong> of those they deem to be inferior in knowledge or skill.",
+  "has no room for <strong>emotion</strong> in their life. Every decision, relationship, and action is <strong>calculated</strong> and <strong>transactional</strong>.",
+  "is <strong>combative</strong> and <strong>argumentative</strong> when their ideas or actions are challenged.",
+  "is extremely <strong>critical</strong> of others and their inability to meet their impossibly high standards.",
+  "has a <strong>problem with authority</strong>. They do not tolerate being told that they can't do something well."
 ];
+
 // Campaigner (Extraverted, Intuitive, Feeling)
 gen_data["CampaignerPersonality"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "is <strong>outgoing</strong> with a <strong>warm</strong>, <strong>friendly</strong> demeanor.",
+  "has an <strong>upbeat</strong> approach to life that often makes them stand out in any crowd.",
+  "is very <strong>sociable</strong>. They make friends easily and have no problem striking up a conversation with a perfect stranger.",
+  "has a natural <strong>enthusiasm</strong> and <strong>positivity</strong> that is infectious.",
+  "is very <strong>perceptive</strong>. They have a talent for picking out the subtlest shifts in someone's mood or expression.",
+  "loves a <strong>party</strong> and loves nothing more than having a good time with friends ... or strangers."
 ];
-
-gen_data["CampaignerIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["CampaignerIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["CampaignerIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["CampaignerFlaw"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "has a tendency to <strong>read too much</strong> into actions and behaviors and can overreact spectacularly.",
+  "is completely <strong>unreliable</strong> and cannot be counted on to do anything they are not enthusiastically behind.",
+  "is <strong>easily-bored</strong> by the mundane aspects of daily life and getting them to do anything they're not interested in is impossible.",
+  "is <strong>overly optimistic</strong> and can steadfastly refuse to accept an outcome where things did not go as planned."
 ];
+
 // Commander (Extraverted, Intuitive, Feeling, Prospecting)
 gen_data["CommanderPersonality"] = [
   "",
