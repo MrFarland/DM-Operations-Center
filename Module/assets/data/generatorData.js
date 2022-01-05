@@ -1083,34 +1083,21 @@ gen_data["CampaignerFlaw"] = [
 
 // Commander (Extraverted, Intuitive, Feeling, Prospecting)
 gen_data["CommanderPersonality"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "is a natural <strong>leader</strong>. They are <strong>charismatic</strong> and exude <strong>confidence</strong>.",
+  "is <strong>driven</strong> and <strong>focused</strong>. They know what they want in life and are <strong>determined</strong> to make it happen.",
+  "loves a <strong>challenge</strong> and given enough time and reources, they can do just about anything they set their mind to.",
+  "is highly <strong>organized</strong> and <strong>efficient</strong>. They're always looking for ways to do something better.",
+  "comes across as <strong>cold</strong> and <strong>emotionless</strong> but simply tries to project an image that is <strong>strong</strong> and <strong>stoic</strong>.",
+  "has tremendous <strong>grace under pressure</strong> and a natural talent for <strong>calmly</strong> taking things in stride."
 ];
-
-gen_data["CommanderIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["CommanderIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["CommanderIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["CommanderFlaw"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "is <strong>stubborn</strong> and <strong>domineering</strong>. Once they've made up their mind on something, they will not budge.",
+  "is <strong>arrogant</strong> and <strong>dismissive</strong> of those they deem to be inferior in station, knowledge or skill.",
+  "has no room for <strong>emotion</strong> in their life. Every decision, relationship, and action is <strong>calculated</strong> and <strong>transactional</strong>.",
+  "is <strong>impatient</strong> and <strong>rude</strong> with anyone they feel is inferior",
+  "is extremely <strong>critical</strong> of others and their inability to meet their impossibly high standards.",
+  "is <strong>cold</strong> and <strong>ruthless</strong>. They will willingly sacrifice whatever it takes to get what they want.",
+  "is often <strong>insensitive</strong> and <strong>dismissive</strong> of the needs and feelings of others."
 ];
 // Consul (Extraverted, Observant, Feeling, Judging)
 gen_data["ConsulPersonality"] = [
@@ -1121,19 +1108,6 @@ gen_data["ConsulPersonality"] = [
   "",
   ""
 ];
-
-gen_data["ConsulIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["ConsulIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["ConsulIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["ConsulFlaw"] = [
   "",
   "",
@@ -1152,19 +1126,6 @@ gen_data["DebaterPersonality"] = [
   "",
   ""
 ];
-
-gen_data["DebaterIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["DebaterIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["DebaterIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["DebaterFlaw"] = [
   "",
   "",
@@ -1183,19 +1144,6 @@ gen_data["DefenderPersonality"] = [
   "",
   ""
 ];
-
-gen_data["DefenderIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["DefenderIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["DefenderIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["DefenderFlaw"] = [
   "",
   "",
@@ -1214,19 +1162,6 @@ gen_data["EntertainerPersonality"] = [
   "",
   ""
 ];
-
-gen_data["EntertainerIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["EntertainerIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["EntertainerIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["EntertainerFlaw"] = [
   "",
   "",
@@ -1245,19 +1180,6 @@ gen_data["EntrepreneurPersonality"] = [
   "",
   ""
 ];
-
-gen_data["EntrepreneurIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["EntrepreneurIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["EntrepreneurIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["EntrepreneurFlaw"] = [
   "",
   "",
@@ -1276,19 +1198,6 @@ gen_data["ExecutivePersonality"] = [
   "",
   ""
 ];
-
-gen_data["ExecutiveIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["ExecutiveIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["ExecutiveIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["ExecutiveFlaw"] = [
   "",
   "",
@@ -1307,19 +1216,6 @@ gen_data["LogicianPersonality"] = [
   "",
   ""
 ];
-
-gen_data["LogicianIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["LogicianIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["LogicianIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["LogicianFlaw"] = [
   "",
   "",
@@ -1338,19 +1234,6 @@ gen_data["LogisticianPersonality"] = [
   "",
   ""
 ];
-
-gen_data["LogisticianIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["LogisticianIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["LogisticianIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["LogisticianFlaw"] = [
   "",
   "",
@@ -1369,19 +1252,6 @@ gen_data["MediatorPersonality"] = [
   "",
   ""
 ];
-
-gen_data["MediatorIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["MediatorIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["MediatorIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["MediatorFlaw"] = [
   "",
   "",
@@ -1400,19 +1270,6 @@ gen_data["ProtagonistPersonality"] = [
   "",
   ""
 ];
-
-gen_data["ProtagonistIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["ProtagonistIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["ProtagonistIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["ProtagonistFlaw"] = [
   "",
   "",
@@ -1431,19 +1288,6 @@ gen_data["VirtuosoPersonality"] = [
   "",
   ""
 ];
-
-gen_data["VirtuosoIdealGood"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["VirtuosoIdealNeutral"] = [
-  "\"\"",
-  "\"\""
-];
-gen_data["VirtuosoIdealEvil"] = [
-  "\"\""
-];
-
 gen_data["VirtuosoFlaw"] = [
   "",
   "",
