@@ -1099,95 +1099,88 @@ gen_data["CommanderFlaw"] = [
   "is <strong>cold</strong> and <strong>ruthless</strong>. They will willingly sacrifice whatever it takes to get what they want.",
   "is often <strong>insensitive</strong> and <strong>dismissive</strong> of the needs and feelings of others."
 ];
+
 // Consul (Extraverted, Observant, Feeling, Judging)
 gen_data["ConsulPersonality"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "is <strong>well-connected</strong> and <strong>social</strong>. They seem to know everybody and everything happening in town.",
+  "loves a <strong>party</strong> and loves nothing more than having a good time with friends ... or strangers.",
+  "has a deep connection to their <strong>community</strong> and holds local <strong>customs</strong> and <strong>traditions</strong> very near and dear to their heart.",
+  "is <strong>eager</strong> to <strong>help</strong> a friend. They love nothing more than to be valued and appreciated by others.",
+  "is <strong>likable</strong> and <strong>charming</strong>, but can be a little <strong>over the top</strong> at times.",
+  "<strong>dislikes conflict</strong> and regularly plays the role of peacemaker, but they are <strong>supportive</strong> when a friend has been deeply wronged.",
+  "is <strong>enthusiastic</strong> and <strong>organized</strong>. They're the first person everyone thinks of when it comes time to plan a function or party."
 ];
 gen_data["ConsulFlaw"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "is <strong>obsessed with status</strong> and can be uncharacteristically <strong>ruthless</strong> when presented with an opportunity to move up or their current status is threatened.",
+  "is <strong>rigid</strong> and <strong>intolerant</strong> of ideas or people that challenge the status quo and go against well-established social and cultural norms.",
+  "is a <strong>follower</strong>. They will not hesitate to carry out a superior's orders without question.",
+  "is <strong>needy</strong> and <strong>desperate</strong> for acceptance. There is little they will not do for recognition from those of higher station."
 ];
+
 // Debater (Extraverted, Observant, Feeling, Judging)
 gen_data["DebaterPersonality"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "loves to <strong>argue</strong> for the mere sport of it. They enjoy a good spirited debate, but bore quickly if their opponent is not up to the task.",
+  "is <strong>open-minded</strong> and able to examine an idea or position from multiple perspectives and are very good at playing the \"<strong>Devil's Advocate</strong>\".",
+  "has a sharp, delightfully <strong>sarcastic</strong> sense of humor with an <strong>irreverent</strong> wit.",
+  "<strong>questions</strong> everything. Nothing is taken as fact until they have had time to consider the matter.",
+  "is <strong>direct</strong>. They get right to the point and have little use for pleasantries and small talk.",
+  "is <strong>honest</strong>. They'll give you the truth, no matter how uncomfortable it may be."
 ];
 gen_data["DebaterFlaw"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "is terribly <strong>indecisive</strong>. They can be so consumed with discussing every possible approach or outcome that they are unable to make a decision.",
+  "is <strong>brutally honest</strong> and <strong>insensitive</strong>. They have a talent for <strong>offending people</strong> and refusing to acknowledge the part they played in it.",
+  "is <strong>arrogant</strong> and <strong>dismissive</strong> of those they deem to be inferior in knowledge or skill.",
+  "has no room for <strong>emotion</strong> in their life. Every decision, relationship, and action is <strong>calculated</strong> and <strong>transactional</strong>.",
+  "has a <strong>problem with authority</strong>. They do not tolerate being told that they can't do something well."
 ];
 // Defender (Introverted, Observant, Feeling, Judging)
 gen_data["DefenderPersonality"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "is <strong>loyal</strong> and <strong>supportive</strong>. They're always there for the people and institutions that matter to them.",
+  "is <strong>humble</strong> and regulrly downplays their accomplishments. They especially dislike being acknowledge for doing what they feel is normally their responsibility.",
+  "is <strong>dependable</strong> and <strong>responsible</strong>. They can be counted on to do what they say they will do and to do it to the best of their ability.",
+  "is <strong>patient</strong> and <strong>calm</strong>. They have a rare talent for dealing with difficult problems or people with uncanny grace.",
+  "doesn't like to cause trouble, but when they find a cause worth fighting for, they quickly become its most <strong>vocal</strong> and <strong>ardent</strong> supporter.",
+  "is <strong>hard-working</strong> and takes a great deal of satisfaction in a job well done."
 ];
 gen_data["DefenderFlaw"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "lets people <strong>walk all over them</strong>. They rarely stand up for themselves and even less so for others.",
+  "<strong>internalizes everything</strong>. They just keep bottling everything up inside, until they explode, over something trivial and insignificant.",
+  "is a <strong>follower</strong>. They will not hesitate to carry out a superior's orders without question.",
+  "<strong>hates conflict</strong> and any ethical and moral concerns are easily dismissed if it means avoiding an uncomfortable situation or antagonizing someone",
+  "is <strong>at their breaking point</strong>. They are completely <strong>overwhelmed</strong> by life and are ready to <strong>snap</strong> or <strong>break</strong> depending on the circumstance."
 ];
 // Entertainer (Extraverted, Observant, Feeling, Prospecting)
 gen_data["EntertainerPersonality"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "is <strong>vibrant</strong> and <strong>exciting</strong>. They light up any room they enter and seemingly shine brighter the more attention they receive.",
+  "has a natural <strong>exuberance</strong> that is difficult to contain. While they don't necessarily go looking for attention, they don't exactly mind when it finds it's way to them.",
+  "has a unique <strong>sense of style</strong> that is bold, creative, and distinctly their own",
+  "is <strong>bold</strong> and <strong>unafraid</strong> to step out of their comfort zone, try new things or meet new people.",
+  "is very <strong>obersvant</strong>. While all eyes may be on them, theirs are taking everything in and missing little.",
+  "has outstanding <strong>people skills</strong>. They have a natural talent for connecting with people and making them feel special."
 ];
 gen_data["EntertainerFlaw"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "is very <strong>emotional</strong> and <strong>volatile</strong>. They take bad news and criticism very poorly.",
+  "will <strong>avoid conflict</strong> and will often choose to ignore an issue rather then deal with an uncomfortable truth or situation.",
+  "is incredibly <strong>self-absorbed</strong>. Their first instinct is to look out for themselves as is their second and third.",
+  "is dangerously <strong>unpredictable</strong>, often giving into their most base and dangerous impulses without concern for the consequences.",
+  "is completely <strong>unreliable</strong> and cannot be counted on to do anything they are not enthusiastically behind.",
+  "is <strong>easily-bored</strong> by the mundane aspects of daily life and getting them to do anything they're not interested in is nearly impossible."
 ];
 // Entrepreneur (Extraverted, Observant, Thinking, Prospecting)
 gen_data["EntrepreneurPersonality"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "is <strong>decisive</strong> and <strong>bold</strong>. They prefer to <strong>take action</strong> and figure it out as they go.",
+  "is <strong>easily bored</strong>. They are always doing something and have no qualms about dropping everything to do something else.",
+  "is <strong>not afraid to take risks</strong>. They embrace failure as an opportunity to learn and simply dust themselves off and try again.",
+  "has a natural talent for <strong>processing</strong> information quickly and trust their <strong>instincts</strong> to see them through.",
+  "is very <strong>perceptive</strong>. They have a talent for picking out the subtlest shifts in someone's mood or expression.",
+  "is <strong>bold</strong> and <strong>unafraid</strong> to step out of their comfort zone and try new things.",
 ];
 gen_data["EntrepreneurFlaw"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+  "is often <strong>insensitive</strong> and <strong>dismissive</strong> of the needs and feelings of others.",
+  "is <strong>demanding</strong> and <strong>impatient</strong>. They're quick to cast off people who can't keep up or don't get it.",
+  "is dangerously <strong>unpredictable</strong>, often giving into their most base and dangerous impulses without concern for the consequences.",
+  "can <strong>hyperfocus</strong> on a problem and completely lose sight of the bigger picture.",
+  "does what they want, when they want. They <strong>don't care</strong> about rules, laws, or expectations."
 ];
 // Executive (Extraverted, Intuitive, Thinking, Prospecting)
 gen_data["ExecutivePersonality"] = [
