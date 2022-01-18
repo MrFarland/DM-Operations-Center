@@ -1314,3 +1314,9 @@ gen_data["SubraceTiefling"] = {"1":"Feral","2-10":"Infernal"};
 gen_data["Size"] = ["Small","Large"];
 gen_data["SizeAll"] = ["Tiny','Small","Medium","Large","Huge","Gargantuan"];
 gen_data["SizeCommon"] = ["Tiny','Small","Medium","Large"];
+
+
+// --------------------------------------------------------------------------------
+// PC Level Tiers
+// --------------------------------------------------------------------------------
+gen_data["PCLevelTiers"] = ["1-4","5-10","11-16","17-20"];
