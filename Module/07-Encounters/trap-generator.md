@@ -19,24 +19,21 @@ parent: encounters
         <option value="None">Any Danger Severity</option>
         <option value="Setback">Setback</option>
         <option value="Dangerous">Dangerous</option>
-        <option value="Deadly">Dangerous</option>
+        <option value="Deadly">Deadly</option>
     </select>
     <button id="buttonGenerateTrap" onclick="generateTrap()">Generate</button> 
 </div>
 <hr/>
 <div class="result">
-    <h3 id="PCLevelSelected">Chosen PC Level</h3>
-    <div id="trapDanger"><h4>Trap Danger</h4><div class="subResult"></div>
+    <div id="PCLevel"><h4>PC Level</h4><div class="subResult"></div></div>
+    <div id="trapDanger"><h4>Trap Danger</h4><div class="subResult"></div></div>
         <div class="small-text">
             <span id="trapSaveDC">Save DC</span> - 
             <span id="trapAttackBonus">Attack Bonus</span> -
             <span id="trapDamage">Trap Damage</span> 
         </div>
-    <div id="trapDescription"><h4>Trap Description</h4><div class="subResult"></div>
-            <div class="small-text">
-            <span id="trapTrigger">Save DC</span> - 
-            <span id="trapEffects">Attack Bonus</span>
-        </div>
+    <div id="trapTrigger"><h4>Trap Trigger</h4><div class="subResult"></div></div>
+    <div id="trapEffects"><h4>Trap Effects</h4><div class="subResult"></div></div>
 </div>
 <br/>
 <br/>
@@ -49,7 +46,7 @@ parent: encounters
 <script src="../assets/js/generator.js"></script>
 
 <!-- Load the functions to pull data form the dropdowns -->
-<script src="../assets/js/getPCLevel.js"></script>
+
 
 <!-- Load the heavy lifting js to generate names and npcs. -->
 <script src="../assets/js/generateTrap.js"></script>
