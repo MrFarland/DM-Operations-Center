@@ -539,7 +539,7 @@ gen_data["NameGivenFeminineNiger-Congo"] = ["Abebi","Abena","Abimbola","Akoko","
 gen_data["NameGivenMasculineNiger-Congo"] = ["Abebe","Abel","Abidemi","Abrafo","Adisa","Amadi","Amara","Anyim","Azubuike","Bapoto","Baraka","Bohlale","Bongani","Bujune","Buziba","Chakide","Chibuzo","Chika","Chimola","Chiratidzo","Dabulamanzi","Dumisa","Dwanh","Emeka","Folami","Gatura","Gebhuza","Gero","Isoba","Kagiso","Kamau","Katlego","Masego","Matata","Nthanda","Ogechi","Olwenyo","Osumare","Paki","Qinisela","Quanda","Samanya","Shanika","Sibonakaliso","Tapiwa","Thabo","Themba","Uzoma","Zuberi","Zuri"];
 
 // Names - Human - Norse
-gen_data["NameFamilyNorse"] = ["“Inn Ánauðgi” (The Oppressed One)","“Inn Auða” (The Rich One)","“Berfœttr” (Barefoot)","“Bisi” (Commander)","“Bláfauskr” (Swarthy Old Man)","“Inn Blindi” (The Blind One)","“Blonduhorn” (Mixing-Horn)","“Brattr” (Steep)","“Bultaðr” (Lumpy)","“Bægifótr” (Limp-Leg)","“Dálkr” (Dagger)","“Doði” (Dead)","“Drápastúfr” (Bad Poet)","“Drumbr” (Thick, Fat, Podgy)","“Erra” (Pugnacity)","“Feilan” (Wolf-Cub)","“Fjarska” (Distant)","“Forni” (Ancient)","“Fullspakr” (Fully Wise)","“Galinn” (Enchanted, Mad)","“Gapi” (Shouter)","“Gedda” (Pike)","“Inn Glaði” (The Glad One)","“Gnúpa” (Stoop)","“Gramr” (Wrath, Warrior)","“Gufa” (Smoke)","“Gæitingr” (Wasp)","“Hafrsþjó” (Buck’s Thigh)","“Halftroll” (Half-Troll)","“Harðfari” (Fast-Traveller)","“Haustmyrkr” (Autumn Dusk)","“Helluflagi” (Thin Slate)","“Hestreðr” (Horse Phallus)","“Hnappraz” (Button-Arse)","“Holmðr” (Cleft-Palate)","“Hraði” (Quick)","“Hrútr” (Ram)","“Inn Hvassi” (The Sharp One)","“Hyrna” (Ax-Blade Horn)","“Kaða” (Hen)","“Kampr” (Whiskers)","“Karlhofði” (Carved Figurehead)","“Karlsefni” (Man’s Equal)","“Kastandrazi” (Throwing Arse)","“Keilismúli” (Cone-Peak)","“Kjolfari” (Keel-Traveller)","“Kleggi” (Horse-Fly)","“Kleykir” (In Trouble, Disgraced)","“Knapr” (Valet)","“Kolbrún” (Coal-Brow)","“Kópr” (Seal)","“Kortr” (Short Penis)","“Kráku” (Crow)","“Krumr” (Bent)","“Kuggi” (Cog)","“Inn Kyrri” (The Quiet One)","“Lamo” (Lame)","“Lippi” (Lip)","“Lófi” (Palm)","“Maurr” (Ant)","“Múli” (Mouth)","“Nasi” (Nostril)","“Ondurr” (Snow-Shoe)","“Orn” (Eagle)","“Inn Prúði” (The Proud One)","“Sela” (Seal)","“Sjóni” (Seer)","“Skák” (Robber)","“Skáld” (Poet)","“Skarfr” (Cormorant)","“Skammhals” (Short-Neck)","“Skarpi” (Skinny)","“Inn Skjálgi” (Squinting One)","“Skrauti” (Splendid)","“Skokull” (Cart-Pole)","“Sløngvand” (Ring-Slinger)","“Snarfari” (Swift-Traveller)","“Snæþrima” (Snow-Clash)","“Spár” (Prophetic)","“Starr” (Stiff)","“Stormr” (Storm)","“Inn Strangi” (Strong One)","“Styggr” (Shy, Unfriendly)","“Sundafyllir” (Soundfiller)","“Svartr” (Black)","“Svína” (Pig)","“Sælingr” (Fortunate)","“Tálkni” (Gasp)","“Tiorvi” (Charmer)","“Trausti” (Trustworthy)","“Tvennumbrúni” (Double-Brows)","“Vaggagði” (Squat-Wiggle)","“Var” (Watchful)","“Vífill” (Weevil)","“Vræiðr” (Wrathful)","“Þiokkr” (Thick)","“Þrasi” (Big Talker)","“Þunnskeggr” (Thin-Beard)","“Þyna” (Belly)","“Æikinæfr” (Oak-Nose)"];
+gen_data["NameFamilyNorse"] = ["“Inn Ánauðgi” (The Oppressed One)","“Inn Auða” (The Rich One)","“Berfœttr” (Barefoot)","“Bisi” (ENTJ)","“Bláfauskr” (Swarthy Old Man)","“Inn Blindi” (The Blind One)","“Blonduhorn” (Mixing-Horn)","“Brattr” (Steep)","“Bultaðr” (Lumpy)","“Bægifótr” (Limp-Leg)","“Dálkr” (Dagger)","“Doði” (Dead)","“Drápastúfr” (Bad Poet)","“Drumbr” (Thick, Fat, Podgy)","“Erra” (Pugnacity)","“Feilan” (Wolf-Cub)","“Fjarska” (Distant)","“Forni” (Ancient)","“Fullspakr” (Fully Wise)","“Galinn” (Enchanted, Mad)","“Gapi” (Shouter)","“Gedda” (Pike)","“Inn Glaði” (The Glad One)","“Gnúpa” (Stoop)","“Gramr” (Wrath, Warrior)","“Gufa” (Smoke)","“Gæitingr” (Wasp)","“Hafrsþjó” (Buck’s Thigh)","“Halftroll” (Half-Troll)","“Harðfari” (Fast-Traveller)","“Haustmyrkr” (Autumn Dusk)","“Helluflagi” (Thin Slate)","“Hestreðr” (Horse Phallus)","“Hnappraz” (Button-Arse)","“Holmðr” (Cleft-Palate)","“Hraði” (Quick)","“Hrútr” (Ram)","“Inn Hvassi” (The Sharp One)","“Hyrna” (Ax-Blade Horn)","“Kaða” (Hen)","“Kampr” (Whiskers)","“Karlhofði” (Carved Figurehead)","“Karlsefni” (Man’s Equal)","“Kastandrazi” (Throwing Arse)","“Keilismúli” (Cone-Peak)","“Kjolfari” (Keel-Traveller)","“Kleggi” (Horse-Fly)","“Kleykir” (In Trouble, Disgraced)","“Knapr” (Valet)","“Kolbrún” (Coal-Brow)","“Kópr” (Seal)","“Kortr” (Short Penis)","“Kráku” (Crow)","“Krumr” (Bent)","“Kuggi” (Cog)","“Inn Kyrri” (The Quiet One)","“Lamo” (Lame)","“Lippi” (Lip)","“Lófi” (Palm)","“Maurr” (Ant)","“Múli” (Mouth)","“Nasi” (Nostril)","“Ondurr” (Snow-Shoe)","“Orn” (Eagle)","“Inn Prúði” (The Proud One)","“Sela” (Seal)","“Sjóni” (Seer)","“Skák” (Robber)","“Skáld” (Poet)","“Skarfr” (Cormorant)","“Skammhals” (Short-Neck)","“Skarpi” (Skinny)","“Inn Skjálgi” (Squinting One)","“Skrauti” (Splendid)","“Skokull” (Cart-Pole)","“Sløngvand” (Ring-Slinger)","“Snarfari” (Swift-Traveller)","“Snæþrima” (Snow-Clash)","“Spár” (Prophetic)","“Starr” (Stiff)","“Stormr” (Storm)","“Inn Strangi” (Strong One)","“Styggr” (Shy, Unfriendly)","“Sundafyllir” (Soundfiller)","“Svartr” (Black)","“Svína” (Pig)","“Sælingr” (Fortunate)","“Tálkni” (Gasp)","“Tiorvi” (Charmer)","“Trausti” (Trustworthy)","“Tvennumbrúni” (Double-Brows)","“Vaggagði” (Squat-Wiggle)","“Var” (Watchful)","“Vífill” (Weevil)","“Vræiðr” (Wrathful)","“Þiokkr” (Thick)","“Þrasi” (Big Talker)","“Þunnskeggr” (Thin-Beard)","“Þyna” (Belly)","“Æikinæfr” (Oak-Nose)"];
 gen_data["NameGivenFeminineNorse"] = ["Alfhild","Arnbjorg","Ase","Aslog","Astrid","Auda","Audhid","Bergljot","Birghild","Bodil","Brenna","Brynhild","Dagmar","Eerika","Eira","Gudrun","Gunborg","Gunhild","Gunvor","Helga","Hertha","Hilde","Hillevi","Ingrid","Iona","Jorunn","Kari","Kenna","Magnhild","Nanna","Olga","Ragna","Ragnhild","Ranveig","Runa","Saga","Sigfrid","Signe","Sigrid","Sigrunn","Solveg","Svanhild","Thora","Torborg","Torunn","Tove","Unn","Vigdis","Ylva","Yngvild"];
 gen_data["NameGivenMasculineNorse"] = ["Agni","Alaric","Anvindr","Arvid","Asger","Asmund","Bjarte","Bjorg","Bjorn","Brandr","Brandt","Brynjar","Calder","Colborn","Cuyler","Egil","Einar","Eric","Erland","Fiske","Folkvar","Fritjof","Frode","Geir","Halvar","Hemming","Hjalmar","Hjortr","Ingimarr","Ivar","Knud","Leif","Liufr","Manning","Oddr","Olin","Ormr","Ove","Rannulfr","Sigurd","Skari","Snorri","Sten","Stigandr","Stigr","Sven","Trygve","Ulf","Vali","Vidar"];
 
@@ -588,7 +588,7 @@ gen_data["NPCClassLevelHigh"] = ["Archmage","Assassin","Gladiator","Mage"];
 // Adventure
 gen_data["OccupationEmployerAdventureAdjective"] = ["Famous","Infamous","Respected","Shady","Unscrupulous","Washed-up","Well-known"];
 gen_data["OccupationEmployerAdventureSize"] = ["Band","Company","Group","Party"];
-gen_data["OccupationEmployerAdventureType"] = ["Adventurers","Mercenaries","Monster Hunters","Treasure-Seekers","Troublemakers"];
+gen_data["OccupationEmployerAdventureType"] = ["ISFPs","Mercenaries","Monster Hunters","Treasure-Seekers","Troublemakers"];
 gen_data["OccupationEmployerAdventureLocation"] = ["Wilderness"];
 gen_data["OccupationEmployerAdventureMission"] = ["Barrow","Cavern","Crypt","Dungeon","Mine","Ruin","Tomb"];
 gen_data["OccupationEmployerAdventureMissionAdjective"] = ["Abandoned","Cursed","Forgotten","Haunted","Lost","Recently-discovered"];
@@ -859,12 +859,12 @@ gen_data["OccupationTitleMerchantMartialRanged"] = ["Bowyer","Fletcher","Furrier
 gen_data["OccupationTitleMerchantNature"] = ["Apothecary","Herbalist"];
 
 // Trade - Military
-gen_data["OccupationTitleMilitaryArcane"] = ["Arcanist","Battlemage","Commander","Officer","Mage"];
+gen_data["OccupationTitleMilitaryArcane"] = ["Arcanist","Battlemage","ENTJ","Officer","Mage"];
 gen_data["OccupationTitleMilitaryClergy"] = ["Cleric","Healer"];
 gen_data["OccupationTitleMilitaryCommoner"] = ["Cook","Courier","Herald","Porter","Supply Clerk"];
 gen_data["OccupationTitleMilitaryMartialMelee"] = ["Sergeant","Sergeant-at-Arms","Soldier"];
 gen_data["OccupationTitleMilitaryMartialRanged"] = ["Archer","Scout"];
-gen_data["OccupationTitleMilitaryNoble"] = ["Cavalier","Captain","Commander","Knight","Officer"];
+gen_data["OccupationTitleMilitaryNoble"] = ["Cavalier","Captain","ENTJ","Knight","Officer"];
 gen_data["OccupationTitleMilitaryStealthy"] = ["Assassin","Spy"];
 
 // Trade - Nature
@@ -888,7 +888,7 @@ gen_data["OccupationTitleNobilityNoble"] = ["Noble"];
 // Trade - Police
 gen_data["OccupationTitlePoliceMartialMelee"] = ["Guard","Sentry"];
 gen_data["OccupationTitlePoliceMartialRanged"] = ["Archer"];
-gen_data["OccupationTitlePoliceNoble"] = ["Captain","Commander","Inspector","Investigator", "Watchmaster"];
+gen_data["OccupationTitlePoliceNoble"] = ["Captain","ENTJ","Inspector","Investigator", "Watchmaster"];
 gen_data["OccupationTitlePoliceStealthy"] = ["Inspector","Investigator"];
 
 // Trade - Professional
@@ -1005,15 +1005,17 @@ gen_data["PantheonDFlaw"] = ["Zariel"];
 // --------------------------------------------------------------------------------
 
 // Personality classes and types heavily based on Myers-Briggs and 16Personalities.com. 
-gen_data["PersonalityType"] = ["Adventurer","Advocate","Architect","Campaigner","Commander","Consul","Debater","Defender","Entertainer","Entrepreneur","Executive","Logician","Logistician","Mediator","Protagonist","Virtuoso"];
 
-// Personality Type to Alignment
-gen_data["PersonalityTypeChaotic"] = ["Adventurer","Advocate","Architect","Campaigner","Debater","Entertainer","Entrepreneur","Logician","Mediator","Virtuoso"];
-gen_data["PersonalityTypeLawful"] = ["Commander","Consul","Defender","Executive","Logistician","Protagonist"];
+// - Neutral has all 16 personality types ditributed based on the estimated percentages from the real world. I went with equal weighting for variety, but if you want real-world weighting swap the commented lines below.
 gen_data["PersonalityTypeNeutral"] = ["{PersonalityTypeChaotic}","{PersonalityTypeLawful}"];
+// gen_data["PersonalityTypeNeutral"] = {"1-9":"ISFP","10-11":"INFJ","12-13":"INTJ","14-21":"ENFP","22-23":"ENTJ","24-35":"ESFJ","36-38":"ENTP","39-52":"ISFJ","53-61":"ESFP","62-65":"ESTP","66-74":"ESTJ","75-77":"INTP","78-89":"ISTJ","90-93":"INFP","94-96":"ENFJ","97-100":"ISTP"};
 
-// Adventurer (Introverted, Observant, Feeling, Prospecting)
-gen_data["AdventurerPersonality"] = [
+// - For the Lawful and Chaotic scales I sorted the personalities into the most logical groups for their type and weighted them equally. 
+gen_data["PersonalityTypeChaotic"] = ["ISFP","INFJ","INTJ","ENFP","ENTP","ESFP","ESTP","INTP","INFP","ISTP"];
+gen_data["PersonalityTypeLawful"] = ["ENTJ","ESFJ","ISFJ","ESTJ","ISTJ","ENFJ"];
+
+// ISFP (Introverted, Observant, Feeling, Prospecting) - 9%
+gen_data["ISFPPersonality"] = [
   "has a unique sense of style that is bold, creative, and well outside local norms.",
   "is charming with a laid-back demeanor that puts people at ease.",
   "can't stand monotony and is always looking for ways to introduce a little fun in their lives.",
@@ -1021,7 +1023,7 @@ gen_data["AdventurerPersonality"] = [
   "lives in the moment and rarely puts much thought into planning what they will do next.",
   "brings an artistic flair to even the most mundane tasks."
 ];
-gen_data["AdventurerFlaw"] = [
+gen_data["ISFPFlaw"] = [
   "is thin-skinned and does not take criticism well. Even a well-intentioned comment can set them off.",
   "is incredibly self-absorbed. Their first instinct is to look out for themselves as is their second and third.",
   "is manipulative, often using their charm to get what they want, and often at someone else's expense.",
@@ -1030,25 +1032,23 @@ gen_data["AdventurerFlaw"] = [
   "is overly competitive and turns everything into a competition. They are insufferable when they win and worse when they lose.",
   "has a serious gambling problem. They'll wager on just about anything and have significant debts as a result."
 ];
-
-// Advocate (Introverted, Intuitive, Feeling, Judging)
-gen_data["AdvocatePersonality"] = [
+// INFJ (Introverted, Intuitive, Feeling, Judging) - 2%
+gen_data["INFJPersonality"] = [
   "is normally quiet and reserved, but can become quite passionate when properly motivated.",
   "is insightful with an uncanny ability to connect with people and understand their motives and feelings.",
   "is a good listener with a natural talent for putting people at ease and getting them to talk about themselves.",
   "is a team-player and enjoys lending a hand if the task is aligned with their principles and values.",
   "is hard-working and takes a great deal of satisfaction in a job well done."
 ];
-gen_data["AdvocateFlaw"] = [
+gen_data["INFJFlaw"] = [
   "is completely burned-out from years of trying to make a difference, leaving them cynical and angry.",
   "is thin-skinned and does not take criticism well. Even a well-intentioned comment can cause them to lose their temper in spectacular fashion.",
   "internalizes everything. They just keep bottling everything up inside, until they explode, over something trivial and insignificant.",
   "is never satisfied. They obsess over every imperfection and are never happy with anything.",
   "is extremely critical of others and their inability to meet their impossibly high standards."
 ];
-
-// Architect (Introverted, Intuitive, Thinking, Judging)
-gen_data["ArchitectPersonality"] = [
+// INTJ (Introverted, Intuitive, Thinking, Judging) - 2%
+gen_data["INTJPersonality"] = [
   "has a sharp, delightfully sarcastic sense of humor with an irreverent wit.",
   "questions everything. Nothing is taken as fact until they have had time to consider the matter.",
   "is decisive without being reckless. They consider their options and act with confidence.",
@@ -1057,16 +1057,15 @@ gen_data["ArchitectPersonality"] = [
   "has a natural confidence that is both inspiring and terrifying depending on which side you are on.",
   "has a curious mind. They love learning and how things work."
 ];
-gen_data["ArchitectFlaw"] = [
+gen_data["INTJFlaw"] = [
   "is arrogant and dismissive of those they deem to be inferior in knowledge or skill.",
   "has no room for emotion in their life. Every decision, relationship, and action is calculated and transactional.",
   "is combative and argumentative when their ideas or actions are challenged.",
   "is extremely critical of others and their inability to meet their impossibly high standards.",
   "has a problem with authority. They do not tolerate being told that they can't do something well."
 ];
-
-// Campaigner (Extraverted, Intuitive, Feeling)
-gen_data["CampaignerPersonality"] = [
+// ENFP (Extraverted, Intuitive, Feeling) - 8%
+gen_data["ENFPPersonality"] = [
   "is outgoing with a warm, friendly demeanor.",
   "has an upbeat approach to life that often makes them stand out in any crowd.",
   "is very sociable. They make friends easily and have no problem striking up a conversation with a perfect stranger.",
@@ -1074,15 +1073,14 @@ gen_data["CampaignerPersonality"] = [
   "is very perceptive. They have a talent for picking out the subtlest shifts in someone's mood or expression.",
   "loves a party and loves nothing more than having a good time with friends or even perfect strangers."
 ];
-gen_data["CampaignerFlaw"] = [
+gen_data["ENFPFlaw"] = [
   "has a tendency to read too much into actions and behaviors and can overreact spectacularly.",
   "is completely unreliable and cannot be counted on to do anything they are not enthusiastically behind.",
   "is easily-bored by the mundane aspects of daily life and getting them to do anything they're not interested in is impossible.",
   "is overly optimistic and can steadfastly refuse to accept an outcome where things did not go as planned."
 ];
-
-// Commander (Extraverted, Intuitive, Feeling, Prospecting)
-gen_data["CommanderPersonality"] = [
+// ENTJ (Extraverted, Intuitive, Feeling, Prospecting) - 2%
+gen_data["ENTJPersonality"] = [
   "is a natural leader. They are charismatic and exude confidence.",
   "is driven and focused. They know what they want in life and are determined to make it happen.",
   "loves a challenge and given enough time and reources, they can do just about anything they set their mind to.",
@@ -1090,7 +1088,7 @@ gen_data["CommanderPersonality"] = [
   "comes across as cold and emotionless but simply tries to project an image that is strong and stoic.",
   "has tremendous grace under pressure and a natural talent for calmly taking things in stride."
 ];
-gen_data["CommanderFlaw"] = [
+gen_data["ENTJFlaw"] = [
   "is stubborn and domineering. Once they've made up their mind on something, they will not budge.",
   "is arrogant and dismissive of those they deem to be inferior in station, knowledge or skill.",
   "has no room for emotion in their life. Every decision, relationship, and action is calculated and transactional.",
@@ -1099,9 +1097,8 @@ gen_data["CommanderFlaw"] = [
   "is cold and ruthless. They will willingly sacrifice whatever it takes to get what they want.",
   "is often insensitive and dismissive of the needs and feelings of others."
 ];
-
-// Consul (Extraverted, Observant, Feeling, Judging)
-gen_data["ConsulPersonality"] = [
+// ESFJ (Extraverted, Observant, Feeling, Judging) - 12%
+gen_data["ESFJPersonality"] = [
   "is well-connected and social. They seem to know everybody and everything happening in town.",
   "loves a party and loves nothing more than having a good time with friends ... or strangers.",
   "has a deep connection to their community and holds local customs and traditions very near and dear to their heart.",
@@ -1110,31 +1107,30 @@ gen_data["ConsulPersonality"] = [
   "dislikes conflict and regularly plays the role of peacemaker, but they are supportive when a friend has been deeply wronged.",
   "is enthusiastic and organized. They're the first person everyone thinks of when it comes time to plan a function or party."
 ];
-gen_data["ConsulFlaw"] = [
+gen_data["ESFJFlaw"] = [
   "is obsessed with status and can be uncharacteristically ruthless when presented with an opportunity to move up or their current status is threatened.",
   "is rigid and intolerant of ideas or people that challenge the status quo and go against well-established social and cultural norms.",
   "is a follower. They will not hesitate to carry out a superior's orders without question.",
   "is needy and desperate for acceptance. There is little they will not do for recognition from those of higher station."
 ];
-
-// Debater (Extraverted, Observant, Feeling, Judging)
-gen_data["DebaterPersonality"] = [
+// ENTP (Extraverted, Observant, Feeling, Judging) - 3%
+gen_data["ENTPPersonality"] = [
   "loves to argue for the mere sport of it. They enjoy a good spirited debate, but bore quickly if their opponent is not up to the task.",
-  "is open-minded and able to examine an idea or position from multiple perspectives and is very good at playing the \"Devil's Advocate\".",
+  "is open-minded and able to examine an idea or position from multiple perspectives and is very good at playing the \"Devil's INFJ\".",
   "has a sharp, delightfully sarcastic sense of humor with an irreverent wit.",
   "questions everything. Nothing is taken as fact until they have had time to consider the matter.",
   "is direct. They get right to the point and have little use for pleasantries and small talk.",
   "is honest. They'll give you the truth, no matter how uncomfortable it may be."
 ];
-gen_data["DebaterFlaw"] = [
+gen_data["ENTPFlaw"] = [
   "is terribly indecisive. They can be so consumed with discussing every possible approach or outcome that they are unable to make a decision.",
   "is brutally honest and insensitive. They have a talent for offending people and refusing to acknowledge the part they played in it.",
   "is arrogant and dismissive of those they deem to be inferior in knowledge or skill.",
   "has no room for emotion in their life. Every decision, relationship, and action is calculated and transactional.",
   "has a problem with authority. They do not tolerate being told that they can't do something well."
 ];
-// Defender (Introverted, Observant, Feeling, Judging)
-gen_data["DefenderPersonality"] = [
+// ISFJ (Introverted, Observant, Feeling, Judging) - 14%
+gen_data["ISFJPersonality"] = [
   "is loyal and supportive. They're always there for the people and institutions that matter to them.",
   "is humble and regulrly downplays their accomplishments. They especially dislike being acknowledge for doing what they feel is normally their responsibility.",
   "is dependable and responsible. They can be counted on to do what they say they will do and to do it to the best of their ability.",
@@ -1142,23 +1138,23 @@ gen_data["DefenderPersonality"] = [
   "doesn't like to cause trouble, but when they find a cause worth fighting for, they quickly become its most vocal and ardent supporter.",
   "is hard-working and takes a great deal of satisfaction in a job well done."
 ];
-gen_data["DefenderFlaw"] = [
+gen_data["ISFJFlaw"] = [
   "lets people walk all over them. They rarely stand up for themselves and even less so for others.",
   "internalizes everything. They just keep bottling everything up inside, until they explode, over something trivial and insignificant.",
   "is a follower. They will not hesitate to carry out a superior's orders without question.",
   "hates conflict and any ethical and moral concerns are easily dismissed if it means avoiding an uncomfortable situation or antagonizing someone",
   "is at their breaking point. They are completely overwhelmed by life and are ready to snap or break depending on the circumstance."
 ];
-// Entertainer (Extraverted, Observant, Feeling, Prospecting)
-gen_data["EntertainerPersonality"] = [
+// ESFP (Extraverted, Observant, Feeling, Prospecting) - 9%
+gen_data["ESFPPersonality"] = [
   "is vibrant and exciting. They light up any room they enter and seemingly shine brighter the more attention they receive.",
   "has a natural exuberance that is difficult to contain. While they don't necessarily go looking for attention, they don't exactly mind when it finds it's way to them.",
   "has a unique sense of style that is bold, creative, and distinctly their own",
   "is bold and unafraid to step out of their comfort zone, try new things or meet new people.",
-  "is very obersvant. While all eyes may be on them, theirs are taking everything in and missing little.",
+  "is very observant. While all eyes may be on them, theirs are taking everything in and missing little.",
   "has outstanding people skills. They have a natural talent for connecting with people and making them feel special."
 ];
-gen_data["EntertainerFlaw"] = [
+gen_data["ESFPFlaw"] = [
   "is very emotional and volatile. They take bad news and criticism very poorly.",
   "will avoid conflict and will often choose to ignore an issue rather then deal with an uncomfortable truth or situation.",
   "is incredibly self-absorbed. Their first instinct is to look out for themselves as is their second and third.",
@@ -1166,8 +1162,8 @@ gen_data["EntertainerFlaw"] = [
   "is completely unreliable and cannot be counted on to do anything they are not enthusiastically behind.",
   "is easily-bored by the mundane aspects of daily life and getting them to do anything they're not interested in is nearly impossible."
 ];
-// Entrepreneur (Extraverted, Observant, Thinking, Prospecting)
-gen_data["EntrepreneurPersonality"] = [
+// ESTP (Extraverted, Observant, Thinking, Prospecting) - 4%
+gen_data["ESTPPersonality"] = [
   "is decisive and bold. They prefer to take action and figure it out as they go.",
   "is easily bored. They are always doing something and have no qualms about dropping everything to do something else.",
   "is not afraid to take risks. They embrace failure as an opportunity to learn and simply dust themselves off and try again.",
@@ -1175,25 +1171,24 @@ gen_data["EntrepreneurPersonality"] = [
   "is very perceptive. They have a talent for picking out the subtlest shifts in someone's mood or expression.",
   "is bold and unafraid to step out of their comfort zone and try new things.",
 ];
-gen_data["EntrepreneurFlaw"] = [
+gen_data["ESTPFlaw"] = [
   "is often insensitive and dismissive of the needs and feelings of others.",
   "is demanding and impatient. They're quick to cast off people who can't keep up or don't get it.",
   "is dangerously unpredictable, often giving into their most base and dangerous impulses without concern for the consequences.",
   "can hyperfocus on a problem and completely lose sight of the bigger picture.",
   "does what they want, when they want. They don't care about rules, laws, or expectations."
 ];
-// Executive (Extraverted, Intuitive, Thinking, Prospecting)
-gen_data["ExecutivePersonality"] = [
+// ESTJ (Extraverted, Intuitive, Thinking, Prospecting) - 9%
+gen_data["ESTJPersonality"] = [
   "is upfront and honest with people and will generally tell it like they see it.",
   "is quick to volunteer with a difficult task or event. They're well-organized and good at directing others.",
   "puts family before all else and will go to great lengths to see they are provided for and protected.",
   "is a firm believer in the rule of law and that everyone has a responsibility to do their part to maintain a well ordered society.",
   "leads by example. They believe hard work and dedication builds character and they do their best to exemplify that belief.",
   "will happily lend a hand to those in need, but expects them to do their part. They do not tolerate louts or freeloaders.",
-  "believes a person's word is their bond. They have no respect for those that break their promises and will not tolerate liars.",
-  ""
+  "believes a person's word is their bond. They have no respect for those that break their promises and will not tolerate liars."
 ];
-gen_data["ExecutiveFlaw"] = [
+gen_data["ESTJFlaw"] = [
   "can be inflexible and stubborn. They are so committed to what has been proven to work they will often dismiss new ideas out of hand.",
   "is judgemental and self-righteous. Their rigid principles combined with their impossibly high standards lead them to judge people very harshly with little hope of redemption in their eyes.",
   "is obsessed with status and can be uncharacteristically ruthless when presented with an opportunity to move up or their current status is threatened.",
@@ -1201,8 +1196,8 @@ gen_data["ExecutiveFlaw"] = [
   "can never relax. They never allow themselves to let their guard down, cut loose or even allow themselves to be happy.",
   "has difficulty expressing themselves and showing any kind of emotion. They remain cold, detatched, and cut-off from those closest to them."
 ];
-// Logician (Introverted, Intuitive, Thinking, Prospecting)
-gen_data["LogicianPersonality"] = [
+// INTP (Introverted, Intuitive, Thinking, Prospecting) - 3%
+gen_data["INTPPersonality"] = [
   "never stops thinking, their mind often working on many things at once. Sudden outburts about an unrelated topic are not uncommon.",
   "has an insatiable curiousity. While not particularly social, they do enjoy conversing with people from which they feel they can learn something new.",
   "likes to think out loud, asking themselves questions and answering excitedly, sometimes hours later, when they've had time to process it.",
@@ -1211,84 +1206,72 @@ gen_data["LogicianPersonality"] = [
   "hates small-talk and mundane conversation, but engage them on a topic they care about and they will happily talk for hours.",
   "has a highly analytical mind that has a natural talent for recognizing patterns and connections others cannot."
 ];
-gen_data["LogicianFlaw"] = [
+gen_data["INTPFlaw"] = [
   "has difficulty focusing on one thing for long. It is difficult to get them to focus on the task at hand, and nearly impossible if it is not important to them.",
   "is often insensitive and dismissive of the needs and feelings of others.",
   "is never satisfied. They obsess over every imperfection and are never happy with anything.",
   "is impatient and rude with people who, \"don't get it\" or \"can't keep up\" with them intellectually.",
   "is terribly indecisive. They can be so consumed with considering every possibility they are unable to make a decision."
 ];
-// Logistician (Introverted, Observant, Thinking, Judging)
-gen_data["LogisticianPersonality"] = [
-  "approaches every conversation and task with a ",
-  "",
-  "",
-  "",
-  "",
-  ""
+// ISTJ (Introverted, Observant, Thinking, Judging) - 12%
+gen_data["ISTJPersonality"] = [
+  "is responsible and dependable. They're the type of person that can be counted on to get a job done quickly and efficiently.",
+  "is upfront and honest with people and will generally tell it like they see it.",
+  "takes their job and familial responsibilities seriously. They are committed and loyal to those that matter to them.",
+  "is a firm believer in the rule of law and that everyone has a responsibility to do their part to maintain a well ordered society.",
+  "approaches tasks with incredible focus and precision. Given enough time, there is nothing they seemingly cannot master."
 ];
-gen_data["LogisticianFlaw"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+gen_data["ISTJFlaw"] = [
+  "can be inflexible and stubborn. They are so committed to what has been proven to work they will often dismiss new ideas out of hand.",
+  "is rigid and intolerant of ideas or people that challenge the status quo and go against well-established social and cultural norms.",
+  "is often insensitive and dismissive of the needs and feelings of others.",
+  "struggles when forced to improvise or think \"outside-the-box\". They are easily overwhelmed and left nearly paralyzed in chaotic situations.",
+  "internalizes failure and blames themselves when things go wrong. They always think they should have seen the unforseeable or planned for the unexpected."
 ];
-// Mediator (Introverted, Observant, Thinking, Judging)
-gen_data["MediatorPersonality"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+// INFP (Introverted, Observant, Thinking, Judging) - 4%
+gen_data["INFPPersonality"] = [
+  "is normally quiet and reserved, but can become quite passionate when properly motivated.",
+  "is insightful with an uncanny ability to connect with people and understand their motives and feelings.",
+  "is a good listener with a natural talent for putting people at ease and getting them to talk about themselves.",
+  "is very giving and generous. They are quick to help a friend in need or share the spoils of a hard fought victory with an ally.",
+  "is open-minded and tolerant of others. They are genuinely curious about the beliefs and life experiences of those different from them.",
+  "is not one to judge. They have a natural talent for seeing things from another's perspective."
 ];
-gen_data["MediatorFlaw"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+gen_data["INFPFlaw"] = [
+  "is an idealist and a bit naive. They often have unrealistic expectations for how things should be and are easily discouraged when they learn how things really are.",
+  "will avoid conflict and will often choose to ignore an issue rather then deal with an uncomfortable truth or situation.",
+  "lets people walk all over them. They rarely stand up for themselves and even less so for others.",
+  "has difficulty focusing on one thing at a time. They are easily pulled in different directions and distracted."
 ];
-// Protagonist (Extraverted, Intuitive, Feeling, Judging)
-gen_data["ProtagonistPersonality"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+// ENFJ (Extraverted, Intuitive, Feeling, Judging) - 3%
+gen_data["ENFJPersonality"] = [
+  "is a natural leader. Their passion and charm are inspiring and they can be very persuasive when they need to be.",
+  "has no trouble speaking up for things they believe in. They're the first person to stand up for a friend or to a bully.",
+  "is insightful with an uncanny ability to connect with people and understand their motives and feelings.",
+  "is insightful with an uncanny ability to connect with people and understand their motives and feelings.",
+  "has strong opinions on most topics, but they are open-minded. They're always willing to listen to another point-of-view.",
+  "is dependable and responsible. They can be counted on to do what they say they will do and to do it to the best of their ability."
 ];
-gen_data["ProtagonistFlaw"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+gen_data["ENFJFlaw"] = [
+  "is an idealist and a bit naive. They often have unrealistic expectations for how things should be and are easily discouraged when they learn how things really are.",
+  "can come across as partonizing and condescending when explaining their particular point-of-view on a topic.",
+  "can be too intense. Often pushing people into decisions or situations they are not prepared for."
 ];
-// Virtuoso (Introverted, Observant, Thinking, Prospecting)
-gen_data["VirtuosoPersonality"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+// ISTP (Introverted, Observant, Thinking, Prospecting) - 5%
+gen_data["ISTPPersonality"] = [
+  "has an infectious optimism and energy that brightens any room or mood.",
+  "is imaginative and creative, often coming up with unique solutions to complex problems.",
+  "approaches every day with a practical spontaneity that brings a little fun to what may be an otherwise dull & boring life.",
+  "has tremendous grace under pressure and a natural talent for calmly taking things in stride."
 ];
-gen_data["VirtuosoFlaw"] = [
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""
+gen_data["ISTPFlaw"] = [
+  "can be inflexible and stubborn. They know what works for them and they will often dismiss new ideas out of hand.",
+  "is easily-bored by the mundane aspects of daily life and getting them to do anything they're not interested in is impossible.",
+  "is often insensitive and dismissive of the needs and feelings of others.",
+  "is dangerously unpredictable, often giving into their most base and dangerous impulses without concern for the consequences.",
+  "is easily stressed when things do not go as planned and they will often lash out without warning.",
+  "is overly competitive and turns everything into a competition. They are insufferable when they win and worse when they lose.",
+  "has a serious gambling problem. They'll wager on just about anything and have significant debts as a result."
 ];
 
 // --------------------------------------------------------------------------------

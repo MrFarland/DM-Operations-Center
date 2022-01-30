@@ -21,8 +21,7 @@ function generatePersonality() {
     }
 
     // Select a personality type based on the profile types using the NERIS Model at 16Personalities.com. (I'm a Mediator.)
-    // var personalityType = generate_text("PersonalityType" + alignmentLawfulChaotic);
-    var personalityType = "Logician";
+    var personalityType = generate_text("PersonalityType" + alignmentLawfulChaotic);
     var personality1 = generate_text(personalityType + "Personality");
     var personality2 = generate_text(personalityType + "Personality");
     var flaw = generate_text(personalityType + "Flaw");
