@@ -1016,218 +1016,201 @@ gen_data["PersonalityTypeLawful"] = ["ENTJ","ESFJ","ISFJ","ESTJ","ISTJ","ENFJ"];
 
 // ISFP (Introverted, Observant, Feeling, Prospecting) - 9%
 gen_data["ISFPPersonality"] = [
-  "has a unique sense of style that is bold, creative, and well outside local norms.",
-  "is charming with a laid-back demeanor that puts people at ease.",
-  "can't stand monotony and is always looking for ways to introduce a little fun in their lives.",
-  "has a larger than life persona in public, but is actually quite introverted in private.",
-  "lives in the moment and rarely puts much thought into planning what they will do next.",
-  "brings an artistic flair to even the most mundane tasks."
+  "has an <strong>adventurous</strong> spirit that is always looking for ways to add a little fun to their daily life.",
+  "has a <strong>unique sense of style</strong> that is bold, creative, and well outside the local cultural norms.",
+  "is <strong>easy-going</strong> and <strong>affable</strong>. They have a talent for making people feel welcome and comfortable.",
+  "lives <strong>\"in the moment\"</strong>. They rarely put much thought into what they will do next.",
+  "has a talent for <strong>theatrics</strong> and adds a little <strong>artistic</strong> flourish to everything they do."
 ];
 gen_data["ISFPFlaw"] = [
-  "is thin-skinned and does not take criticism well. Even a well-intentioned comment can set them off.",
-  "is incredibly self-absorbed. Their first instinct is to look out for themselves as is their second and third.",
-  "is manipulative, often using their charm to get what they want, and often at someone else's expense.",
-  "is dangerously unpredictable, often giving into their most base and dangerous impulses without concern for the consequences.",
-  "is easily stressed when things do not go as planned and they will often lash out without warning.",
-  "is overly competitive and turns everything into a competition. They are insufferable when they win and worse when they lose.",
-  "has a serious gambling problem. They'll wager on just about anything and have significant debts as a result."
+  "is <strong>overly sensitive</strong> to criticism. Even a well-intentioned comment can be taken personally and put them off.",
+  "is <strong>self-absorbed</strong> and <strong>selfish</strong>. They make everything about them and put their own needs ahead of everyone else's",
+  "is very <strong>charming</strong> and <strong>manipulative</strong>. The have a natural talent for getting what they want, often at someone else's expense.",
+  "is <strong>impulsive</strong> and <strong>reckless</strong>. They do whatever they want and with little concern for the consequences of their actions.",
+  "is <strong>overly competitive</strong> and turns everything into a competition. They're insufferable when they win and worse when they lose.",
 ];
 // INFJ (Introverted, Intuitive, Feeling, Judging) - 2%
 gen_data["INFJPersonality"] = [
-  "is normally quiet and reserved, but can become quite passionate when properly motivated.",
-  "is insightful with an uncanny ability to connect with people and understand their motives and feelings.",
-  "is a good listener with a natural talent for putting people at ease and getting them to talk about themselves.",
-  "is a team-player and enjoys lending a hand if the task is aligned with their principles and values.",
-  "is hard-working and takes a great deal of satisfaction in a job well done."
+  "is <strong>quiet</strong> and <strong>reserved</strong>, but can become <strong>talkative</strong> and <strong>passionate</strong> when necessary.",
+  "is a <strong>good listener</strong> and has a talent for putting people at ease and getting them to open up about themselves and their motivations.",
+  "is <strong>cooperative</strong> and <strong>helpful</strong>. They will not hesitate to lend a stranger a hand and will do just about anything for a friend.",
+  "is a <strong>hard-worker</strong> who takes pride in their work and insists on giving every task the time and energy needed to do it right.",
+  "values <strong>integrity</strong> and <strong>honesty</strong>. They never break their word if they can help it and do not tolerate disloyalty."
 ];
 gen_data["INFJFlaw"] = [
-  "is completely burned-out from years of trying to make a difference, leaving them cynical and angry.",
-  "is thin-skinned and does not take criticism well. Even a well-intentioned comment can cause them to lose their temper in spectacular fashion.",
-  "internalizes everything. They just keep bottling everything up inside, until they explode, over something trivial and insignificant.",
-  "is never satisfied. They obsess over every imperfection and are never happy with anything.",
-  "is extremely critical of others and their inability to meet their impossibly high standards."
+  "is a <strong>perfectionist</strong> and they are never satisified. They obsess over every imperfection and struggle to accept anything as it is.",
+  "is overly <strong>critical</strong> of others and their inability to meet the impossible high standards they have set for them.",
+  "<strong>internalizes</strong> everything. They bottle everything up inside until they finally explode over something trivial and insignificant.",
+  "is <strong>overly sensitive</strong> to criticism. Even a well-intentioned comment can be taken personally and put them off.",
+  "is <strong>burnt-out</strong>. A life of bad choices and bad luck have left them incredibly <strong>angry</strong> and <strong>bitter</strong>."
 ];
 // INTJ (Introverted, Intuitive, Thinking, Judging) - 2%
 gen_data["INTJPersonality"] = [
-  "has a sharp, delightfully sarcastic sense of humor with an irreverent wit.",
-  "questions everything. Nothing is taken as fact until they have had time to consider the matter.",
-  "is decisive without being reckless. They consider their options and act with confidence.",
-  "is direct. They get right to the point and have little use for pleasantries and small talk.",
-  "is honest. They'll give you the truth, no matter how uncomfortable it may be.",
-  "has a natural confidence that is both inspiring and terrifying depending on which side you are on.",
-  "has a curious mind. They love learning and how things work."
+  "has a <strong>sharp</strong>, delightfully <strong>sarcastic</strong> sense of humor and an irreverent wit.",
+  "<strong>questions everything</strong>. They take nothing as fact until they have had time to consider the matter carefully.",
+  "is <strong>decisive</strong> without recklessness. They consider all options quickly and act with <strong>confidence</strong>.",
+  "is <strong>direct</strong> and <strong>forthcoming</strong>. They get to the point and waste no time on pleasantries and useless small-talk.",
+  "is <strong>inquisitive</strong> and <strong>well-read</strong>. They are always eager to learn new things, about far-away places, or how things work.",
 ];
 gen_data["INTJFlaw"] = [
-  "is arrogant and dismissive of those they deem to be inferior in knowledge or skill.",
-  "has no room for emotion in their life. Every decision, relationship, and action is calculated and transactional.",
-  "is combative and argumentative when their ideas or actions are challenged.",
-  "is extremely critical of others and their inability to meet their impossibly high standards.",
-  "has a problem with authority. They do not tolerate being told that they can't do something well."
+  "is <strong>arrogant</strong> and <strong>dismissive</strong> of those they deem inferior in knowledge or skill.",
+  "is <strong>detached</strong> with no close, personal connections. Their relationships are transactional and based on what can be gained from them.",
+  "is <strong>argumentative</strong> and <strong>combatitive</strong> when challenged. They do not like their authority, knowledge, or ethics questioned.",
+  "is overly <strong>critical</strong> of others and their inability to meet the impossible high standards they have set for them.",
+  "has a <strong>problem with authority</strong> that has been granted for cultural or societal reasons. Their respect and deference must be earned."
 ];
-// ENFP (Extraverted, Intuitive, Feeling) - 8%
+// ENFP (Extraverted, Intuitive, Feeling, Prospecting) - 8%
 gen_data["ENFPPersonality"] = [
-  "is outgoing with a warm, friendly demeanor.",
-  "has an upbeat approach to life that often makes them stand out in any crowd.",
-  "is very sociable. They make friends easily and have no problem striking up a conversation with a perfect stranger.",
-  "has a natural enthusiasm and positivity that is infectious.",
-  "is very perceptive. They have a talent for picking out the subtlest shifts in someone's mood or expression.",
-  "loves a party and loves nothing more than having a good time with friends or even perfect strangers."
+  "is very <strong>perceptive</strong>. They have a keen eye for even the subtlest shifts in an individual's expression or demeanor.",
+  "approaches life with <strong>enthusiasm</strong> and <strong>positivity</strong>. They have a talent for finding the good in any situation or person.",
+  "is the <strong>life of the party</strong>. They love nothing more than having a good time with friends or complete strangers.",
+  "is <strong>sociable</strong> and <strong>charming</strong> They make friends easily and have no trouble striking up a conversation with a total stranger.",
+  "is <strong>cooperative</strong> and <strong>helpful</strong>. They will not hesitate to lend a stranger a hand and will do just about anything for a friend."
 ];
 gen_data["ENFPFlaw"] = [
-  "has a tendency to read too much into actions and behaviors and can overreact spectacularly.",
-  "is completely unreliable and cannot be counted on to do anything they are not enthusiastically behind.",
-  "is easily-bored by the mundane aspects of daily life and getting them to do anything they're not interested in is impossible.",
-  "is overly optimistic and can steadfastly refuse to accept an outcome where things did not go as planned."
+  "is <strong>sensitive</strong> and has a tendency to <strong>read too much</strong> into things and turn a minor misunderstanding into a major problem.",
+  "is <strong>unreliable</strong> and <strong>flighty</strong>. They cannot be counted on to do anything they are not enthusiastically behind.",
+  "is <strong>easily bored</strong> by the mundane aspects of daily life and are <strong>easily distracted</strong> from their responsibilities.",
+  "often <strong>over-estimates</strong> their abilities and refuses to plan accordingly. Their inevitable failure is always someone else's fault or bad luck.",
+  "is <strong>conflict-averse</strong> and will go to great lengths to avoid a difficult conversation or accept a harsh reality.",
 ];
-// ENTJ (Extraverted, Intuitive, Feeling, Prospecting) - 2%
+// ENTJ (Extraverted, Intuitive, Thinking, Prospecting) - 2%
 gen_data["ENTJPersonality"] = [
-  "is a natural leader. They are charismatic and exude confidence.",
-  "is driven and focused. They know what they want in life and are determined to make it happen.",
-  "loves a challenge and given enough time and reources, they can do just about anything they set their mind to.",
-  "is highly organized and efficient. They're always looking for ways to do something better.",
-  "comes across as cold and emotionless but simply tries to project an image that is strong and stoic.",
-  "has tremendous grace under pressure and a natural talent for calmly taking things in stride."
+  "is a born <strong>leader</strong>. They are <strong>confident</strong>, <strong>charismatic</strong>, and have a natural talent for getting people to follow them.",
+  "is <strong>driven</strong> and <strong>focused</strong>. They know that they want out of life and are determined to make it happen.",
+  "<strong>loves a challenge</strong> and given enought time and resources, they can do just about anything they set their mind to.",
+  "is highly <strong>organized</strong> and <strong>efficient</strong>. They approach even the simplest tasks with clockwork-like precision and focus.",
+  "is <strong>great under pressure</strong>. They have a natural talent for staying <strong>calm</strong> and <strong>collected</strong in difficult situations."
 ];
 gen_data["ENTJFlaw"] = [
-  "is stubborn and domineering. Once they've made up their mind on something, they will not budge.",
-  "is arrogant and dismissive of those they deem to be inferior in station, knowledge or skill.",
-  "has no room for emotion in their life. Every decision, relationship, and action is calculated and transactional.",
-  "is impatient and rude with anyone they feel is inferior",
-  "is extremely critical of others and their inability to meet their impossibly high standards.",
-  "is cold and ruthless. They will willingly sacrifice whatever it takes to get what they want.",
-  "is often insensitive and dismissive of the needs and feelings of others."
+  "is <strong>arrogant</strong> and <strong>dismissive</strong> of those they deem inferior in knowledge or skill.",
+  "is <strong>detached</strong> with no close, personal connections. Their relationships are transactional and based on what can be gained from them.",
+  "is overly <strong>critical</strong> of others and their inability to meet the impossible high standards they have set for them.",
+  "is <strong>impatient</strong> and <strong>dismissive</strong> of those with emotional arguments or instincts. Decisions are made with facts and logic.",
+  "is <strong>stubborn</strong> and <strong>domineering</strong>. Once they've made up their mind, they will not budge or allow anyone to get in their way."
 ];
 // ESFJ (Extraverted, Observant, Feeling, Judging) - 12%
 gen_data["ESFJPersonality"] = [
-  "is well-connected and social. They seem to know everybody and everything happening in town.",
-  "loves a party and loves nothing more than having a good time with friends ... or strangers.",
-  "has a deep connection to their community and holds local customs and traditions very near and dear to their heart.",
-  "is eager to help a friend. They love nothing more than to be valued and appreciated by others.",
-  "is likable and charming, but can be a little over the top at times.",
-  "dislikes conflict and regularly plays the role of peacemaker, but they are supportive when a friend has been deeply wronged.",
-  "is enthusiastic and organized. They're the first person everyone thinks of when it comes time to plan a function or party."
+  "is the <strong>life of the party</strong>. They love nothing more than having a good time with friends or complete strangers.",
+  "is a <strong>traditionalist</strong> and has a deep connection to their heritage, community and culture.",
+  "is <strong>cooperative</strong> and <strong>helpful</strong>. They will not hesitate to lend a stranger a hand and will do just about anything for a friend.",
+  "is <strong>sociable</strong> and <strong>charming</strong> They make friends easily and have no trouble striking up a conversation with a total stranger.",
+  "is <strong>organized</strong> and <strong>dependable</strong> They're the first person everyone thinks of when it comes time to plan a function or party."
 ];
 gen_data["ESFJFlaw"] = [
-  "is obsessed with status and can be uncharacteristically ruthless when presented with an opportunity to move up or their current status is threatened.",
-  "is rigid and intolerant of ideas or people that challenge the status quo and go against well-established social and cultural norms.",
-  "is a follower. They will not hesitate to carry out a superior's orders without question.",
-  "is needy and desperate for acceptance. There is little they will not do for recognition from those of higher station."
+  "is <strong>obsessed with status</strong> and can be <strong>ruthless</strong> when presented with an opportunity to move-up or their current status is threatened.",
+  "is <strong>inflexible</strong> and <strong>intolerant</strong> of ideas or people that challenge the status quo and go against social and cultural norms.",
+  "is a <strong>follower</strong>. They will not hesitate to do what is asked of them by someone higher up in the social or political order.",
+  "is <strong>close-minded</strong> and not open to new ideas or ways of doing things. They <strong>lack creativity</strong> and the ability to innovate.",
+  "is <strong>desperate</strong> for acceptance from those of a higher station. They will do almost anything to win their approval."
 ];
 // ENTP (Extraverted, Observant, Feeling, Judging) - 3%
 gen_data["ENTPPersonality"] = [
-  "loves to argue for the mere sport of it. They enjoy a good spirited debate, but bore quickly if their opponent is not up to the task.",
-  "is open-minded and able to examine an idea or position from multiple perspectives and is very good at playing the \"Devil's INFJ\".",
-  "has a sharp, delightfully sarcastic sense of humor with an irreverent wit.",
-  "questions everything. Nothing is taken as fact until they have had time to consider the matter.",
-  "is direct. They get right to the point and have little use for pleasantries and small talk.",
-  "is honest. They'll give you the truth, no matter how uncomfortable it may be."
+  "loves to <strong>argue</strong> for the mere sport of it. They enjoy a good debate, but bore easily if their opponent is not up to the task.",
+  "is <strong>open-minded</strong> and able to examine an idea or position from multuple perspectives and loves to play the \"Devil's Advocate\".",
+  "has a <strong>sharp</strong>, delightfully <strong>sarcastic</strong> sense of humor and an irreverent wit.",
+  "<strong>questions everything</strong>. They take nothing as fact until they have had time to consider the matter carefully.",
+  "is <strong>direct</strong> and <strong>forthcoming</strong>. They get to the point and waste no time on pleasantries and useless small-talk.",
 ];
 gen_data["ENTPFlaw"] = [
-  "is terribly indecisive. They can be so consumed with discussing every possible approach or outcome that they are unable to make a decision.",
-  "is brutally honest and insensitive. They have a talent for offending people and refusing to acknowledge the part they played in it.",
-  "is arrogant and dismissive of those they deem to be inferior in knowledge or skill.",
-  "has no room for emotion in their life. Every decision, relationship, and action is calculated and transactional.",
-  "has a problem with authority. They do not tolerate being told that they can't do something well."
+  "is <strong>indecisive</strong> and is easily consumed by trying to analyze every possible approach or outcome.",
+  "is <strong>impatient</strong> and <strong>dismissive</strong> of those with emotional arguments or instincts. Decisions are made with facts and logic.",
+  "is <strong>arrogant</strong> and <strong>dismissive</strong> of those they deem inferior in knowledge or skill.",
+  "has a <strong>problem with authority</strong> that has been granted for cultural or societal reasons. Their respect and deference must be earned.",
+  "is <strong>detached</strong> with no close, personal connections. Their relationships are transactional and based on what can be gained from them.",
 ];
 // ISFJ (Introverted, Observant, Feeling, Judging) - 14%
 gen_data["ISFJPersonality"] = [
-  "is loyal and supportive. They're always there for the people and institutions that matter to them.",
-  "is humble and regulrly downplays their accomplishments. They especially dislike being acknowledge for doing what they feel is normally their responsibility.",
-  "is dependable and responsible. They can be counted on to do what they say they will do and to do it to the best of their ability.",
-  "is patient and calm. They have a rare talent for dealing with difficult problems or people with uncanny grace.",
-  "doesn't like to cause trouble, but when they find a cause worth fighting for, they quickly become its most vocal and ardent supporter.",
-  "is hard-working and takes a great deal of satisfaction in a job well done."
+  "is <strong>loyal</strong> and <strong>supportive</strong>. They're always there for the people and institutions that matter to them.",
+  "is <strong>humble</strong> and <strong>hard-working</strong>. They like feeling appreciated, but don't like any special attention or recognition.",
+  "is <strong>dependable</strong> and <strong>responsible</strong>. They can be counted on to do what they say they will and to the best of their ability.",
+  "is <strong>great under pressure</strong>. They have a natural talent for staying <strong>calm</strong> and <strong>collected</strong in difficult situations.",
+  "doesn't like to cause trouble, but they find a cause worth fighting for, the can become its most <strong>passionate</strong> and <strong>driven</strong> supporter."
 ];
 gen_data["ISFJFlaw"] = [
-  "lets people walk all over them. They rarely stand up for themselves and even less so for others.",
-  "internalizes everything. They just keep bottling everything up inside, until they explode, over something trivial and insignificant.",
-  "is a follower. They will not hesitate to carry out a superior's orders without question.",
-  "hates conflict and any ethical and moral concerns are easily dismissed if it means avoiding an uncomfortable situation or antagonizing someone",
-  "is at their breaking point. They are completely overwhelmed by life and are ready to snap or break depending on the circumstance."
+  "<strong>internalizes</strong> everything. They bottle everything up inside until they finally explode over something trivial and insignificant.",
+  "is a <strong>follower</strong>. They will not hesitate to do what is asked of them by someone higher up in the social or political order.",
+  "is <strong>conflict-averse</strong> and will go to great lengths to avoid a difficult conversation or accept a harsh reality.",
+  "is a <strong>doormat</strong>. They let people walk all over them and rarely stand up for themselves and even less so for others.",
+  "is <strong>overly sensitive</strong> to criticism. Even a well-intentioned comment can be taken personally and put them off.",
 ];
 // ESFP (Extraverted, Observant, Feeling, Prospecting) - 9%
 gen_data["ESFPPersonality"] = [
-  "is vibrant and exciting. They light up any room they enter and seemingly shine brighter the more attention they receive.",
-  "has a natural exuberance that is difficult to contain. While they don't necessarily go looking for attention, they don't exactly mind when it finds it's way to them.",
-  "has a unique sense of style that is bold, creative, and distinctly their own",
-  "is bold and unafraid to step out of their comfort zone, try new things or meet new people.",
-  "is very observant. While all eyes may be on them, theirs are taking everything in and missing little.",
-  "has outstanding people skills. They have a natural talent for connecting with people and making them feel special."
+  "has a <strong>unique sense of style</strong> that is bold, creative, and well outside the local cultural norms.",
+  "is very <strong>perceptive</strong>. They have a keen eye for even the subtlest shifts in an individual's expression or demeanor.",
+  "has an <strong>adventurous</strong> spirit that is always looking for ways to add a little fun to their daily life.",
+  "is <strong>easy-going</strong> and <strong>affable</strong>. They have a talent for making people feel welcome and comfortable.",
+  "is <strong>vibrant</strong> and <strong>energetic</strong>. They light up any room they enter and shine brighter the more attention they receive."
 ];
 gen_data["ESFPFlaw"] = [
-  "is very emotional and volatile. They take bad news and criticism very poorly.",
-  "will avoid conflict and will often choose to ignore an issue rather then deal with an uncomfortable truth or situation.",
-  "is incredibly self-absorbed. Their first instinct is to look out for themselves as is their second and third.",
-  "is dangerously unpredictable, often giving into their most base and dangerous impulses without concern for the consequences.",
-  "is completely unreliable and cannot be counted on to do anything they are not enthusiastically behind.",
-  "is easily-bored by the mundane aspects of daily life and getting them to do anything they're not interested in is nearly impossible."
+  "is <strong>emotional</strong> and highly <strong>volatile</strong>. They take bad news and criticism very poorly.",
+  "is <strong>conflict-averse</strong> and will go to great lengths to avoid a difficult conversation or accept a harsh reality.",
+  "is <strong>impulsive</strong> and <strong>reckless</strong>. They do whatever they want and with little concern for the consequences of their actions.",
+  "is <strong>self-absorbed</strong> and <strong>selfish</strong>. They make everything about them and put their own needs ahead of everyone else's",
+  "is <strong>unreliable</strong> and <strong>flighty</strong>. They cannot be counted on to do anything they are not enthusiastically behind."
 ];
 // ESTP (Extraverted, Observant, Thinking, Prospecting) - 4%
 gen_data["ESTPPersonality"] = [
-  "is decisive and bold. They prefer to take action and figure it out as they go.",
-  "is easily bored. They are always doing something and have no qualms about dropping everything to do something else.",
-  "is not afraid to take risks. They embrace failure as an opportunity to learn and simply dust themselves off and try again.",
-  "has a natural talent for processing information quickly and trust their instincts to see them through.",
-  "is very perceptive. They have a talent for picking out the subtlest shifts in someone's mood or expression.",
-  "is bold and unafraid to step out of their comfort zone and try new things.",
+  "is very <strong>perceptive</strong>. They have a keen eye for even the subtlest shifts in an individual's expression or demeanor.",
+  "is <strong>decisive</strong> and <strong>bold</strong>. They prefer to take actiona nd figure it out as they go.",
+  "has an <strong>adventurous</strong> spirit that is always looking for ways to add a little fun to their daily life.",
+  "is incredibly <strong>resilient</strong>. They embrace failure as an opportunity to learn and simply dust themselves off and try again.",
+  "is <strong>direct</strong> and <strong>forthcoming</strong>. They get to the point and waste no time on pleasantries and useless small-talk."
 ];
 gen_data["ESTPFlaw"] = [
-  "is often insensitive and dismissive of the needs and feelings of others.",
-  "is demanding and impatient. They're quick to cast off people who can't keep up or don't get it.",
-  "is dangerously unpredictable, often giving into their most base and dangerous impulses without concern for the consequences.",
-  "can hyperfocus on a problem and completely lose sight of the bigger picture.",
-  "does what they want, when they want. They don't care about rules, laws, or expectations."
+  "is <strong>impatient</strong> and <strong>dismissive</strong> of those with emotional arguments or instincts. Decisions are made with facts and logic.",
+  "is <strong>demanding</strong> and <strong>impatient</strong>. They're quick to cast-off people who can't keep up or don't get it.",
+  "is <strong>impulsive</strong> and <strong>reckless</strong>. They do whatever they want and with little concern for the consequences of their actions.",
+  "can <strong>hyperfocus</strong> on a problem and lose sight of the big picture and the even bigger problems beyond the current issue.",
+  "is <strong>self-absorbed</strong> and <strong>selfish</strong>. They make everything about them and put their own needs ahead of everyone else's"
 ];
 // ESTJ (Extraverted, Intuitive, Thinking, Prospecting) - 9%
 gen_data["ESTJPersonality"] = [
-  "is upfront and honest with people and will generally tell it like they see it.",
-  "is quick to volunteer with a difficult task or event. They're well-organized and good at directing others.",
-  "puts family before all else and will go to great lengths to see they are provided for and protected.",
-  "is a firm believer in the rule of law and that everyone has a responsibility to do their part to maintain a well ordered society.",
-  "leads by example. They believe hard work and dedication builds character and they do their best to exemplify that belief.",
-  "will happily lend a hand to those in need, but expects them to do their part. They do not tolerate louts or freeloaders.",
-  "believes a person's word is their bond. They have no respect for those that break their promises and will not tolerate liars."
+  "is a <strong>hard-worker</strong> who takes pride in their work and insists on giving every task the time and energy needed to do it right.",
+  "values <strong>integrity</strong> and <strong>honesty</strong>. They never break their word if they can help it and do not tolerate disloyalty.",
+  "is a <strong>traditionalist</strong> and has a deep connection to their heritage, community and culture.",
+  "is <strong>honest</strong> and <strong>forthcoming</strong>. They're not afraid to tell people the truth, no matter how uncomfortable it might be.'",
+  "is <strong>cooperative</strong> and <strong>helpful</strong>. They will not hesitate to lend a stranger a hand and will do just about anything for a friend."
 ];
 gen_data["ESTJFlaw"] = [
-  "can be inflexible and stubborn. They are so committed to what has been proven to work they will often dismiss new ideas out of hand.",
-  "is judgemental and self-righteous. Their rigid principles combined with their impossibly high standards lead them to judge people very harshly with little hope of redemption in their eyes.",
-  "is obsessed with status and can be uncharacteristically ruthless when presented with an opportunity to move up or their current status is threatened.",
-  "is rigid and intolerant of ideas or people that challenge the status quo and go against well-established social and cultural norms.",
-  "can never relax. They never allow themselves to let their guard down, cut loose or even allow themselves to be happy.",
-  "has difficulty expressing themselves and showing any kind of emotion. They remain cold, detatched, and cut-off from those closest to them."
+  "is <strong>stubborn</strong> and <strong>domineering</strong>. Once they've made up their mind, they will not budge or allow anyone to get in their way.",
+  "is <strong>obsessed with status</strong> and can be <strong>ruthless</strong> when presented with an opportunity to move-up or their current status is threatened.",
+  "is <strong>inflexible</strong> and <strong>intolerant</strong> of ideas or people that challenge the status quo and go against social and cultural norms.",
+  "is <strong>detached</strong> with no close, personal connections. Their relationships are transactional and based on what can be gained from them.",
+  "is <strong>judgemental</strong> and <strong>self-righteous</strong>. Their rigid principles combined with the high standards lead them to judge people harshly."
 ];
 // INTP (Introverted, Intuitive, Thinking, Prospecting) - 3%
 gen_data["INTPPersonality"] = [
-  "never stops thinking, their mind often working on many things at once. Sudden outburts about an unrelated topic are not uncommon.",
-  "has an insatiable curiousity. While not particularly social, they do enjoy conversing with people from which they feel they can learn something new.",
-  "likes to think out loud, asking themselves questions and answering excitedly, sometimes hours later, when they've had time to process it.",
-  "questions everything. Nothing is taken as fact until they have had time to consider the matter.",
-  "is honest. They'll give you the truth, no matter how uncomfortable it may be.",
-  "hates small-talk and mundane conversation, but engage them on a topic they care about and they will happily talk for hours.",
-  "has a highly analytical mind that has a natural talent for recognizing patterns and connections others cannot."
+  "is <strong>direct</strong> and <strong>forthcoming</strong>. They get to the point and waste no time on pleasantries and useless small-talk.",
+  "<strong>questions everything</strong>. They take nothing as fact until they have had time to consider the matter carefully.",
+  "has a strong <strong>analytical</strong> mind that is often working on many things at once.",
+  "is <strong>open-minded</strong> and able to examine an idea or position from multuple perspectives.",
+  "is <strong>inquisitive</strong> and <strong>well-read</strong>. They are always eager to learn new things, about far-away places, or how things work."
 ];
 gen_data["INTPFlaw"] = [
-  "has difficulty focusing on one thing for long. It is difficult to get them to focus on the task at hand, and nearly impossible if it is not important to them.",
-  "is often insensitive and dismissive of the needs and feelings of others.",
-  "is never satisfied. They obsess over every imperfection and are never happy with anything.",
-  "is impatient and rude with people who, \"don't get it\" or \"can't keep up\" with them intellectually.",
-  "is terribly indecisive. They can be so consumed with considering every possibility they are unable to make a decision."
+  "is <strong>impatient</strong> and <strong>dismissive</strong> of those with emotional arguments or instincts. Decisions are made with facts and logic.",
+  "is overly <strong>critical</strong> of others and their inability to meet the impossible high standards they have set for them.",
+  "is <strong>demanding</strong> and <strong>impatient</strong>. They're quick to cast-off people who can't keep up or don't get it.",
+  "is a <strong>perfectionist</strong> and they are never satisified. They obsess over every imperfection and struggle to accept anything as it is.",
+  "is <strong>indecisive</strong> and is easily consumed by trying to analyze every possible approach or outcome."
 ];
 // ISTJ (Introverted, Observant, Thinking, Judging) - 12%
 gen_data["ISTJPersonality"] = [
-  "is responsible and dependable. They're the type of person that can be counted on to get a job done quickly and efficiently.",
-  "is upfront and honest with people and will generally tell it like they see it.",
-  "takes their job and familial responsibilities seriously. They are committed and loyal to those that matter to them.",
-  "is a firm believer in the rule of law and that everyone has a responsibility to do their part to maintain a well ordered society.",
-  "approaches tasks with incredible focus and precision. Given enough time, there is nothing they seemingly cannot master."
+  "is <strong>dependable</strong> and <strong>responsible</strong>. They can be counted on to do what they say they will and to the best of their ability.",
+  "is <strong>honest</strong> and <strong>forthcoming</strong>. They're not afraid to tell people the truth, no matter how uncomfortable it might be.'",
+  "is a <strong>hard-worker</strong> who takes pride in their work and insists on giving every task the time and energy needed to do it right.",
+  "is a <strong>traditionalist</strong> and has a deep connection to their heritage, community and culture.",
+  "is highly <strong>organized</strong> and <strong>efficient</strong>. They approach even the simplest tasks with clockwork-like precision and focus."
 ];
 gen_data["ISTJFlaw"] = [
-  "can be inflexible and stubborn. They are so committed to what has been proven to work they will often dismiss new ideas out of hand.",
-  "is rigid and intolerant of ideas or people that challenge the status quo and go against well-established social and cultural norms.",
-  "is often insensitive and dismissive of the needs and feelings of others.",
-  "struggles when forced to improvise or think \"outside-the-box\". They are easily overwhelmed and left nearly paralyzed in chaotic situations.",
-  "internalizes failure and blames themselves when things go wrong. They always think they should have seen the unforseeable or planned for the unexpected."
+  "is <strong>stubborn</strong> and <strong>domineering</strong>. Once they've made up their mind, they will not budge or allow anyone to get in their way.",
+  "is <strong>inflexible</strong> and <strong>intolerant</strong> of ideas or people that challenge the status quo and go against social and cultural norms.",
+  "<strong>internalizes</strong> failure and blames themselves when things go wrong. They always think they should have forseen the unforseeable.",
+  "is <strong>close-minded</strong> and not open to new ideas or ways of doing things. They <strong>lack creativity</strong> and the ability to improvise.",
+  "is <strong>insensitive</strong> of people's feelings and hides their unnecessary cruelty behind their \"honesty\"."
 ];
+
+
 // INFP (Introverted, Observant, Thinking, Judging) - 4%
 gen_data["INFPPersonality"] = [
   "is normally quiet and reserved, but can become quite passionate when properly motivated.",
