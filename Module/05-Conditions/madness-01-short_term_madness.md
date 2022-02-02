@@ -6,9 +6,7 @@ parent: madness
 ### Short Term Madness
  [Home](dm-operations-center) > [Conditions](conditions-menu) > [Madness](madness)  > Short Term {.small-text}
 
-Duration = [1d10](/roll/1d10) minutes {.text-center}
-
-| [1d100](/roll/1d100) ||
+| [1d100](/roll/1d100) | Duration = [1d10](/roll/1d10) minutes|
 | :---: | :----------------------------------------------------------------------------------------------------------------------- |
 | 01-20 | Retreats into their mind and become [paralyzed](paralyzed). Ends if they take damage.                                    |
 | 21-30 | Becomes [incapacitated](incapacitated) and spends duration screaming, laughing, or weeping.                              |

@@ -11,7 +11,7 @@ parent: downtime
 - 100 gp in expenses (inc. Wealthy lifestyle)
 {.square}
 
-**Resolotion**<br/>
+**Resolution**<br/>
 Make a [Charisma](charisma) ([Persuasion](persuasion)) check.
 - +1 per workweek spent on search
 - +1 per 100gp spent in expenses

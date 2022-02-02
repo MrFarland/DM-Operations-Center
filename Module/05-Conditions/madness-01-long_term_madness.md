@@ -6,9 +6,7 @@ parent: madness
 ### Long Term Madness
  [Home](dm-operations-center) > [Conditions](conditions-menu) > [Madness](madness)  > Long Term {.small-text}
 
-Duration = [1d10](/roll/1d10) x 10 hours {.text-center}
-
-| [1d100](/roll/1d100) ||
+| [1d100](/roll/1d100) | Duration = [1d10](/roll/1d10) x 10 hours |
 | :---: | :------------------------------------------------------------------------------------------------------------------------|
 | 01-10 | **Compulsion**. Compelled to repeat a specific activity over and over.                                                   |
 | 11-20 | **Hallucinations**. [Disadvantage](advantage-and-disadvantage) on [ability checks](ability-checks).                      |

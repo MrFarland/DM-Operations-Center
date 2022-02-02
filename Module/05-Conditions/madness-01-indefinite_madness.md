@@ -6,9 +6,7 @@ parent: madness
 ### Indefinite Madness
  [Home](dm-operations-center) > [Conditions](conditions-menu) > [Madness](madness) > Indefinite {.small-text}
 
-Duration = Until Cured {.text-center}
-
-| [1d100](/roll/1d100) ||
+| [1d100](/roll/1d100) | Duration = Until Cured |
 | :---: | :-------------------------------------------------------------------------------------------------------------|
 | 01-15 | Being drunk keeps me sane.                                                                                    |
 | 16-25 | I keep whatever I find.                                                                                       |
