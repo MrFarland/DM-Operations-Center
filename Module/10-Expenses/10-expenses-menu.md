@@ -18,14 +18,3 @@ parent: dm-operations-center
     <a href="vehicles">Vehicles</a>
 </div>
 <hr/>
-
-<br/>
-<br/>
-
-**Coming Soon** {.text-center}
-
-<div class="menu-container">
-    <a href="store-generator">Store Generator</a>
-    <a href="inn-and-tavern-generator">Inn & Tavern Generator</a>
-</div>
-<hr/>
