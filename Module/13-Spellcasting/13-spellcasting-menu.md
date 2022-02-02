@@ -12,7 +12,7 @@ parent: dm-operations-center
     <a href="concentration">Concentration</a>
     <a href="counterspell">Counterspell</a>
     <a href="identify-spell">Identify<br/> Spell</a>
-    <a href="known-and-prepared-spells">Known &<br/> Prepared Spells</a>
+    <a href="known-and-prepared-spells">Known &<br/> Prep Spells</a>
     <a href="ritual-cast">Ritual<br/> Cast</a>
     <a href="schools-of-magic">Schools<br/> of Magic</a>
     <a href="copy-scroll">Scroll<br/> (Copy)</a>

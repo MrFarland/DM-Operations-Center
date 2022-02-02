@@ -5,7 +5,7 @@ parent: spellcasting
 ---
 ### Wild Magic Surge
 [Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Wild Magic Surge {.small-text}
-|||
+| [1d100](/roll/1d100) | |
 | :----: | :--------------------------------------------------------------------------------------------------------------------------------------- |
 | 01-02  | Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls.                     |
 | 03-04  | For the next minute, you can see any [invisible](invisible) creature if you have line of sight to it.                                    |

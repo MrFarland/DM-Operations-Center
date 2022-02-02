@@ -4,7 +4,7 @@ slug: heavy-precipitation
 parent: environment
 ---
 ### Heavy Precipitation
-[Home](dm-operations-center) > [Environment](environment-menu) > Heavy Precipitation {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Extreme Weather](extreme-weather) > Heavy Precipitation {.small-text}
 
 Areas of heavy rain or snow are [lightly obscured](lightly-obscured) and impose [disadvantage](advantage-and-disadvantage) on [Wisdom](wisdom) ([Perception](perception)) checks that rely on sight.
 
