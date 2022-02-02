@@ -37,12 +37,10 @@ Contacts share a bond with a character, either owing them a favor or bearing a g
 {.gray .small-text}
 
 #### Complications 
-
-<p align="center">
-  <a href="#Lower Class">Lower Class</a> •
-  <a href="#Middle Class">Middle Class</a> •
-  <a href="#Upper Class">Upper Class</a>
-</p>
+[Lower Class](#lower-class)  • 
+[Middle Class](#middle-class)  • 
+[Upper Class](#upper-class) 
+{.text-center}
 
 ##### Lower Class
 |[1d8](/roll/1d8)| |
