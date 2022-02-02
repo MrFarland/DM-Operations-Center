@@ -1,7 +1,9 @@
 # Specify filepatterns you want git to ignore.
+*.module
 *.zip
 **/.DS_Store
 bin/
 documentation/ModuleBuild/
 module/ModuleBuild/
 private/
+release/
