@@ -6,5 +6,7 @@ parent: dm-operations-center
 ## Campaign
 [Home](dm-operations-center) > Campaign {.small-text}
 
-Planned for this section are various templates and tools that can be copied to your EncounterPlus campaign. 
+<div class="menu-container">
+    <a href="world-shaking-events">World Shaking<br/>Events</a>
+</div>
 <hr/>

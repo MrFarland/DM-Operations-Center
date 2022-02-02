@@ -1,12 +1,12 @@
 ---
 name: World-Shaking Events
 slug: world-shaking-events
-parent: worldbuilding
+parent: campaign
 ---
 ### World-Shaking Events
-[Home](dm-operations-center) > [Worldbuilding](worldbuilding-menu) > World-Shaking Events {.small-text}
+[Home](dm-operations-center) > [Campaign](campaign-menu) > World-Shaking Events {.small-text}
 
-| d10 | Event                            |
+| [1d10](/roll/1d10) | Event                            |
 |:---:|:---------------------------------|
 |  1  | Rise of a leader of an era       |
 |  2  | Fall of a leader or an era       |
