@@ -6,21 +6,21 @@ parent: environment
 ## Weather
 [Home](dm-operations-center) > [Environment](environment-menu) > Weather {.small-text}
 
-| [1d20](/roll/1d20 | Temperature|
+| [1d20](/roll/1d20) | Temperature|
 | :---: | ---------------------------------------------- |
 | 1-14  | Normal for the region and season.              |
 | 15-17 | [1d4](/roll/1d4)x10 F° colder than usual.      |
 | 18-20 | [1d4](/roll/1d4)x10 F° hotter than usual.      |
 {.gray .small-text}
 
-| [1d20](/roll/1d20 | Wind|
+| [1d20](/roll/1d20) | Wind|
 | :---: | ---------------------------- |
 | 1-12  | None, or barely perceptible. |
 | 13-17 | Light Wind                   |
 | 18-20 | [Strong Wind](strong-wind)   |
 {.gray .small-text}
 
-| [1d20](/roll/1d20 | Precipitation|
+| [1d20](/roll/1d20) | Precipitation|
 | :---: | :----------------------------------------- |
 | 1-12  | None.                                      |
 | 13-17 | Light Rain or Snow                         |
