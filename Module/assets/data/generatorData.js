@@ -1068,7 +1068,7 @@ gen_data["ENFPPersonality"] = [
   "is <strong>cooperative</strong> and <strong>helpful</strong>. They will not hesitate to lend a stranger a hand and will do just about anything for a friend."
 ];
 gen_data["ENFPFlaw"] = [
-  "is <strong>overly sensitive</strong> and <strong>brash</strong>. They have a tendency to <strong>read too much</strong> into things and overreact." 
+  "is <strong>overly sensitive</strong> and <strong>brash</strong>. They have a tendency to <strong>read too much</strong> into things and overreact.",
   "is <strong>unreliable</strong> and <strong>flighty</strong>. They cannot be counted on to do anything they are not enthusiastically behind.",
   "is <strong>easily bored</strong> by the mundane aspects of daily life and are <strong>easily distracted</strong> from their responsibilities.",
   "often <strong>over-estimates</strong> their abilities and refuses to plan accordingly. Their inevitable failure is always someone else's fault or bad luck.",
@@ -1086,7 +1086,7 @@ gen_data["ENTJFlaw"] = [
   "is <strong>arrogant</strong> and <strong>dismissive</strong> of those they deem inferior in knowledge or skill.",
   "is <strong>detached</strong> with no close, personal connections. Their relationships are transactional and based on what can be gained from them.",
   "is overly <strong>critical</strong> of others and their inability to meet the impossible high standards they have set for them.",
-  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".,
+  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".",
   "is <strong>stubborn</strong> and <strong>domineering</strong>. Once they've made up their mind, they will not budge or allow anyone to get in their way."
 ];
 // ESFJ (Extraverted, Observant, Feeling, Judging) - 12%
@@ -1114,7 +1114,7 @@ gen_data["ENTPPersonality"] = [
 ];
 gen_data["ENTPFlaw"] = [
   "is <strong>indecisive</strong> and is easily consumed by trying to analyze every possible approach or outcome.",
-  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".,
+  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".",
   "is <strong>arrogant</strong> and <strong>dismissive</strong> of those they deem inferior in knowledge or skill.",
   "has a <strong>problem with authority</strong> that has been granted for cultural or societal reasons. Their respect and deference must be earned.",
   "is <strong>detached</strong> with no close, personal connections. Their relationships are transactional and based on what can be gained from them.",
@@ -1158,7 +1158,7 @@ gen_data["ESTPPersonality"] = [
   "is <strong>direct</strong> and <strong>forthcoming</strong>. They get to the point and waste no time on pleasantries and useless small-talk."
 ];
 gen_data["ESTPFlaw"] = [
-  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".,
+  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".",
   "is <strong>demanding</strong> and <strong>impatient</strong>. They're quick to cast-off people who can't keep up or don't get it.",
   "is <strong>impulsive</strong> and <strong>reckless</strong>. They do whatever they want and with little concern for the consequences of their actions.",
   "can <strong>hyperfocus</strong> on a problem and lose sight of the big picture and the even bigger problems beyond the current issue.",
@@ -1188,7 +1188,7 @@ gen_data["INTPPersonality"] = [
   "is <strong>inquisitive</strong> and <strong>well-read</strong>. They are always eager to learn new things, about far-away places, or how things work."
 ];
 gen_data["INTPFlaw"] = [
-  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".,
+  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".",
   "is overly <strong>critical</strong> of others and their inability to meet the impossible high standards they have set for them.",
   "is <strong>demanding</strong> and <strong>impatient</strong>. They're quick to cast-off people who can't keep up or don't get it.",
   "is a <strong>perfectionist</strong> and they are never satisified. They obsess over every imperfection and struggle to accept anything as it is.",
@@ -1207,7 +1207,7 @@ gen_data["ISTJFlaw"] = [
   "is <strong>inflexible</strong> and <strong>intolerant</strong> of ideas or people that challenge the status quo and go against social and cultural norms.",
   "<strong>internalizes</strong> failure and blames themselves when things go wrong. They always think they should have forseen the unforseeable.",
   "is <strong>close-minded</strong> and not open to new ideas or ways of doing things. They <strong>lack creativity</strong> and the ability to improvise.",
-  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".
+  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\"."
 ];
 // INFP (Introverted, Observant, Thinking, Judging) - 4%
 gen_data["INFPPersonality"] = [
@@ -1249,7 +1249,7 @@ gen_data["ISTPPersonality"] = [
 ];
 gen_data["ISTPFlaw"] = [
   "is <strong>easily bored</strong> by the mundane aspects of daily life and are <strong>easily distracted</strong> from their responsibilities.",
-  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".,
+  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".",
   "is <strong>impulsive</strong> and <strong>reckless</strong>. They do whatever they want and with little concern for the consequences of their actions.",
   "is <strong>overly competitive</strong> and turns everything into a competition. They're insufferable when they win and worse when they lose.",
   "is <strong>disorganized</strong> and a <strong>poor planner</strong>. They expect things to go according to plan, only they never make any real plans."
