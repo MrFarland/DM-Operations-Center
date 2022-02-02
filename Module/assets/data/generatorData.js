@@ -1042,7 +1042,7 @@ gen_data["INFJFlaw"] = [
   "is overly <strong>critical</strong> of others and their inability to meet the impossible high standards they have set for them.",
   "<strong>internalizes</strong> everything. They bottle everything up inside until they finally explode over something trivial and insignificant.",
   "is <strong>overly sensitive</strong> to criticism. Even a well-intentioned comment can be taken personally and put them off.",
-  "is <strong>burnt-out</strong>. A life of bad choices and bad luck have left them incredibly <strong>angry</strong> and <strong>bitter</strong>."
+  "is <strong>burnt-out</strong>. A life of bad choices and bad luck have left them <strong>angry</strong> and <strong>bitter</strong>."
 ];
 // INTJ (Introverted, Intuitive, Thinking, Judging) - 2%
 gen_data["INTJPersonality"] = [
@@ -1068,7 +1068,7 @@ gen_data["ENFPPersonality"] = [
   "is <strong>cooperative</strong> and <strong>helpful</strong>. They will not hesitate to lend a stranger a hand and will do just about anything for a friend."
 ];
 gen_data["ENFPFlaw"] = [
-  "is <strong>sensitive</strong> and has a tendency to <strong>read too much</strong> into things and turn a minor misunderstanding into a major problem.",
+  "is <strong>overly sensitive</strong> and <strong>brash</strong>. They have a tendency to <strong>read too much</strong> into things and overreact." 
   "is <strong>unreliable</strong> and <strong>flighty</strong>. They cannot be counted on to do anything they are not enthusiastically behind.",
   "is <strong>easily bored</strong> by the mundane aspects of daily life and are <strong>easily distracted</strong> from their responsibilities.",
   "often <strong>over-estimates</strong> their abilities and refuses to plan accordingly. Their inevitable failure is always someone else's fault or bad luck.",
@@ -1086,7 +1086,7 @@ gen_data["ENTJFlaw"] = [
   "is <strong>arrogant</strong> and <strong>dismissive</strong> of those they deem inferior in knowledge or skill.",
   "is <strong>detached</strong> with no close, personal connections. Their relationships are transactional and based on what can be gained from them.",
   "is overly <strong>critical</strong> of others and their inability to meet the impossible high standards they have set for them.",
-  "is <strong>impatient</strong> and <strong>dismissive</strong> of those with emotional arguments or instincts. Decisions are made with facts and logic.",
+  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".,
   "is <strong>stubborn</strong> and <strong>domineering</strong>. Once they've made up their mind, they will not budge or allow anyone to get in their way."
 ];
 // ESFJ (Extraverted, Observant, Feeling, Judging) - 12%
@@ -1114,7 +1114,7 @@ gen_data["ENTPPersonality"] = [
 ];
 gen_data["ENTPFlaw"] = [
   "is <strong>indecisive</strong> and is easily consumed by trying to analyze every possible approach or outcome.",
-  "is <strong>impatient</strong> and <strong>dismissive</strong> of those with emotional arguments or instincts. Decisions are made with facts and logic.",
+  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".,
   "is <strong>arrogant</strong> and <strong>dismissive</strong> of those they deem inferior in knowledge or skill.",
   "has a <strong>problem with authority</strong> that has been granted for cultural or societal reasons. Their respect and deference must be earned.",
   "is <strong>detached</strong> with no close, personal connections. Their relationships are transactional and based on what can be gained from them.",
@@ -1158,7 +1158,7 @@ gen_data["ESTPPersonality"] = [
   "is <strong>direct</strong> and <strong>forthcoming</strong>. They get to the point and waste no time on pleasantries and useless small-talk."
 ];
 gen_data["ESTPFlaw"] = [
-  "is <strong>impatient</strong> and <strong>dismissive</strong> of those with emotional arguments or instincts. Decisions are made with facts and logic.",
+  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".,
   "is <strong>demanding</strong> and <strong>impatient</strong>. They're quick to cast-off people who can't keep up or don't get it.",
   "is <strong>impulsive</strong> and <strong>reckless</strong>. They do whatever they want and with little concern for the consequences of their actions.",
   "can <strong>hyperfocus</strong> on a problem and lose sight of the big picture and the even bigger problems beyond the current issue.",
@@ -1188,7 +1188,7 @@ gen_data["INTPPersonality"] = [
   "is <strong>inquisitive</strong> and <strong>well-read</strong>. They are always eager to learn new things, about far-away places, or how things work."
 ];
 gen_data["INTPFlaw"] = [
-  "is <strong>impatient</strong> and <strong>dismissive</strong> of those with emotional arguments or instincts. Decisions are made with facts and logic.",
+  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".,
   "is overly <strong>critical</strong> of others and their inability to meet the impossible high standards they have set for them.",
   "is <strong>demanding</strong> and <strong>impatient</strong>. They're quick to cast-off people who can't keep up or don't get it.",
   "is a <strong>perfectionist</strong> and they are never satisified. They obsess over every imperfection and struggle to accept anything as it is.",
@@ -1207,54 +1207,52 @@ gen_data["ISTJFlaw"] = [
   "is <strong>inflexible</strong> and <strong>intolerant</strong> of ideas or people that challenge the status quo and go against social and cultural norms.",
   "<strong>internalizes</strong> failure and blames themselves when things go wrong. They always think they should have forseen the unforseeable.",
   "is <strong>close-minded</strong> and not open to new ideas or ways of doing things. They <strong>lack creativity</strong> and the ability to improvise.",
-  "is <strong>insensitive</strong> of people's feelings and hides their unnecessary cruelty behind their \"honesty\"."
+  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".
 ];
-
-
 // INFP (Introverted, Observant, Thinking, Judging) - 4%
 gen_data["INFPPersonality"] = [
-  "is normally quiet and reserved, but can become quite passionate when properly motivated.",
-  "is insightful with an uncanny ability to connect with people and understand their motives and feelings.",
-  "is a good listener with a natural talent for putting people at ease and getting them to talk about themselves.",
-  "is very giving and generous. They are quick to help a friend in need or share the spoils of a hard fought victory with an ally.",
-  "is open-minded and tolerant of others. They are genuinely curious about the beliefs and life experiences of those different from them.",
-  "is not one to judge. They have a natural talent for seeing things from another's perspective."
+  "is <strong>quiet</strong> and <strong>reserved</strong>, but can become <strong>talkative</strong> and <strong>passionate</strong> when necessary.",
+  "is very <strong>perceptive</strong>. They have a keen eye for even the subtlest shifts in an individual's expression or demeanor.",
+  "is a <strong>good listener</strong> and has a talent for putting people at ease and getting them to open up about themselves and their motivations.",
+  "is <strong>cooperative</strong> and <strong>helpful</strong>. They will not hesitate to lend a stranger a hand and will do just about anything for a friend.",
+  "is <strong>loyal</strong> and <strong>supportive</strong>. They're always there for the people and institutions that matter to them.",
 ];
 gen_data["INFPFlaw"] = [
-  "is an idealist and a bit naive. They often have unrealistic expectations for how things should be and are easily discouraged when they learn how things really are.",
-  "will avoid conflict and will often choose to ignore an issue rather then deal with an uncomfortable truth or situation.",
-  "lets people walk all over them. They rarely stand up for themselves and even less so for others.",
-  "has difficulty focusing on one thing at a time. They are easily pulled in different directions and distracted."
+  "is <strong>easily bored</strong> by the mundane aspects of daily life and are <strong>easily distracted</strong> from their responsibilities.",
+  "often <strong>over-estimates</strong> their abilities and refuses to plan accordingly. Their inevitable failure is always someone else's fault or bad luck.",
+  "is <strong>conflict-averse</strong> and will go to great lengths to avoid a difficult conversation or accept a harsh reality.",
+  "is an <strong>idealist</strong> and <strong>naive</strong>. They often have unrealistic expectations for how things should be and have difficulty accepting things as they are.",
+  "is a <strong>doormat</strong>. They let people walk all over them and rarely stand up for themselves and even less so for others."
 ];
 // ENFJ (Extraverted, Intuitive, Feeling, Judging) - 3%
 gen_data["ENFJPersonality"] = [
-  "is a natural leader. Their passion and charm are inspiring and they can be very persuasive when they need to be.",
-  "has no trouble speaking up for things they believe in. They're the first person to stand up for a friend or to a bully.",
-  "is insightful with an uncanny ability to connect with people and understand their motives and feelings.",
-  "is insightful with an uncanny ability to connect with people and understand their motives and feelings.",
-  "has strong opinions on most topics, but they are open-minded. They're always willing to listen to another point-of-view.",
-  "is dependable and responsible. They can be counted on to do what they say they will do and to do it to the best of their ability."
+  "is a born <strong>leader</strong>. They are <strong>confident</strong>, <strong>charismatic</strong>, and have a natural talent for getting people to follow them.",
+  "is very <strong>perceptive</strong>. They have a keen eye for even the subtlest shifts in an individual's expression or demeanor.",
+  "is <strong>dependable</strong> and <strong>responsible</strong>. They can be counted on to do what they say they will and to the best of their ability.",
+  "is <strong>opinionated</strong> with strong personal beliefs, but remains <strong>open-minded</strong>. They enjoy a good philosphical or political discussion with an intellectual equal.",
+  "values <strong>integrity</strong> and <strong>honesty</strong>. They never break their word if they can help it and do not tolerate disloyalty."
 ];
 gen_data["ENFJFlaw"] = [
-  "is an idealist and a bit naive. They often have unrealistic expectations for how things should be and are easily discouraged when they learn how things really are.",
-  "can come across as partonizing and condescending when explaining their particular point-of-view on a topic.",
-  "can be too intense. Often pushing people into decisions or situations they are not prepared for."
+  "is an <strong>idealist</strong> and <strong>naive</strong>. They often have unrealistic expectations for how things should be and have difficulty accepting things as they are.",
+  "their <strong>confidence</strong> and <strong>authoritative</strong> manner can come across as <strong>patronizing</strong> and <strong>condescending</strong>, even when it is not their intent.",
+  "is <strong>intense</strong> and <strong>serious</strong>. They have trouble relaxing and kicking back and can be exhausting to be around.",
+  "is <strong>stubborn</strong> and <strong>domineering</strong>. Once they've made up their mind, they will not budge or allow anyone to get in their way.",
+  "is <strong>overly sensitive</strong> and <strong>brash</strong>. They have a tendency to <strong>read too much</strong> into things and overreact."  
 ];
 // ISTP (Introverted, Observant, Thinking, Prospecting) - 5%
 gen_data["ISTPPersonality"] = [
-  "has an infectious optimism and energy that brightens any room or mood.",
-  "is imaginative and creative, often coming up with unique solutions to complex problems.",
-  "approaches every day with a practical spontaneity that brings a little fun to what may be an otherwise dull & boring life.",
-  "has tremendous grace under pressure and a natural talent for calmly taking things in stride."
+  "approaches life with <strong>enthusiasm</strong> and <strong>positivity</strong>. They have a talent for finding the good in any situation or person.",
+  "is <strong>imaginative</strong> and <strong>creative</strong>. They have a natural talent for coming up with unique and unusual solutions to complex problems.",
+  "has an <strong>adventurous</strong> spirit that is always looking for ways to add a little fun to their daily life.",
+  "is <strong>great under pressure</strong>. They have a natural talent for staying <strong>calm</strong> and <strong>collected</strong in difficult situations.",
+  "has a talent for <strong>theatrics</strong> and adds a little <strong>artistic</strong> flourish to everything they do."
 ];
 gen_data["ISTPFlaw"] = [
-  "can be inflexible and stubborn. They know what works for them and they will often dismiss new ideas out of hand.",
-  "is easily-bored by the mundane aspects of daily life and getting them to do anything they're not interested in is impossible.",
-  "is often insensitive and dismissive of the needs and feelings of others.",
-  "is dangerously unpredictable, often giving into their most base and dangerous impulses without concern for the consequences.",
-  "is easily stressed when things do not go as planned and they will often lash out without warning.",
-  "is overly competitive and turns everything into a competition. They are insufferable when they win and worse when they lose.",
-  "has a serious gambling problem. They'll wager on just about anything and have significant debts as a result."
+  "is <strong>easily bored</strong> by the mundane aspects of daily life and are <strong>easily distracted</strong> from their responsibilities.",
+  "is <strong>insensitive</strong> and <strong>dismissive</strong> of other people's feelings. They're \"too sensitive\", \"over-reacting\", or just \"too emotional\".,
+  "is <strong>impulsive</strong> and <strong>reckless</strong>. They do whatever they want and with little concern for the consequences of their actions.",
+  "is <strong>overly competitive</strong> and turns everything into a competition. They're insufferable when they win and worse when they lose.",
+  "is <strong>disorganized</strong> and a <strong>poor planner</strong>. They expect things to go according to plan, only they never make any real plans."
 ];
 
 // --------------------------------------------------------------------------------
