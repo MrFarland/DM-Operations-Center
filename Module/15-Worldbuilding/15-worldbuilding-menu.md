@@ -7,6 +7,6 @@ parent: dm-operations-center
 [Home](dm-operations-center) > Worldbuilding {.small-text}
 
 <div class="menu-container">
-    <a href=".">Coming Soon<br/> Events</a>
+    <a href=".">Coming Soon</a>
 </div>
 <hr/>
