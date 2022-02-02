@@ -628,7 +628,7 @@ gen_data["OccupationEmployerIndustrySize"] = ["Large","Small"];
 gen_data["OccupationEmployerIndustryType"] = ["Brewery","Distillery","Foundry","Ironworks","Lumber Mill","Mill","{MaterialMetal} Mine","{MaterialStone} Quarry","Shipyard","Siegeworks","Warehouse"];
 
 // Military
-gen_data["OccupationEmployerMilitaryAdjective"] = ["Elite","Inexperienced","Seasoned","Under-Personality","Veteran"];
+gen_data["OccupationEmployerMilitaryAdjective"] = ["Elite","Inexperienced","Seasoned","Understrength","Veteran"];
 gen_data["OccupationEmployerMilitaryLocation"] = ["Rural"];
 gen_data["OccupationEmployerMilitaryMissionAlly"] = [
   "assigned to the protective detail of a visiting noble",
@@ -1078,7 +1078,7 @@ gen_data["ENFPFlaw"] = [
 gen_data["ENTJPersonality"] = [
   "is a born <strong>leader</strong>. They are <strong>confident</strong>, <strong>charismatic</strong>, and have a natural talent for getting people to follow them.",
   "is <strong>driven</strong> and <strong>focused</strong>. They know that they want out of life and are determined to make it happen.",
-  "<strong>loves a challenge</strong> and given enought time and resources, they can do just about anything they set their mind to.",
+  "<strong>loves a challenge</strong> and given enough time and resources, they can do just about anything they set their mind to.",
   "is highly <strong>organized</strong> and <strong>efficient</strong>. They approach even the simplest tasks with clockwork-like precision and focus.",
   "is <strong>great under pressure</strong>. They have a natural talent for staying <strong>calm</strong> and <strong>collected</strong in difficult situations."
 ];
