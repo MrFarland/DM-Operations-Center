@@ -4,7 +4,7 @@ slug: extreme-heat
 parent: environment
 ---
 ### Extreme Heat
-[Home](dm-operations-center) > [Environment](environment-menu) > Extreme Heat {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Extreme Weather](extreme-weather) > Extreme Heat {.small-text}
 
 At or above 100°F, a creature without access to [water](food-and-water) must make a [DC](difficulty-class) 5 [Constitution](constitution) [saving throw](saving-throws) or gain 1 level of [exhaustion](exhaustion). The [DC](difficulty-class) increases by 1 for each additional hour.
 

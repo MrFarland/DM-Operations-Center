@@ -4,7 +4,7 @@ slug: strong-wind
 parent: environment
 ---
 ### Strong Wind
-[Home](dm-operations-center) > [Environment](environment-menu) > Strong Wind {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Extreme Weather](extreme-weather) > Strong Wind {.small-text}
 
 Strong winds impose [disadvantage](advantage-and-disadvantage) on [ranged weapon attacks](ranged-attack) and [Wisdom](wisdom) ([Perception](perception)) checks that rely on hearing.
 
