@@ -7,6 +7,6 @@ parent: dm-operations-center
 [Home](dm-operations-center) > Encounters {.small-text}
 
 <div class="menu-container">
-    <a href=".">Coming Soon</a>
+    <a href="trap-generator">Trap Generator</a>
 </div>
 <hr/>
