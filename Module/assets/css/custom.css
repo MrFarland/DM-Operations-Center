@@ -5,13 +5,21 @@
  custom styles & theme
  */
 
- /* Overrides of default Module Packer styles */
+ /* Overrides of Default Styles */
  a {
    color: #58180d;
    text-decoration: none;
    font-weight: bold;
  }
- 
+ a:hover {
+    color: #842414;
+ }
+ /* Controls */
+ .controls {
+   margin-bottom: 1.5rem;
+   text-align:center;
+ }
+
  table thead {
    font-size: 1.0rem;
  }
@@ -62,14 +70,9 @@
     color: #f2f2f2;
  }
 
- /* Controls */
- .controls {
-   margin-bottom: 1.5rem;
-   text-align:center;
- }
- .controls select,button {
-    font-size: 1.1rem;
- }
+
+
+ /* Results */
  .result {
    background: #f2f2f2; 
    border:0.1rem solid #919191; 
@@ -120,8 +123,4 @@
    line-height: 1.0rem;
 }
 
-/* General UI */
-.uiControls {
-   margin-bottom: 1.5rem;
-   text-align:center;
-}
+
