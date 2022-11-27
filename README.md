@@ -34,14 +34,6 @@ This product is not yet available. Check back soon.
 #### Fan Content Policy
 MrFarland's DM Operations Center for EncounterPlus is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC
 
-
-## Related
-The following are some other projects I am working on that you might be interested in:
-
-[Campaign Manager]() - A collection of tools and templates to help DM's manage their D&D campaigns in EncounterPlus.
-
-[Encyclopedia Exandria]() - A comprehensive reference module for the world of Exandria and the Crtiical Role universe.
-
 ## Support
 When I got back into D&D, I was amazed to find a thriving ecosystem. The D&D community helped me get back up to speed with ease and I am eternally grateful. It is for that reason, everything I create is completely free. 
 
